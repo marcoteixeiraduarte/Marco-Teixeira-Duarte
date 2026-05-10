@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Moderne Frontend-Website</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="navbar container">
+        <div class="logo">NovaSite</div>
+        <button id="theme-toggle" class="btn-outline" aria-label="Design wechseln">
+          🌙 Dark Mode
+        </button>
+      </nav>
+
+      <div class="hero-content container">
+        <p class="badge">Frontend • Responsive • Modern</p>
+        <h1>Eine moderne Website mit Frontend</h1>
+        <p class="subtitle">
+          Ein schlichtes Beispiel mit sauberem Layout, Feature-Karten und Kontaktformular.
+        </p>
+        <a href="#kontakt" class="btn-primary">Jetzt starten</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="features container" id="features">
+        <article class="card">
+          <h2>Schnell</h2>
+          <p>Performante Struktur mit leichtgewichtigem HTML, CSS und JavaScript.</p>
+        </article>
+        <article class="card">
+          <h2>Responsiv</h2>
+          <p>Optimiert für Smartphone, Tablet und Desktop ohne zusätzliche Bibliotheken.</p>
+        </article>
+        <article class="card">
+          <h2>Einfach erweiterbar</h2>
+          <p>Klar gegliederte Dateien, damit du deine Inhalte schnell anpassen kannst.</p>
+        </article>
+      </section>
+
+      <section class="contact container" id="kontakt">
+        <h2>Kontakt</h2>
+        <form class="contact-form">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" placeholder="Max Mustermann" required />
+
+          <label for="email">E-Mail</label>
+          <input type="email" id="email" name="email" placeholder="max@example.com" required />
+
+          <label for="message">Nachricht</label>
+          <textarea id="message" name="message" rows="5" placeholder="Wie kann ich helfen?" required></textarea>
+
+          <button type="submit" class="btn-primary">Absenden</button>
+        </form>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>© 2026 NovaSite. Alle Rechte vorbehalten.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
