@@ -140,6 +140,30 @@ Quelle:
   `PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`, Eintrag Nr. 10;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/a02cedcd409d49ea9d3cb7ffb596ea19)
 
+### Eltern des Ehemanns
+
+**Manoel Pedro dos Reis** und **Roza Maria** heirateten am
+**23. März 1851** in Torre de Vale de Todos.
+
+- Manoel stammte aus **Pragosa**; seine Eltern waren
+  **Manoel Pedro** und **Joaquina Maria**
+- Roza stammte aus **Vale Paio**, Pfarrei Alvorge; ihre Eltern waren
+  **Joaquim Duarte** und **Florencia Maria**
+- Zeugen: **José António Freire da Paz** und **José Louro**
+- der Pfarrer trug die Heirat verspätet ein und vermerkte, dass sie wegen
+  eines Versehens eigentlich auf Folio 70 hätte stehen müssen
+
+Der spätere Sterbeeintrag des Sohnes nennt Rozas Herkunft abweichend als
+Aljazede. Beide Orte liegen in der Pfarrei Alvorge; die Abweichung wird
+nicht stillschweigend harmonisiert. Der Heiratseintrag selbst nennt
+buchstabengetreu `Valle paio`.
+
+Quelle:
+
+- `PT/ADLRA/PRQ/PANS08/002/0003`,
+  `PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`, rechte Seite;
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9)
+
 ## Suche nach Narcizas Sterbeeintrag
 
 Alle erhaltenen jährlichen Sterbebände der Pfarrei wurden von **1878 bis
