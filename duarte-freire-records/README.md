@@ -26,13 +26,17 @@ Quelle:
 - geboren **7. Februar 1886**, 18 Uhr, in **Cabeça Redonda**
 - getauft **18. Februar 1886** in Cumeeira, Eintrag Nr. 9
 - Eltern: **António Freire Bicho**, aus Figueira Podra, und
-  **Maria Ignácia**, aus Cabeça Redonda; beide Tagelöhner und wohnhaft in
-  Cabeça Redonda
+  **Maria Ignácia**, aus Cabeça Redonda und dort wohnhaft
 - väterliche Großeltern: **António Freire Bicho** und **Maria de Christo**,
   aus Figueira Podra
 - mütterliche Großeltern: **Manuel Francisco Dias** und **Joaquina Maria**,
   aus Cabeça Redonda
-- Paten: die mütterlichen Großeltern
+- Paten: **Manuel Francisco Dias** und dessen Ehefrau **Joaquina Silvéria**;
+  der Eintrag bezeichnet sie als die genannten Großeltern
+
+Im Taufeintrag wird das Kind nur **Joaquina** genannt. Die Namensform
+**Joaquina Ignácia** erscheint im Heiratseintrag von 1907; der spätere
+Randvermerk verknüpft diese Heirat mit dem Taufeintrag.
 
 Quelle:
 
@@ -50,7 +54,9 @@ Quelle:
 - Eltern Joaquinas: **António Freire Bicho** und **Maria Ignácia**
 - Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras, Pfarrei
   Ansião, und **Manuel Freire Bicho**, ledig, aus Cabeça Redonda
-- die Ehe wurde durch Manuels Tod am **30. September 1964** aufgelöst
+- laut späterem Randvermerk wurde die Ehe durch Manuels Tod am
+  **30. September 1964** aufgelöst; der Sterbeakt selbst wurde hier nicht
+  geprüft
 
 Quelle:
 
@@ -61,12 +67,12 @@ Quelle:
 
 ## Margarida
 
-- geboren und getauft **27. Juni 1897** in Cumeeira, 11 Uhr morgens,
-  Eintrag Nr. 21
-- Eltern: **Joaquim Freire Bicho**, aus Figueira, und
+- geboren **27. Juni 1897**, 11 Uhr morgens, und am selben Tag in Cumeeira
+  getauft, Eintrag Nr. 21
+- Eltern: **Joaquim Freire Bicho**, aus Figueira Podra, und
   **Genoveva de Jesus**, aus Cabeça Redonda; wohnhaft in Cabeça Redonda
-- väterliche Großeltern: **Joaquim Freire Bicho** und wahrscheinlich
-  **Maria de Christo**; der Nachname der Großmutter ist blass
+- väterliche Großeltern: **António Freire Bicho** und wahrscheinlich
+  **Maria Christo**; die Lesung des Namens der Großmutter ist blass
 - mütterliche Großeltern: **Manoel Francisco Dias** und
   **Joaquina Ignácia**
 - Heirat laut Randvermerk: **28. Oktober 1922** mit
@@ -75,9 +81,10 @@ Quelle:
   Zivilstandsakt Nr. 108
 
 Das im Stammbaum verwendete Todesjahr **1972** ist nicht richtig. Der
-Tauf-Randvermerk nennt an zwei Stellen eindeutig **1979**. Ein weiterer
-Vermerk über den Tod des Ehemanns wurde im Dezember 1972 angebracht; daraus
-dürfte die Verwechslung entstanden sein.
+Tauf-Randvermerk nennt Margaridas Tod am **29. November 1979** und den
+Zivilstandsakt Nr. 108. Das Jahr 1972 gehört zu einem anderen Randvermerk über
+die Auflösung der Ehe durch den Tod ihres Ehemanns; dieser Vermerk wurde im
+Dezember 1972 angebracht. Daraus dürfte die Verwechslung entstanden sein.
 
 Quelle:
 
@@ -85,18 +92,37 @@ Quelle:
   `PT-AUC-PAR-PNL01-002-0042_m0019.jpg`, Eintrag Nr. 21;
   [AUC](https://pesquisa.auc.uc.pt/details?id=48517)
 
-## Noch nicht belegter José Freire Bicho
+Die hier als mütterliche Großmutter genannte **Joaquina Ignácia** ist nicht
+die 1886 geborene Joaquina. In deren Taufe erscheint an der Seite von Manuel
+Francisco Dias zunächst **Joaquina Maria** als Großmutter und anschließend
+**Joaquina Silvéria** als seine Ehefrau und Patin. Ob **Joaquina Maria**,
+**Joaquina Silvéria** und die 1897 genannte **Joaquina Ignácia** dieselbe
+ältere Frau unter verschiedenen Namensformen oder mehrere Personen bezeichnen,
+bleibt ungeklärt; sie werden nicht zu einer Person zusammengeführt.
 
-Die vollständigen Taufjahrgänge **1893, 1894 und 1895** von Cumeeira sowie
-der Jahrgang **1894** von São Domingos da Lagarteira wurden geprüft. In
-keinem erscheint José als Sohn von António Freire Bicho und Maria Ignácia.
+## José Freire Bicho – Ehe belegt, Geburt und Abstammung ungeklärt
 
-Der einzige 1894 in Lagarteira getaufte José ist kein brauchbarer
-Ersatztreffer: Er wurde am 28. Januar in Lagarteira de Baixo als
-unehelicher Sohn der Maria de Jesus geboren und starb laut Randvermerk
-bereits etwa 1957. Damit kann er nicht der 1972 verstorbene Ehemann
-Margaridas sein.
+Margaridas Tauf-Randvermerk belegt ihre Heirat am **28. Oktober 1922** mit
+einem **José Freire Bicho**, Zivilstandsakt Nr. 94 in Cumeeira. Er enthält
+weder Josés Geburtsdatum noch Angaben zu seinen Eltern.
 
-Das bisherige Geburtsjahr 1894 darf deshalb noch nicht als gesichert in den
-Stammbaum übernommen werden. Die Suche muss auf weitere Nachbarpfarreien
-oder den zivilen Heiratseintrag von 1922 ausgedehnt werden.
+Bei der bisherigen Durchsicht der Taufjahrgänge **1893, 1894 und 1895** von
+Cumeeira sowie des Jahrgangs **1894** von São Domingos da Lagarteira wurde
+kein José als Sohn von António Freire Bicho und Maria Ignácia gefunden. Da
+für diese Negativsuche noch keine Band-Signaturen, geprüften Bildbereiche,
+Angaben zu möglichen Bestandslücken oder Einzelnachweise im Repository
+dokumentiert sind, ist dies ein vorläufiger Forschungsbefund und kein
+Ausschlussbeweis.
+
+Den bisherigen, noch nicht mit einer Einzelquelle belegten Suchnotizen
+zufolge wurde 1894 in Lagarteira ein José gefunden, der am 28. Januar in
+Lagarteira de Baixo als unehelicher Sohn der Maria de Jesus geboren wurde;
+ein Randvermerk soll einen Tod um 1957 nennen. Bis Signatur und Scan ergänzt
+sind, bleibt dies ein unbestätigter Arbeitshinweis. Die abweichende Mutter und
+das mutmaßliche Todesjahr sprechen gegen diesen José als Margaridas Ehemann.
+
+Das bisherige Geburtsjahr **1894** und die vermuteten Eltern dürfen daher
+nicht als gesichert in den Stammbaum übernommen werden. Vorrangig zu prüfen
+ist der zivile Heiratseintrag Nr. 94 von 1922; danach kann die Suche auf
+weitere Nachbarpfarreien ausgedehnt werden. Für jede Negativsuche sollen Band,
+Bildbereich, mögliche Lücken, Prüfdatum und Ergebnis protokolliert werden.
