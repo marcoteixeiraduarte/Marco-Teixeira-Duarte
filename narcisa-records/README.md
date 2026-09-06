@@ -140,29 +140,51 @@ Quelle:
   `PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`, Eintrag Nr. 10;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/a02cedcd409d49ea9d3cb7ffb596ea19)
 
-### Eltern des Ehemanns
+### Wahrscheinliche Heirat der Eltern des Ehemanns
 
-**Manoel Pedro dos Reis** und **Roza Maria** heirateten am
-**23. März 1851** in Torre de Vale de Todos.
+Ein Heiratseintrag belegt, dass **Manoel Pedro dos Reis** und **Roza Maria**
+am **23. März 1851** in Torre de Vale de Todos heirateten.
 
-- Manoel stammte aus **Pragosa**; seine Eltern waren
-  **Manoel Pedro** und **Joaquina Maria**
-- Roza stammte aus **Vale Paio**, Pfarrei Alvorge; ihre Eltern waren
-  **Joaquim Duarte** und **Florencia Maria**
+- Manoels Eltern waren **Manoel Pedro** und **Joaquina Maria**; der Eintrag
+  verbindet dieses Elternpaar mit **Pragosa**
+- Rozas Eltern waren **Joaquim Duarte** und **Florencia Maria**; der Eintrag
+  verbindet dieses Elternpaar mit **Vale Paio**, Pfarrei Alvorge
 - Zeugen: **José António Freire da Paz** und **José Louro**
 - der Pfarrer trug die Heirat verspätet ein und vermerkte, dass sie wegen
   eines Versehens eigentlich auf Folio 70 hätte stehen müssen
 
-Der spätere Sterbeeintrag des Sohnes nennt Rozas Herkunft abweichend als
-Aljazede. Beide Orte liegen in der Pfarrei Alvorge; die Abweichung wird
-nicht stillschweigend harmonisiert. Der Heiratseintrag selbst nennt
-buchstabengetreu `Valle paio`.
+Die Zuordnung dieses Ehepaars zu den Eltern des **José Pedro dos Reis** ist
+wahrscheinlich, aber nicht sicher. José Pedros Heiratseintrag von 1878 nennt
+seinen Vater **Manuel Pedro Coelho**, der Sterbeeintrag von 1903 dagegen
+**Manuel Pedro dos Reis**. Beide nennen die Mutter **Rosa Maria** und verbinden
+den Vater mit Pragosa sowie die Mutter mit der Pfarrei Alvorge. Der Eintrag von
+1851 betrifft **Manoel Pedro dos Reis** und **Roza Maria**. Namen, Orte und
+Chronologie sprechen für eine Identität; die abweichenden väterlichen
+Familiennamen und der noch fehlende Taufeintrag José Pedros bleiben jedoch
+ausdrücklich ungeklärt.
+
+Der Eintrag von 1851 nennt buchstabengetreu `Valle paio`. Die Formulierung
+folgt dort jedoch Rozas Eltern und bezeichnet nicht eindeutig Rozas eigenen
+Geburtsort. José Pedros Heiratseintrag von 1878 nennt `Vallejazede`, sein
+Sterbeeintrag von 1903 `Aljazede`. Ob unterschiedliche Bezugsorte oder eine
+abweichende Ortsangabe vorliegen, bleibt offen; die Formen werden nicht
+harmonisiert.
 
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/002/0003`,
   `PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`, rechte Seite;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9)
+
+Für die Zuordnung zu José Pedros Eltern außerdem herangezogen:
+
+- Heirat José Pedro dos Reis × Narcisa da Conceição:
+  `PT/ADLRA/PRQ/PANS08/002/0022`,
+  `PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`, Eintrag Nr. 9;
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/a6495501cfae4d5eac99b0dd46abb2bf)
+- Tod José Pedro dos Reis: `PT/ADLRA/PRQ/PANS08/003/0047`,
+  `PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`, Eintrag Nr. 10;
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/a02cedcd409d49ea9d3cb7ffb596ea19)
 
 ## Suche nach Narcizas Sterbeeintrag
 
