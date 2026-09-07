@@ -50,7 +50,10 @@ Taufe:
 - Ort: Torre
 - Eltern: **Manoel Sol** und **Maria Joaquina**
 - väterliche Großeltern: **Alexandre Manoel** und
-  **Joaquina da Affonseca**, aus der Vila de Avelar
+  **Joaquina da Affonseca**, aus der Vila de Avelar.
+  Eine Heirat in Avelar mit passenden Vornamen ist unten gesondert
+  dokumentiert; die Identität der Eheleute mit diesem Großelternpaar
+  ist noch nicht gesichert
 - mütterliche Großeltern: **João Mendes Sol** und **Anna Maria**, aus Torre
 - Paten: **Manoel Dias Magro** und seine Frau **Caetana Maria**, aus
   Casal de João Bom
@@ -106,6 +109,97 @@ Quelle:
   `PT_ADLRA_PRQ_PANS08_003_0035_m0002.jpg` und
   `PT_ADLRA_PRQ_PANS08_003_0035_m0003.jpg`, Eintrag Nr. 2;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/b6f8033380e14999b163dbaa0bcc87fb)
+
+## Avelar: Heirat Alexandre × Joaquina Maria
+
+Originalscan aus der Pfarrei Avelar (Espírito Santo), Kreis Ansião,
+Distrikt Leiria. Heiratsbuch 1765–1799. Schreibweisen werden so
+wiedergegeben, wie sie auf der Seite stehen.
+
+Die rechte Seite von Bild `m0013` enthält **zwei** Heiratseinträge.
+Sie dürfen nicht vermischt werden.
+
+### Oberer Eintrag – Randvermerk gesichert
+
+Am linken Rand des oberen Eintrags steht untereinander:
+
+- `Castello`
+- `Alexandre`
+- `com`
+- `Joaquina M.a`
+
+`Castello` bezeichnet den Ort, nicht den Namen eines zweiten Paares.
+Die Eheleute dieses Eintrags sind damit diplomatisch **Alexandre** und
+**Joaquina Maria**. Familiennamen wie `Furtado` oder `Affonseca` stehen
+im Randvermerk nicht.
+
+### Unterer Eintrag – anderes Paar
+
+Darunter folgt ein zweiter Randvermerk derselben Seite:
+
+- `Castello`
+- `Antonio Simoẽs` / `Antonio Simões`
+- `com`
+- `M.a Joaquina` / `M.a Joaq.a`
+
+Das ist ein anderes Ehepaar aus demselben Ort. Eine frühere Lesung
+`Simão José` × `Antonia Simões` gehört zu diesem unteren Block bzw. zu
+überlagerten Zeilen, nicht zum Alexandre-Eintrag.
+
+### Datum des oberen Eintrags
+
+Die Eröffnungsformel des oberen Eintrags beginnt mit `Em os sete dias`.
+Der Tag ist damit der **7.**
+
+Für Monat und Jahr liegen zwei Lesungen vor:
+
+- die Eröffnungszeilen als **7. Februar 1774**
+  (`Fevereiro` / `mil e settecentos e setenta e quatro`)
+- daneben eine frühere, vom sichtbaren Wortlaut der ersten Zeilen
+  zurückgewiesene Lesung **7. September 1773**
+
+**1784** passt nicht zur Bandlage: das Buch deckt 1765–1799 in
+69 Bildern ab; `m0013` liegt früh im Band. Ein Nachbarbild (`m0011`)
+steht bereits in den 1770er Jahren.
+
+Status: Tag **7** gesichert; **7. Februar 1774** ist die bessere
+Datumslesung, aber noch nicht buchstabengetreu als einzige Möglichkeit
+festgeschrieben. `Setembro 1773` wird nicht weiter verwendet.
+
+### Zuordnung zu Caetanas Großeltern
+
+Caetanas Taufe nennt als väterliche Großeltern **Alexandre Manoel** und
+**Joaquina da Affonseca** aus der Vila de Avelar. Der Avelar-Eintrag
+nennt **Alexandre** und **Joaquina Maria** aus **Castello** in derselben
+Pfarrei, wahrscheinlich 1774. Vornamen, Pfarrei und Chronologie passen
+zu einem Sohn **Manoel (Joaquim) Sol**, der 1815 Vater der Caetana wird.
+
+Das reicht für eine **wahrscheinliche**, nicht für eine gesicherte
+Identität. In den Stammbaum als Tatsache dürfen deshalb nicht
+übernommen werden:
+
+- die Familiennamen `Furtado` und `Affonseca` aus diesem Heiratseintrag
+- die Eltern **Manoel Jorge** × **Benta Furtada** bzw.
+  **João Mendes** × **Maria da Fonseca**
+- Rapoula als Herkunft des Bräutigams
+
+Diese Eltern- und Ortsangaben stammen aus einer Lesung, in der die
+Namen bereits als Prüffrage vorgegeben waren. Sie wurden hier nicht
+erneut buchstabengetreu aus dem Fließtext bestätigt und bleiben
+**ungeklärt**.
+
+Nächster Schritt: Taufe des **Manoel Joaquim Sol** in Avelar als Kind
+genau dieses Paares suchen. Erst ein solcher Taufeintrag (oder eine
+neue diplomatische Lesung der Elternzeilen ohne Vorgabe) würde die
+Zuordnung sichern.
+
+Quelle:
+
+- `PT/ADLRA/PRQ/PANS03/002/0003`,
+  `PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg`, rechte Seite, oberer Eintrag;
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/0d2b8ecec0884bd88ed2070aa6b46241)
+- Bild: [fileViewer, Datei 45945249](https://digitarq.arquivos.pt/fileViewer/0d2b8ecec0884bd88ed2070aa6b46241?isRepresentation=false&selectedFile=45945249&fileType=IMAGE)
+- Pfarreiübersicht: [Avelar bei tombo.pt](https://tombo.pt/f/ans03)
 
 ## Spätere Lebensnachweise für Narciza
 
