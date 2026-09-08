@@ -37,10 +37,9 @@ Quellen:
 ### Mutter: Caetana Maria, später Catarina Maria
 
 Der Taufname der Mutter lautet **Caetana**. Auch bei ihrer eigenen Heirat,
-bei Narcizas Taufe und bei Narcisas Heirat steht eindeutig **Caetana Maria**,
-nicht Catharina. Erst ihr Sterbeeintrag von 1891 nennt sie **Catarina Maria**.
-Die beiden Formen gehören aufgrund der übereinstimmenden Ehe- und
-Elternangaben sicher zu derselben Person.
+bei Narcizas Taufe, bei Narcisas Heirat und im Sterbeeintrag von 1891
+steht **Caetana Maria**, nicht Catharina. Die später verwendete Form
+Catarina ist eine Lesart, kein eigener Belegname.
 
 Taufe:
 
@@ -49,9 +48,9 @@ Taufe:
   Eintrag nicht ausdrücklich als Kalenderdatum ausgeschrieben
 - Ort: Torre
 - Eltern: **Manoel Sol** und **Maria Joaquina**
-- väterliche Großeltern: **Alexandre Manoel** und
+- mütterliche Großeltern: **Alexandre Manoel** und
   **Joaquina da Affonseca**, aus der Vila de Avelar
-- mütterliche Großeltern: **João Mendes Sol** und **Anna Maria**, aus Torre
+- väterliche Großeltern: **João Mendes Sol** und **Anna Maria**, aus Torre
 - Paten: **Manoel Dias Magro** und seine Frau **Caetana Maria**, aus
   Casal de João Bom
 
@@ -90,7 +89,7 @@ Quelle:
 Tod:
 
 - **14. Februar 1891**, 3 Uhr morgens, in ihrem Haus in Torre
-- eingetragen als **Catarina Maria**, 73 Jahre alt
+- eingetragen als **Caetana Maria**, 73 Jahre alt
 - Witwe des **João Rodrigues Gatto**
 - Eltern: **Manoel Joaquim [Sol?]** und **Maria Joaquina**, Arbeiter aus Torre
 - hinterließ Kinder, kein Testament
