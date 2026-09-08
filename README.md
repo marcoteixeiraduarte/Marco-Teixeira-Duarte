@@ -45,3 +45,8 @@ Die Taufe von 1880 schreibt `concelho d'Anciao`. Die heutige Form
 - [Narciza / Caetana](narcisa-records/README.md)
 - [Duarte / Freire Bicho](duarte-freire-records/README.md)
 - [Joze Maria da Ascenção](jose-maria-records/README.md)
+
+## Stammbaumblatt
+
+Gegenlese des aktuellen Blatts gegen diese Akten:
+[stammbaum/README.md](stammbaum/README.md).
