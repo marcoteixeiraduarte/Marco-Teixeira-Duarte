@@ -1,44 +1,54 @@
 # Blattprüfung – TEIXEIRA DUARTE
 
 Gegenlese des Stammbaumblatts (Zürich, 08.09.2026, Marco Teixeira
-Duarte) gegen die geprüften Kirchenbucheinträge. Jede Karte steht
-unten. Historische Schreibweisen werden nicht modernisiert.
+Duarte) gegen die geprüften Kirchenbucheinträge. Historische
+Schreibweisen werden nicht modernisiert.
+
+**Arbeitsumfang:** Lebende und die Großeltern (avós) sind vom
+Auftraggeber selbst belegt und gehören nicht in diese Prüfung. Hier
+werden nur **bisavós und ältere** Karten gehalten.
 
 Status:
 
 - **Quelle** – Primärakt gelesen; Blattform daneben
 - **passt** – Blatt und Quelle stimmen in dem genannten Punkt
-- **Zivilstand / lebend** – kein Kirchenbuch dieser Prüfung
+- **Zivilstand nach 1911** – Conservatória, kein Kirchenbuch
 - **offen** – noch keine eigene Akte
-
-## Zentrum
-
-| Blatt | Quelle / Status |
-| --- | --- |
-| Manuel e Célia · ∞ 28.07.1979 · Igreja N.ª S.ª da Graça | Zivilstand / lebend |
-| Christian Marcel Teixeira Duarte · * 12.07.1995 · Lübeck | Zivilstand / lebend |
-| Marco Sérgio Teixeira Duarte · * 15.10.1980 · Lübeck | Zivilstand / lebend |
 
 ## Ramo materno
 
-### pais / avós / bisavós
+### bisavós (Geburten 1912–1915)
 
-| Blatt | Quelle / Status |
+Ab April 1911 gilt der zivile Registerzwang. Diese vier Karten liegen
+nach dem Schluss der Pfarreibücher von Torre und sind in der
+Conservatória do Registo Civil de Ansião (bzw. am Sterbeort) zu
+suchen, nicht im Kirchenbuch:
+
+| Blatt | Status |
 | --- | --- |
-| Maria Célia Reis Teixeira · * 29.09.1959 · Pragosa | Zivilstand. Heutige Form `Pragosa` möglich; nicht rückwärts auf 1878/1896/1903 legen |
-| Fernando Teixeira · * 09.09.1937 · Vale de Todos · † 29.04.2021 · Lübeck | Zivilstand / lebend; Ort in heutiger Form |
-| Isilda Reis da Ascensão · * 15.06.1936 · Vale de Todos | Zivilstand / lebend |
-| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | offen |
-| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | offen |
-| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | offen; Ortsform erst nach der Taufe |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | offen; Ortsform erst nach der Taufe |
+| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911 |
+| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911 |
+| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt |
 
 ### 3.º avós
 
-#### João Teixeira · * 13.10.1879 · Cumeeira
+#### João Teixeira
 
-Offen. Nächster Schritt: Taufband Cumeeira 1879. Eltern auf dem Blatt
-**Custódio Teixeira** × **Joana de Jesus** ebenfalls offen.
+Blatt: `João Teixeira · * 13.10.1879 · Cumeeira`.
+
+Quelle, Taufe Nr. 42, 22.10.1879:
+
+```
+João
+* 13.10.1879 · Cabeça Redonda
+```
+
+Eltern **Custodio Teixeira** × **Joana de Jesus** – **passen** zum
+Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
+**Cabeça Redonda**. Vater natürlich aus `Figueira Podra`. Großeltern
+dort: **Jozé Simão Teixeira** × **Maria Forte**; **Joaquim de
+Carvalho** × **Maria de Jesus**.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
@@ -98,7 +108,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 
 | Blatt | Quelle / Status |
 | --- | --- |
-| Custódio Teixeira × Joana de Jesus | offen |
+| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | offen |
 | Luiz Dias Guiomar × Delfina Maria | offen |
 | Joaquim Rodrigues Feio × Maria Helena Contente | offen |
@@ -116,13 +126,8 @@ nebeneinander (siehe Narciza-Akten).
 
 ## Ramo paterno
 
-### pais / avós
-
-| Blatt | Quelle / Status |
-| --- | --- |
-| Manuel de Jesus Duarte Teixeira · * 21.10.1956 · Cabeça Redonda | Zivilstand / lebend |
-| José Duarte · ~21.12.1926 · Ansião · † 16.04.2005 · Cumeeira | Zivilstand. Pfarreiname der Quelle ist `Cumeeira`, nicht `Cumeira` |
-| Maria Freire de Jesus · * 24.04.1923 · Cabeça Redonda · † 29.01.2002 · Penela | Zivilstand |
+Die avós José Duarte und Maria Freire de Jesus liegen beim
+Auftraggeber. Hier nur bisavós und älter.
 
 ### bisavós
 
@@ -208,7 +213,7 @@ Identität.
 | `Pragosa` bei Maria Célia 1959 | Zivilstand | heutige Form möglich |
 | `Pragosa` als Weiler der Reis-Linie 1896/1903 | Sterbeakten: `Pragoza` | Quellenform `Pragoza` |
 | `Figueiras Podres` | Taufen: `Figueira Podra` | Quellenform belassen |
-| `Cumeira` bei José Duarte † 2005 | Pfarrei: `Cumeeira` | erst Zivilakt |
+| `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
 | `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
@@ -228,3 +233,4 @@ Identität.
    der Cumeeira-Taufen ersetzen (Tabelle oben).
 9. `Pais de José Maria por confirmar` durch **Joze Mendes Ferreira**
    ersetzen.
+10. João Teixeira: Ort **Cabeça Redonda**; Elternform `Custodio`.

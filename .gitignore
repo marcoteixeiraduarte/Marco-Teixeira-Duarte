@@ -47,6 +47,13 @@ jose-maria-records/*
 jose-maria-records/baptismos-1880/*
 !jose-maria-records/baptismos-1880/PT-ADLRA-PRQ-PANS08-001-0025_m0004.jpg
 
+teixeira-records/*
+!teixeira-records/README.md
+!teixeira-records/baptismos-1879/
+teixeira-records/baptismos-1879/*
+!teixeira-records/baptismos-1879/PNL01-002-0024_m0015.jpg
+!teixeira-records/baptismos-1879/PNL01-002-0024_m0016.jpg
+
 duarte-freire-records/*
 !duarte-freire-records/README.md
 !duarte-freire-records/cumeeira/
