@@ -110,6 +110,43 @@ Quelle:
   `PT_ADLRA_PRQ_PANS08_003_0035_m0003.jpg`, Eintrag Nr. 2;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/b6f8033380e14999b163dbaa0bcc87fb)
 
+## Tochter: Maria da Piedade
+
+- getauft **9. Oktober 1878**, Eintrag Nr. 6
+- Taufname: **Maria da Piedade** (ohne `dos Reis` im Eigennamen)
+- geboren **15. September 1878**, 12 Uhr mittags
+- Geburtsort im Rand und Fließtext: `lugar da Pragoza`
+- Vater: **Joze Pedro dos Reis**, Kaufmann, natürlich aus demselben Weiler
+- Mutter: **Narciza da Conceição**, häusliche Tätigkeit, natürlich aus
+  Torre de Valle de Todos
+- wohnhaft: `lugar da Pragoza`
+- väterliche Großeltern: **Manoel dos Reis** und **Rosa Maria**
+- mütterliche Großeltern: **João Gato** und **Caetana Maria**
+
+Die Heirat der Eltern am **8. Mai 1878** und diese Geburt liegen vier
+Monate auseinander; die Taufe nennt das Kind ausdrücklich als eheliche
+Tochter.
+
+Ein späterer Randvermerk an diesem Eintrag nennt den Tod des Ehemanns
+**Joze Maria da Ascenção** in der Pfarrei **Alvorge** im **Mai 1948**,
+Zivilregister Nr. 72. Das genaue Tagesdatum in diesem Vermerk ist in
+dieser Hand mehrdeutig (Lesungen 3., 13. oder 30. Mai). Das Blatt-
+Tagesdatum **30.07.1948** widerspricht jedenfalls dem Monat Mai. Der
+Zivilakt selbst ist hier nicht geprüft.
+
+Das Blatt-Todesdatum der Maria da Piedade **16.01.1952** ist an diesem
+Eintrag nicht als einzige gesicherte Form festgehalten. Auf derselben
+Doppelseite steht ein Sterbevermerk vom **17. November 1952** über
+einen Tod am 16. des laufenden Monats (Zivilregister Nr. 7, Anciao);
+ob er zu Eintrag Nr. 6 oder zum folgenden Eintrag Nr. 7 gehört, bleibt
+am Scan ungeklärt. Der Zivilakt ist nicht geprüft.
+
+Quelle:
+
+- `PT/ADLRA/PRQ/PANS08/001/0023`,
+  `PT-ADLRA-PRQ-PANS08-001-0023_m0004.jpg`, Eintrag Nr. 6;
+  Inventar ADLRA: Taufband Torre de Vale de Todos, 1878
+
 ## Spätere Lebensnachweise für Narciza
 
 ### Tod des Sohnes José
@@ -163,9 +200,11 @@ wahrscheinlich, aber nicht sicher. José Pedros Heiratseintrag von 1878 nennt
 seinen Vater **Manuel Pedro Coelho**, der Sterbeeintrag von 1903 dagegen
 **Manuel Pedro dos Reis**. Beide nennen die Mutter **Rosa Maria** und verbinden
 den Vater mit diesem Weiler sowie die Mutter mit der Pfarrei Alvorge. Der Eintrag von
-1851 betrifft **Manoel Pedro dos Reis** und **Roza Maria**. Namen, Orte und
-Chronologie sprechen für eine Identität; die abweichenden väterlichen
-Familiennamen und der noch fehlende Taufeintrag José Pedros bleiben jedoch
+1851 betrifft **Manoel Pedro dos Reis** und **Roza Maria**. Die Taufe der
+Tochter Maria da Piedade 1878 nennt die väterlichen Großeltern
+**Manoel dos Reis** und **Rosa Maria**. Namen, Orte und Chronologie
+sprechen für eine Identität; die abweichenden väterlichen Familiennamen
+und der noch fehlende Taufeintrag José Pedros bleiben jedoch
 ausdrücklich ungeklärt.
 
 Der Eintrag von 1851 nennt buchstabengetreu `Valle paio`. Die Formulierung

@@ -80,11 +80,33 @@ Quelle:
 - Tod laut Randvermerk: **29. November 1979** in Cumeeira,
   Zivilstandsakt Nr. 108
 
-Das im Stammbaum verwendete Todesjahr **1972** ist nicht richtig. Der
-Tauf-Randvermerk nennt Margaridas Tod am **29. November 1979** und den
-Zivilstandsakt Nr. 108. Das Jahr 1972 gehört zu einem anderen Randvermerk über
-die Auflösung der Ehe durch den Tod ihres Ehemanns; dieser Vermerk wurde im
-Dezember 1972 angebracht. Daraus dürfte die Verwechslung entstanden sein.
+Das frühere Stammbaum-Todesjahr **1972** war falsch. Das aktuelle Blatt
+schreibt `† ~1979`; der Tauf-Randvermerk nennt den **29. November 1979**
+und den Zivilstandsakt Nr. 108. Das Jahr 1972 gehört zu einem anderen
+Randvermerk über die Auflösung der Ehe durch den Tod des Ehemanns;
+dieser Vermerk wurde im Dezember 1972 angebracht. Daraus dürfte die
+ältere Verwechslung entstanden sein.
+
+## 4.º avós, die in diesen Taufen schon stehen
+
+Das Blatt lässt die Eltern der 3.º avós dieser Linie als `por
+confirmar` offen. Die drei Cumeeira-Taufen nennen sie bereits:
+
+| Kind (3.º avós auf dem Blatt) | Eltern in der Taufe |
+| --- | --- |
+| António Duarte (Vater Manuels) | **Manoel Duarte** × **Joaquina de Jesus** |
+| Thereza Freire (Mutter Manuels) | **Manoel Silva** × **Maria Freire** |
+| António Freire Bicho (Vater Joaquinas) | **António Freire Bicho** × **Maria de Christo**, Figueira Podra |
+| Maria Ignácia (Mutter Joaquinas) | **Manuel Francisco Dias** × **Joaquina Maria**, Cabeça Redonda |
+| Joaquim Freire Bicho (Vater Margaridas) | **António Freire Bicho** × **Maria Christo** |
+| Genoveva de Jesus (Mutter Margaridas) | **Manoel Francisco Dias** × **Joaquina Ignácia** |
+
+Ob Joaquim und der jüngere António Freire Bicho Brüder sind und ob
+Maria Ignácia und Genoveva Schwestern sind, folgt aus denselben
+Großelternpaaren als Möglichkeit, nicht als gesicherte Identität.
+Die Namensformen `Maria de Christo` / `Maria Christo` und
+`Joaquina Maria` / `Joaquina Ignácia` / `Joaquina Silvéria` werden
+nicht zusammengeführt.
 
 Quelle:
 

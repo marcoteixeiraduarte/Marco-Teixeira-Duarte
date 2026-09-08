@@ -32,14 +32,30 @@ nicht `José Maria d’Ascensão · Pragoza`.
 
 ### Randvermerk zum Tod
 
-Ein späterer Averbamento nennt den Tod **1948** und verweist auf einen
-zivilen Sterbeakt. Die Blattangabe **30.07.1948** ist eine Lesung
-dieses Vermerks; eine abweichende Lesung (Mai) bleibt möglich. Der
-Sterbeakt selbst ist hier nicht geprüft. Bis dahin gilt nur: Tod 1948,
-genaues Tagesdatum nicht als einzige gesicherte Form.
+Ein späterer Averbamento an dieser Taufe nennt den Tod **1948** und
+verweist auf einen zivilen Sterbeakt.
+
+An der Taufe der Ehefrau **Maria da Piedade** (9.10.1878, Nr. 6)
+steht ein weiterer Vermerk: der Ehegatte **Joze Maria da Ascenção**
+starb in der Pfarrei **Alvorge** im **Mai 1948**, Zivilregister
+Nr. 72. Das Tagesdatum in dieser Hand ist mehrdeutig (Lesungen 3.,
+13. oder 30. Mai). Das Blatt-Datum **30.07.1948** widerspricht dem
+Monat Mai. Der Sterbeakt selbst ist hier nicht geprüft. Bis dahin
+gilt: Tod 1948 in Alvorge; genaues Tagesdatum nicht als einzige
+gesicherte Form.
+
+### Großeltern in derselben Taufe
+
+Das Blatt lässt die Eltern Joze Marias als `Pais de José Maria por
+confirmar` offen. Derselbe Eintrag Nr. 5 nennt sie bereits:
+
+- väterlich: **João Mendes Ferreira** und **Maria Ramos**
+- mütterlich: **Manoel Dias Barbeiro** und **Joaquina Maria Neta**
 
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0025`,
   `PT-ADLRA-PRQ-PANS08-001-0025_m0004.jpg`, Eintrag Nr. 5;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/a2212ccc406846d7b57855b9a0236c7c)
+
+Die Taufe der Ehefrau: [Narciza-Akten, Maria da Piedade](../narcisa-records/README.md#tochter-maria-da-piedade).

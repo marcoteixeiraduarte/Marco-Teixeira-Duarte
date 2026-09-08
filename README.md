@@ -8,7 +8,7 @@ Abweichende Formen derselben identifizierten Person oder Örtlichkeit
 bleiben nebeneinander stehen. Ein späteres Register kann sie
 zusammenführen, ohne die Quellenform zu zerstören.
 
-## Ortsregister (begonnen)
+## Ortsregister
 
 ### PRAGOZA / PRAGOSA
 
@@ -17,6 +17,7 @@ Torre de Valle de Todos (heute Torre de Vale de Todos), Kreis Ansião.
 
 | Quellenform | Maßgebliche Quelle | Verwendung auf dem Stammbaum |
 | --- | --- | --- |
+| `Pragoza` | Taufe Maria da Piedade, 9.10.1878, Rand und Fließtext | ja, für dieses Ereignis |
 | `Pragoza` | Sterbeeintrag José, 5.11.1896, Rand und Fließtext | ja, für dieses Ereignis |
 | `Pragoza` | Sterbeeintrag José Pedro dos Reis, 2.10.1903 | ja, für dieses Ereignis |
 | `Pragoza` | Taufband 1880, andere Einträge derselben Pfarrei (nicht der Taufe Joze Maria) | ja, nur für jene Einträge |
@@ -32,21 +33,53 @@ Torre de Vale de Todos.
 
 | Quellenform | Maßgebliche Quelle |
 | --- | --- |
-| `Valle de Todos` / `Torre de Valle de Todos` | Taufe Joze Maria da Ascenção, 6.5.1880 |
+| `Valle de Todos` / `Torre de Valle de Todos` | Taufe Joze Maria da Ascenção, 6.5.1880; Taufe Maria da Piedade, 9.10.1878 |
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
 
 ### ANCIAO / Ansião
 
-Die Taufe von 1880 schreibt `concelho d'Anciao`. Die heutige Form
-`Ansião` gehört ins Ortsregister, nicht auf die Karte dieses Eintrags.
+Die Taufen von 1878 und 1880 schreiben `concelho d'Anciao`. Die heutige
+Form `Ansião` gehört ins Ortsregister, nicht auf die Karte dieser
+Einträge.
+
+### FIGUEIRA PODRA / Figueiras Podres
+
+| Quellenform | Maßgebliche Quelle |
+| --- | --- |
+| `Figueira Podra` | Taufen Joaquina 1886 und Margarida 1897, Cumeeira |
+
+Die Blattform `Figueiras Podres` ist eine spätere Normalisierung.
+
+### CUMEEIRA / Cumeira
+
+Pfarrei São Sebastião da Cumeeira, Kreis Penela. Quellenform der
+geprüften Taufen und der Heirat 1907: `Cumeeira`. Blatt `Cumeira` bei
+José Duarte † 2005 erst gegen den Zivilakt halten.
+
+### CARRASQUEIRAS / CABEÇA REDONDA
+
+| Quellenform | Maßgebliche Quelle |
+| --- | --- |
+| `Carrasqueiras` | Taufe Manuel Duarte, 2.12.1885 |
+| `Cabeça Redonda` | Taufe Joaquina, 18.2.1886; Taufe Margarida, 27.6.1897 |
+
+Beide Formen passen zu den jeweiligen Blattkarten, außer bei
+Margarida, deren Blatt `Santa Eufémia` schreibt.
+
+### ATANHA / ALVORGE
+
+| Quellenform | Maßgebliche Quelle |
+| --- | --- |
+| `Atanha`, Pfarrei `Alvorge` | Herkunft Joze Mendes Ferreiras, Taufe 1880 |
+| `Alvorge` | Sterbevermerk Joze Maria da Ascenção, 1948, an der Taufe der Ehefrau |
 
 ## Geprüfte Personenakten
 
-- [Narciza / Caetana](narcisa-records/README.md)
+- [Narciza / Caetana / Maria da Piedade](narcisa-records/README.md)
 - [Duarte / Freire Bicho](duarte-freire-records/README.md)
 - [Joze Maria da Ascenção](jose-maria-records/README.md)
 
 ## Stammbaumblatt
 
-Gegenlese des aktuellen Blatts gegen diese Akten:
+Gegenlese aller Karten des aktuellen Blatts gegen diese Akten:
 [stammbaum/README.md](stammbaum/README.md).
