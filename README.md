@@ -64,7 +64,8 @@ José Duarte † 2005 erst gegen den Zivilakt halten.
 | `Cabeça Redonda` | Taufe Joaquina, 18.2.1886; Taufe Margarida, 27.6.1897 |
 
 Beide Formen passen zu den jeweiligen Blattkarten, außer bei
-Margarida, deren Blatt `Santa Eufémia` schreibt.
+Margarida, deren Blatt `Santa Eufémia` schreibt. João Teixeira 1879
+wurde im Weiler **Cabeça Redonda** geboren, nicht nur „in Cumeeira“.
 
 ### ATANHA / ALVORGE
 
@@ -78,8 +79,10 @@ Margarida, deren Blatt `Santa Eufémia` schreibt.
 - [Narciza / Caetana / Maria da Piedade](narcisa-records/README.md)
 - [Duarte / Freire Bicho](duarte-freire-records/README.md)
 - [Joze Maria da Ascenção](jose-maria-records/README.md)
+- [João Teixeira](teixeira-records/README.md)
 
 ## Stammbaumblatt
 
-Gegenlese aller Karten des aktuellen Blatts gegen diese Akten:
-[stammbaum/README.md](stammbaum/README.md).
+Gegenlese der **bisavós und älteren** Karten gegen diese Akten:
+[stammbaum/README.md](stammbaum/README.md). Lebende und Großeltern
+bleiben beim Auftraggeber.
