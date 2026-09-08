@@ -23,8 +23,10 @@ Weiler und darf nicht auf diese Karte übertragen werden.
 
 Auf dem Stammbaum deshalb:
 
-> Joze Maria da Ascenção
-> \* 25.04.1880 · Valle de Todos
+```
+Joze Maria da Ascenção
+* 25.04.1880 · Valle de Todos
+```
 
 nicht `José Maria d’Ascensão · Pragoza`.
 
