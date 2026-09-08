@@ -1,8 +1,9 @@
 # Narciza/Caetana – geprüfte Kirchenbuchfunde
 
 Originalscans aus Nossa Senhora da Graça, Torre de Vale de Todos,
-Kreis Ansião, Distrikt Leiria. Schreibweisen werden so wiedergegeben, wie sie
-in den jeweiligen Einträgen stehen.
+Kreis Ansião, Distrikt Leiria. Personen- und Ortsnamen stehen in der
+Schreibweise der jeweils maßgeblichen Primärquelle. Historische Formen
+werden nicht modernisiert oder über Einträge hinweg normalisiert.
 
 ## Gesicherte Stammbaumdaten
 
@@ -17,7 +18,9 @@ in den jeweiligen Einträgen stehen.
   dieser Hand leicht mehrdeutig)
 - eingetragenes Heiratsalter: **22 Jahre**; tatsächlich war sie nach dem
   Taufdatum 21 Jahre, 7 Monate und 19 Tage alt
-- Ehemann: **José Pedro dos Reis**, Kaufmann aus Pragosa
+- Ehemann: **José Pedro dos Reis**, Kaufmann aus `Pragoza`
+  (so die Ortsform seiner eigenen Einträge; nicht die modernisierte
+  Form `Pragosa`)
 - Eltern: **João Rodrigues Gato** und **Caetana Maria**
 
 Die früher verwendete Form `Narcisa Maria da Conceição dos Reis
@@ -111,9 +114,10 @@ Quelle:
 
 ### Tod des Sohnes José
 
-Am **5. November 1896** starb in Pragosa der drei Monate alte **José**.
+Am **5. November 1896** starb im `lugar da Pragoza` der drei Monate
+alte **José**. Rand und Fließtext schreiben durchgehend **Pragoza**.
 Er war ehelicher Sohn des Kaufmanns **José Pedro dos Reis** und der
-`governadora de casa` **Narciza da Conceição**, beide aus Pragosa.
+`governadora de casa` **Narciza da Conceição**, beide aus demselben Ort.
 
 Quelle:
 
@@ -128,10 +132,10 @@ der Grenze zwischen Pião und der Pfarrei São Domingos da Lagarteira
 aufgefunden.
 
 - 49 Jahre alt, Kaufmann
-- geboren und wohnhaft in **Pragosa**
+- geboren und wohnhaft im `lugar da Pragoza`
 - verheiratet mit **Narcisa da Conceição**
-- Eltern: **Manuel Pedro dos Reis** aus Pragosa und **Rosa Maria** aus
-  Aljazede, Pfarrei Alvorge
+- Eltern: **Manuel Pedro dos Reis** aus demselben Ort und **Rosa Maria**
+  aus `Aljazede`, Pfarrei Alvorge
 - hinterließ Kinder, kein Testament
 
 Quelle:
@@ -146,7 +150,8 @@ Ein Heiratseintrag belegt, dass **Manoel Pedro dos Reis** und **Roza Maria**
 am **23. März 1851** in Torre de Vale de Todos heirateten.
 
 - Manoels Eltern waren **Manoel Pedro** und **Joaquina Maria**; der Eintrag
-  verbindet dieses Elternpaar mit **Pragosa**
+  verbindet dieses Elternpaar mit demselben Weiler (Quellenform hier
+  nicht neu buchstabenweise festgehalten; siehe Ortsregister)
 - Rozas Eltern waren **Joaquim Duarte** und **Florencia Maria**; der Eintrag
   verbindet dieses Elternpaar mit **Vale Paio**, Pfarrei Alvorge
 - Zeugen: **José António Freire da Paz** und **José Louro**
@@ -157,7 +162,7 @@ Die Zuordnung dieses Ehepaars zu den Eltern des **José Pedro dos Reis** ist
 wahrscheinlich, aber nicht sicher. José Pedros Heiratseintrag von 1878 nennt
 seinen Vater **Manuel Pedro Coelho**, der Sterbeeintrag von 1903 dagegen
 **Manuel Pedro dos Reis**. Beide nennen die Mutter **Rosa Maria** und verbinden
-den Vater mit Pragosa sowie die Mutter mit der Pfarrei Alvorge. Der Eintrag von
+den Vater mit diesem Weiler sowie die Mutter mit der Pfarrei Alvorge. Der Eintrag von
 1851 betrifft **Manoel Pedro dos Reis** und **Roza Maria**. Namen, Orte und
 Chronologie sprechen für eine Identität; die abweichenden väterlichen
 Familiennamen und der noch fehlende Taufeintrag José Pedros bleiben jedoch
