@@ -59,3 +59,28 @@ Quelle:
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/a2212ccc406846d7b57855b9a0236c7c)
 
 Die Taufe der Ehefrau: [Narciza-Akten, Maria da Piedade](../narcisa-records/README.md#tochter-maria-da-piedade).
+
+## Mutter: Anna, Taufe 14. Juli 1845
+
+- getauft **14. Juli 1845** in derselben Kirche Torre de Valle de Todos
+- Taufname: **Anna** (`da Piedade` steht in dieser Taufe nicht)
+- geboren **15. Juni 1845**
+- Geburtsort im Rand und Fließtext: **Valle de todos**
+- Vater: **Manoel Dias Barbeiro** (eine Hand schreibt `Diaz`)
+- Mutter: **Joaquina Maria**, wohnhaft Valle de todos
+- väterliche Großeltern: **João Dias Barbeiro** und **Maria Thereza**,
+  `lugar da Pragoza` derselben Pfarrei
+- mütterliche Großeltern: **João Dias da Quelha** (Lesungen
+  `Guelha` / `Guelle` möglich) und **Maria Joaquina**, Valle de todos
+
+Das Blatt-Datum `* 15.06.1845` **passt**. Der Zusatz `da Piedade`
+kommt aus der Taufe des Sohnes 1880, nicht aus Annas eigenem
+Taufeintrag. `Neta` bei der Mutter steht 1845 nicht; 1880 heißt sie
+**Joaquina Maria Neta**. Die beiden Formen bleiben nebeneinander.
+`† 1922` steht in dieser Taufe nicht.
+
+Quelle:
+
+- `PT/ADLRA/PRQ/PANS08/001/0004`,
+  `PT-ADLRA-PRQ-PANS08-001-0004_m0019.jpg`;
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)

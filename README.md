@@ -33,7 +33,7 @@ Torre de Vale de Todos.
 
 | Quellenform | Maßgebliche Quelle |
 | --- | --- |
-| `Valle de Todos` / `Torre de Valle de Todos` | Taufe Joze Maria da Ascenção, 6.5.1880; Taufe Maria da Piedade, 9.10.1878 |
+| `Valle de Todos` / `Torre de Valle de Todos` | Taufe Joze Maria da Ascenção, 6.5.1880; Taufe Maria da Piedade, 9.10.1878; Taufe Anna, 14.7.1845 |
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
 
 ### ANCIAO / Ansião
@@ -73,6 +73,18 @@ wurde im Weiler **Cabeça Redonda** geboren, nicht nur „in Cumeeira“.
 | --- | --- |
 | `Atanha`, Pfarrei `Alvorge` | Herkunft Joze Mendes Ferreiras, Taufe 1880 |
 | `Alvorge` | Sterbevermerk Joze Maria da Ascenção, 1948, an der Taufe der Ehefrau |
+| `Bemposta`, Pfarrei `Alvorge` | Herkunft Luiz Guiomars, Taufe João 1874 |
+
+### VALLE DO PIÃO / Pião / LAGARTEIRA
+
+Identifizierter Weiler der Pfarrei São Domingos da Lagarteira
+(PANS05), nicht der Pfarrei Torre.
+
+| Quellenform | Maßgebliche Quelle |
+| --- | --- |
+| `Valle do Pião` | Taufe Maria, 5.3.1882, Lagarteira |
+| `Pião desta freguezia` | dieselbe Doppelseite, Taufe Manuel Nr. 2 |
+| `Rua d'Além` | Taufe João, 10.5.1874, Torre |
 
 ## Geprüfte Personenakten
 
@@ -80,6 +92,7 @@ wurde im Weiler **Cabeça Redonda** geboren, nicht nur „in Cumeeira“.
 - [Duarte / Freire Bicho](duarte-freire-records/README.md)
 - [Joze Maria da Ascenção](jose-maria-records/README.md)
 - [João Teixeira](teixeira-records/README.md)
+- [João / Maria (Guiomar)](guiomar-records/README.md)
 
 ## Stammbaumblatt
 

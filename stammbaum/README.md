@@ -56,12 +56,34 @@ Offen. Eltern: `Pais de Maria José por confirmar`.
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
-Offen. Eltern auf dem Blatt **Luiz Dias Guiomar** × **Delfina Maria**.
+Quelle, Taufe 10.5.1874:
+
+```
+João
+* 22.04.1874 · Rua d'Além
+```
+
+Eltern **Luiz Guiomar** × **Delfina Maria** – **passen** (Blattform
+des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
+**Antonio Dias Guiomar**). Blattort `Vale de Todos` ist die Pfarrei;
+der Weiler ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
+in Torre – **passt**. Heirat mit **Maria Helena** aus Lagarteira
+(Randvermerk; Tagesdatum nicht als einzige Form).
 
 #### Maria Helena Guiomar · * 25.02.1882 · Pião
 
-Offen. Eltern auf dem Blatt **Joaquim Rodrigues Feio** ×
-**Maria Helena Contente**.
+Quelle, Taufe Nr. 3, 5.3.1882, Lagarteira:
+
+```
+Maria
+* 25.02.1882 · Valle do Pião
+```
+
+Eltern **Joaquim Rodrigues Feio** × **Maria Helena** – **passen**.
+`Helena` und `Guiomar` stehen nicht im Taufnamen. Die Blattform der
+Mutter `Maria Helena Contente` hängt `Contente` an; das ist der Name
+ihres Vaters **Jozé Contente**. `Pião` ist Weiler der Pfarrei
+**São Domingos da Lagarteira**, nicht von Torre.
 
 #### Joze Maria da Ascenção
 
@@ -110,10 +132,10 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | --- | --- |
 | Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | offen |
-| Luiz Dias Guiomar × Delfina Maria | offen |
-| Joaquim Rodrigues Feio × Maria Helena Contente | offen |
+| Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
+| Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |
-| Anna da Piedade · * 15.06.1845 · † 1922 | Name **passt** (Taufe des Sohnes 1880). Die Daten 1845/1922 stehen in jener Taufe nicht |
+| Anna da Piedade · * 15.06.1845 · † 1922 | Taufe 14.7.1845: **Anna**, `* 15.06.1845 · Valle de todos`. `da Piedade` steht erst 1880 beim Sohn. Eltern **Manoel Dias Barbeiro** × **Joaquina Maria**. `† 1922` nicht in jener Taufe |
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | offen |
@@ -218,7 +240,8 @@ Identität.
 | `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
-| `Pião`, `Ribeira`, `São Jorge`, `Angónia`, `Penela`, `Coimbra`, `Lübeck` | hier nicht gegen Kirchenbuch dieses Ereignisses gehalten | offen bzw. Zivilstand |
+| `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |
+| `Ribeira`, `São Jorge`, `Angónia`, `Penela`, `Coimbra`, `Lübeck` | hier nicht gegen Kirchenbuch dieses Ereignisses gehalten | offen bzw. Zivilstand |
 
 ## Zuerst auf dem Blatt zu ändern
 
@@ -234,3 +257,8 @@ Identität.
 9. `Pais de José Maria por confirmar` durch **Joze Mendes Ferreira**
    ersetzen.
 10. João Teixeira: Ort **Cabeça Redonda**; Elternform `Custodio`.
+11. João Dias Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`.
+12. Maria Helena Guiomar: Taufname **Maria**, Ort **Valle do Pião**
+    (Lagarteira); Mutter ohne erzwungenes `Contente`.
+13. Anna: Taufname **Anna**, `* 15.06.1845 · Valle de todos`;
+    `da Piedade` erst 1880.
