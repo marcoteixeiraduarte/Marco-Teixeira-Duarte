@@ -181,6 +181,10 @@ Namen in [archiv/](archiv/README.md), in der höchsten öffentlich
 verfügbaren Auflösung. Dieselben Bytes stehen weiter in den
 Aktenordnern.
 
+Fotokopien der Conservatória Ansião (Auftraggeber, 5712×4284):
+[archiv/conservatoria-ansiao/](archiv/conservatoria-ansiao/README.md).
+Noch nicht festgelesen.
+
 DigitArq-Dateien sind meist schon eine **Doppelseite** (verso +
 recto). Reicht der Eintrag über die Bildgrenze, kommt die
 **Folgeseite** dazu – wie bei João Teixeira 1879 (`m0015` + `m0016`),

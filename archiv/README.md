@@ -92,8 +92,17 @@ Leer lassen, bis du sie selbst gelesen hast.
 | [1896-obito-jose-filho-PANS08-003-0040_m0005.jpg](narcisa/1896-obito-jose-filho-PANS08-003-0040_m0005.jpg) | 2889×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/047d8ced444242b2a2350b5ae9bd18d9) |
 | [1903-obito-jose-pedro-dos-reis-PANS08-003-0047_m0007.jpg](narcisa/1903-obito-jose-pedro-dos-reis-PANS08-003-0047_m0007.jpg) | 1116×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/a02cedcd409d49ea9d3cb7ffb596ea19) |
 
+## Conservatória Ansião (Fotokopien vom Auftraggeber)
+
+Zehn Kamerabilder **5712×4284** in
+[conservatoria-ansiao/](conservatoria-ansiao/README.md).
+Noch **nicht** festgelesen: automatische Lesungen widersprechen sich,
+OCR versagt. Namen und Daten aus diesen Fotos stehen deshalb nicht
+im Stammbaum.
+
 ## Nicht in diesem Archiv
 
 Lebende und die avós (Großeltern) bleiben beim Auftraggeber. Offene
 Suchen ohne Scan (Joaquina Ramalha, Maria José ~1884, José Freire
-Bicho, Anna † 1922) kommen erst hierher, wenn ein Treffer festliegt.
+Bicho, Anna † 1922) kommen erst in die Aktenordner, wenn ein Treffer
+festliegt. Die Conservatória-Fotokopien oben sind die Vorlage dafür.
