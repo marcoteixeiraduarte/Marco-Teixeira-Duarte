@@ -100,17 +100,21 @@ Quellenform der **Paten** an der Taufe João, 22.10.1879, Cumeeira:
 | Joana de Jesus (Mutter) | natürlich und wohnhaft Cabeça Redonda |
 | João da Cruz × Tochter Maria da Conceição (Paten) | `Sarrazina`, Pfarrei São Cosme |
 
-In Penela, Ansião, Condeixa-a-Nova, Miranda do Corvo und Soure gibt
-es keine Pfarrei São Cosme. Der nächste heutige Ortsname ist
-**Serrazina**, Weiler der Pfarrei Ega (Condeixa-a-Nova, Orago Nossa
-Senhora da Graça). Die Junta de Freguesia de Ega kennt `sarrazina`
-als Namensvariante; der Pfarreiname passt trotzdem nicht. Andere
-São-Cosme-Pfarreien (Gondomar, Vale/Famalicão, Gouveia, Ázere) liegen
-außerhalb des üblichen Radius für caseiros in Cabeça Redonda.
+**Sarzedela** liegt geografisch in derselben heutigen Freguesia
+Ansião wie Figueiras de São João und Torre de Vale de Todos (OSM
+39.928/−8.444, PLZ 3240-207; 1527 als `Cervedela`, lugar der aldeia
+de Ansião). Das macht den Verdacht plausibel. Die Gleichsetzung
+hängt aber an der Handschrift.
+
+Auf dem vorliegenden Scan (`PNL01-002-0024_m0016`, 1402×1000) bleibt
+die sicherere Lesung `Sarrazina` … `São Cosme`. `Sarzedela` bräuchte
+ein klares `d` und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião**
+(PANS02, Orago Nossa Senhora da Conceição), nicht São Cosme. Beides
+ist hier nicht gesichert. Deshalb wird Sarzedela **nicht** als
+gelesen gesetzt.
 
 Die Pfarrei der Paten bleibt **unidentifiziert**. Der Suchradius für
-Custodio × Joana und deren Eltern bleibt Cabeça Redonda / Figueira
-Podra / Cumeeira.
+Custodio × Joana bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
 
 ### ATANHA / ALVORGE
 
