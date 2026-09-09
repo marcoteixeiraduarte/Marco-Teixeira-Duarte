@@ -27,6 +27,8 @@ Quelle:
 - getauft **18. Februar 1886** in Cumeeira, Eintrag Nr. 9
 - Eltern: **António Freire Bicho**, aus Figueira Podra, und
   **Maria Ignácia**, aus Cabeça Redonda und dort wohnhaft
+  (`Figueira Podra` = historisch Figueiras Podres, heute Figueiras
+  de S. João; ein Ort, siehe Ortsregister)
 - väterliche Großeltern: **António Freire Bicho** und **Maria de Christo**,
   aus Figueira Podra
 - mütterliche Großeltern: **Manuel Francisco Dias** und **Joaquina Maria**,
