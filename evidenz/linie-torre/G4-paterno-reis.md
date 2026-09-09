@@ -31,6 +31,10 @@ João Gato gehört **nicht** hierher. Das ist der 4. Grad **materno**.
 Die drei Ortsformen **Vale Paio**, **Vallejazede** und **Aljazede** liegen
 alle in der Pfarrei Alvorge. Sie werden nicht zu einem Ort zusammengezogen.
 
+**Ateanha** ist ein weiterer Lugar derselben Pfarrei (Kapelle früher
+São Martinho). In keinem Scan zu Roza genannt. Suchort auf **ihrer**
+Seite, nicht Herkunft. Blatt: [alvorge-ateanha](alvorge-ateanha.md).
+
 ## Quelle 1 — eigene Heirat (Nachtrag)
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/002/0003`
@@ -143,8 +147,8 @@ Blatt noch nicht festgehalten.
 
 ## Nächster Rückwärtsschritt
 
-1. Sterbeeinträge Manoel Pedro dos Reis und Roza Maria
-   (Torre 1878–1911 oder Alvorge).
-2. Taufen der beiden Eheleute selbst erst danach.
+1. Taufe Roza Maria in Alvorge (`PANS01`), Rand Vale Paio / Aljazede / Ateanha.
+2. Taufe Manoel Pedro dos Reis in Torre, Pragosa.
+3. Sterbeeinträge beider (Torre 1878–1911 oder Alvorge).
 
 Kein Avelar- und kein Gato-Eintrag an dieses Paar hängen.

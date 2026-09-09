@@ -41,6 +41,7 @@ Zählung, wenn José Pedro × Narciza der 3. Grad sind:
 | 3. Grad, Mann | José Pedro dos Reis, * 24.11.1854, † 2.10.1903 | sicher | [linie-torre/jose-pedro-dos-reis](linie-torre/jose-pedro-dos-reis.md) |
 | 3. Grad, Frau | Narciza da Conceição | sicher | [linie-torre/narciza](linie-torre/narciza.md) |
 | 4. Grad **paterno** | Manoel Pedro dos Reis × Roza Maria | sicher als Eltern des José Pedro | [linie-torre/G4-paterno-reis](linie-torre/G4-paterno-reis.md) |
+| Roza, andere Seite | Pfarrei Alvorge (Aljazede / Vale Paio; Ateanha nur Suchort) | Pfarrei sicher; Ateanha nicht belegt | [linie-torre/alvorge-ateanha](linie-torre/alvorge-ateanha.md) |
 | 4. Grad materno | João Gato × Caetana Maria | sicher als Eltern der Narciza | [linie-torre/caetana-maria](linie-torre/caetana-maria.md) |
 | 5./6. Grad materno | Alexandre Manoel × Joaquina da Affonseca | sicher als Großeltern der Caetana; Heirat offen | [linie-torre/avelar-kandidaten](linie-torre/avelar-kandidaten.md) |
 
