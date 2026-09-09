@@ -1,5 +1,10 @@
 # Narciza/Caetana – geprüfte Kirchenbuchfunde
 
+Prüfbare Einzelblätter mit Scanpfad und Transkript:
+[`evidenz/linie-torre/`](../evidenz/linie-torre/narciza.md).
+Ausgang der Rückwärtssuche sind die Duarte-Urgroßeltern in
+[`evidenz/00-ausgangspunkt.md`](../evidenz/00-ausgangspunkt.md).
+
 Originalscans aus Nossa Senhora da Graça, Torre de Vale de Todos,
 Kreis Ansião, Distrikt Leiria. Schreibweisen werden so wiedergegeben, wie sie
 in den jeweiligen Einträgen stehen.

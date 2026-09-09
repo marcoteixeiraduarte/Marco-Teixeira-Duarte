@@ -55,3 +55,6 @@ duarte-freire-records/cumeeira/casamentos-1907/*
 !evidenz/
 !evidenz/**/
 !evidenz/**/*.md
+!evidenz/scans/
+!evidenz/scans/**
+!evidenz/scans/**/*.jpg

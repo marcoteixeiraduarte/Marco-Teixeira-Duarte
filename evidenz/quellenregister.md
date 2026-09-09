@@ -26,3 +26,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-OBI-1896-12 | Tod Sohn José | `narcisa-records/obitos-1878-1911/1896/PT_ADLRA_PRQ_PANS08_003_0040_m0005.jpg` |
 | TVT-OBI-1903-10 | Tod José Pedro dos Reis | `narcisa-records/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg` |
 | TVT-CAS-REIS-PAIS | Heirat der Eltern Reis, Seite prüfen | `narcisa-records/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg` |
+| AVL-BAP-1781-THEO | Taufe Theodora Maria | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANSO3-001-0003_m0028.jpg` |
+| AVL-CAS-1774-13 | Zwei Heiraten: Alexandre×Joaquina und Antonio Simões×Maria Joaquina | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg` |

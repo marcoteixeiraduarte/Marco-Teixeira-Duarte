@@ -39,4 +39,5 @@ Joaquina Ignácia (1886)
 
 - Cumeeira / Carrasqueiras / Cabeça Redonda / Figueiras Podres gehört zur Duarte-Linie.
 - Torre de Vale de Todos / Pragosa / Avelar / João Bom gehört zur Torre-Linie.
-- Eine Person namens Catarina in Avelar 1786–1792 ist Frau von Antonio Curado, nicht Tochter von Alexandre Manoel.
+- **Theodora Maria** (Avelar 1781) ist nicht Maria Joaquina Sol. Blatt: [theodora-maria-1781](linie-torre/theodora-maria-1781.md)
+- **Maria Joaquina × Antonio Simões** (Castelo 10.2.1774) ist nicht Maria Joaquina Sol. Blatt: [maria-joaquina-simoes-1774](linie-torre/maria-joaquina-simoes-1774.md)
