@@ -1,6 +1,7 @@
 # Torre — Caetana Maria
 
-Mutter der Narciza. Taufname und Sterbename sind **Caetana**, nicht Catarina.
+Mutter der Narciza. **4. Grad materno** der Torre-Linie, nicht paterno.
+Taufname und Sterbename sind **Caetana**, nicht Catarina.
 
 ## Identität
 

@@ -23,9 +23,12 @@ Die jüngsten vollständig belegten Urgroßeltern der Duarte-Linie:
 
 Von diesem Paar geht es nur rückwärts.
 
-Die Torre-Linie (Narciza / Caetana / Avelar) ist eine zweite, getrennte Spur.
+Die Torre-Linie ist eine zweite, getrennte Spur.
 Sie wird hier mitgeführt, weil dafür bereits Originalscans liegen.
 Sie ist nicht stillschweigend an die Duarte-Urgroßeltern gehängt.
+
+In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
+**materno** = Eltern der Narciza. Die Seiten nicht tauschen.
 
 ## Ordner
 
