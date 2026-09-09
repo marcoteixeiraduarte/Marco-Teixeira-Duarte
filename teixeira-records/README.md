@@ -41,4 +41,8 @@ Quelle:
 - `PT/AUC/PAR/PNL01/002/0024`,
   `PNL01-002-0024_m0015.jpg` und `PNL01-002-0024_m0016.jpg`,
   Eintrag Nr. 42;
-  [AUC](https://pesquisa.auc.uc.pt/details?id=43225)
+  [AUC](https://pesquisa.auc.uc.pt/details?id=43225).
+  Öffentliche Maximalauflösung dieses Bandes: 1401×1000 bzw.
+  1402×1000 (Digitalisat 2011; ZIP des Bandes enthält dieselben
+  JPEGs). Kopie unter
+  [archiv/teixeira/](../archiv/README.md).

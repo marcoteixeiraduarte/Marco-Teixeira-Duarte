@@ -110,7 +110,8 @@ Ansião wie Figueiras de São João und Torre de Vale de Todos (OSM
 de Ansião). Das macht den Verdacht plausibel. Die Gleichsetzung
 hängt aber an der Handschrift.
 
-Auf dem vorliegenden Scan (`PNL01-002-0024_m0016`, 1402×1000) bleibt
+Auf dem vorliegenden Scan (`PNL01-002-0024_m0016`, 1402×1000,
+höchste öffentliche AUC-Ableitung; siehe [archiv/](archiv/README.md)) bleibt
 die sicherere Lesung `Sarrazina` … `São Cosme`. `Sarzedela` bräuchte
 ein klares `d` und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião**
 (PANS02, Orago Nossa Senhora da Conceição), nicht São Cosme. Beides
@@ -175,12 +176,20 @@ de Todos).
 
 ## Archiv der Match-Scans
 
-Jeder geprüfte Treffer liegt als Bild im jeweiligen Aktenordner.
+Zum händischen Gegenlesen liegen alle Treffer unter sprechenden
+Namen in [archiv/](archiv/README.md), in der höchsten öffentlich
+verfügbaren Auflösung. Dieselben Bytes stehen weiter in den
+Aktenordnern.
+
 DigitArq-Dateien sind meist schon eine **Doppelseite** (verso +
 recto). Reicht der Eintrag über die Bildgrenze, kommt die
 **Folgeseite** dazu – wie bei João Teixeira 1879 (`m0015` + `m0016`),
 der Heirat Duarte 1907 (`m0015` + `m0016`), Catarina 1891 (`m0002` +
 `m0003`) und Manuel 1872 (`m0007` + `m0008`).
+
+AUC 1879/1885 bleibt bei ca. 1400×1000 (Digitalisat 2011). Die
+späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
+öffentlich 1500 oder 2048 px Höhe.
 
 ## Geprüfte Personenakten
 
