@@ -84,7 +84,8 @@ Identifizierter Weiler der Pfarrei São Domingos da Lagarteira
 | --- | --- |
 | `Valle do Pião` | Taufe Maria, 5.3.1882, Lagarteira |
 | `Pião desta freguezia` | dieselbe Doppelseite, Taufe Manuel Nr. 2 |
-| `Rua d'Além` | Taufe João, 10.5.1874, Torre |
+| `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
+| `São Jorge` | Taufe Manuel, 1.8.1872, Weiler der Pfarrei Torre |
 
 ## Geprüfte Personenakten
 
@@ -93,6 +94,7 @@ Identifizierter Weiler der Pfarrei São Domingos da Lagarteira
 - [Joze Maria da Ascenção](jose-maria-records/README.md)
 - [João Teixeira](teixeira-records/README.md)
 - [João / Maria (Guiomar)](guiomar-records/README.md)
+- [Manuel (Matta)](matta-records/README.md)
 
 ## Stammbaumblatt
 

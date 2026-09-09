@@ -51,6 +51,12 @@ jose-maria-records/baptismos-1880/*
 jose-maria-records/baptismos-1845/*
 !jose-maria-records/baptismos-1845/PT-ADLRA-PRQ-PANS08-001-0004_m0019.jpg
 
+matta-records/*
+!matta-records/README.md
+!matta-records/baptismos-1872/
+matta-records/baptismos-1872/*
+!matta-records/baptismos-1872/PT-ADLRA-PRQ-PANS08-001-0017_m0007.jpg
+
 guiomar-records/*
 !guiomar-records/README.md
 !guiomar-records/baptismos-1874/

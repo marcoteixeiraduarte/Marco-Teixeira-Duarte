@@ -119,7 +119,18 @@ steht nicht im Taufnamen. Das Geburtsdatum des Blatts **passt**.
 
 #### Manuel Matta · ~1872 · São Jorge · † 15.02.1946
 
-Offen. Eltern auf dem Blatt **Pai Incógnito** × **Anna de Jesus Matta**.
+Quelle, Taufe Nr. 14, 1.8.1872:
+
+```
+Manuel
+* 26.07.1872 · São Jorge
+```
+
+**filho natural** der **Anna de Jesus Matta**. Vater ungenannt –
+**passt** zum Blatt. `Matta` steht bei der Mutter. Tod: Randvermerk
+nennt den **15.** und ist 1946 in Ansião nachgetragen; Blatt
+`† 15.02.1946` ist die Richtung. Heirat mit **Joaquina Ramalho**
+(Randvermerk).
 
 #### Joaquina Ramalha dos Reis
 
@@ -138,7 +149,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | Anna da Piedade · * 15.06.1845 · † 1922 | Taufe 14.7.1845: **Anna**, `* 15.06.1845 · Valle de todos`. `da Piedade` steht erst 1880 beim Sohn. Eltern **Manoel Dias Barbeiro** × **Joaquina Maria**. `† 1922` nicht in jener Taufe |
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
-| Pai Incógnito × Anna de Jesus Matta | offen |
+| Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
 | Manuel Dias Ramalho × Angelica Maria Leal | offen |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
@@ -262,3 +273,4 @@ Identität.
     (Lagarteira); Mutter ohne erzwungenes `Contente`.
 13. Anna: Taufname **Anna**, `* 15.06.1845 · Valle de todos`;
     `da Piedade` erst 1880.
+14. Manuel Matta: `* 26.07.1872 · São Jorge`; `Matta` bei der Mutter.
