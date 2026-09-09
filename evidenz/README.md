@@ -30,6 +30,7 @@ Sie ist nicht stillschweigend an die Duarte-Urgroßeltern gehängt.
 ## Ordner
 
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
+- `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `quellenregister.md` — alle versionierten Scans
 

@@ -118,14 +118,44 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 
 ---
 
+## AUC Coimbra (Uni-Archiv) – wo weiter suchen
+
+Kirchenbücher **Cumeeira** (São Sebastião, Penela) liegen schon im
+[Arquivo da Universidade de Coimbra](https://pesquisa.auc.uc.pt/)
+(`PT/AUC/PAR/PNL01`); Taufen/Heiraten bis 1911. Überblick:
+[tombo.pt/f/pnl01](https://tombo.pt/f/pnl01).
+
+Für **José Freire Bicho × Margarida** (Zivilakt Nr. 94 / 1922) nicht
+weiter in den Pfarreibüchern suchen, sondern im **Zivilfonds Penela**
+derselben Uni:
+
+| Band / Einheit | Bestand | Hinweis |
+| --- | --- | --- |
+| Casamentos 1922 | `PT/AUC/RCV/PNL` | Eintrag Nr. 94 – Eltern und Geburt Josés |
+| Processos de casamento Cx. 7 | 1921–1922 | Begleitakte möglich |
+| Processos de casamento Cx. 8 | 1922–1923 | Begleitakte möglich |
+
+Inventar: [tombo.pt/m/pnl](https://tombo.pt/m/pnl) · Fonds-Übersicht:
+[uc.pt/auc … rcv](https://www.uc.pt/auc/fundos-colecoes/rcv/).
+Kurznotiz: [`evidenz/linie-duarte/AUC-coimbra-jose-freire-bicho.md`](evidenz/linie-duarte/AUC-coimbra-jose-freire-bicho.md).
+Online-Viewer für 1922 war hier nicht erreichbar; Lesesaal / Reproduktion
+über [auc-geral@auc.uc.pt](mailto:auc-geral@auc.uc.pt) bzw. Certidão-Service
+der UC.
+
+Elternheiraten **António Duarte × Thereza Freire** und
+**António Freire Bicho × Maria Ignácia** (vor 1885/86): weiterhin
+`PNL01` Casamentos am AUC – digital wie die bekannten Taufen.
+
+---
+
 ## Noch offen (nächste Arbeit)
 
 | Priorität | Aufgabe |
 | --- | --- |
-| 1 | Conservatória Ansião: zehn Fotos in [`archiv/conservatoria-ansiao/`](archiv/conservatoria-ansiao/README.md) händisch lesen (bisavós *1912–1915) |
-| 2 | Zivilheirat José Freire Bicho × Margarida, Cumeeira Nr. 94 / 1922 |
+| 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
+| 2 | Conservatória Ansião: zehn Fotos in [`archiv/conservatoria-ansiao/`](archiv/conservatoria-ansiao/README.md) händisch lesen (bisavós *1912–1915) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
-| 4 | Taufen António Duarte × Thereza Freire und António Freire Bicho × Maria Ignácia |
+| 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
 | 6 | Heirat Reis-Eltern 1851: Jahres-/Namenszeile; Zuordnung nur wahrscheinlich (Coelho vs. dos Reis) |
 | 7 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |

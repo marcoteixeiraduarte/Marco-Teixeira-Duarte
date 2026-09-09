@@ -150,6 +150,10 @@ das mutmaßliche Todesjahr sprechen gegen diesen José als Margaridas Ehemann.
 
 Das bisherige Geburtsjahr **1894** und die vermuteten Eltern dürfen daher
 nicht als gesichert in den Stammbaum übernommen werden. Vorrangig zu prüfen
-ist der zivile Heiratseintrag Nr. 94 von 1922; danach kann die Suche auf
-weitere Nachbarpfarreien ausgedehnt werden. Für jede Negativsuche sollen Band,
-Bildbereich, mögliche Lücken, Prüfdatum und Ergebnis protokolliert werden.
+ist der zivile Heiratseintrag Nr. 94 von 1922 im **Arquivo da Universidade
+de Coimbra**, Fonds Conservatória do Registo Civil de Penela
+(`PT/AUC/RCV/PNL`): Band Casamentos **1922**, ergänzend Processos de
+casamento **Cx. 7** (1921–1922) und **Cx. 8** (1922–1923). Inventar:
+[tombo.pt/m/pnl](https://tombo.pt/m/pnl). Danach ggf. Nachbarpfarreien.
+Für jede Negativsuche Band, Bildbereich, mögliche Lücken, Prüfdatum und
+Ergebnis protokollieren.
