@@ -48,7 +48,9 @@ Eltern **Custodio Teixeira** × **Joana de Jesus** – **passen** zum
 Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
 **Cabeça Redonda**. Vater natürlich aus `Figueira Podra`. Großeltern
 dort: **Jozé Simão Teixeira** × **Maria Forte**; **Joaquim de
-Carvalho** × **Maria de Jesus**.
+Carvalho** × **Maria de Jesus**. Die Paten João da Cruz und Maria da
+Conceição stehen mit `Sarrazina`, Pfarrei São Cosme – das ändert den
+Elternort nicht.
 
 #### Maria José dos Santos · ~1884 · Ansião
 

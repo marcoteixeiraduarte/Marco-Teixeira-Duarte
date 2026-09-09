@@ -67,6 +67,29 @@ Beide Formen passen zu den jeweiligen Blattkarten, außer bei
 Margarida, deren Blatt `Santa Eufémia` schreibt. João Teixeira 1879
 wurde im Weiler **Cabeça Redonda** geboren, nicht nur „in Cumeeira“.
 
+### SARRAZINA / SÃO COSME
+
+Quellenform der **Paten** an der Taufe João, 22.10.1879, Cumeeira:
+`Sarrazina`, Pfarrei São Cosme. Das sind **nicht** die Eltern.
+
+| Person im Eintrag | Herkunft 1879 |
+| --- | --- |
+| Custodio Teixeira (Vater) | natürlich `Figueira Podra`, wohnhaft Cabeça Redonda |
+| Joana de Jesus (Mutter) | natürlich und wohnhaft Cabeça Redonda |
+| João da Cruz × Tochter Maria da Conceição (Paten) | `Sarrazina`, Pfarrei São Cosme |
+
+In Penela, Ansião, Condeixa-a-Nova, Miranda do Corvo und Soure gibt
+es keine Pfarrei São Cosme. Der nächste heutige Ortsname ist
+**Serrazina**, Weiler der Pfarrei Ega (Condeixa-a-Nova, Orago Nossa
+Senhora da Graça). Die Junta de Freguesia de Ega kennt `sarrazina`
+als Namensvariante; der Pfarreiname passt trotzdem nicht. Andere
+São-Cosme-Pfarreien (Gondomar, Vale/Famalicão, Gouveia, Ázere) liegen
+außerhalb des üblichen Radius für caseiros in Cabeça Redonda.
+
+Die Pfarrei der Paten bleibt **unidentifiziert**. Der Suchradius für
+Custodio × Joana und deren Eltern bleibt Cabeça Redonda / Figueira
+Podra / Cumeeira.
+
 ### ATANHA / ALVORGE
 
 | Quellenform | Maßgebliche Quelle |

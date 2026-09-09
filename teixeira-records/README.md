@@ -25,6 +25,12 @@ die Pfarrei; der Weiler im Eintrag ist **Cabeça Redonda**. Die
 Blatteltern **Custódio Teixeira** × **Joana de Jesus** **passen**
 (Quellenform des Vaters: `Custodio`).
 
+`Sarrazina` / São Cosme steht **nur bei den Paten**. Vater, Mutter und
+beide Großelternpaare bleiben in Cabeça Redonda bzw. Figueira Podra.
+Die Pfarrei São Cosme ist unter den Nachbarpfarreien nicht gefunden
+(siehe Ortsregister). Der Suchradius für diese Linie steigt dadurch
+nicht.
+
 Quelle:
 
 - `PT/AUC/PAR/PNL01/002/0024`,
