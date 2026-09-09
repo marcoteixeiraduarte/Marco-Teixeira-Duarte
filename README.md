@@ -113,8 +113,20 @@ ein klares `d` und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião**
 ist hier nicht gesichert. Deshalb wird Sarzedela **nicht** als
 gelesen gesetzt.
 
-Die Pfarrei der Paten bleibt **unidentifiziert**. Der Suchradius für
-Custodio × Joana bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
+In der Nähe von Cumeeira / Ansião gibt es **keine** Pfarrei São Cosme
+(nicht in Penela, Ansião, Condeixa, Miranda do Corvo, Soure, LAR).
+
+| Kandidat | ungefähre Lage | Passt zum Patenort? |
+| --- | --- | --- |
+| **Sarzedela**, Freguesia Ansião | 5–8 km, Nachbar von Figueiras de S. João | Lage ja; Pfarrei 1879 ist Ansião (N.S. da Conceição), nicht São Cosme |
+| **Serrazina**, Pfarrei Ega (Condeixa) | ~20 km westlich | Ortsname nah an `Sarrazina`; Orago N.S. da Graça, nicht São Cosme |
+| **Póvoa de São Cosme**, Ervedal (Oliveira do Hospital) | ~70 km nordöstlich | einziger São-Cosme-Ort im Distrikt Coimbra; Pfarrei ist Ervedal, kein `Sarrazina` dort |
+| Nabais / Aldeias (São Cosme), Gouveia | ~90 km | echte Pfarreien São Cosme, aber außerhalb des üblichen Radius und ohne Sarzedela |
+| Gondomar / Vale (Famalicão) | 140–160 km | echte Pfarreien, zu weit für caseiro-Paten aus Cabeça Redonda |
+
+Kein Kandidat erfüllt **Ort und** Pfarrei zugleich. Die Pfarrei der
+Paten bleibt **unidentifiziert**. Der Suchradius für Custodio × Joana
+bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
 
 ### ATANHA / ALVORGE
 
