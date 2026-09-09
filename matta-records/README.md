@@ -8,9 +8,11 @@ Schreibweisen folgen dem Eintrag.
   Graça da Torre, concelho d'Anciao, Bistum Coimbra
 - Taufname: **Manuel**
 - geboren **26. Juli 1872**, 10 Uhr
-- Geburtsort: **lugar de São Jorge** dieser Pfarrei
+- Geburtsort: **lugar de São Jorge** dieser Pfarrei (Rand: `S. Jorge`)
 - **filho natural** der **Anna de Jesus Matta**, ledig, natürlich aus
   São Jorge; der Vater ist nicht genannt
+- `São Jorge` ist die kleine Kapelle im Weiler Vale de Todos, nicht
+  ein Ort außerhalb der Pfarrei Torre (siehe Ortsregister)
 - mütterliche Großeltern: **Antonio Rodrigues Avelheiro** (Lesung
   `Molheiro` möglich) und **Thereza de Jesus**
 - Paten: **Manoel Ramos**, ledig, Arbeiter, und **Anna Maria de

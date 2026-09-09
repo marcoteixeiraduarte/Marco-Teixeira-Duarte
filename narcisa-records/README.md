@@ -71,6 +71,7 @@ Heirat:
 
 - **16. November 1837**
 - Bräutigam: **João Roiz Gato** (`Roiz` = Rodrigues), aus São Jorge
+  (Kapelle/lugar in Vale de Todos, dieselbe Pfarrei Torre)
 - Braut: **Caetana Maria**, aus Torre
 - Brauteltern: **Manoel Joaquim Sol**, bereits verstorben, und
   **Maria Joaquina**

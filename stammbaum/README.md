@@ -28,8 +28,8 @@ suchen, nicht im Kirchenbuch:
 | --- | --- |
 | Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911 |
 | Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911 |
-| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt |
+| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos, nicht fremder Sterbeort |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos |
 
 ### 3.º avós
 
@@ -128,7 +128,8 @@ Manuel
 * 26.07.1872 · São Jorge
 ```
 
-**filho natural** der **Anna de Jesus Matta**. Vater ungenannt –
+`São Jorge` ist die Kapelle im Weiler Vale de Todos (Pfarrei Torre),
+kein eigener ferner Ort. **filho natural** der **Anna de Jesus Matta**. Vater ungenannt –
 **passt** zum Blatt. `Matta` steht bei der Mutter. Tod: Randvermerk
 nennt den **15.** und ist 1946 in Ansião nachgetragen; Blatt
 `† 15.02.1946` ist die Richtung. Heirat mit **Joaquina Ramalho**

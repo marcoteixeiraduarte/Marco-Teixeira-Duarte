@@ -35,6 +35,17 @@ Torre de Vale de Todos.
 | --- | --- |
 | `Valle de Todos` / `Torre de Valle de Todos` | Taufe Joze Maria da Ascenção, 6.5.1880; Taufe Maria da Piedade, 9.10.1878; Taufe Anna, 14.7.1845 |
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
+| `São Jorge` / `S. Jorge` | Taufe Manuel, 1.8.1872, Rand und Fließtext `logar de São Jorge` dieser Pfarrei; Heirat João Roiz Gato, 16.11.1837 |
+
+`São Jorge` ist **kein** eigener ferner Weiler und keine fremde Pfarrei.
+Lokal ist es die kleine Kapelle im Weiler Vale de Todos (Auftraggeber).
+Das Kirchenbuch nennt denselben Fleck `logar` der Pfarrei Torre. Die
+INE-Locality 2021 kennt in Ansião **Vale de Todos**, kein eigenes
+Locality São Jorge.
+
+Quellenform `São Jorge` bleibt neben `Valle de Todos` stehen. Nicht
+zusammenwerfen mit der **Capela / Rua / Mata de São Jorge** in
+Chão de Couce (andere Pfarrei) und nicht mit São Jorge in Porto de Mós.
 
 ### ANCIAO / Ansião
 
@@ -108,7 +119,6 @@ Identifizierter Weiler der Pfarrei São Domingos da Lagarteira
 | `Valle do Pião` | Taufe Maria, 5.3.1882, Lagarteira |
 | `Pião desta freguezia` | dieselbe Doppelseite, Taufe Manuel Nr. 2 |
 | `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
-| `São Jorge` | Taufe Manuel, 1.8.1872, Weiler der Pfarrei Torre |
 
 ## Archiv der Match-Scans
 
