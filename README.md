@@ -54,13 +54,23 @@ Die Taufen von 1878 und 1880 schreiben `concelho d'Anciao`. Die heutige
 Form `Ansião` gehört ins Ortsregister, nicht auf die Karte dieser
 Einträge.
 
-### FIGUEIRA PODRA / Figueiras Podres
+### FIGUEIRA PODRA / Figueiras Podres / Figueiras de S. João
 
-| Quellenform | Maßgebliche Quelle |
-| --- | --- |
-| `Figueira Podra` | Taufen Joaquina 1886 und Margarida 1897, Cumeeira |
+**Ein Ort**, keine zwei Siedlungen. Historischer Name
+`Figueiras Podres`; heute `Figueiras de S. João` (INE-Locality
+Ansião; OSM-Knoten `Figueiras de São João` und
+`Figueiras Podres de São João` am selben Fleck, PLZ 3240-706).
+Nachbar von Cabeça Redonda, an der Grenze Cumeeira (Penela) /
+Ansião.
 
-Die Blattform `Figueiras Podres` ist eine spätere Normalisierung.
+| Form | Rolle | Maßgebliche Quelle |
+| --- | --- | --- |
+| `Figueira Podra` | Schreibweise der geprüften Taufen | João 1879; Joaquina 1886; Margarida 1897, Cumeeira |
+| `Figueiras Podres` | historischer Ortsname; Form auf dem Blatt | bleibt **am Ereignis** |
+| `Figueiras de S. João` | heutige Zuordnung | Ortsregister, nicht statt der historischen Form auf die Karte |
+
+Nicht zusammenwerfen mit **Ferraria de S. João** (Weiler der Pfarrei
+Cumeeira) und nicht mit **Venda das Figueiras** (ebenfalls Cumeeira).
 
 ### CUMEEIRA / Cumeira
 

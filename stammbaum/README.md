@@ -213,7 +213,7 @@ frühere Jahr 1972 war die Verwechslung mit dem Eheauflösungs-Vermerk).
 | Blatt | Quelle / Status |
 | --- | --- |
 | António Duarte × Thereza Freire | **passt** als Eltern Manuels (Taufe 1885, Heirat 1907) |
-| António Freire Bicho · ~1851 · Figueiras Podres | Name **passt** als Vater Joaquinas. Ort: Taufen schreiben `Figueira Podra`, nicht `Figueiras Podres`. Jahr ~1851 offen |
+| António Freire Bicho · ~1851 · Figueiras Podres | Name **passt** als Vater Joaquinas. `Figueiras Podres` bleibt am Ereignis; heute `Figueiras de S. João` (ein Ort). Die Taufen schreiben `Figueira Podra`. Jahr ~1851 offen |
 | Maria Ignácia | **passt** als Mutter Joaquinas (Taufe 1886, Heirat 1907) |
 | dieselben erneut als Eltern von José Freire Bicho | **nicht gesichert** (siehe oben) |
 | Joaquim Freire Bicho × Genoveva de Jesus | **passt** als Eltern Margaridas (Taufe 1897) |
@@ -248,7 +248,7 @@ Identität.
 | `Pragosa` bei José Mendes 1914, Palmira 1912 | diese Einträge hier nicht geprüft | erst Quelle, dann Form |
 | `Pragosa` bei Maria Célia 1959 | Zivilstand | heutige Form möglich |
 | `Pragosa` als Weiler der Reis-Linie 1896/1903 | Sterbeakten: `Pragoza` | Quellenform `Pragoza` |
-| `Figueiras Podres` | Taufen: `Figueira Podra` | Quellenform belassen |
+| `Figueiras Podres` | historischer Name; Taufen: `Figueira Podra`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen; heutige Form nur als Zuordnung |
 | `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
 | `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
@@ -265,7 +265,8 @@ Identität.
 3. Maria da Piedade: Ort `Pragoza`; Name ohne erzwungenes `dos Reis`.
 4. Manuel Duarte † `30.09.1962` → Vermerk **30.09.1964**.
 5. Margarida `* 24.07.1897 · Santa Eufémia` → `* 27.06.1897`, Cabeça Redonda / Cumeeira.
-6. `Figueiras Podres` → `Figueira Podra`.
+6. `Figueiras Podres` **bleibt** am Ereignis; daneben heutige
+   Zuordnung `Figueiras de S. João` (kein zweiter Ort).
 7. José Freire Bicho `~1894` und `Mesmos pais` als Tatsache streichen.
 8. 4.º-avós-Platzhalter der Duarte/Freire-Linie durch die Großeltern
    der Cumeeira-Taufen ersetzen (Tabelle oben).
@@ -274,7 +275,7 @@ Identität.
 10. João Teixeira: Ort **Cabeça Redonda**; Elternform `Custodio`.
 11. João Dias Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`.
 12. Maria Helena Guiomar: Taufname **Maria**, Ort **Valle do Pião**
-    (Lagarteira); Mutter ohne erzwungenes `Contente`.
+    (LAR / Lagarteira); Mutter ohne erzwungenes `Contente`.
 13. Anna: Taufname **Anna**, `* 15.06.1845 · Valle de todos`;
     `da Piedade` erst 1880.
 14. Manuel Matta: `* 26.07.1872 · São Jorge`; `Matta` bei der Mutter.

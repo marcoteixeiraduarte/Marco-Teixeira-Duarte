@@ -10,6 +10,7 @@ Coimbra. Schreibweisen folgen dem Eintrag.
 - geboren **13. Oktober 1879**, 18 Uhr
 - Geburtsort: `logar de Cabeça Redonda` dieser Pfarrei
 - Vater: **Custodio Teixeira**, caseiro, natürlich aus `Figueira Podra`
+  (historisch Figueiras Podres, heute Figueiras de S. João; ein Ort)
 - Mutter: **Joana de Jesus**, natürlich aus Cabeça Redonda
 - wohnhaft: Cabeça Redonda; dort getraut und Pfarrkinder
 - erstes Kind dieses Namens
