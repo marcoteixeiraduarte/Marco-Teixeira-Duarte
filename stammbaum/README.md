@@ -255,7 +255,8 @@ Identität.
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
 | `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |
-| `Ribeira`, `São Jorge`, `Angónia`, `Penela`, `Coimbra`, `Lübeck` | hier nicht gegen Kirchenbuch dieses Ereignisses gehalten | offen bzw. Zivilstand |
+| `São Jorge` bei Manuel 1872 und bei † José Mendes / Palmira | Taufe: `logar de São Jorge` der Pfarrei Torre; lokal die Kapelle in Vale de Todos | Quellenform belassen; nicht mit Chão de Couce oder Porto de Mós zusammenwerfen |
+| `Ribeira`, `Angónia`, `Penela`, `Coimbra`, `Lübeck` | hier nicht gegen Kirchenbuch dieses Ereignisses gehalten | offen bzw. Zivilstand |
 
 ## Zuerst auf dem Blatt zu ändern
 
