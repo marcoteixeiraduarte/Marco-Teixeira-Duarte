@@ -1,5 +1,8 @@
 # Marco Teixeira Duarte – Arbeitsstand
 
+**Zusammengeführte Erkenntnisse** (Archiv + Git + Evidenz):
+[`ERKENNTNISSE.md`](ERKENNTNISSE.md).
+
 Personen- und Ortsnamen werden in der Schreibweise der jeweils
 maßgeblichen Primärquelle übernommen. Historische Schreibweisen werden
 nicht modernisiert oder normalisiert.
@@ -203,6 +206,12 @@ späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
 - [João Teixeira](teixeira-records/README.md)
 - [João / Maria (Guiomar)](guiomar-records/README.md)
 - [Manuel (Matta)](matta-records/README.md)
+
+## Evidenz-Ledger
+
+Einzelblätter mit Scanpfad, Transkript und Gewissheit:
+[evidenz/README.md](evidenz/README.md). Ausgangspunkt Duarte:
+[evidenz/00-ausgangspunkt.md](evidenz/00-ausgangspunkt.md).
 
 ## Stammbaumblatt
 

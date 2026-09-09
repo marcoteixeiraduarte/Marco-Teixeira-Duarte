@@ -1,5 +1,10 @@
 # Narciza/Caetana – geprüfte Kirchenbuchfunde
 
+Prüfbare Einzelblätter mit Scanpfad und Transkript:
+[`evidenz/linie-torre/`](../evidenz/linie-torre/narciza.md).
+Diese Spur bleibt von der Duarte-Linie getrennt; siehe
+[`ERKENNTNISSE.md`](../ERKENNTNISSE.md).
+
 Originalscans aus Nossa Senhora da Graça, Torre de Vale de Todos,
 Kreis Ansião, Distrikt Leiria. Personen- und Ortsnamen stehen in der
 Schreibweise der jeweils maßgeblichen Primärquelle. Historische Formen
@@ -44,10 +49,9 @@ Quellen:
 ### Mutter: Caetana Maria, später Catarina Maria
 
 Der Taufname der Mutter lautet **Caetana**. Auch bei ihrer eigenen Heirat,
-bei Narcizas Taufe und bei Narcisas Heirat steht eindeutig **Caetana Maria**,
-nicht Catharina. Erst ihr Sterbeeintrag von 1891 nennt sie **Catarina Maria**.
-Die beiden Formen gehören aufgrund der übereinstimmenden Ehe- und
-Elternangaben sicher zu derselben Person.
+bei Narcizas Taufe, bei Narcisas Heirat und im Sterbeeintrag von 1891
+steht **Caetana Maria**, nicht Catharina. Die später verwendete Form
+Catarina ist eine Lesart, kein eigener Belegname.
 
 Taufe:
 
@@ -56,9 +60,9 @@ Taufe:
   Eintrag nicht ausdrücklich als Kalenderdatum ausgeschrieben
 - Ort: Torre
 - Eltern: **Manoel Sol** und **Maria Joaquina**
-- väterliche Großeltern: **Alexandre Manoel** und
+- mütterliche Großeltern: **Alexandre Manoel** und
   **Joaquina da Affonseca**, aus der Vila de Avelar
-- mütterliche Großeltern: **João Mendes Sol** und **Anna Maria**, aus Torre
+- väterliche Großeltern: **João Mendes Sol** und **Anna Maria**, aus Torre
 - Paten: **Manoel Dias Magro** und seine Frau **Caetana Maria**, aus
   Casal de João Bom
 
@@ -98,7 +102,7 @@ Quelle:
 Tod:
 
 - **14. Februar 1891**, 3 Uhr morgens, in ihrem Haus in Torre
-- eingetragen als **Catarina Maria**, 73 Jahre alt
+- eingetragen als **Caetana Maria**, 73 Jahre alt
 - Witwe des **João Rodrigues Gatto**
 - Eltern: **Manoel Joaquim [Sol?]** und **Maria Joaquina**, Arbeiter aus Torre
 - hinterließ Kinder, kein Testament
@@ -114,6 +118,52 @@ Quelle:
   `PT_ADLRA_PRQ_PANS08_003_0035_m0002.jpg` und
   `PT_ADLRA_PRQ_PANS08_003_0035_m0003.jpg`, Eintrag Nr. 2;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/b6f8033380e14999b163dbaa0bcc87fb)
+
+## Avelar: Heirat Alexandre × Joaquina Maria
+
+Originalscan aus der Pfarrei Avelar (Espírito Santo), Kreis Ansião.
+Heiratsbuch 1765–1799. Die rechte Seite von Bild `m0013` enthält
+**zwei** Heiratseinträge; sie dürfen nicht vermischt werden.
+
+### Oberer Eintrag
+
+Am linken Rand: `Castello` / `Alexandre` / `com` / `Joaquina M.a`.
+`Castello` ist der Ort. Eheleute: **Alexandre** und **Joaquina Maria**.
+Familiennamen wie `Furtado` oder `Affonseca` stehen im Randvermerk nicht.
+
+Tag **7** gesichert. **7. Februar 1774** ist die bessere Datumslesung;
+**7. September 1773** und **1784** werden nicht weiter verwendet.
+
+### Unterer Eintrag – anderes Paar
+
+Darunter: `Castello` / `Antonio Simões` / `com` / `M.a Joaquina`
+(10. Februar 1774). Andere Frau; Vater **Martins de França**. Siehe
+[`evidenz/linie-torre/maria-joaquina-simoes-1774.md`](../evidenz/linie-torre/maria-joaquina-simoes-1774.md).
+
+### Zuordnung zu Caetanas Großeltern
+
+Caetanas Taufe nennt als **mütterliche** Großeltern **Alexandre Manoel**
+× **Joaquina da Affonseca** aus der Vila de Avelar. Der Avelar-Eintrag
+nennt **Alexandre** × **Joaquina Maria** aus Castello in derselben
+Pfarrei, wahrscheinlich 1774. Vornamen, Pfarrei und Chronologie passen
+zu einem Sohn **Manoel (Joaquim) Sol**. Das ist **wahrscheinlich**, nicht
+gesichert. `Furtado`/`Affonseca` und Elternzeilen aus diesem Eintrag
+werden nicht als Tatsache übernommen.
+
+**Theodora Maria** (Taufe 9.1.1781, Rapoula, Eltern Alexandre Manoel
+Furtado × Marianna da Affonseca) ist **nicht** Maria Joaquina Sol.
+Siehe [`evidenz/linie-torre/theodora-maria-1781.md`](../evidenz/linie-torre/theodora-maria-1781.md)
+und [`avelar-kandidaten.md`](../evidenz/linie-torre/avelar-kandidaten.md).
+
+Nächster Schritt: Taufe des **Manoel Joaquim Sol** in Avelar als Kind
+genau dieses Paares.
+
+Quelle:
+
+- `PT/ADLRA/PRQ/PANS03/002/0003`,
+  `narcisa-records/casamento-avos-avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg`
+  bzw. `evidenz/scans/avelar/…_m0013.jpg`, rechte Seite, oberer Eintrag;
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/0d2b8ecec0884bd88ed2070aa6b46241)
 
 ## Tochter: Maria da Piedade
 

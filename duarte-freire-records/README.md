@@ -1,5 +1,8 @@
 # Duarte/Freire Bicho – geprüfte Kirchenbuchfunde
 
+Prüfbare Einzelblätter mit Scanpfad und Transkript:
+[`evidenz/linie-duarte/`](../evidenz/linie-duarte/G2-heirat-1907.md).
+
 Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
 Coimbra. Schreibweisen und Ortsnamen werden nach den jeweiligen Einträgen
 wiedergegeben.
