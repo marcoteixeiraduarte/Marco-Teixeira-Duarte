@@ -124,9 +124,25 @@ In der Nähe von Cumeeira / Ansião gibt es **keine** Pfarrei São Cosme
 | Nabais / Aldeias (São Cosme), Gouveia | ~90 km | echte Pfarreien São Cosme, aber außerhalb des üblichen Radius und ohne Sarzedela |
 | Gondomar / Vale (Famalicão) | 140–160 km | echte Pfarreien, zu weit für caseiro-Paten aus Cabeça Redonda |
 
-Kein Kandidat erfüllt **Ort und** Pfarrei zugleich. Die Pfarrei der
-Paten bleibt **unidentifiziert**. Der Suchradius für Custodio × Joana
-bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
+Kein Kandidat erfüllt **Ort und** Pfarrei zugleich.
+
+São Cosme **existiert** als Heiliger und als Pfarreiname in Portugal.
+Im Kreis Ansião/Penela 1879 **nicht**: die Diözese Coimbra führt dort
+Alvorge, Ansião, Avelar, Chão de Couce, Lagarteira, Orada,
+Pousaflores, Santiago da Guarda und Torre — keine São Cosme.
+Eine lokale Kapelle dieses Patroziniums ist hier nicht nachgewiesen.
+Die nächsten echten São-Cosme-Pfarreien derselben alten Diözese lagen
+in Gouveia (Nabais, Alrote/Aldeias).
+
+`freguezia de São Cosme` kann deshalb auch eine **andere** Kirche,
+Kapelle oder Pfarrei sein: der Scan ist klein, die Lesung nicht fest.
+Lokal am ehesten verwechselbar: **São João** (Ferraria / Figueiras de
+S. João; Fest in Sarzedela), außerdem São Miguel (Penela),
+São Domingos (LAR), São Sebastião (Cumeeira) oder Chão de Couce.
+Eine Kapelle würde der Priester gewöhnlich nicht `freguezia` nennen.
+
+Die Pfarrei der Paten bleibt **unidentifiziert**. Der Suchradius für
+Custodio × Joana bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
 
 ### ATANHA / ALVORGE
 
