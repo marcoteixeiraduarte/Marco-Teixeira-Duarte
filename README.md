@@ -36,6 +36,7 @@ Torre de Vale de Todos.
 | `Valle de Todos` / `Torre de Valle de Todos` | Taufe Joze Maria da Ascenção, 6.5.1880; Taufe Maria da Piedade, 9.10.1878; Taufe Anna, 14.7.1845 |
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
 | `São Jorge` / `S. Jorge` | Taufe Manuel, 1.8.1872, Rand und Fließtext `logar de São Jorge` dieser Pfarrei; Heirat João Roiz Gato, 16.11.1837 |
+| `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
 
 `São Jorge` ist **kein** eigener ferner Weiler und keine fremde Pfarrei.
 Lokal ist es die kleine Kapelle im Weiler Vale de Todos (Auftraggeber).
@@ -109,16 +110,22 @@ Podra / Cumeeira.
 | `Alvorge` | Sterbevermerk Joze Maria da Ascenção, 1948, an der Taufe der Ehefrau |
 | `Bemposta`, Pfarrei `Alvorge` | Herkunft Luiz Guiomars, Taufe João 1874 |
 
-### VALLE DO PIÃO / Pião / LAGARTEIRA
+### VALLE DO PIÃO / Pião / LAGARTEIRA (LAR)
 
-Identifizierter Weiler der Pfarrei São Domingos da Lagarteira
-(PANS05), nicht der Pfarrei Torre.
+Identifizierter Weiler der Pfarrei **São Domingos da Lagarteira**
+(DigitArq `PANS05`; Auftraggeber: **LAR**), nicht der Pfarrei Torre.
 
 | Quellenform | Maßgebliche Quelle |
 | --- | --- |
 | `Valle do Pião` | Taufe Maria, 5.3.1882, Lagarteira |
 | `Pião desta freguezia` | dieselbe Doppelseite, Taufe Manuel Nr. 2 |
-| `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
+
+`Pião` / `Valle do Pião` gehört zu **LAR / Lagarteira**. Deshalb steht
+Marias Taufe 1882 in `PANS05` und nicht in Torre (`PANS08`). Die
+Pfarreigrenze Torre / Lagarteira liegt an diesem Weiler (Sterbeeintrag
+José Pedro dos Reis, 2.10.1903: `linha divisoria` zwischen der
+freguezia de Lagarteira und Nossa Senhora da Graça da Torre de Vale
+de Todos).
 
 ## Archiv der Match-Scans
 

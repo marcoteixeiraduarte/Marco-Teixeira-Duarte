@@ -75,8 +75,8 @@ Mutter, `Guiomar` der spätere Ehename. Die Blattform der Mutter
 
 Dieselbe Doppelseite nennt **Pião** ausdrücklich als Weiler
 **dieser** Pfarrei Lagarteira (Taufe Manuel, Nr. 2, Vater natürlich
-`do Pião desta freguezia`). Deshalb fehlt Maria in den Torre-Taufen
-1882.
+`do Pião desta freguezia`). Auftraggeber: **LAR / Lagarteira**.
+Deshalb fehlt Maria in den Torre-Taufen 1882.
 
 ### Randvermerk zur Heirat
 

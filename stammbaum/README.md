@@ -84,8 +84,8 @@ Maria
 Eltern **Joaquim Rodrigues Feio** × **Maria Helena** – **passen**.
 `Helena` und `Guiomar` stehen nicht im Taufnamen. Die Blattform der
 Mutter `Maria Helena Contente` hängt `Contente` an; das ist der Name
-ihres Vaters **Jozé Contente**. `Pião` ist Weiler der Pfarrei
-**São Domingos da Lagarteira**, nicht von Torre.
+ihres Vaters **Jozé Contente**. `Pião` gehört zu **LAR /
+Lagarteira** (Pfarrei São Domingos da Lagarteira), nicht zu Torre.
 
 #### Joze Maria da Ascenção
 
@@ -254,7 +254,7 @@ Identität.
 | `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
-| `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |
+| `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira (LAR) | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |
 | `São Jorge` bei Manuel 1872 und bei † José Mendes / Palmira | Taufe: `logar de São Jorge` der Pfarrei Torre; lokal die Kapelle in Vale de Todos | Quellenform belassen; nicht mit Chão de Couce oder Porto de Mós zusammenwerfen |
 | `Ribeira`, `Angónia`, `Penela`, `Coimbra`, `Lübeck` | hier nicht gegen Kirchenbuch dieses Ereignisses gehalten | offen bzw. Zivilstand |
 

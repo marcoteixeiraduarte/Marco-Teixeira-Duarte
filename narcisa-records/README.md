@@ -166,8 +166,9 @@ Quelle:
 ### Tod des Ehemanns
 
 **José Pedro dos Reis** wurde am **2. Oktober 1903**, 8 Uhr morgens, tot an
-der Grenze zwischen Pião und der Pfarrei São Domingos da Lagarteira
-aufgefunden.
+der `linha divisoria` zwischen der Pfarrei **Lagarteira** und dieser
+Pfarrei Nossa Senhora da Graça da Torre de Vale de Todos aufgefunden.
+`Pião` gehört zu Lagarteira (LAR), nicht zu Torre.
 
 - 49 Jahre alt, Kaufmann
 - geboren und wohnhaft im `lugar da Pragoza`
