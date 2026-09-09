@@ -36,5 +36,8 @@ selbst ist hier nicht geprüft.
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0017`,
-  `PT-ADLRA-PRQ-PANS08-001-0017_m0007.jpg`, Eintrag Nr. 14;
+  `PT-ADLRA-PRQ-PANS08-001-0017_m0007.jpg` (Eintrag Nr. 14, rechte
+  Buchseite) und Folgeseite
+  `PT-ADLRA-PRQ-PANS08-001-0017_m0008.jpg` (Beginn der nächsten
+  Doppelseite; Schlussformel des vorigen Eintrags);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/b03dbf2707414bd0b03f5d6d78f62181)

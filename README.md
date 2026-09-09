@@ -87,6 +87,15 @@ Identifizierter Weiler der Pfarrei São Domingos da Lagarteira
 | `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
 | `São Jorge` | Taufe Manuel, 1.8.1872, Weiler der Pfarrei Torre |
 
+## Archiv der Match-Scans
+
+Jeder geprüfte Treffer liegt als Bild im jeweiligen Aktenordner.
+DigitArq-Dateien sind meist schon eine **Doppelseite** (verso +
+recto). Reicht der Eintrag über die Bildgrenze, kommt die
+**Folgeseite** dazu – wie bei João Teixeira 1879 (`m0015` + `m0016`),
+der Heirat Duarte 1907 (`m0015` + `m0016`), Catarina 1891 (`m0002` +
+`m0003`) und Manuel 1872 (`m0007` + `m0008`).
+
 ## Geprüfte Personenakten
 
 - [Narciza / Caetana / Maria da Piedade](narcisa-records/README.md)

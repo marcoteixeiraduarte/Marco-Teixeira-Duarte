@@ -43,7 +43,9 @@ festgehalten (Lesungen 1907 und 1909).
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0019`,
-  `PT-ADLRA-PRQ-PANS08-001-0019_m0007.jpg`, Eintrag vom 10.5.1874;
+  `PT-ADLRA-PRQ-PANS08-001-0019_m0007.jpg` (Doppelseite: Eintrag
+  beginnt auf der linken Buchseite, Schluss und Paten auf der
+  rechten);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/0891824574de4cadb67f50b56c8b0066)
 
 ## Maria, Taufe 5. März 1882 (Lagarteira)
@@ -86,5 +88,6 @@ Form gesichert.
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS05/001/0027`,
-  `PT-ADLRA-PRQ-PANS05-001-0027_m0003.jpg`, Eintrag Nr. 3;
+  `PT-ADLRA-PRQ-PANS05-001-0027_m0003.jpg` (Doppelseite; Eintrag
+  Nr. 3 vollständig auf der rechten Buchseite, inkl. Randvermerk);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/2c7b220442234ab791fe60ff866e08f2)

@@ -82,5 +82,6 @@ Taufeintrag. `Neta` bei der Mutter steht 1845 nicht; 1880 heißt sie
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0004`,
-  `PT-ADLRA-PRQ-PANS08-001-0004_m0019.jpg`;
+  `PT-ADLRA-PRQ-PANS08-001-0004_m0019.jpg` (Doppelseite; Anna auf
+  der linken Buchseite bis zur Unterschrift);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)
