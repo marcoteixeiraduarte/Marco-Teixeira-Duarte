@@ -26,7 +26,7 @@ João Gato gehört **nicht** hierher. Das ist der 4. Grad **materno**.
 | Ihr Ort 1878 | Vallejazede, Pfarrei Alvorge | sicher in der Heirat des Sohnes |
 | Ihr Ort 1903 | Aljazede, Pfarrei Alvorge | sicher im Tod des Sohnes |
 | Seine Eltern | Manoel Pedro × Joaquina Maria, Pragosa | sicher |
-| Ihre Eltern | Joaquim Duarte × Florencia Maria, Alvorge | Florencia sicher; Duarte wahrscheinlich |
+| Ihre Eltern | Joaquim […] × Florencia Maria, Alvorge | Florencia sicher; Joaquims Nachname offen |
 
 Die drei Ortsformen **Vale Paio**, **Vallejazede** und **Aljazede** liegen
 alle in der Pfarrei Alvorge. Sie werden nicht zu einem Ort zusammengezogen.
@@ -86,13 +86,49 @@ Scan. Nicht mit einem anderen Joaquim vertauschen.
 > e de Rosa Maria, natural do Vallejazede, freguezia de Alvorge
 
 Damit ist die Taufe des José Pedro **in dieser Pfarrei** (Torre),
-nicht in Alvorge. Band: `PT/ADLRA/PRQ/PANS08/001/0004` (1842–1859).
-Der eigene Taufeintrag ist noch nicht vorgelegt.
+nicht in Alvorge. Der Eintrag liegt vor: Quelle 3.
 
-Altersrechnung aus 24 Jahren am 8. Mai 1878 und 49 Jahren am 2. Oktober 1903:
-Geburt **wahrscheinlich Oktober 1853 bis Mai 1854**.
+## Quelle 3 — Taufe des Sohnes José, 19. Dezember 1854
 
-## Quelle 3 — Tod des Sohnes, 2. Oktober 1903
+- Archiv: `PT/ADLRA/PRQ/PANS08/001/0004`
+- Beginn (Seite 56, unten rechts, Rand José / Pragosa):
+  `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0056.jpg`
+- Fortsetzung (Seite 57, oben links):
+  `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0057.jpg`
+- Ausschnitte: `…_page_0056_jose-beginn.jpg`, `…_page_0057_jose-eintrag.jpg`
+
+### Transkript
+
+Beginn:
+
+> Aos dezanove dias do mez de Dezembro de mil oito centos e cincoenta e quatro
+> nesta Igreja parochial de Nossa Senhora da Graça da Torre de Valle de Todos
+> […] baptizei solemnemente […] e puz os Santos Oleos a Joze
+> nascido aos vinte e quatro dias do mez de Novembro [proximo preterito]
+
+Eltern und Großeltern:
+
+> filho legitimo de Manoel Pedro dos Reis e de Roza Maria do lugar da Fragosa / Pragosa
+> neto paterno de Manoel Pedro e de Joaquina Maria do dito lugar da Pragosa
+> e materno de Joaquim [Duarte / Fre…] e de Florencia Maria
+> do lugar de Valle paio / Vallejazede, freguesia de Alvorge
+
+Paten:
+
+> José Louro […] Castello, pelo qual tocou Manoel Caetano Respicio
+> madrinha Maria Joaquina, viuva, lugar de Villanova de Alvorge
+
+Priester: João Gomes Freire da Silva.
+
+Der Nachname des mütterlichen Großvaters bleibt **offen** (Heirat 1851:
+Joaquim Duarte; Taufzeile beginnt `Joaquim Fre-`). Nicht glätten.
+
+Geburt 24. November 1854 gegen die späteren Altersangaben:
+am 8. Mai 1878 wären das 23 Jahre und 5 Monate (eingetragen 24);
+am 2. Oktober 1903 48 Jahre und 10 Monate (eingetragen 49).
+Das ist übliche Aufrundung, kein zweiter José.
+
+## Quelle 4 — Tod des Sohnes, 2. Oktober 1903
 
 - Scan: `narcisa-records/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
 - Akt Nr. 10
@@ -107,9 +143,8 @@ Blatt noch nicht festgehalten.
 
 ## Nächster Rückwärtsschritt
 
-1. Taufe José Pedro dos Reis, Pragosa, Band 001/0004, Fenster 1853–1854.
-2. Sterbeeinträge Manoel Pedro dos Reis und Roza Maria
+1. Sterbeeinträge Manoel Pedro dos Reis und Roza Maria
    (Torre 1878–1911 oder Alvorge).
-3. Taufen der beiden Eheleute selbst erst danach.
+2. Taufen der beiden Eheleute selbst erst danach.
 
 Kein Avelar- und kein Gato-Eintrag an dieses Paar hängen.

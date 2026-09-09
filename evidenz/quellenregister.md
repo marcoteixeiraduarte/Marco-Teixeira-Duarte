@@ -27,5 +27,7 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-OBI-1903-10 | Tod José Pedro dos Reis | `narcisa-records/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg` |
 | TVT-CAS-REIS-PAIS | Heirat Manoel Pedro dos Reis × Roza Maria, Nachtrag | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg` |
 | TVT-CAS-REIS-PAIS-CROP | derselbe Nachtrag, nur der Eintrag | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0080_reis-nachtrag.jpg` |
+| TVT-BAP-1854-JOSE-A | Taufe José Pedro, Beginn 19.12.1854 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0056.jpg` |
+| TVT-BAP-1854-JOSE-B | Taufe José Pedro, Fortsetzung | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0057.jpg` |
 | AVL-BAP-1781-THEO | Taufe Theodora Maria | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANSO3-001-0003_m0028.jpg` |
 | AVL-CAS-1774-13 | Zwei Heiraten: Alexandre×Joaquina und Antonio Simões×Maria Joaquina | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg` (Kopie: `narcisa-records/casamento-avos-avelar/`) |

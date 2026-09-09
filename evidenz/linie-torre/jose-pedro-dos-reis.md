@@ -8,12 +8,26 @@ Seine Eltern sind der 4. Grad **paterno**: [G4-paterno-reis](G4-paterno-reis.md)
 | Feld | Wert | Gewissheit |
 |---|---|---|
 | Name | José / Jozé Pedro dos Reis | sicher |
-| Heirat | 8. Mai 1878, 24 Jahre, Pragosa | sicher |
-| Taufe | in dieser Pfarrei (Torre), Ort Pragosa | sicher genannt 1878; Eintrag offen |
+| Geburt | 24. November 1854, Pragosa / Fragosa | sicher |
+| Taufe | 19. Dezember 1854, Torre | sicher |
+| Heirat | 8. Mai 1878, eingetragen 24 Jahre, Pragosa | sicher |
 | Tod | 2. Oktober 1903, 8 Uhr, Grenze Pião / Lagarteira | sicher |
-| Alter im Tod | 49 | sicher im Eintrag; Rechnung ~1853/1854 |
+| Alter im Tod | 49 | sicher im Eintrag; zur Geburt 1854 sind das 48 Jahre 10 Monate |
 | Frau | Narcisa / Narciza da Conceição | sicher |
 | Eltern | Manoel Pedro dos Reis × Rosa / Roza Maria | sicher |
+
+## Quelle Taufe
+
+- Archiv: `PT/ADLRA/PRQ/PANS08/001/0004`
+- Beginn: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0056.jpg`
+- Fortsetzung: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0057.jpg`
+- Rand: José / Pragosa
+
+> Aos dezanove dias do mez de Dezembro de mil oito centos e cincoenta e quatro
+> […] oleos a Joze nascido aos vinte e quatro dias do mez de Novembro
+> filho legitimo de Manoel Pedro dos Reis e de Roza Maria do lugar da Fragosa
+
+Elternblatt: [G4-paterno-reis](G4-paterno-reis.md).
 
 ## Quelle Heirat
 
