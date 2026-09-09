@@ -1,15 +1,39 @@
 # Torre — José Pedro dos Reis
 
+3. Grad der Torre-Linie (Ehemann der Narciza).
+Seine Eltern sind der 4. Grad **paterno**: [G4-paterno-reis](G4-paterno-reis.md).
+
 ## Identität
 
 | Feld | Wert | Gewissheit |
 |---|---|---|
 | Name | José / Jozé Pedro dos Reis | sicher |
-| Heirat | 8. Mai 1878, 24 Jahre, Pragosa / Fragosa | sicher |
+| Heirat | 8. Mai 1878, 24 Jahre, Pragosa | sicher |
+| Taufe | in dieser Pfarrei (Torre), Ort Pragosa | sicher genannt 1878; Eintrag offen |
 | Tod | 2. Oktober 1903, 8 Uhr, Grenze Pião / Lagarteira | sicher |
-| Alter im Tod | 49 | sicher im Eintrag, ungefähre Rechnung ~1854 |
-| Frau | Narcisa da Conceição | sicher |
-| Eltern | Manuel / Manoel Pedro dos Reis × Roza Maria [da Conceição] | sicher |
+| Alter im Tod | 49 | sicher im Eintrag; Rechnung ~1853/1854 |
+| Frau | Narcisa / Narciza da Conceição | sicher |
+| Eltern | Manoel Pedro dos Reis × Rosa / Roza Maria | sicher |
+
+## Quelle Heirat
+
+- Archiv: `PT/ADLRA/PRQ/PANS08/002/0022`
+- Scan: `narcisa-records/casamento/1878/PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
+- Akt Nr. 9, Rand: Pragosa e Torre / José Pedro dos Reis e Narciza da Conceição
+
+### Transkript
+
+> Aos oito dias do mez de maio de mil e oito centos setenta e oito
+> […] José Pedro dos Reis […] vinte e quatro annos, solteiro, negociante,
+> natural e morador do lugar da Pragosa […] onde foi baptizado,
+> filho legitimo de Manoel Pedro dos Reis, natural do dito lugar da Pragosa,
+> e de Rosa Maria, natural do Vallejazede, freguezia de Alvorge
+> […] Narciza da Conceição […] vinte e dois annos […]
+> filha de João Rodriguez Gato, natural do lugar de São Jorge desta dita freguezia,
+> e de Caetana Maria, natural do dito lugar [da Torre]
+
+Zeugen: Francisco Rodriguez Gato und Manoel dos Santos, beide verheiratet,
+Landwirte, Torre. Die Braut unterschreibt nicht.
 
 ## Quelle Tod
 
@@ -23,26 +47,6 @@
 > Aos dois dias do mez de Outubro de mil nove centos e tres […] ás oito horas da manhã
 > […] casado com Narcisa da Conceição
 > […] filho legitimo de Manuel Pedro dos Reis […] e de Roza Maria da Conceição
-> […] natural de Alvaredo / Aljazede [?], freguesia de Alvorge
+> […] natural de Aljazede, freguesia de Alvorge
 
-## Quelle Heirat der Eltern
-
-- Scan: `narcisa-records/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
-- Der Band enthält mehrere Einträge. Der verspätet nachgetragene Eintrag von Manoel Pedro dos Reis steht unten rechts, mit dem Vermerk, er hätte auf Folio 70 gehört.
-
-### Was sicher ist
-
-- Bräutigam Manoel Pedro dos Reis
-- seine Eltern Manoel Pedro × Joaquina Maria
-- Brauteltern Joaquim […] × Florencia Maria, Pfarrei Alvorge
-- Zeugen José António Freire da Paz und José Louro
-
-### Was offen bleibt
-
-| Feld | README bisher | Scan jetzt | Status |
-|---|---|---|---|
-| Datum | 23. März 1851 | 23. März, Jahresziffer prüfen (1851 / anderes) | offen |
-| Brautname | Roza Maria | Roza Maria / Maria de […] | offen |
-| Brautort | Valle paio | Valle […] in Alvorge | wahrscheinlich Alvorge |
-
-Nicht stillschweigend auf 1851 und Roza Maria festnageln, bis die Jahres- und Namenszeile noch einmal vergrößert gelesen ist.
+Schreibweisen Pragosa / Fragosa stehen nebeneinander und werden nicht geglättet.

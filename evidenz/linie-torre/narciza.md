@@ -11,7 +11,7 @@ Getrennte Spur. Nicht an die Duarte-Urgroßeltern gehängt.
 | Geburt | 19. des Vormonats zur Zeremonie vom 6. November 1856 | wahrscheinlich 19. Oktober 1856 |
 | Frühere Angabe | 19. September 1856 | offen, widerspricht „mez passado“ zu November |
 | Zeremonie | 6. November 1856, Torre | sicher |
-| Eltern | João Rodrigues Gatto × Caetana Maria | sicher |
+| Eltern | João Rodrigues Gatto × Caetana Maria | sicher; das ist der 4. Grad **materno** |
 | Heirat | 8. Mai 1878, Torre, Akt Nr. 9 | sicher |
 | Ehemann | José Pedro dos Reis | sicher |
 

@@ -30,12 +30,21 @@ Joaquina Ignácia (1886)
 
 ## Zweite Spur — Torre, nicht an G2 gehängt
 
+Zählung, wenn José Pedro × Narciza der 3. Grad sind:
+
+```
+3  José Pedro dos Reis × Narciza da Conceição
+4  paterno  Manoel Pedro dos Reis × Roza Maria
+4  materno  João Rodrigues Gato × Caetana Maria
+```
+
 | Feld | Eintrag | Gewissheit | Blatt |
 |---|---|---|---|
-| Narciza da Conceição | Taufe 1856, Heirat 1878 | sicher | [linie-torre/narciza](linie-torre/narciza.md) |
-| Ehemann | José Pedro dos Reis | sicher | [linie-torre/jose-pedro-dos-reis](linie-torre/jose-pedro-dos-reis.md) |
-| Ihre Mutter | Caetana Maria | sicher | [linie-torre/caetana-maria](linie-torre/caetana-maria.md) |
-| Avelar-Ahnen | Alexandre Manoel × Joaquina da Affonseca | sicher als Großeltern der Caetana; Heirat offen | [linie-torre/avelar-kandidaten](linie-torre/avelar-kandidaten.md) |
+| 3. Grad, Mann | José Pedro dos Reis | sicher | [linie-torre/jose-pedro-dos-reis](linie-torre/jose-pedro-dos-reis.md) |
+| 3. Grad, Frau | Narciza da Conceição | sicher | [linie-torre/narciza](linie-torre/narciza.md) |
+| 4. Grad **paterno** | Manoel Pedro dos Reis × Roza Maria | sicher als Eltern des José Pedro | [linie-torre/G4-paterno-reis](linie-torre/G4-paterno-reis.md) |
+| 4. Grad materno | João Gato × Caetana Maria | sicher als Eltern der Narciza | [linie-torre/caetana-maria](linie-torre/caetana-maria.md) |
+| 5./6. Grad materno | Alexandre Manoel × Joaquina da Affonseca | sicher als Großeltern der Caetana; Heirat offen | [linie-torre/avelar-kandidaten](linie-torre/avelar-kandidaten.md) |
 
 ## Was bewusst nicht vermischt wird
 
