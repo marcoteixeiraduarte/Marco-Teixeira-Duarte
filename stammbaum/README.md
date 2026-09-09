@@ -248,7 +248,7 @@ Identität.
 | `Pragosa` bei José Mendes 1914, Palmira 1912 | diese Einträge hier nicht geprüft | erst Quelle, dann Form |
 | `Pragosa` bei Maria Célia 1959 | Zivilstand | heutige Form möglich |
 | `Pragosa` als Weiler der Reis-Linie 1896/1903 | Sterbeakten: `Pragoza` | Quellenform `Pragoza` |
-| `Figueiras Podres` | historischer Name; Taufen: `Figueira Podra`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen; heutige Form nur als Zuordnung |
+| `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); Taufen auch `Figueira Podra` / `Figueira Podres`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
 | `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
 | `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |

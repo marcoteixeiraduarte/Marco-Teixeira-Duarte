@@ -65,9 +65,13 @@ Ansião.
 
 | Form | Rolle | Maßgebliche Quelle |
 | --- | --- | --- |
-| `Figueira Podra` | Schreibweise der geprüften Taufen | João 1879; Joaquina 1886; Margarida 1897, Cumeeira |
-| `Figueiras Podres` | historischer Ortsname; Form auf dem Blatt | bleibt **am Ereignis** |
+| `Figueira Podra` | frühere Lesung der Taufen 1879/1886/1897 | kann dasselbe Wortende meinen |
+| `Figueiras Podres` / `Figueira Podres` | historischer Ortsname; Blatt; OSM; im Akt 1879 und 1886 das Wortende **-es** | bleibt **am Ereignis** (`Figueiras Podres`) |
 | `Figueiras de S. João` | heutige Zuordnung | Ortsregister, nicht statt der historischen Form auf die Karte |
+
+**Podres**, nicht **Podre**. Das -s gehört zum Ortsnamen (plural). `Podre`
+ist nur die Wörterbuchform des Adjektivs. `Figueira` (singular) und
+`Figueiras` (plural) stehen nebeneinander; das ist derselbe Ort.
 
 Nicht zusammenwerfen mit **Ferraria de S. João** (Weiler der Pfarrei
 Cumeeira) und nicht mit **Venda das Figueiras** (ebenfalls Cumeeira).
