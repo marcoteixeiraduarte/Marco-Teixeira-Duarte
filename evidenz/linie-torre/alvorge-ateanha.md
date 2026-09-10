@@ -29,8 +29,21 @@ Fenster: Taufe **etwa 1820–1835**.
 
 Bücher zuerst:
 
-- Batismos Alvorge **1808–1822**
-- Batismos Alvorge **1822–1852**
+- Batismos Alvorge **1808–1822** — `PT/ADLRA/PRQ/PANS01/001/0003`, 100 Bilder.
+  DigitArq: `2b9730bbd061439faf679c501daa4705`
+- Batismos Alvorge **1822–1852** — `PT/ADLRA/PRQ/PANS01/001/0004`, 244 Bilder.
+  DigitArq: `4b820d7bb81e4910a88430792e576518`
+
+Lokale Kopien (nicht im Git): `alvorge-records/baptismos-1822-1852/`.
+Probe: Seite 30 = Januar 1826, Seite 50 = Februar 1828.
+
+## Ausgeschlossen
+
+**Roza**, Taufe 22. Januar 1826, geboren 14. Januar, Rand Vale Galego / Valgalego.
+Eltern **Francisco José Giraldes × Thereza Maria**. Nicht Joaquim × Florencia.
+Scan: `alvorge-records/baptismos-1822-1852/PT-ADLRA-PRQ-PANS01-001-0004_m0030.jpg`.
+
+Ateanha kommt in diesem Band vor (z. B. Seite 20). Noch kein Anschluss an Roza.
 
 Im Rand nacheinander: Vale Paio, Aljazede/Vallejazede, **Ateanha**,
 Vila Nova. Nicht den ersten Treffer „Roza Maria“ nehmen.
