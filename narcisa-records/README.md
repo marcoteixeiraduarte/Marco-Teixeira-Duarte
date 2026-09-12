@@ -255,7 +255,9 @@ Folio mit Vermerk „gehörte auf fl. 70“) gehört damit zu diesem Paar.
 
 Eine frühere Lesung „Manuel Pedro Coelho“ in der Heirat 1878 ist
 gegen den aktuellen Scan und das Evidenzblatt **nicht** beibehalten;
-dort steht `Manoel Pedro dos Reis`.
+dort steht `Manoel Pedro dos Reis`. Bei der nächsten Gegenlese denselben
+Scan (`…0022_m0006`) bewusst noch einmal darauf prüfen. Der
+Elternanschluss über die Taufe 1854 hängt nicht von dieser Zeile ab.
 
 `Valle paio` (1851), `Vallejazede` (1878) und `Aljazede` (1903) bleiben
 getrennte Quellenformen in Alvorge; **Ateanha** ist nur Suchort

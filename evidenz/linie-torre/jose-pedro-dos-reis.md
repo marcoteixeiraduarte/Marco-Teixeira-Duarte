@@ -49,6 +49,12 @@ Elternblatt: [G4-paterno-reis](G4-paterno-reis.md).
 Zeugen: Francisco Rodriguez Gato und Manoel dos Santos, beide verheiratet,
 Landwirte, Torre. Die Braut unterschreibt nicht.
 
+Gegenlese offen: Eine ältere Lesung las in der Vaterzeile zeitweise
+`Manuel Pedro Coelho`. Am vorliegenden Scan und im Blatt
+[G4-paterno-reis](G4-paterno-reis.md) steht `Manoel Pedro dos Reis`.
+Die Zeile bei nächster Prüfung des Scans bewusst kontrollieren; der
+Elternanschluss selbst ist durch die Taufe 1854 unabhängig davon sicher.
+
 ## Quelle Tod
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/003/0047`

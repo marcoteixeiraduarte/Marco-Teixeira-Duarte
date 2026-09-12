@@ -162,9 +162,11 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
 | 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
-| 8 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |
-| 9 | Narciza † nach 2.10.1903: Zivilregister Ansião oder andere Pfarrei |
-| 10 | Patenort João 1879: `Sarrazina` / São Cosme unidentifiziert (nicht Sarzedela setzen) |
+| 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): frühere Lesung `Manuel Pedro Coelho` bewusst gegen `Manoel Pedro dos Reis` prüfen — Elternanschluss über Taufe 1854 bleibt sicher |
+| 9 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |
+| 10 | Narciza † nach 2.10.1903: Zivilregister Ansião oder andere Pfarrei |
+| 11 | Patenort João 1879: `Sarrazina` / São Cosme unidentifiziert (nicht Sarzedela setzen) |
+| — | Sterbeband `PANS08/003/0001` (16 neue Bilder): eigener Arbeitsgang, nicht mit den Reis-Belegen vermengen |
 
 ---
 
