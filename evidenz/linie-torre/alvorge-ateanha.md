@@ -36,7 +36,7 @@ Bücher zuerst:
 
 Lokale Arbeitskopien (gitignore, nicht im PR-Diff als JPG): `alvorge-records/`.
 Download-Weg und UUIDs: [`alvorge-records/README.md`](../../alvorge-records/README.md).
-Stand: 1808–1822 vollständig; 1822–1852 m0001–m0150.
+Stand: 1808–1822 vollständig; 1822–1852 **244/244**.
 Ateanha/Atianha erscheint im Band (z. B. `…0004_m0089`, `…0004_m0091`).
 
 ## Ausgeschlossen

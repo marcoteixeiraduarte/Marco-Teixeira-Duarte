@@ -36,7 +36,7 @@ DigitArq-UUIDs: `2b9730bbd061439faf679c501daa4705` (0003),
 Lokal abgelegt:
 
 - `alvorge-records/baptismos-1808-1822/` — **100/100** JPG
-- `alvorge-records/baptismos-1822-1852/` — **150/244** JPG (m0001–m0150; m0151–m0244 offen)
+- `alvorge-records/baptismos-1822-1852/` — **244/244** JPG
 
 ### Suchfenster
 
@@ -68,7 +68,7 @@ Ohne lokale JPG war das im PR nicht sichtbar.
 OCR (Tesseract por) auf m0020–m0120 nur als Hinweisgeber; Handschrift zu unsicher
 für alleinige Entscheidung.
 
-**Noch offen:** Vollzeilen m0001–m0150 + Restband m0151–m0244; 0003 systematisch.
+**Noch offen:** Vollzeilen m0001–m0244 und Band 0003 systematisch.
 
 ### Elternheirat Joaquim × Florencia (Alvorge)
 

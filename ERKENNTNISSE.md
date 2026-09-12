@@ -193,7 +193,7 @@ Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
 
 Lokale Ablage (gitignore) für Volllese:
 
-- `alvorge-records/` — Batismos 1808–1822 (100) + 1822–1852 m0001–m0150
+- `alvorge-records/` — Batismos 1808–1822 (100) + 1822–1852 (**244**)
 - `torre-records/` — Batismos 1810–1842 (143)
 
 Ateanha/Atianha ist im Alvorge-Band sichtbar (z. B. m0089/m0091), hat aber
