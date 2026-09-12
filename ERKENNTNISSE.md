@@ -25,16 +25,20 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 
 ---
 
-## Zwei getrennte Spuren
+## Zwei Familienarme — ein Cumeeira-Archiv dazwischen
 
 ```
 Ramo paterno (Duarte / Freire Bicho)     Ramo materno (Torre / Reis / Teixeira …)
 Cumeeira · Carrasqueiras ·               Torre · Pragoza · Avelar ·
 Cabeça Redonda · Figueiras Podres        Lagarteira / Pião · Alvorge
+        └──────── AUC PNL01 (Cumeeira) ────────┘
+                  Duarte + Teixeira teilen die Bücher
 ```
 
 Die Duarte-Urgroßeltern sind **nicht** an die Torre-/Narciza-Spur
-gehängt. Gemeinsam ist nur der spätere Familienrahmen auf dem Blatt.
+gehängt. **Teixeira** steht familiär im materno-Arm, archivisch aber
+in denselben Cumeeira-Bänden wie Duarte (`PNL01` / AUC). Archive und
+Links: [`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md).
 
 ---
 

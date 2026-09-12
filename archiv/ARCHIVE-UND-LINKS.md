@@ -7,16 +7,45 @@ Suchstand Roza/Manoel Pedro:
 
 ---
 
-## Schnellzuordnung
+## Linien und Archive (nicht vermischen)
 
-| Linie / Thema | Archiv | Portal | Nicht hier |
+Auf dem Blatt gibt es **zwei Familienarme**; archivisch liegen sie in
+**zwei Clustern**, und die **Teixeira-** sowie **Duarte-**Akte teilen
+sich denselben Cumeeira-Bestand:
+
+```
+Ramo paterno                         Ramo materno
+Duarte / Freire Bicho                Torre / Reis / Teixeira / Guiomar / …
+        │                                      │
+        └──── Cumeeira-Cluster (AUC) ──────────┘
+              Duarte + Teixeira + Freire
+              Cabeça Redonda · Figueiras Podres · Carrasqueiras
+                         │
+              (Heirat / späterer Rahmen)
+                         │
+              Ansião-Cluster (ADLRA)
+              Torre · Pragosa · Avelar · Alvorge · Lagarteira/Pião
+```
+
+- **Duarte** und **Teixeira** = dieselben Pfarreibücher `PNL01` am **AUC**
+  (Cumeeira). Teixeira ist auf dem Blatt materno, archivisch aber Cumeeira
+  wie Duarte — die Brücke zwischen den beiden Armen.
+- **Torre / Reis / Alvorge / Avelar** = **ADLRA** Leiria.
+- Linien in der Auswertung getrennt halten; nur der spätere Familienrahmen
+  verbindet sie (siehe `ERKENNTNISSE.md`).
+
+### Schnellzuordnung
+
+| Linie / Thema | Familienarm | Archiv | Portal |
 | --- | --- | --- | --- |
-| Alvorge, Ateanha, Vale Paio / Aljazede | **ADLRA** Leiria | tombo `ans01`, DigitArq | AUC, Torre do Tombo |
-| Torre de Vale de Todos, Pragosa | **ADLRA** Leiria | tombo `ans08`, DigitArq | AUC, Torre do Tombo |
-| Avelar (Gato/Simões-Kandidaten) | **ADLRA** Leiria | tombo `ans03` | — |
-| Cumeeira / Penela (Duarte, Freire Bicho) | **AUC** Coimbra | tombo `pnl01`, pesquisa.auc | ADLRA |
-| Zivil Penela ab 1911 (José Freire Bicho 1922) | **AUC** Coimbra RCV | tombo `m/pnl` | Pfarreibücher allein |
-| Bisavós *1912–1915 Fotos | Conservatória Ansião | lokal unter `archiv/conservatoria-ansiao/` | — |
+| **Duarte / Freire Bicho** (Cumeeira) | paterno | **AUC** `PNL01` | tombo `pnl01` |
+| **Teixeira** (Cabeça Redonda / Figueiras Podres) | materno (Brücke) | **AUC** `PNL01` | tombo `pnl01` · [`teixeira-records`](../teixeira-records/README.md) |
+| Zivil Penela (José Freire Bicho 1922) | paterno | **AUC** RCV `PNL` | tombo `m/pnl` |
+| Torre / Reis / Narciza / Pragosa | materno | **ADLRA** `PANS08` | tombo `ans08` |
+| Alvorge / Ateanha / Vale Paio | materno (Roza) | **ADLRA** `PANS01` | tombo `ans01` |
+| Avelar (Gato/Simões-Kandidaten) | materno | **ADLRA** `PANS03` | DigitArq |
+| Guiomar / Ascenção / Matta (Vale de Todos u. a.) | materno | **ADLRA** (Torre u. Nachbarn) | tombo `ans08` u. a. |
+| Bisavós *1912–1915 Fotos | beide Arme | Conservatória Ansião | `archiv/conservatoria-ansiao/` |
 
 „Apresentação da Universidade de Coimbra“ bei Alvorge = historisches
 **Präsentationsrecht**, nicht Lagerort der Bücher.
@@ -104,23 +133,29 @@ Zielsuche: Taufe Manoel Pedro, Eltern Manoel Pedro × Joaquina Maria, Pragosa.
 
 ### 3.1 Pfarrei Cumeeira / Penela (`PNL01`)
 
+Gemeinsames Buch für **Duarte**, **Freire Bicho** und **Teixeira**
+(Weiler Cabeça Redonda, Figueiras Podres/Figueira Podra, Carrasqueiras).
+
 | | |
 | --- | --- |
 | tombo | https://tombo.pt/f/pnl01 |
 | Signatur | `PT/AUC/PAR/PNL01` |
 | Inhalt | Batismos / Casamentos / Óbitos bis 1911 |
+| Repo | `duarte-freire-records/`, `teixeira-records/`, `archiv/duarte-freire/`, `archiv/teixeira/` |
 
-Beispiele DigitArq/AUC-Details (aus dem Repo):
+Beispiele AUC-Details:
 
-| Thema | Link |
-| --- | --- |
-| Taufe Manoel Duarte 1885 | https://pesquisa.auc.uc.pt/details?id=43231 |
-| Heirat 1907 | https://pesquisa.auc.uc.pt/details?id=48550 |
-| Taufe Joaquina | https://pesquisa.auc.uc.pt/details?id=48506 |
-| Taufe João Teixeira 1879 | https://pesquisa.auc.uc.pt/details?id=43225 |
+| Thema | Linie | Link |
+| --- | --- | --- |
+| Taufe João Teixeira 1879 | Teixeira | https://pesquisa.auc.uc.pt/details?id=43225 |
+| Taufe Manoel Duarte 1885 | Duarte | https://pesquisa.auc.uc.pt/details?id=43231 |
+| Taufe Joaquina 1886 | Duarte/Freire | https://pesquisa.auc.uc.pt/details?id=48506 |
+| Heirat Manuel × Joaquina 1907 | Duarte | https://pesquisa.auc.uc.pt/details?id=48550 |
 
 Offen digital: Elternheiraten António Duarte × Thereza Freire;
 António Freire Bicho × Maria Ignácia — weiter in `PNL01` Casamentos.
+Custodio Teixeira × Joana de Jesus: Heirat in `PNL01` bzw. Nachbarpfarrei
+noch offen (siehe `teixeira-records/README.md`).
 
 ### 3.2 Registo Civil Penela (`RCV/PNL`)
 
