@@ -253,10 +253,12 @@ Folio mit Vermerk „gehörte auf fl. 70“) gehört damit zu diesem Paar.
   Lesung 1851 `Duarte`, 1854 beginnend mit `Fre…` — Nachname **offen**
 - Zeugen 1851: **José António Freire da Paz** und **José Louro**
 
-Eine frühere Lesung „Manuel Pedro Coelho“ in der Heirat 1878 ist
-gegen den aktuellen Scan und das Evidenzblatt **nicht** beibehalten;
-dort steht `Manoel Pedro dos Reis`. Bei der nächsten Gegenlese denselben
-Scan (`…0022_m0006`) bewusst noch einmal darauf prüfen. Der
+Eine frühere Lesung „Manuel Pedro Coelho“ in der Heirat 1878 bleibt als
+**frühere, inzwischen fragliche Lesung** dokumentiert — nicht endgültig
+gelöscht. Am derzeitigen Scan und im Evidenzblatt steht
+`Manoel Pedro dos Reis`. Bis dieselbe Zeile auf dem Scan
+(`…0022_m0006`) gezielt nochmals geprüft ist, bleiben beide Lesungen
+sichtbar; die fragliche Form wird nicht als Fakt geführt. Der
 Elternanschluss über die Taufe 1854 hängt nicht von dieser Zeile ab.
 
 `Valle paio` (1851), `Vallejazede` (1878) und `Aljazede` (1903) bleiben

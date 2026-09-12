@@ -50,10 +50,12 @@ Zeugen: Francisco Rodriguez Gato und Manoel dos Santos, beide verheiratet,
 Landwirte, Torre. Die Braut unterschreibt nicht.
 
 Gegenlese offen: Eine ältere Lesung las in der Vaterzeile zeitweise
-`Manuel Pedro Coelho`. Am vorliegenden Scan und im Blatt
-[G4-paterno-reis](G4-paterno-reis.md) steht `Manoel Pedro dos Reis`.
-Die Zeile bei nächster Prüfung des Scans bewusst kontrollieren; der
-Elternanschluss selbst ist durch die Taufe 1854 unabhängig davon sicher.
+`Manuel Pedro Coelho`. Das bleibt als **frühere, inzwischen fragliche
+Lesung** stehen — nicht endgültig streichen. Am vorliegenden Scan und
+im Blatt [G4-paterno-reis](G4-paterno-reis.md) steht
+`Manoel Pedro dos Reis`. Bis die Zeile gezielt nachgeprüft ist, keine
+der beiden Formen als alleinige Wahrheit. Der Elternanschluss selbst
+ist durch die Taufe 1854 unabhängig davon sicher.
 
 ## Quelle Tod
 

@@ -231,7 +231,7 @@ Cumeeira-Taufen nennen diese Eltern bereits:
 | Pais de Thereza por confirmar | **Manoel Silva** × **Maria Freire** (Taufe Manuel 1885) |
 | Pais de António FB por confirmar | **António Freire Bicho** × **Maria de Christo**, Figueira Podra (Taufe Joaquina 1886) |
 | Pais de Maria Ignácia por confirmar | **Manuel Francisco Dias** × **Joaquina Maria**, Cabeça Redonda (Taufe Joaquina 1886) |
-| Mesmos pais (irmãos) bei José Freire Bicho | nur gültig, wenn Josés Eltern erst gesichert sind |
+| Mesmos pais (irmãos) bei José Freire Bicho | **streichen**; Eltern über Heirat 1922 separat, nicht still mit Margaridas Eltern gleichsetzen |
 | Pais de Joaquim por confirmar | **António Freire Bicho** × **Maria Christo** (Taufe Margarida 1897) |
 | Pais de Genoveva por confirmar | **Manoel Francisco Dias** × **Joaquina Ignácia** (Taufe Margarida 1897) |
 

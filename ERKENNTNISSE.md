@@ -163,11 +163,33 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
 | 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
-| 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): frühere Lesung `Manuel Pedro Coelho` bewusst gegen `Manoel Pedro dos Reis` prüfen — Elternanschluss über Taufe 1854 bleibt sicher |
-| 9 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |
-| 10 | Narciza † nach 2.10.1903: Zivilregister Ansião oder andere Pfarrei |
-| 11 | Patenort João 1879: `Sarrazina` / São Cosme unidentifiziert (nicht Sarzedela setzen) |
-| — | Sammelband `PANS08/003/0001` (Casamentos 1609–1719, Óbitos 1609–1748): lokal geprüft, **kein** Anschluss an den aktuellen Stammbaum; bleibt außerhalb von Git |
+| 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
+
+---
+
+## Alter Band PANS08/003/0001 — später, von jung nach alt
+
+Lokal geprüfte Stichprobe (16 Seiten) aus dem Sammelband:
+
+- Casamentos 1609–1719  
+- Óbitos 1609–1748  
+
+**Kein Upload, kein Personenanschluss.** Mehrere Generationen vor dem
+derzeit gesicherten Reis-Anschluss. Sofortige Namenssuche (Mendes, Dias,
+Roiz …) würde Scheinsicherheit erzeugen.
+
+Forschungsweg:
+
+1. Manoel Pedro dos Reis und Roza Maria rückwärts über die eigenen Taufen  
+2. Deren Eltern sicher bestimmen  
+3. Generation für Generation bis ins frühe 18. Jahrhundert  
+4. Erst wenn eine belegte Linie zeitlich an 1748 heranreicht, den Band
+   systematisch erschließen  
+5. Bis dahin: nur als ungesichtete Stichproben aus `PANS08/003/0001`
+   vermerken — ohne Personenanschluss und außerhalb von Git  
+
+Kurz: dem Faden vom Licht zurück in die Tiefe folgen, nicht im Nebel
+bekannte Namen suchen.
 
 ---
 
