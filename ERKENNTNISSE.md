@@ -122,6 +122,11 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 
 ---
 
+## Archive und Links (Gesamtliste)
+
+Alle Portale, Signaturen und Zuständigkeiten:
+[`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md).
+
 ## AUC Coimbra (Uni-Archiv) – wo weiter suchen
 
 Kirchenbücher **Cumeeira** (São Sebastião, Penela) liegen schon im
