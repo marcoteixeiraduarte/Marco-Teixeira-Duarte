@@ -65,15 +65,27 @@ Eltern **Manoel Pedro × Joaquina Maria**. Fenster ca. **1820–1835**.
 
 ### Bücher
 
-| Band | Signatur | Portal |
+| Band | Signatur | DigitArq / Portal |
 | --- | --- | --- |
-| Batismos 1810–1842 | `PT/ADLRA/PRQ/PANS08/001/0003` | [tombo ans08](https://tombo.pt/f/ans08) |
+| Batismos 1810–1842 | `PT/ADLRA/PRQ/PANS08/001/0003` | [tombo ans08](https://tombo.pt/f/ans08); details-id `6aa23bcafa07046a4b8d3fd47d1f984807` |
 | Batismos 1842–1859 | `PT/ADLRA/PRQ/PANS08/001/0004` | nur falls Fenster zu spät |
 
-Lokal nur Stichprobe: Caetana *1815* auf `…0003_m0020.jpg` (fol. 19) —
-Bandanfang 1810er; Manoels Fenster liegt weiter hinten imselben Band.
+Anker lokal: Caetana *1815* auf `…0003_m0020.jpg` (fol. 19).
 
-Durchsicht: **begonnen** (Bandnummern festgehalten); Treffer noch offen.
+### Durchsicht 1810–1842 (Stand)
+
+Stichproben DigitArq-Viewer, Band 0003:
+
+| Bild (ca.) | Jahr (ca.) | Ergebnis |
+| --- | --- | --- |
+| m0020 | ~1815 | Anker Caetana; vor dem Suchfenster |
+| m0040–m0056 | ~1821–1824 | Stichproben; **kein** klarer Manoel Pedro × Joaquina Maria |
+| m0060–m0075 | ~1825–1830 | Stichproben; **kein** klarer Treffer Pragosa + Elternpaar |
+
+**Noch offen:** m0075–~m0100 (~1830–1835), Vollzeilen-Lesung, ggf. Geschwister
+desselben Paares als Zwischenanker.
+
+Kein sicherer Taufanschluss bisher.
 
 ## Regel
 

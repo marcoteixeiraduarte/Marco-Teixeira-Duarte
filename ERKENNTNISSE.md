@@ -190,8 +190,11 @@ Forschungsweg:
 
 Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
 [`evidenz/linie-torre/suche-taufe-roza-manoel.md`](evidenz/linie-torre/suche-taufe-roza-manoel.md).
-Erste DigitArq-Stichproben in Alvorge 1822–1852: **noch kein** sicherer
-Treffer Joaquim × Florencia.
+
+Stand Stichproben (Viewer, kein sicherer Treffer):
+
+- Alvorge Batismos 1822–1852 (`PANS01/001/0004`): Seiten ~20–120
+- Torre Batismos 1810–1842 (`PANS08/001/0003`): Bilder ~m0040–m0075
 
 ---
 
