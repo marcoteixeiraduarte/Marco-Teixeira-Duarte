@@ -34,4 +34,7 @@ Archiv: `PT/AUC/PAR/PNL01/003/0051`
 
 > Aos treze dias do mez de Novembro do anno de mil nove centos e sete
 
-Der Randvermerk über Manuels Tod nennt den 30. September; die Jahresziffer ist auf dem Ausschnitt nicht sicher. Sie wird nicht auf 1964 festgelegt.
+Der Randvermerk über Manuels Tod nennt den 30. September. Blatt und
+festgehaltenes Averbamento setzen das Jahr auf **1962** (Ansião). Eine
+zwischenzeitliche Festlegung auf 1964 war eine Fehlregression und wird
+nicht übernommen. Sterbeakt ungeprüft.

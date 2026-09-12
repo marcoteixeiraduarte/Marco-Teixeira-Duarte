@@ -51,15 +51,15 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Eltern Joaquina | António Freire Bicho × Maria Ignácia | sicher | Taufe + Heirat |
 | Großeltern (genannt) | Manoel Duarte × Joaquina de Jesus; Manoel [Silva?] × Maria Freire; António Freire Bicho × Maria de Christo; Manuel Francisco Dias × Joaquina Maria | sicher genannt, eigene Akten offen | [G3](evidenz/linie-duarte/G3-eltern.md) |
 | Margarida | * 27.6.1897 Cabeça Redonda; † 29.11.1979 (Rand); Heirat 28.10.1922 mit José Freire Bicho | sicher (Geburt/Eltern); Randvermerke für Heirat/Tod | dasselbe |
-| Manuel † | Randvermerk 30.9.1964; Sterbeakt ungeprüft | wahrscheinlich | Heirat 1907 |
+| Manuel † | **30.9.1962**, Ansião (Blatt und Averbamento); Sterbeakt ungeprüft | sicher im Datum laut Blatt/Averbamento | Heirat 1907 / Stammbaumblatt |
 
 ### Ramo paterno – offen / korrigieren
 
 | Thema | Stand |
 | --- | --- |
-| José Freire Bicho ~1894, „Mesmos pais“ | Ehe 1922 belegt; Geburt und Eltern **nicht** gesichert. Negativsuche Cumeeira 1893–95 / Lagarteira 1894 vorläufig |
+| José Freire Bicho ~1894, „Mesmos pais (irmãos)“ | **streichen**. Eltern über Heirat 1922 separat belegt; nicht mit Margaridas Eltern gleichsetzen. Geburt weiter offen |
 | Margarida Blatt `* 24.07.1897 · Santa Eufémia` | ersetzen durch `* 27.06.1897 · Cabeça Redonda` |
-| Manuel Blatt † 1962 | gegen Rand **1964** falsch |
+| Manuel † | Blatt und Averbamento **30.09.1962 · Ansião** — frühere Lesung 1964 war Regression |
 | Figueiras Podres | **ein** Ort (mit **-s**); heute Figueiras de S. João; Taufen auch `Figueira Podra` |
 | Joaquina Maria / Silvéria / Ignácia (ältere Frau) | nicht zu einer Person zusammenführen |
 | Lesung mütterlicher Großvater Therezas | Manoel Dias / Freire / Silva – offen |
@@ -109,15 +109,16 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 
 1. `José Maria … Pragosa` → `Joze Maria da Ascenção · Valle de Todos`; Vater Joze Mendes Ferreira
-2. `Narcisa Rodrigues Gato` → `Narciza` / `Narcisa da Conceição`
-3. Maria da Piedade: Ort `Pragoza`; ohne erzwungenes `dos Reis`
-4. Manuel Duarte † 1962 → Rand **1964**
-5. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht Santa Eufémia
-6. José Freire Bicho ~1894 / Mesmos pais als Tatsache streichen
-7. João Teixeira: Weiler **Cabeça Redonda**; Vater `Custodio`
-8. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
-9. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
-10. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
+2. `Narcisa Rodrigues Gato` → `Narciza` / bei Heirat `Narcisa da Conceição`
+3. Maria da Piedade: Taufname ohne belegtes `dos Reis`; Ort `Pragoza`
+4. Maria da Piedade † `16.01.1952`: Tages-/Monatszuordnung weiterhin nicht sicher
+5. Manuel Duarte † **30.09.1962 · Ansião** (Blatt = Averbamento; 1964 war Fehlregression)
+6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
+7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
+8. João Teixeira: Weiler **Cabeça Redonda** (nicht nur Cumeeira); Vater `Custodio`
+9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
+10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
+11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
 
 ---
 
@@ -166,7 +167,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 9 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |
 | 10 | Narciza † nach 2.10.1903: Zivilregister Ansião oder andere Pfarrei |
 | 11 | Patenort João 1879: `Sarrazina` / São Cosme unidentifiziert (nicht Sarzedela setzen) |
-| — | Sterbeband `PANS08/003/0001` (16 neue Bilder): eigener Arbeitsgang, nicht mit den Reis-Belegen vermengen |
+| — | Sammelband `PANS08/003/0001` (Casamentos 1609–1719, Óbitos 1609–1748): lokal geprüft, **kein** Anschluss an den aktuellen Stammbaum; bleibt außerhalb von Git |
 
 ---
 

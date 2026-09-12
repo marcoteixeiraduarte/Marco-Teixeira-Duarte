@@ -27,7 +27,7 @@
 | mütterlicher Großvater | Manoel Dias / Manoel Freire / Manoel Silva | offen |
 | Mutterzusatz | Thereza Freire, evtl. Barreira | wahrscheinlich nur Freire |
 | Heirats-Rand | 13. November 1907 mit Joaquina [Ignácia / Freire] | Heirat sicher, Zweitname im Rand offen |
-| Todes-Rand | 30. September [1944/1964] bzw. andere Jahreszahlen | offen, Ziffern widersprechen sich |
+| Tod | 30. September **1962**, Ansião (Blatt und Averbamento) | sicher laut Blatt/Averbamento; Sterbeakt offen |
 
 ## Anschluss vorwärts
 

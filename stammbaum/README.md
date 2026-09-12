@@ -172,8 +172,9 @@ Auftraggeber. Hier nur bisavós und älter.
 Blatt: `* 19.11.1885 · Carrasqueiras · † 30.09.1962 · Ansião`.
 
 - Geburt **passt** (Taufe Nr. 40, Cumeeira).
-- Tod: Heirats-Randvermerk 1907 nennt **30. September 1964**.
-  **1962** ist gegen diesen Vermerk falsch. Sterbeakt nicht geprüft.
+- Tod: Blatt und festgehaltenes Averbamento nennen **30. September 1962**,
+  Ansião. Eine zwischenzeitliche Lesung **1964** war eine Regression und
+  wird nicht weitergeführt. Sterbeakt selbst nicht geprüft.
 
 #### Joaquina Ignácia Freire Bicho
 
@@ -187,10 +188,11 @@ zulässig.
 Blatt: `~1894 · Cabeça Redonda`, Eltern **António Freire Bicho** ×
 **Maria Ignácia** (`Mesmos pais (irmãos)`).
 
-Quelle: Ehe mit Margarida am 28.10.1922 nur als Randvermerk. Geburt,
-Ort und Eltern **nicht** gesichert. Negativsuche 1893–1895 ohne José
-als Sohn dieses Paares. `~1894` und diese Eltern dürfen nicht als
-Tatsache stehen.
+`Mesmos pais (irmãos)` **streichen**. Die Eltern sind über die Heirat
+mit Margarida am **28.10.1922** separat belegt und dürfen nicht still
+mit Margaridas Eltern gleichgesetzt werden. Geburt und Ort `~1894`
+bleiben offen, bis der Zivilakt (AUC RCV Penela Nr. 94) bzw. die Taufe
+geprüft ist.
 
 #### Margarida de Jesus
 
@@ -263,11 +265,13 @@ Identität.
 1. `José Maria d’Ascensão · Pragosa` → `Joze Maria da Ascenção · Valle de Todos`; Vater `Joze Mendes Ferreira`.
 2. `Narcisa Rodrigues Gato` → `Narciza` / `Narcisa da Conceição`.
 3. Maria da Piedade: Ort `Pragoza`; Name ohne erzwungenes `dos Reis`.
-4. Manuel Duarte † `30.09.1962` → Vermerk **30.09.1964**.
+4. Manuel Duarte † **30.09.1962 · Ansião** belassen (Blatt = Averbamento;
+   nicht auf 1964 „korrigieren“).
 5. Margarida `* 24.07.1897 · Santa Eufémia` → `* 27.06.1897`, Cabeça Redonda / Cumeeira.
 6. `Figueiras Podres` **bleibt** am Ereignis; daneben heutige
    Zuordnung `Figueiras de S. João` (kein zweiter Ort).
-7. José Freire Bicho `~1894` und `Mesmos pais` als Tatsache streichen.
+7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über
+   Heirat 1922 separat belegt, nicht mit Margaridas Eltern gleichsetzen.
 8. 4.º-avós-Platzhalter der Duarte/Freire-Linie durch die Großeltern
    der Cumeeira-Taufen ersetzen (Tabelle oben).
 9. `Pais de José Maria por confirmar` durch **Joze Mendes Ferreira**

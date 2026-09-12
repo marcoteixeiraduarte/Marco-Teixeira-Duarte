@@ -59,9 +59,10 @@ Quelle:
 - Eltern Joaquinas: **António Freire Bicho** und **Maria Ignácia**
 - Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras, Pfarrei
   Ansião, und **Manuel Freire Bicho**, ledig, aus Cabeça Redonda
-- laut späterem Randvermerk wurde die Ehe durch Manuels Tod am
-  **30. September 1964** aufgelöst; der Sterbeakt selbst wurde hier nicht
-  geprüft
+- laut späterem Randvermerk / Averbamento wurde die Ehe durch Manuels Tod
+  am **30. September 1962** in Ansião aufgelöst; das Stammbaumblatt führt
+  dasselbe Datum. Eine zwischenzeitliche Lesung 1964 war falsch. Der
+  Sterbeakt selbst wurde hier nicht geprüft
 
 Quelle:
 
