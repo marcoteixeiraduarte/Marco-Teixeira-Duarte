@@ -4,11 +4,10 @@ Arbeitsstand nach Merge von PR #8. Dem Faden vom gesicherten Paar
 **Manoel Pedro dos Reis × Roza Maria** (Heirat 23.3.1851) zurückfolgen —
 nicht den Sammelband 1609–1748 öffnen.
 
-**Methode bisher = Stichproben, nicht Volllese.** Grund: im Cloud-Checkout
-fehlen die lokalen Alvorge-Scans (`alvorge-records/` steht in `.gitignore`);
-DigitArq-Viewer-Paläografie reicht nicht für sichere Elternzeilen. Negativsuche
-hier heißt: *kein klarer Treffer in den angesprungenen Seiten* — nicht
-„Band zeilenweise erledigt“.
+**Methode ab 2026-09-12:** benötigte Bände lokal ablegen (DigitArq
+`/api/rdigital/{uuid}` + `/rdigital/dissemination?fileId=`), dann lesen.
+Arbeitskopien unter `alvorge-records/` und `torre-records/` (gitignore).
+Siehe dortige README. Viewer-Stichproben allein gelten nicht als Volllese.
 
 ## Ausgangspunkt (sicher)
 
@@ -34,6 +33,11 @@ Portal: [tombo.pt/f/ans01](https://tombo.pt/f/ans01).
 DigitArq-UUIDs: `2b9730bbd061439faf679c501daa4705` (0003),
 `4b820d7bb81e4910a88430792e576518` (0004).
 
+Lokal abgelegt:
+
+- `alvorge-records/baptismos-1808-1822/` — **100/100** JPG
+- `alvorge-records/baptismos-1822-1852/` — **150/244** JPG (m0001–m0150; m0151–m0244 offen)
+
 ### Suchfenster
 
 Taufe **ca. 1820–1835** (Heirat 1851, typisches Brautalte).
@@ -45,27 +49,26 @@ Nur Treffer mit Eltern **Joaquim × Florencia/Florência**.
 | --- | --- | --- | --- | --- |
 | Roza | * 14.1.1826, tauf 22.1.1826 | Vale Galego | Francisco José Giraldes × Thereza Maria | falsche Eltern |
 
-### Durchsicht 1822–1852 (Stand)
+### Sichtbarkeit Ateanha
 
-Stichproben im DigitArq-Viewer (Band 0004), Rand und Elternzeilen:
+Ateanha/Atianha ist **kein** eigenes tombo-Fonds, steht aber im Alvorge-Band
+als Lugar (z. B. `…0004_m0089`, `…0004_m0091`, Schreibweise `Atianha`).
+Ohne lokale JPG war das im PR nicht sichtbar.
 
-| Seite (ca.) | Jahr (ca.) | Ergebnis |
+### Durchsicht 1822–1852 (Stand, lokal)
+
+| Seite | Jahr (ca.) | Ergebnis |
 | --- | --- | --- |
-| 20 | ~1823–1824 | Ateanha am Rand bestätigt; kein Joaquim×Florencia |
-| 30–31 | ~1826 | kein Treffer (Vale-Galego-Roza ausgeschlossen) |
-| 35–45 | ~1827–1829 | kein Treffer |
-| 46–70 | ~1826–1831 | Stichproben; Handrand oft unleserlich; **kein** sicherer Joaquim×Florencia-Treffer |
-| 70–120 | ~1829–1833 | zweite Sitzung, Stichproben ~15 Seiten; **kein** klarer Treffer Roza + Joaquim × Florencia |
-| 121–143 | ~1833–1840er | dritte Sitzung, Stichproben; **kein** klarer Treffer |
+| m0020 | ~1824 | Parish Alvorge; kein Joaquim×Florencia |
+| m0030 | 1826 | Vale-Galego-Roza ausgeschlossen |
+| m0050 | 1828 | kein Treffer |
+| m0068 | 1830 | Joaquim als Kindname; kein Elternpaar |
+| m0089–m0091 | 1833–1834 | **Atianha**/Alvorge im Text; Florencia Maria × Theodoro Lopes (Kind Manoel) — **anderes** Paar; keine Roza×Joaquim×Florencia |
 
-### Durchsicht 1808–1822 (Stand)
+OCR (Tesseract por) auf m0020–m0120 nur als Hinweisgeber; Handschrift zu unsicher
+für alleinige Entscheidung.
 
-| Seite (ca.) | Jahr (ca.) | Ergebnis |
-| --- | --- | --- |
-| 75, 85–86 | ~1818–1822 | Stichproben Ende Band; **kein** klarer Treffer |
-
-**Noch offen:** systematische Vollzeilen-Lesung (0003 Seiten ~60–95 und früher;
-0004 Rest), lokale Downloads + Vergrößerung.
+**Noch offen:** Vollzeilen m0001–m0150 + Restband m0151–m0244; 0003 systematisch.
 
 ### Elternheirat Joaquim × Florencia (Alvorge)
 
@@ -88,24 +91,16 @@ Eltern **Manoel Pedro × Joaquina Maria**. Fenster ca. **1820–1835**.
 
 | Band | Signatur | DigitArq / Portal |
 | --- | --- | --- |
-| Batismos 1810–1842 | `PT/ADLRA/PRQ/PANS08/001/0003` | [tombo ans08](https://tombo.pt/f/ans08); details-id `6aa23bcafa07046a4b8d3fd47d1f984807` (**143** Bilder) |
+| Batismos 1810–1842 | `PT/ADLRA/PRQ/PANS08/001/0003` | [tombo ans08](https://tombo.pt/f/ans08); UUID `6aa3bacfa07046a4b8d3fd47d1198480` (**143** Bilder) |
 | Batismos 1842–1859 | `PT/ADLRA/PRQ/PANS08/001/0004` | nur falls Fenster zu spät |
 
-Anker lokal: Caetana *1815* auf `…0003_m0020.jpg` (fol. 19).
+Lokal abgelegt: `torre-records/baptismos-1810-1842/` — **143/143** JPG.
+Anker: Caetana *1815* auf `…0003_m0020.jpg` (fol. 19).
 
 ### Durchsicht 1810–1842 (Stand)
 
-Stichproben / systematische Durchsicht DigitArq-Viewer, Band 0003:
-
-| Bild (ca.) | Jahr (ca.) | Ergebnis |
-| --- | --- | --- |
-| m0020 | ~1815 | Anker Caetana; vor dem Suchfenster |
-| m0040–m0056 | ~1821–1824 | Stichproben; **kein** klarer Manoel Pedro × Joaquina Maria |
-| m0060–m0075 | ~1825–1830 | Stichproben; **kein** klarer Treffer Pragosa + Elternpaar |
-| m0075–m0105 | ~1830–1836 | systematischer; m0090 = **1835**; **kein** Treffer Elternpaar / Pragosa; keine Geschwister-Anker |
-
-**Noch offen:** m0105–m0143 (~1836–1842), frühe Jahre m0001–m0040 nur stichprobenhaft;
-Vollzeilen-Lesung mit lokalen Downloads.
+Frühere Viewer-Stichproben m0040–m0105 ohne klaren Treffer. Mit lokalem Band
+ist Vollzeilen-Lesung möglich — **noch nicht abgeschlossen**.
 
 ### Elternheirat Manoel Pedro × Joaquina Maria (Torre)
 

@@ -191,15 +191,15 @@ Forschungsweg:
 Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
 [`evidenz/linie-torre/suche-taufe-roza-manoel.md`](evidenz/linie-torre/suche-taufe-roza-manoel.md).
 
-Stand Stichproben (Viewer, kein sicherer Treffer):
+Lokale Ablage (gitignore) für Volllese:
 
-- Alvorge Batismos 1822–1852 (`PANS01/001/0004`): Seiten ~20–143
-- Alvorge Batismos 1808–1822 (`PANS01/001/0003`): Ende-Band Stichproben
-- Torre Batismos 1810–1842 (`PANS08/001/0003`): m0040–m0105 (~1821–1836)
-- Torre Casamentos 1812–1859 (`PANS08/002/0003`): Seiten ~3–45 ohne Elternheirat
+- `alvorge-records/` — Batismos 1808–1822 (100) + 1822–1852 m0001–m0150
+- `torre-records/` — Batismos 1810–1842 (143)
 
-**Blocker online:** Alvorge-Casamentos **1789–1859** fehlen bei tombo/DigitArq
-(Lücke zwischen 1788 und 1860) — Eltern Joaquim × Florencia dort nicht suchbar.
+Ateanha/Atianha ist im Alvorge-Band sichtbar (z. B. m0089/m0091), hat aber
+keine eigenen tombo-Bücher. Taufanschluss Roza/Manoel Pedro noch offen.
+
+**Blocker online:** Alvorge-Casamentos **1789–1859** fehlen (Lücke 1788→1860).
 
 ---
 

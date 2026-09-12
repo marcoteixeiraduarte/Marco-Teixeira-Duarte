@@ -34,10 +34,10 @@ Bücher zuerst:
 - Batismos Alvorge **1822–1852** — `PT/ADLRA/PRQ/PANS01/001/0004`, 244 Bilder.
   DigitArq: `4b820d7bb81e4910a88430792e576518`
 
-Lokale Kopien: Ordner `alvorge-records/` (in `.gitignore` — **nicht** im
-Git/PR sichtbar). Ohne diese Dateien hier im Cloud-Checkout keine
-Vollzeilen-Lesung; bisher nur DigitArq-Viewer-Stichproben.
-Probe (wenn lokal vorhanden): Seite 30 = Januar 1826, Seite 50 = Februar 1828.
+Lokale Arbeitskopien (gitignore, nicht im PR-Diff als JPG): `alvorge-records/`.
+Download-Weg und UUIDs: [`alvorge-records/README.md`](../../alvorge-records/README.md).
+Stand: 1808–1822 vollständig; 1822–1852 m0001–m0150.
+Ateanha/Atianha erscheint im Band (z. B. `…0004_m0089`, `…0004_m0091`).
 
 ## Ausgeschlossen
 
