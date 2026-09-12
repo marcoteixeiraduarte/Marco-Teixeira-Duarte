@@ -45,6 +45,9 @@ Scan: `alvorge-records/baptismos-1822-1852/PT-ADLRA-PRQ-PANS01-001-0004_m0030.jp
 
 Ateanha kommt in diesem Band vor (z. B. Seite 20). Noch kein Anschluss an Roza.
 
+Suchprotokoll (Stichproben DigitArq, kein Treffer bisher):
+[`suche-taufe-roza-manoel.md`](suche-taufe-roza-manoel.md).
+
 Im Rand nacheinander: Vale Paio, Aljazede/Vallejazede, **Ateanha**,
 Vila Nova. Nicht den ersten Treffer „Roza Maria“ nehmen.
 Nur mit Eltern Joaquim × Florencia.

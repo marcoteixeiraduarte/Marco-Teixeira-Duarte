@@ -188,8 +188,10 @@ Forschungsweg:
 5. Bis dahin: nur als ungesichtete Stichproben aus `PANS08/003/0001`
    vermerken — ohne Personenanschluss und außerhalb von Git  
 
-Kurz: dem Faden vom Licht zurück in die Tiefe folgen, nicht im Nebel
-bekannte Namen suchen.
+Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
+[`evidenz/linie-torre/suche-taufe-roza-manoel.md`](evidenz/linie-torre/suche-taufe-roza-manoel.md).
+Erste DigitArq-Stichproben in Alvorge 1822–1852: **noch kein** sicherer
+Treffer Joaquim × Florencia.
 
 ---
 
