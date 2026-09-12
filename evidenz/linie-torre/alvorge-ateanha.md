@@ -48,6 +48,9 @@ Ateanha kommt in diesem Band vor (z. B. Seite 20). Noch kein Anschluss an Roza.
 Suchprotokoll (Stichproben DigitArq, kein Treffer bisher):
 [`suche-taufe-roza-manoel.md`](suche-taufe-roza-manoel.md).
 
+**Hinweis:** Alvorge-Casamentos online nur bis 1788, dann erst ab 1860 —
+Elternheirat Joaquim × Florencia (~1815–1835) ist digital **nicht** erreichbar.
+
 Im Rand nacheinander: Vale Paio, Aljazede/Vallejazede, **Ateanha**,
 Vila Nova. Nicht den ersten Treffer „Roza Maria“ nehmen.
 Nur mit Eltern Joaquim × Florencia.

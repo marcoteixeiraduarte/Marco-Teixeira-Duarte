@@ -193,8 +193,13 @@ Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
 
 Stand Stichproben (Viewer, kein sicherer Treffer):
 
-- Alvorge Batismos 1822–1852 (`PANS01/001/0004`): Seiten ~20–120
-- Torre Batismos 1810–1842 (`PANS08/001/0003`): Bilder ~m0040–m0075
+- Alvorge Batismos 1822–1852 (`PANS01/001/0004`): Seiten ~20–143
+- Alvorge Batismos 1808–1822 (`PANS01/001/0003`): Ende-Band Stichproben
+- Torre Batismos 1810–1842 (`PANS08/001/0003`): m0040–m0105 (~1821–1836)
+- Torre Casamentos 1812–1859 (`PANS08/002/0003`): Seiten ~3–45 ohne Elternheirat
+
+**Blocker online:** Alvorge-Casamentos **1789–1859** fehlen bei tombo/DigitArq
+(Lücke zwischen 1788 und 1860) — Eltern Joaquim × Florencia dort nicht suchbar.
 
 ---
 
