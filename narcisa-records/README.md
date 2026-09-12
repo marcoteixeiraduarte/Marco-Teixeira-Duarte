@@ -237,46 +237,37 @@ Quelle:
   `PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`, Eintrag Nr. 10;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/a02cedcd409d49ea9d3cb7ffb596ea19)
 
-### Wahrscheinliche Heirat der Eltern des Ehemanns
+### Eltern des Ehemanns — Manoel Pedro dos Reis × Roza Maria
 
-Ein Heiratseintrag belegt, dass **Manoel Pedro dos Reis** und **Roza Maria**
-am **23. März 1851** in Torre de Vale de Todos heirateten.
+Belegkette und Scans: [`evidenz/linie-torre/G4-paterno-reis.md`](../evidenz/linie-torre/G4-paterno-reis.md)
+und [`jose-pedro-dos-reis.md`](../evidenz/linie-torre/jose-pedro-dos-reis.md).
 
-- Manoels Eltern waren **Manoel Pedro** und **Joaquina Maria**; der Eintrag
-  verbindet dieses Elternpaar mit demselben Weiler (Quellenform hier
-  nicht neu buchstabenweise festgehalten; siehe Ortsregister)
-- Rozas Eltern waren **Joaquim Duarte** und **Florencia Maria**; der Eintrag
-  verbindet dieses Elternpaar mit **Vale Paio**, Pfarrei Alvorge
-- Zeugen: **José António Freire da Paz** und **José Louro**
-- der Pfarrer trug die Heirat verspätet ein und vermerkte, dass sie wegen
-  eines Versehens eigentlich auf Folio 70 hätte stehen müssen
+**Sicher:** José Pedros Taufe am **19. Dezember 1854** (* 24.11.1854,
+Pragosa) nennt die Eltern **Manoel Pedro dos Reis × Roza Maria**. Dieselbe
+Elternpaarung erscheint in seiner Heirat 1878 und in seinem Tod 1903.
+Die Heirat der Eltern am **23. März 1851** in Torre (Nachtrag auf dem
+Folio mit Vermerk „gehörte auf fl. 70“) gehört damit zu diesem Paar.
 
-Die Zuordnung dieses Ehepaars zu den Eltern des **José Pedro dos Reis** ist
-wahrscheinlich, aber nicht sicher. José Pedros Heiratseintrag von 1878 nennt
-seinen Vater **Manuel Pedro Coelho**, der Sterbeeintrag von 1903 dagegen
-**Manuel Pedro dos Reis**. Beide nennen die Mutter **Rosa Maria** und verbinden
-den Vater mit diesem Weiler sowie die Mutter mit der Pfarrei Alvorge. Der Eintrag von
-1851 betrifft **Manoel Pedro dos Reis** und **Roza Maria**. Die Taufe der
-Tochter Maria da Piedade 1878 nennt die väterlichen Großeltern
-**Manoel dos Reis** und **Rosa Maria**. Namen, Orte und Chronologie
-sprechen für eine Identität; die abweichenden väterlichen Familiennamen
-und der noch fehlende Taufeintrag José Pedros bleiben jedoch
-ausdrücklich ungeklärt.
+- Manoels Eltern: **Manoel Pedro × Joaquina Maria**, Pragosa
+- Rozas Eltern: **Joaquim […] × Florencia Maria**, Pfarrei Alvorge;
+  Lesung 1851 `Duarte`, 1854 beginnend mit `Fre…` — Nachname **offen**
+- Zeugen 1851: **José António Freire da Paz** und **José Louro**
 
-Der Eintrag von 1851 nennt buchstabengetreu `Valle paio`. Die Formulierung
-folgt dort jedoch Rozas Eltern und bezeichnet nicht eindeutig Rozas eigenen
-Geburtsort. José Pedros Heiratseintrag von 1878 nennt `Vallejazede`, sein
-Sterbeeintrag von 1903 `Aljazede`. Ob unterschiedliche Bezugsorte oder eine
-abweichende Ortsangabe vorliegen, bleibt offen; die Formen werden nicht
-harmonisiert.
+Eine frühere Lesung „Manuel Pedro Coelho“ in der Heirat 1878 ist
+gegen den aktuellen Scan und das Evidenzblatt **nicht** beibehalten;
+dort steht `Manoel Pedro dos Reis`.
 
-Quelle:
+`Valle paio` (1851), `Vallejazede` (1878) und `Aljazede` (1903) bleiben
+getrennte Quellenformen in Alvorge; **Ateanha** ist nur Suchort
+([alvorge-ateanha](../evidenz/linie-torre/alvorge-ateanha.md)).
+
+Quelle Heirat 1851:
 
 - `PT/ADLRA/PRQ/PANS08/002/0003`,
   `PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`, rechte Seite;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9)
 
-Für die Zuordnung zu José Pedros Eltern außerdem herangezogen:
+Weitere Anker:
 
 - Heirat José Pedro dos Reis × Narcisa da Conceição:
   `PT/ADLRA/PRQ/PANS08/002/0022`,

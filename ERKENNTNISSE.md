@@ -75,10 +75,13 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Narciza | Taufe 6.11.1856 Torre; Heirat 8.5.1878 als Narcisa da Conceição × José Pedro dos Reis | sicher | [narcisa](narcisa-records/README.md) |
 | Geburt Narciza | Zeremonie 6.11.; Geburt „19. des Vormonats“ → Sept. vs. Okt. | offen (Lesung `mez passado`) | [narciza.md](evidenz/linie-torre/narciza.md) |
 | Maria da Piedade | * 15.9.1878 Pragoza; Eltern José Pedro × Narciza | sicher | narcisa + [jose-maria](jose-maria-records/README.md) |
-| José Pedro dos Reis | Heirat 1878; † 2.10.1903 Grenze Pião/Lagarteira | sicher | narcisa |
+| José Pedro dos Reis | * 24.11.1854 Pragosa; Taufe 19.12.1854; Heirat 1878; † 2.10.1903 Grenze Pião/Lagarteira | sicher | [jose-pedro](evidenz/linie-torre/jose-pedro-dos-reis.md) |
+| 4. Grad **paterno** | Manoel Pedro dos Reis × Roza Maria; Heirat 23.3.1851 Torre | sicher als Eltern José Pedros (Taufe 1854) | [G4-paterno-reis](evidenz/linie-torre/G4-paterno-reis.md) |
+| Roza, Alvorge-Seite | Pfarrei Alvorge sicher; Vale Paio / Vallejazede / Aljazede nicht zusammenführen; Ateanha nur Suchort | Pfarrei sicher; Lugar und Joaquims Nachname offen | [alvorge-ateanha](evidenz/linie-torre/alvorge-ateanha.md) |
 | Caetana Maria | Taufe 21.11.1815; Heirat 16.11.1837 × João Roiz Gato; † 14.2.1891 | sicher | narcisa / [caetana](evidenz/linie-torre/caetana-maria.md) |
 | Eltern Caetana | Manoel (Joaquim) Sol × Maria Joaquina | sicher | Taufe + Heirat |
 | Großeltern Maria Joaquina | Alexandre Manoel × Joaquina da Affonseca, Vila de Avelar | sicher als Großeltern; deren Heirat nur Kandidat | Avelar-Abschnitt |
+| 4. Grad **materno** | João Rodrigues Gato × Caetana — nicht mit dem Reis-Paar vermischen | sicher als Narcizas Eltern | narcisa |
 
 ### Teixeira / Guiomar / Ascenção / Matta
 
@@ -157,10 +160,11 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Heirat Reis-Eltern 1851: Jahres-/Namenszeile; Zuordnung nur wahrscheinlich (Coelho vs. dos Reis) |
-| 7 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |
-| 8 | Narciza † nach 2.10.1903: Zivilregister Ansião oder andere Pfarrei |
-| 9 | Patenort João 1879: `Sarrazina` / São Cosme unidentifiziert (nicht Sarzedela setzen) |
+| 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
+| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
+| 8 | Maria José dos Santos ~1884; Joaquina Ramalha dos Reis |
+| 9 | Narciza † nach 2.10.1903: Zivilregister Ansião oder andere Pfarrei |
+| 10 | Patenort João 1879: `Sarrazina` / São Cosme unidentifiziert (nicht Sarzedela setzen) |
 
 ---
 
@@ -173,6 +177,6 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | `master` PR #4 | Belegstärken, José Freire Bicho, Ortsformen |
 | Draft PR #5 | Avelar m0013: zwei Heiraten getrennt |
 | Draft PR #6 | `archiv/`, Ortsregister, Teixeira/Guiomar/Matta/Ascenção, Stammbaumblatt |
-| Draft PR #7 | `evidenz/`, Theodora und Simões abgegrenzt |
+| Draft PR #7 | `evidenz/` inkl. G4-paterno-reis, Taufe José Pedro 1854, Alvorge/Ateanha; Theodora und Simões abgegrenzt |
 
 Lebende und avós bleiben beim Auftraggeber und stehen nicht in dieser Prüfung.
