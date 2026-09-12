@@ -1,5 +1,8 @@
 # Duarte/Freire Bicho – geprüfte Kirchenbuchfunde
 
+Prüfbare Einzelblätter mit Scanpfad und Transkript:
+[`evidenz/linie-duarte/`](../evidenz/linie-duarte/G2-heirat-1907.md).
+
 Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
 Coimbra. Schreibweisen und Ortsnamen werden nach den jeweiligen Einträgen
 wiedergegeben.
@@ -27,6 +30,8 @@ Quelle:
 - getauft **18. Februar 1886** in Cumeeira, Eintrag Nr. 9
 - Eltern: **António Freire Bicho**, aus Figueira Podra, und
   **Maria Ignácia**, aus Cabeça Redonda und dort wohnhaft
+  (`Figueira Podra` = historisch Figueiras Podres, heute Figueiras
+  de S. João; ein Ort, siehe Ortsregister)
 - väterliche Großeltern: **António Freire Bicho** und **Maria de Christo**,
   aus Figueira Podra
 - mütterliche Großeltern: **Manuel Francisco Dias** und **Joaquina Maria**,
@@ -54,9 +59,10 @@ Quelle:
 - Eltern Joaquinas: **António Freire Bicho** und **Maria Ignácia**
 - Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras, Pfarrei
   Ansião, und **Manuel Freire Bicho**, ledig, aus Cabeça Redonda
-- laut späterem Randvermerk wurde die Ehe durch Manuels Tod am
-  **30. September 1964** aufgelöst; der Sterbeakt selbst wurde hier nicht
-  geprüft
+- laut späterem Randvermerk / Averbamento wurde die Ehe durch Manuels Tod
+  am **30. September 1962** in Ansião aufgelöst; das Stammbaumblatt führt
+  dasselbe Datum. Eine zwischenzeitliche Lesung 1964 war falsch. Der
+  Sterbeakt selbst wurde hier nicht geprüft
 
 Quelle:
 
@@ -80,11 +86,33 @@ Quelle:
 - Tod laut Randvermerk: **29. November 1979** in Cumeeira,
   Zivilstandsakt Nr. 108
 
-Das im Stammbaum verwendete Todesjahr **1972** ist nicht richtig. Der
-Tauf-Randvermerk nennt Margaridas Tod am **29. November 1979** und den
-Zivilstandsakt Nr. 108. Das Jahr 1972 gehört zu einem anderen Randvermerk über
-die Auflösung der Ehe durch den Tod ihres Ehemanns; dieser Vermerk wurde im
-Dezember 1972 angebracht. Daraus dürfte die Verwechslung entstanden sein.
+Das frühere Stammbaum-Todesjahr **1972** war falsch. Das aktuelle Blatt
+schreibt `† ~1979`; der Tauf-Randvermerk nennt den **29. November 1979**
+und den Zivilstandsakt Nr. 108. Das Jahr 1972 gehört zu einem anderen
+Randvermerk über die Auflösung der Ehe durch den Tod des Ehemanns;
+dieser Vermerk wurde im Dezember 1972 angebracht. Daraus dürfte die
+ältere Verwechslung entstanden sein.
+
+## 4.º avós, die in diesen Taufen schon stehen
+
+Das Blatt lässt die Eltern der 3.º avós dieser Linie als `por
+confirmar` offen. Die drei Cumeeira-Taufen nennen sie bereits:
+
+| Kind (3.º avós auf dem Blatt) | Eltern in der Taufe |
+| --- | --- |
+| António Duarte (Vater Manuels) | **Manoel Duarte** × **Joaquina de Jesus** |
+| Thereza Freire (Mutter Manuels) | **Manoel Silva** × **Maria Freire** |
+| António Freire Bicho (Vater Joaquinas) | **António Freire Bicho** × **Maria de Christo**, Figueira Podra |
+| Maria Ignácia (Mutter Joaquinas) | **Manuel Francisco Dias** × **Joaquina Maria**, Cabeça Redonda |
+| Joaquim Freire Bicho (Vater Margaridas) | **António Freire Bicho** × **Maria Christo** |
+| Genoveva de Jesus (Mutter Margaridas) | **Manoel Francisco Dias** × **Joaquina Ignácia** |
+
+Ob Joaquim und der jüngere António Freire Bicho Brüder sind und ob
+Maria Ignácia und Genoveva Schwestern sind, folgt aus denselben
+Großelternpaaren als Möglichkeit, nicht als gesicherte Identität.
+Die Namensformen `Maria de Christo` / `Maria Christo` und
+`Joaquina Maria` / `Joaquina Ignácia` / `Joaquina Silvéria` werden
+nicht zusammengeführt.
 
 Quelle:
 
@@ -123,6 +151,10 @@ das mutmaßliche Todesjahr sprechen gegen diesen José als Margaridas Ehemann.
 
 Das bisherige Geburtsjahr **1894** und die vermuteten Eltern dürfen daher
 nicht als gesichert in den Stammbaum übernommen werden. Vorrangig zu prüfen
-ist der zivile Heiratseintrag Nr. 94 von 1922; danach kann die Suche auf
-weitere Nachbarpfarreien ausgedehnt werden. Für jede Negativsuche sollen Band,
-Bildbereich, mögliche Lücken, Prüfdatum und Ergebnis protokolliert werden.
+ist der zivile Heiratseintrag Nr. 94 von 1922 im **Arquivo da Universidade
+de Coimbra**, Fonds Conservatória do Registo Civil de Penela
+(`PT/AUC/RCV/PNL`): Band Casamentos **1922**, ergänzend Processos de
+casamento **Cx. 7** (1921–1922) und **Cx. 8** (1922–1923). Inventar:
+[tombo.pt/m/pnl](https://tombo.pt/m/pnl). Danach ggf. Nachbarpfarreien.
+Für jede Negativsuche Band, Bildbereich, mögliche Lücken, Prüfdatum und
+Ergebnis protokollieren.

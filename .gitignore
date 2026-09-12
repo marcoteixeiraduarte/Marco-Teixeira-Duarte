@@ -1,10 +1,15 @@
 narcisa-records/*
 !narcisa-records/README.md
 !narcisa-records/baptismos-1856/
+!narcisa-records/baptismos-1878/
 !narcisa-records/casamento/
+
+narcisa-records/baptismos-1878/*
+!narcisa-records/baptismos-1878/PT-ADLRA-PRQ-PANS08-001-0023_m0004.jpg
 
 narcisa-records/baptismos-1856/*
 !narcisa-records/baptismos-1856/PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg
+!narcisa-records/baptismos-1856/PT-ADLRA-PRQ-PANS08-001-0004_m0070.jpg
 
 narcisa-records/casamento/*
 !narcisa-records/casamento/1878/
@@ -20,6 +25,10 @@ narcisa-records/casamento-pais/*
 !narcisa-records/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0053.jpg
 !narcisa-records/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg
 
+!narcisa-records/casamento-avos-avelar/
+narcisa-records/casamento-avos-avelar/*
+!narcisa-records/casamento-avos-avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg
+
 !narcisa-records/obitos-1878-1911/
 narcisa-records/obitos-1878-1911/*
 !narcisa-records/obitos-1878-1911/1891/
@@ -32,6 +41,43 @@ narcisa-records/obitos-1878-1911/1903/*
 !narcisa-records/obitos-1878-1911/1891/PT_ADLRA_PRQ_PANS08_003_0035_m0003.jpg
 !narcisa-records/obitos-1878-1911/1896/PT_ADLRA_PRQ_PANS08_003_0040_m0005.jpg
 !narcisa-records/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg
+
+stammbaum/*
+!stammbaum/README.md
+!stammbaum/blatt-teixeira-duarte.jpg
+
+jose-maria-records/*
+!jose-maria-records/README.md
+!jose-maria-records/baptismos-1880/
+jose-maria-records/baptismos-1880/*
+!jose-maria-records/baptismos-1880/PT-ADLRA-PRQ-PANS08-001-0025_m0004.jpg
+
+!jose-maria-records/baptismos-1845/
+jose-maria-records/baptismos-1845/*
+!jose-maria-records/baptismos-1845/PT-ADLRA-PRQ-PANS08-001-0004_m0019.jpg
+
+matta-records/*
+!matta-records/README.md
+!matta-records/baptismos-1872/
+matta-records/baptismos-1872/*
+!matta-records/baptismos-1872/PT-ADLRA-PRQ-PANS08-001-0017_m0007.jpg
+!matta-records/baptismos-1872/PT-ADLRA-PRQ-PANS08-001-0017_m0008.jpg
+
+guiomar-records/*
+!guiomar-records/README.md
+!guiomar-records/baptismos-1874/
+guiomar-records/baptismos-1874/*
+!guiomar-records/baptismos-1874/PT-ADLRA-PRQ-PANS08-001-0019_m0007.jpg
+!guiomar-records/baptismos-1882/
+guiomar-records/baptismos-1882/*
+!guiomar-records/baptismos-1882/PT-ADLRA-PRQ-PANS05-001-0027_m0003.jpg
+
+teixeira-records/*
+!teixeira-records/README.md
+!teixeira-records/baptismos-1879/
+teixeira-records/baptismos-1879/*
+!teixeira-records/baptismos-1879/PNL01-002-0024_m0015.jpg
+!teixeira-records/baptismos-1879/PNL01-002-0024_m0016.jpg
 
 duarte-freire-records/*
 !duarte-freire-records/README.md
@@ -50,3 +96,13 @@ duarte-freire-records/cumeeira/casamentos-1907/*
 !duarte-freire-records/cumeeira/1897/PT-AUC-PAR-PNL01-002-0042_m0019.jpg
 !duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0015.jpg
 !duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0016.jpg
+
+alvorge-records/
+
+# Evidenz-Ledger: Markdown und versionierte Scans
+!evidenz/
+!evidenz/**/
+!evidenz/**/*.md
+!evidenz/scans/
+!evidenz/scans/**
+!evidenz/scans/**/*.jpg
