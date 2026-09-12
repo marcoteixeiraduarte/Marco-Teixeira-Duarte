@@ -54,7 +54,7 @@ Nachweis, dass eine Heirat nicht stattgefunden hat.
 | --- | --- | --- | --- |
 | `m0001` | Banddeckel | Metadaten | sicher gelesen |
 | `m0002` | ab 1609 | Heiraten rechts; Hinweis links | erste Datumszeilen und Fehlstellenhinweis geprüft; Namen offen |
-| `m0003` | wohl 1611–1612, nicht pauschal 1619 | Heiraten | L2 vorläufig erfasst; Datierung am Kontext nochmals prüfen |
+| `m0003` | wohl 1611–1612, nicht pauschal 1619 | Heiraten | L2 vertieft: beide Elternformeln erfasst, einzelne Namen und Tagesdatum offen |
 | `m0005` | 1619 | Einträge | Transkription offen |
 | `m0010` | 1630–1631 | Heiraten | Typ sicher; Namen einzeln prüfen |
 | `m0012` | 1637 | Heiraten | R2 teilweise erfasst |
@@ -102,7 +102,7 @@ wiedergegeben. Kürzungen bleiben im Quellenfeld unaufgelöst.
 
 | ID-Ende | Datum / Lesestand | Paar in Quellenlesung | Belegter oder vorläufig gelesener Ort | Offener Punkt |
 | --- | --- | --- | --- | --- |
-| `m0003-L2` | Oktober, wohl 1611; Tag offen | `[Simão?] roiz` × `Anna roiz` | Ortsangaben noch nicht sicher zugeordnet | frühe Namens- und Elternlesung vorläufig |
+| `m0003-L2` | Oktober, wohl 1611; Tag offen | `[Simão?] roiz` × `Anna roiz` | `no freixo` nach Brauteltern; `Alvorge` beim Kaplan | Vorname des Bräutigams, Nachname des Brautvaters und weitere Ortsstelle offen |
 | `m0012-R2` | `[10?]` Oktober 1637 | `Simão mendes` × `mª marques` | Wohnort noch nicht sicher gelesen | Tag und Ortszeile |
 | `m0013-R4` | 8. August 1639 | `adam mendes` × `[C.ª?] frz` | `[paragoza?]` | Brautkürzung und Ortsform |
 | `m0017-R3` | 15. August 1645 | `izabel gomes` × `mateus simois` | kein eigener Wohnort im gelesenen Eintrag | Anschluss an den Stammbaum |
@@ -110,25 +110,71 @@ wiedergegeben. Kürzungen bleiben im Quellenfeld unaufgelöst.
 | `m0028-R1` | 15. Februar 1671 | `Diogo R[o/e]iz` × `izabel mendes` | `da Torre` | Nachnamenslesung und Identität gegenüber L5 |
 | `m0028-R4` | 17. Januar 1673, Tag wahrscheinlich | `Estevão duarte` × `izabel Roiz` | `val de todos` | Tageslesung nochmals gegenprüfen; Stammbaumanschluss offen |
 
-### TVT-MIX1-m0003-L2 — früher Elternhinweis, vorläufig
+### TVT-MIX1-m0003-L2 — beide Elternformeln, vertiefte Gegenlesung
 
 - Fundstelle: `m0003`, linke Hälfte, zweiter Eintragsblock.
 - Typ: Heirat. Monat Oktober; der Tag beginnt offenbar mit `2`, die
   folgende Stelle ist verdeckt. Kein bestimmter Tag wird festgeschrieben.
 - Jahr: Bezug auf das vorangehende Datum (`do dito …`); dort vorläufig
-  `611` gelesen. Die folgenden Einträge links tragen `612`. Arbeitsdatum
-  deshalb Oktober 1611 mit Vorbehalt, nicht gesichert 1619.
-- Arbeitsauszug: `[…] [Simão?] roiz fº de Antº roiz […] Isabel freire […]
-  cõ Anna roiz […]`.
-- Rollenlesung: `[Simão?] roiz` als Bräutigam; `Anna roiz` als Braut.
-  `Antº roiz` und `Isabel freire` erscheinen nach der vorläufigen Lesung
-  als seine Eltern. Diese Elternlesung ist ein **Prüfkandidat**, noch keine
-  freigegebene Eltern-Kind-Kante.
-- Der Braut folgen ebenfalls Elternangaben; sie bleiben bis zur sicheren
-  Lesung unaufgelöst. Auch die Zuordnung der Ortswörter bleibt offen.
+  `611` gelesen. Der erste Eintrag beginnt mit `Aos nove dias domes
+  doutubro […]`, also dem 9. Oktober. Die folgenden Einträge links tragen
+  `612`. Arbeitsdatum für L2 deshalb Oktober 1611 mit Vorbehalt, nicht
+  gesichert 1619. Der 9. Oktober gehört zu **L1**, nicht zu diesem Paar.
+- Arbeitsauszug, nicht lückenlos transkribiert:
+  `[…] Capelão do aluorge a [Simão?] roiz fº de Antº roiz […] de
+  Isabel freire […] cõ Anna roiz fª […] de m.el […] e Mª Roiz
+  […] no freixo […]`.
+- Gegenlesung 2026-09-12: Original und vergrößerter Ausschnitt verglichen.
+  Die zwei Elternformeln lassen sich jetzt getrennt erfassen; der
+  Bräutigamsvorname bleibt eine wahrscheinliche Lesung. Die Wiederholung
+  der Lesung ist **keine zweite unabhängige Quelle**.
+
+| Quellenmention | Rolle im Eintrag | Lesestand | Zulässige Suchform, nicht Quellenersatz |
+| --- | --- | --- | --- |
+| `[Simão?] roiz` | Bräutigam; Sohn in der ersten Elternformel | Vorname wahrscheinlich; Nachname als Kürzungsform gelesen | Simão / Simam; `roiz` unaufgelöst |
+| `Antº roiz` | Vater des Bräutigams | Name und Stellung nach `fº de` gut lesbar | António / Antonio; `roiz` unaufgelöst |
+| `Isabel freire` | Mutter des Bräutigams | Name und zweite Elternposition gut lesbar | Isabel / Izabel Freire |
+| `Anna roiz` | Braut; Tochter in der zweiten Elternformel | Name und Rolle gut lesbar | Anna / Ana; `roiz` unaufgelöst |
+| `m.el […]` | Vater der Braut | Vorname abgekürzt lesbar; anschließender Name nicht sicher entziffert | Manuel / Manoel; Nachname offen |
+| `Mª Roiz` | Mutter der Braut | Kürzungen und zweite Elternposition gut lesbar | Maria; `Roiz` unaufgelöst |
+
+**Orts- und Rollentrennung:**
+
+- `Capelão do aluorge`: Alvorge ist hier zunächst die Zuordnung des
+  Kaplans. Der davor genannte Geistliche gehört nicht zum Elternpaar.
+  Aus seiner Amtsbezeichnung wird keine Herkunft von Braut, Bräutigam
+  oder Eltern abgeleitet.
+- Hinter `Isabel freire` folgt eine schwache, über die Zeile verteilte
+  Passage. Sie bleibt unaufgelöst; insbesondere wird dort nicht bloß
+  aufgrund der zuvor genannten Kapelle nochmals Alvorge eingesetzt.
+- Hinter den Brauteltern steht ein Bewohnervermerk, vorläufig
+  `mor[s] no freixo` gelesen. Die Wortfolge `no freixo` ist gut erkennbar;
+  grammatisch bezieht sich der Plural wahrscheinlich auf die Brauteltern.
+  Ob die Braut mitgemeint ist, bleibt offen. Das ist kein Geburtsortbeleg.
+- Suchform `Freixo` ist zulässig. Noch keine Zuordnung zu einem heutigen
+  gleichnamigen Ort und keine Koordinaten; die räumliche Identität muss
+  durch weitere örtliche Quellen gestützt werden.
+
+**Beziehung und Evidenzgrenze:** Die Eltern-Kind-Beziehungen sind im
+Heiratstext ausdrücklich formuliert und können auf Ebene der oben
+aufgelisteten Quellenmentions dokumentiert werden. Das ist eine Präzisierung
+gegenüber der ersten pauschal vorläufigen Elternlesung. Es entsteht daraus
+noch keine Verbindung zu einer schon vorhandenen Stammbaumperson. Die
+unsicheren Namensteile werden nicht durch Vermutungen ergänzt. Auch der
+Wortlaut eines etwaigen Legitimitätsvermerks wird hier nicht festgelegt.
+
 - Suchformen, nicht Quellenersatz: Simão / Simam; Anna / Ana;
   Isabel / Izabel Freire. `roiz` bleibt zunächst unaufgelöst.
-- Stammbaumidentität: ungeprüft.
+- Stammbaumidentität: offen. Eine Suche in den lokalen Markdown- und
+  Textunterlagen des Repositories nach `Freixo`, `Isabel/Izabel Freire`,
+  `Anna roiz` und `Simão/Simao roiz` ergab keinen unabhängigen passenden
+  Anschluss außerhalb dieses Arbeitsregisters. Das ist keine vollständige
+  Suche in allen Originalakten, Bildern oder externen Stammbaumständen
+  und insbesondere keine Widerlegung des älteren Nutzerstammbaums.
+- Nächste gezielte Prüfung: Nachname hinter `m.el` und schwache Passage
+  hinter `Isabel freire`; danach weitere Erwähnungen der **Elternpaare**
+  suchen, nicht bloß desselben Nachnamens. Ein höher aufgelöster Scan
+  könnte helfen, garantiert aber keine Lesbarkeit der verdeckten Tagesziffer.
 
 ### TVT-MIX1-m0012-R2 — Simão mendes × mª marques
 
@@ -224,9 +270,11 @@ wiedergegeben. Kürzungen bleiben im Quellenfeld unaufgelöst.
 
 ## Prioritäten für die nächste Suche
 
-1. `m0003-L2` nochmals gegenlesen: exaktes Datum, Vorname des Bräutigams,
-   beide Elternpaare und eindeutige Zuordnung der Ortsangaben. Dieser
-   Eintrag ist wegen seiner ausdrücklichen Elternformel besonders wertvoll.
+1. Bei `m0003-L2` die Restlücken gezielt klären: verdeckte Tagesziffer,
+   Vorname des Bräutigams, Nachname des Brautvaters und Passage hinter
+   `Isabel freire`. Beide Elternformeln sind jetzt erfasst; `no freixo`
+   dient als Suchhinweis zur Brautfamilie, nicht als bereits geolokalisierter
+   Geburtsort. Alvorge bleibt beim Amt des Kaplans verankert.
 2. Zu `Estevão duarte` × `izabel Roiz` gezielt Kinder mit ausdrücklich
    genanntem Elternpaar suchen; ein erster Suchzeitraum wäre ab 1673,
    sofern entsprechende Taufüberlieferung vorhanden ist. Auch Einträge
