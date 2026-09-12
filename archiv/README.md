@@ -1,6 +1,7 @@
 # Archiv der Match-Scans
 
 **Archive, Portale und Signaturen:** [`ARCHIVE-UND-LINKS.md`](ARCHIVE-UND-LINKS.md).
+**Kartenarchiv (Orte):** [`karten/`](karten/README.md).
 
 Arbeitsablage zum **händischen Gegenlesen**. Jede Datei ist die
 höchste öffentlich verfügbare Ableitung (DigitArq `dissemination`

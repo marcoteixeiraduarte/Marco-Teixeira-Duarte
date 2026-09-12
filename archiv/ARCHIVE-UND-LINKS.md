@@ -5,6 +5,8 @@ Scan-IDs und Einzelblätter: [`evidenz/quellenregister.md`](../evidenz/quellenre
 Suchstand Roza/Manoel Pedro:
 [`evidenz/linie-torre/suche-taufe-roza-manoel.md`](../evidenz/linie-torre/suche-taufe-roza-manoel.md).
 
+**Kartenarchiv (alle Orte):** [`karten/`](karten/README.md) · [`karten/orte.md`](karten/orte.md) · [`karten/orte.geojson`](karten/orte.geojson).
+
 ---
 
 ## Linien und Archive (nicht vermischen)

@@ -18,6 +18,7 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 | Ort | Inhalt |
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechenden Namen; Conservatória-Fotokopien |
+| [`archiv/karten/`](archiv/karten/README.md) | Ortsblätter, Gesamtliste, GeoJSON |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter mit Transkript und Gewissheit |
 | [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter |
 | `*-records/` | Personenakten mit Signatur und DigitArq/AUC-Links |
@@ -38,7 +39,7 @@ Cabeça Redonda · Figueiras Podres        Lagarteira / Pião · Alvorge
 Die Duarte-Urgroßeltern sind **nicht** an die Torre-/Narciza-Spur
 gehängt. **Teixeira** steht familiär im materno-Arm, archivisch aber
 in denselben Cumeeira-Bänden wie Duarte (`PNL01` / AUC). Archive und
-Links: [`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md).
+Links: [`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md); Karten: [`archiv/karten/`](archiv/karten/README.md).
 
 ---
 
