@@ -4,6 +4,12 @@ Arbeitsstand nach Merge von PR #8. Dem Faden vom gesicherten Paar
 **Manoel Pedro dos Reis × Roza Maria** (Heirat 23.3.1851) zurückfolgen —
 nicht den Sammelband 1609–1748 öffnen.
 
+**Methode bisher = Stichproben, nicht Volllese.** Grund: im Cloud-Checkout
+fehlen die lokalen Alvorge-Scans (`alvorge-records/` steht in `.gitignore`);
+DigitArq-Viewer-Paläografie reicht nicht für sichere Elternzeilen. Negativsuche
+hier heißt: *kein klarer Treffer in den angesprungenen Seiten* — nicht
+„Band zeilenweise erledigt“.
+
 ## Ausgangspunkt (sicher)
 
 | Person | Was sicher ist | Quelle |
