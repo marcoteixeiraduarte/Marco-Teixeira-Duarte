@@ -1,0 +1,783 @@
+{
+  "type": "FeatureCollection",
+  "name": "Marco-Teixeira-Duarte-Orte",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43017,
+          39.95897
+        ]
+      },
+      "properties": {
+        "id": "torre-vale-todos",
+        "name": "Torre de Vale de Todos",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Torre / Reis / Narciza / Guiomar / Matta)",
+        "archiv": "ADLRA PANS08",
+        "status": "gesichert (Wohn-/Heiratsort mehrerer Generationen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43017,
+          39.95897
+        ]
+      },
+      "properties": {
+        "id": "pragoza",
+        "name": "Pragoza / Pragosa",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Torre)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Reis (José Pedro; Manoel Pedro-Herkunftsangabe)",
+        "archiv": "ADLRA PANS08",
+        "status": "gesichert als Weiler; Taufe Manoel Pedro (~1820–35) noch offen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43017,
+          39.95897
+        ]
+      },
+      "properties": {
+        "id": "sao-jorge-torre",
+        "name": "São Jorge (Kapelle / lugar in Vale de Todos)",
+        "tipo": "Lugar / Kapelle",
+        "municipio": "Ansião (Pfarrei Torre)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Torre",
+        "archiv": "ADLRA PANS08",
+        "status": "gesichert (lugar derselben Pfarrei Torre)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43017,
+          39.95897
+        ]
+      },
+      "properties": {
+        "id": "rua-dalem",
+        "name": "Rua d'Além",
+        "tipo": "Lugar / Weiler",
+        "municipio": "Ansião (Pfarrei Torre)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Guiomar / Matta",
+        "archiv": "ADLRA PANS08",
+        "status": "gesichert (Taufe João Guiomar 1874)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40614,
+          39.95354
+        ]
+      },
+      "properties": {
+        "id": "lagarteira",
+        "name": "Lagarteira (São Domingos)",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Guiomar-Umfeld; Grenze zu Reis †1903)",
+        "archiv": "ADLRA PANS05",
+        "status": "gesichert als eigene Pfarrei (nicht Torre)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40614,
+          39.95354
+        ]
+      },
+      "properties": {
+        "id": "piao",
+        "name": "Pião / Valle do Pião",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Lagarteira)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Maria 1882 Lagarteira)",
+        "archiv": "ADLRA PANS05",
+        "status": "gesichert — Pfarrei Lagarteira, nicht Torre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4507,
+          39.9788
+        ]
+      },
+      "properties": {
+        "id": "alvorge",
+        "name": "Alvorge",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Reis (Herkunft Roza Maria)",
+        "archiv": "ADLRA PANS01",
+        "status": "gesichert (Heiratsherkunft Roza Maria 1851)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42,
+          39.9794
+        ]
+      },
+      "properties": {
+        "id": "ateanha",
+        "name": "Ateanha / Atianha",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Prüfhypothese Roza — als Herkunft ausgeschlossen)",
+        "archiv": "ADLRA PANS01 (kein eigenes Fonds)",
+        "status": "Ort gesichert als Lugar; als Roza-Herkunft ausgeschlossen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4507,
+          39.9788
+        ]
+      },
+      "properties": {
+        "id": "vale-paio",
+        "name": "Vale Paio",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Reis (Roza — Quellenform)",
+        "archiv": "ADLRA PANS01",
+        "status": "genannt in Heirat 1851; nicht mit Aljazede zusammenführen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.445,
+          39.9788
+        ]
+      },
+      "properties": {
+        "id": "aljazede",
+        "name": "Aljazede / Vallejazede",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Reis (Roza-Umfeld)",
+        "archiv": "ADLRA PANS01",
+        "status": "sicher genannt in Sohnesheirat/-tod; Lage genähert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43118,
+          39.97565
+        ]
+      },
+      "properties": {
+        "id": "bemposta",
+        "name": "Bemposta (Alvorge)",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno Guiomar (Herkunft Luiz Guiomar)",
+        "archiv": "ADLRA PANS01",
+        "status": "gesichert (Taufe João 1874)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44228,
+          39.98256
+        ]
+      },
+      "properties": {
+        "id": "vila-nova-alvorge",
+        "name": "Vila Nova (Alvorge)",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Kontext Alvorge-Bücher)",
+        "archiv": "ADLRA PANS01",
+        "status": "belegt im Bandrand / Patin 1854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.448,
+          39.978
+        ]
+      },
+      "properties": {
+        "id": "vale-galego",
+        "name": "Vale Galego",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Negativkontrolle Roza)",
+        "archiv": "ADLRA PANS01",
+        "status": "Ort belegt; Roza-Kandidatin ausgeschlossen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3599,
+          39.9145
+        ]
+      },
+      "properties": {
+        "id": "avelar",
+        "name": "Avelar",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Gato/Simões-Kandidaten; Rapoula)",
+        "archiv": "ADLRA PANS03",
+        "status": "Kontextpfarrei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.35768,
+          39.93124
+        ]
+      },
+      "properties": {
+        "id": "rapoula",
+        "name": "Rapoula (bei Avelar)",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Avelar)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Theodora-Kandidaten)",
+        "archiv": "ADLRA PANS03",
+        "status": "belegt für Theodora Maria 1781; nicht Maria Joaquina Sol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4344,
+          39.9122
+        ]
+      },
+      "properties": {
+        "id": "ansiao",
+        "name": "Ansião",
+        "tipo": "Kreisstadt (Concelho)",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Verwaltung + Conservatória (*1912–1915 Fotos)",
+        "archiv": "ADLRA; Conservatória do Registo Civil",
+        "status": "gesichert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44387,
+          39.92753
+        ]
+      },
+      "properties": {
+        "id": "sarzedela",
+        "name": "Sarzedela",
+        "tipo": "Lugar",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "nur Kandidat zu Lesung Sarrazina / São Cosme",
+        "archiv": "ADLRA (Pfarrei Ansião PANS02)",
+        "status": "Lage plausibel; nicht als gelesener Patenort setzen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3806,
+          39.94357
+        ]
+      },
+      "properties": {
+        "id": "cumeeira",
+        "name": "Cumeeira",
+        "tipo": "Freguesia",
+        "municipio": "Penela",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno Duarte + Teixeira (archivische Brücke)",
+        "archiv": "AUC PNL01",
+        "status": "gesichert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40327,
+          39.93205
+        ]
+      },
+      "properties": {
+        "id": "cabeca-redonda",
+        "name": "Cabeça Redonda",
+        "tipo": "Lugar",
+        "municipio": "Penela (Pfarrei Cumeeira)",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno Duarte / Teixeira",
+        "archiv": "AUC PNL01",
+        "status": "gesichert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40637,
+          39.93711
+        ]
+      },
+      "properties": {
+        "id": "figueiras-podres",
+        "name": "Figueiras Podres / Figueiras de S. João",
+        "tipo": "Lugar",
+        "municipio": "Ansião / Grenze Cumeeira (Penela)",
+        "distrito": "Leiria / Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno Duarte / Teixeira",
+        "archiv": "AUC PNL01 (Ereignisse) / Lage Ansião",
+        "status": "gesichert — ein Ort (historisch Podres, heute de S. João)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.40912,
+          39.93167
+        ]
+      },
+      "properties": {
+        "id": "carrasqueiras",
+        "name": "Carrasqueiras",
+        "tipo": "Lugar",
+        "municipio": "Penela / Grenzlage Ansião (Pfarrei Cumeeira)",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno Duarte",
+        "archiv": "AUC PNL01",
+        "status": "gesichert (Taufe Manuel Duarte 1885)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.32333,
+          39.97389
+        ]
+      },
+      "properties": {
+        "id": "ferraria-sao-joao",
+        "name": "Ferraria de São João",
+        "tipo": "Lugar",
+        "municipio": "Penela (Pfarrei Cumeeira)",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Abgrenzung zu Figueiras Podres",
+        "archiv": "AUC PNL01",
+        "status": "anderer Ort — nicht zusammenwerfen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3806,
+          39.94357
+        ]
+      },
+      "properties": {
+        "id": "venda-das-figueiras",
+        "name": "Venda das Figueiras",
+        "tipo": "Lugar",
+        "municipio": "Penela (Pfarrei Cumeeira)",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Abgrenzung zu Figueiras Podres",
+        "archiv": "AUC PNL01",
+        "status": "anderer Ort — nicht zusammenwerfen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3899,
+          40.032
+        ]
+      },
+      "properties": {
+        "id": "penela",
+        "name": "Penela",
+        "tipo": "Kreisstadt (Concelho)",
+        "municipio": "Penela",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno Duarte / Teixeira",
+        "archiv": "AUC — RCV Penela + PNL01",
+        "status": "gesichert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.35,
+          40.02
+        ]
+      },
+      "properties": {
+        "id": "espinhal",
+        "name": "Espinhal",
+        "tipo": "Freguesia",
+        "municipio": "Penela",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno-Umfeld Penela",
+        "archiv": "AUC",
+        "status": "Nachbarfreguesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4,
+          40.01
+        ]
+      },
+      "properties": {
+        "id": "podentes",
+        "name": "Podentes",
+        "tipo": "Freguesia",
+        "municipio": "Penela",
+        "distrito": "Coimbra",
+        "cluster": "cumeeira-auc",
+        "linha": "Paterno-Umfeld Penela",
+        "archiv": "AUC",
+        "status": "Nachbarfreguesia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.36965,
+          39.8924
+        ]
+      },
+      "properties": {
+        "id": "chao-de-couce",
+        "name": "Chão de Couce",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "abgrenzung",
+        "linha": "Abgrenzung São Jorge",
+        "archiv": "ADLRA",
+        "status": "Nachbarpfarrei — nicht São Jorge der Torre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.46611,
+          39.9597
+        ]
+      },
+      "properties": {
+        "id": "orada",
+        "name": "Orada (Senhora da Orada)",
+        "tipo": "Freguesia / Ort",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "abgrenzung",
+        "linha": "Diözesenliste Coimbra 1879 (Kontext)",
+        "archiv": "ADLRA",
+        "status": "Nachbar — nicht Kernlinie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.39548,
+          39.86683
+        ]
+      },
+      "properties": {
+        "id": "pousaflores",
+        "name": "Pousaflores",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "abgrenzung",
+        "linha": "Diözesenliste Coimbra 1879 (Kontext)",
+        "archiv": "ADLRA",
+        "status": "Nachbar — nicht Kernlinie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.48073,
+          39.94729
+        ]
+      },
+      "properties": {
+        "id": "santiago-da-guarda",
+        "name": "Santiago da Guarda",
+        "tipo": "Freguesia",
+        "municipio": "Ansião",
+        "distrito": "Leiria",
+        "cluster": "abgrenzung",
+        "linha": "Diözesenliste Coimbra 1879 (Kontext)",
+        "archiv": "ADLRA",
+        "status": "Nachbar — nicht Kernlinie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47115,
+          40.01219
+        ]
+      },
+      "properties": {
+        "id": "pombalinho",
+        "name": "Pombalinho",
+        "tipo": "Freguesia / Ort",
+        "municipio": "Soure",
+        "distrito": "Coimbra",
+        "cluster": "abgrenzung",
+        "linha": "erwähnt in Alvorge-Einträgen (Großeltern-Herkunft)",
+        "archiv": "ggf. AD Coimbra",
+        "status": "Kontext / Herkunftsangabe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8071,
+          39.7436
+        ]
+      },
+      "properties": {
+        "id": "leiria",
+        "name": "Leiria",
+        "tipo": "Distrikthauptstadt / Archivort",
+        "municipio": "Leiria",
+        "distrito": "Leiria",
+        "cluster": "archiv",
+        "linha": "Materno — Archivstandort",
+        "archiv": "ADLRA — Arquivo Distrital de Leiria",
+        "status": "gesichert (Archiv)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4292,
+          40.2115
+        ]
+      },
+      "properties": {
+        "id": "coimbra",
+        "name": "Coimbra",
+        "tipo": "Distrikthauptstadt / Archivort",
+        "municipio": "Coimbra",
+        "distrito": "Coimbra",
+        "cluster": "archiv",
+        "linha": "Paterno — Archivstandort",
+        "archiv": "AUC — Arquivo da Universidade de Coimbra",
+        "status": "gesichert (Archiv)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1366,
+          38.7078
+        ]
+      },
+      "properties": {
+        "id": "lisboa",
+        "name": "Lisboa",
+        "tipo": "Hauptstadt / Nationalarchiv / Portal",
+        "municipio": "Lisboa",
+        "distrito": "Lisboa",
+        "cluster": "archiv",
+        "linha": "Querschnitt — Portal",
+        "archiv": "ANTT; digitarq.arquivos.pt",
+        "status": "Portal / Nationalarchiv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6323,
+          39.9172
+        ]
+      },
+      "properties": {
+        "id": "pombal",
+        "name": "Pombal",
+        "tipo": "Kreisstadt",
+        "municipio": "Pombal",
+        "distrito": "Leiria",
+        "cluster": "kontext",
+        "linha": "Regionaler Bezugspunkt",
+        "archiv": "ADLRA / Regional",
+        "status": "Kontext"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4686,
+          41.7403
+        ]
+      },
+      "properties": {
+        "id": "chaves",
+        "name": "Chaves",
+        "tipo": "Stadt",
+        "municipio": "Chaves",
+        "distrito": "Vila Real",
+        "cluster": "kontext",
+        "linha": "Lebensstation (moderne Generation)",
+        "archiv": "außerhalb ADLRA/AUC-Kern",
+        "status": "Kontext"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.611,
+          41.1495
+        ]
+      },
+      "properties": {
+        "id": "porto",
+        "name": "Porto",
+        "tipo": "Stadt",
+        "municipio": "Porto",
+        "distrito": "Porto",
+        "cluster": "kontext",
+        "linha": "Lebensstation / Kontext",
+        "archiv": "außerhalb ADLRA/AUC-Kern",
+        "status": "Kontext"
+      }
+    }
+  ]
+}

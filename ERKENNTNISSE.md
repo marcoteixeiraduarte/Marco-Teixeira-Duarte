@@ -18,6 +18,7 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 | Ort | Inhalt |
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechenden Namen; Conservatória-Fotokopien |
+| [`archiv/karten/`](archiv/karten/README.md) | Ortsblätter, Gesamtliste, GeoJSON |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter mit Transkript und Gewissheit |
 | [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter |
 | `*-records/` | Personenakten mit Signatur und DigitArq/AUC-Links |
@@ -25,16 +26,20 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 
 ---
 
-## Zwei getrennte Spuren
+## Zwei Familienarme — ein Cumeeira-Archiv dazwischen
 
 ```
 Ramo paterno (Duarte / Freire Bicho)     Ramo materno (Torre / Reis / Teixeira …)
 Cumeeira · Carrasqueiras ·               Torre · Pragoza · Avelar ·
 Cabeça Redonda · Figueiras Podres        Lagarteira / Pião · Alvorge
+        └──────── AUC PNL01 (Cumeeira) ────────┘
+                  Duarte + Teixeira teilen die Bücher
 ```
 
 Die Duarte-Urgroßeltern sind **nicht** an die Torre-/Narciza-Spur
-gehängt. Gemeinsam ist nur der spätere Familienrahmen auf dem Blatt.
+gehängt. **Teixeira** steht familiär im materno-Arm, archivisch aber
+in denselben Cumeeira-Bänden wie Duarte (`PNL01` / AUC). Archive und
+Links: [`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md); Karten: [`archiv/karten/`](archiv/karten/README.md).
 
 ---
 
@@ -122,6 +127,11 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 
 ---
 
+## Archive und Links (Gesamtliste)
+
+Alle Portale, Signaturen und Zuständigkeiten:
+[`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md).
+
 ## AUC Coimbra (Uni-Archiv) – wo weiter suchen
 
 Kirchenbücher **Cumeeira** (São Sebastião, Penela) liegen schon im
@@ -188,8 +198,18 @@ Forschungsweg:
 5. Bis dahin: nur als ungesichtete Stichproben aus `PANS08/003/0001`
    vermerken — ohne Personenanschluss und außerhalb von Git  
 
-Kurz: dem Faden vom Licht zurück in die Tiefe folgen, nicht im Nebel
-bekannte Namen suchen.
+Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
+[`evidenz/linie-torre/suche-taufe-roza-manoel.md`](evidenz/linie-torre/suche-taufe-roza-manoel.md).
+
+Lokale Ablage (gitignore) für Volllese:
+
+- `alvorge-records/` — Batismos 1808–1822 (100) + 1822–1852 (**244**)
+- `torre-records/` — Batismos 1810–1842 (143)
+
+Ateanha/Atianha ist im Alvorge-Band sichtbar (z. B. m0089/m0091), hat aber
+keine eigenen tombo-Bücher. Taufanschluss Roza/Manoel Pedro noch offen.
+
+**Blocker online:** Alvorge-Casamentos **1789–1859** fehlen (Lücke 1788→1860).
 
 ---
 

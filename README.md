@@ -13,6 +13,9 @@ zusammenführen, ohne die Quellenform zu zerstören.
 
 ## Ortsregister
 
+Kartenblätter und GeoJSON: [`archiv/karten/`](archiv/karten/README.md).
+
+
 ### PRAGOZA / PRAGOSA
 
 Identifizierter Ort: Weiler in der Pfarrei Nossa Senhora da Graça da
