@@ -124,9 +124,16 @@ Paten:
 
 Priester: João Gomes Freire da Silva.
 
-Der Nachname des mütterlichen Großvaters: Heirat 1851 und Bruder-Taufe Manoel
-1829 lesen **Duarte** (**wahrscheinlich**); Taufzeile des Sohnes 1854 beginnt
-`Joaquim Fre-` — nicht glätten, bis Roza-Taufe oder weitere Akte klärt.
+Der Nachname des mütterlichen Großvaters: Heirat 1851, Roza-Taufe 1822 und
+Bruder Manoel 1829 lesen **Duarte** (**wahrscheinlich**); Taufzeile des Sohnes
+1854 beginnt `Joaquim Fre-` — nicht glätten, bis die 1854-Zeile gegenlesen ist.
+
+### Taufe Roza (Alvorge) — Anschluss
+
+- Band `PANS01/001/0003` **m0098-R**, Taufe **28.4.1822**, Lugar Aljaride/Aljazede
+- Eltern **Joaquim Duarte × Florencia Maria**; Avós Duarte/Jozefa und Ramos/Angelica (Atianha)
+- Crops: `evidenz/scans/alvorge-joaquim-florencia/HOLD-ROZA-1822-04-28_*`
+- Gewissheit Anschluss an dieses Blatt: **wahrscheinlich** (Eltern+Avós-Match)
 
 Geburt 24. November 1854 gegen die späteren Altersangaben:
 am 8. Mai 1878 wären das 23 Jahre und 5 Monate (eingetragen 24);
@@ -148,8 +155,7 @@ Blatt noch nicht festgehalten.
 
 ## Nächster Rückwärtsschritt
 
-1. Taufe Roza Maria in Alvorge (`PANS01`) mit Fingerprint Avós Duarte/Ramos
-   (Band 0003 dicht; Valle Paio / Ateanha) — Bruder Manoel 1829 schon sicher.
+1. Gegenlese Geburtstag Roza 1822; dann Taufe als **sicher** an dieses Blatt hängen.
 2. Taufe Manoel Pedro dos Reis in Torre, Pragosa.
 3. Sterbeeinträge beider (Torre 1878–1911 oder Alvorge).
 
