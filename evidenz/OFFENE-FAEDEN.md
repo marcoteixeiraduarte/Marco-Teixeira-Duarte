@@ -49,8 +49,8 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 ## Empfohlene Reihenfolge
 
-1. **T1** Roza mit Duarte-Fingerprint (Band 0003 dicht; Valle paio / Athianha)
-2. **T6** weitere Geschwister; Valle-paio-Bezug zu Aljorde 1829 klären
+1. **T1** Gegenlese Geburtstag Roza 1822; dann **V1** an G4
+2. **T6** Joaquina 1820 Gegenlese; Valle paio vs Aljazede
 3. **S4** Rest Gegenlese (g4; g3-Großvater) — parallel **S1**
 4. **T2** Manoel Pedro Taufe Torre
 5. **V1/V2** nur bei Eltern-Match
