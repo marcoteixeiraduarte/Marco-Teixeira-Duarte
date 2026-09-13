@@ -151,7 +151,7 @@ Gesamt-Crop schwer; deshalb Zeilen. Status: **unsicher an den markierten Stellen
 | 4 | `… forao Padrinhos Manoel dos Santos …` | wahrscheinlich |
 | 5 | `… Do que fiz este Assento em o dito dia` | wahrscheinlich |
 
-Bitte besonders prüfen: **Moita Santa** vs. **Monte Santo**; Großvater **Manoel Rodrigues**.
+**Moita Santa** bestätigt (Gegenlese). Noch offen: Großvatername (**Manoel Rodrigues**?).
 
 ---
 
