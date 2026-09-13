@@ -133,3 +133,11 @@ Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
 3. GeoJSON-Status `sicher` / `genähert` / `Kandidat`
 
 Solange die Fenster klein sind: Markdown + lokale JPG reichen.
+
+---
+
+## 9. Schriftprobe (Lesbarkeit)
+
+Schwierige Namenszeilen nicht raten: zuerst die **Hand des Vigários**
+über Ankerwörter lernen. Vorlage und Hilfe-Kanäle:
+[`SCHRIFTPROBE.md`](SCHRIFTPROBE.md).

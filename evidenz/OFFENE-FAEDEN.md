@@ -10,6 +10,7 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 | S1 | Conservatória Ansião *1912–1915 | 10 Fotos händisch lesen | offen | [`archiv/conservatoria-ansiao/`](../archiv/conservatoria-ansiao/README.md) |
 | S2 | Blattkorrekturen Stammbaum | Joze Maria, Narciza-Name, Margarida-Datum, Manuel †1962 | offen | [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) |
 | S3 | José Freire Bicho „Mesmos pais“ | streichen; Geburt ~1894 weiter offen | offen | linie-duarte |
+| S4 | Schriftprobe Alvorge (Vigario Barata) | Buchstabenkarte an m0050 + Ankerwörter | offen | [`SCHRIFTPROBE.md`](SCHRIFTPROBE.md) |
 
 ## Suchen (Anschluss Generation)
 

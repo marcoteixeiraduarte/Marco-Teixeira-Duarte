@@ -49,3 +49,4 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 
 - [`SUCHMODELL.md`](SUCHMODELL.md) — Ablauf, Anti-Muster, was „gefunden“ heißt
 - [`OFFENE-FAEDEN.md`](OFFENE-FAEDEN.md) — was schließen / suchen / verbinden
+- [`SCHRIFTPROBE.md`](SCHRIFTPROBE.md) — Pfarrerhand lernen, Lesbarkeit verbessern
