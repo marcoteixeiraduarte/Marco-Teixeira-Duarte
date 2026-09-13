@@ -72,7 +72,21 @@ Crops: [`evidenz/scans/alvorge-joaquim-florencia/`](../scans/alvorge-joaquim-flo
 Passt namensmäßig zur Heirat 1851 (`Joaquim Duarte × Florencia Maria`).
 Lugar 1829 (Aljorde/Alvorge) vs. 1851 (**Valle paio**) noch klären (Umzug/Schreibform).
 
-**Roza als Kind dieses Paares:** in den geprüften Bereichen **noch negativ**.
+**Roza als Kind dieses Paares:** **Treffer** in Band **0003 m0098-R**.
+
+| Feld | Lesung | Gewissheit |
+| --- | --- | --- |
+| Kind | **Roza** | sicher |
+| Taufe / Geburt | **28.4.1822** / *22. oder 26.4.1822 | sicher / wahrscheinlich |
+| Vater | **Joaquim Duarte** | sicher |
+| Mutter | **Florencia Maria** | sicher |
+| Lugar | Aljaride / Algarida (Aljazede-Variante) | wahrscheinlich |
+| Avós pat. | Manoel Duarte × Jozefa Maria | sicher |
+| Avós mat. | Antonio Ramos × Angelica Maria, **Atianha** | sicher |
+| Quelle | `…0003_m0098` rechte Seite, Mitte | — |
+
+Crops: `HOLD-ROZA-1822-04-28_*` in [`evidenz/scans/alvorge-joaquim-florencia/`](../scans/alvorge-joaquim-florencia/).
+Geschwister: **Joaquina** 21.2.1820 (m0084-R); **Manoel** 9.7.1829 (0004 m0059-R).
 
 ### Homonym — nicht Rozas Eltern (sicher getrennt)
 
@@ -99,8 +113,9 @@ Lugar 1829 (Aljorde/Alvorge) vs. 1851 (**Valle paio**) noch klären (Umzug/Schre
 OCR (Tesseract por) auf m0020–m0120 nur als Hinweisgeber; Handschrift zu unsicher
 für alleinige Entscheidung.
 
-**Noch offen:** Roza-Taufe mit Duarte-Fingerprint (dicht **vor 1823** in Band 0003;
-Valle paio / Athianha); Joaquims `Fre…` aus Sohnes-Taufe 1854 gegen `Duarte` halten.
+**Erledigt:** Roza-Taufe mit Duarte-Fingerprint — Band 0003 m0098-R (28.4.1822).
+Noch offen: Geburtstag 22 vs 26 Gegenlese; Joaquims `Fre…` (1854) gegen `Duarte` halten;
+Lugar Aljaride 1822 vs Valle paio 1851.
 
 ### Elternheirat Joaquim × Florencia (Alvorge)
 
@@ -109,8 +124,8 @@ Bei [tombo ans01](https://tombo.pt/f/ans01) enden die digitalisierten Casamentos
 das gesuchte Fenster (~1815–1835) vollständig ab — **online nicht suchbar**.
 Nächster Schritt nur über ADLRA vor Ort / Anfrage, nicht über DigitArq.
 
-Kein sicherer Taufanschluss bisher. Paläografie im Viewer oft zu unsicher
-für Namensfeststellung; Negativsuche gilt nur für *klare* Treffer.
+Roza-Taufe mit Duarte-Fingerprint gesichert (0003 m0098-R). Paläografie:
+Geburtstag 22 vs 26 und Lugar-Schreibform noch gegenlesen.
 
 ## B — Manoel Pedro dos Reis (Torre / Pragosa)
 

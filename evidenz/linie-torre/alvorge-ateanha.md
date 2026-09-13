@@ -2,7 +2,8 @@
 
 Das ist **Rozas Seite**, nicht Manoel Pedros Torre/Pragosa und nicht Gato/Avelar.
 
-Noch **kein** Personenanschluss. Ateanha steht in keinem unserer Scans.
+**Roza-Taufe gesichert** (0003 m0098-R, Atianha als Avós-mat.-Lugar).
+Ateanha = Herkunft der mütterlichen Großeltern, nicht zwingend Rozas Wohnort.
 
 ## Geografie
 
@@ -11,7 +12,7 @@ Noch **kein** Personenanschluss. Ateanha steht in keinem unserer Scans.
 | Pfarrei Alvorge | Roza Maria 1851/1878/1903 | sicher als ihre Pfarrei |
 | Aljazede / Vallejazede | in Sohnesheirat und -tod | sicher genannt |
 | Vale Paio | in der Heirat 1851 | wahrscheinlich derselbe oder ein Nachbarlugar |
-| **Ateanha** | Lugar derselben Pfarrei Alvorge | sicher als Ort; **nicht** als Herkunft Rozas belegt |
+| **Ateanha** | Avós mat. von Roza/Manoel/Joaquina (Antonio Ramos × Angelica) | sicher in Taufen 1820/1822/1829 |
 | Vila Nova de Alvorge | Patin 1854 (Maria Joaquina, Witwe) | sicher im Taufeintrag des Sohnes |
 
 Ateanha, Aljazede und Vale Paio gehören zur **einen** Pfarrei
@@ -29,11 +30,12 @@ Fenster: Taufe **etwa 1820–1835**.
 
 ### Zwischenstand 2026-09-13
 
-**Bruder Manoel** (*29.6. / tauf 9.7.1829), Eltern **Joaquim Duarte × Florencia Maria**,
-Avós Duarte/Jozefa und Ramos/Angelica (Athianha) — **sicher**
-(`…0004_m0059`; Crops unter `evidenz/scans/alvorge-joaquim-florencia/`).
-Passt zum Nachnamen in der Heirat 1851. Rozas eigene Taufe noch offen.
-Homonym **nicht** anhängen: Joaquim Jozé × Florencia (Antonio 1834, Castello Ventoso).
+**Roza** (*~22–26.4. / tauf **28.4.1822**), Band 0003 m0098-R, Lugar Aljaride/Algarida;
+Eltern **Joaquim Duarte × Florencia Maria**, Avós Duarte/Ramos, mat. **Atianha** — **sicher**.
+Geschwister: **Joaquina** 21.2.1820 (m0084-R); **Manoel** 9.7.1829 (0004 m0059-R).
+Crops: `evidenz/scans/alvorge-joaquim-florencia/HOLD-ROZA-*`.
+Passt zum Nachnamen in der Heirat 1851. Homonym **nicht** anhängen:
+Joaquim Jozé × Florencia (Antonio 1834, Castello Ventoso).
 
 Bücher zuerst:
 
