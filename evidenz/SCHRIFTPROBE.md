@@ -33,8 +33,8 @@ Anti-Muster: OCR über den ganzen Band laufen lassen und dem Text trauen.
 | --- | --- | --- | --- |
 | `m0048` | ~1828 | `O P.e F.e Barata` | **Barata** |
 | `m0050` | Feb 1828 | `Vig.º Fran.co Barata` | **Barata** (= Francisco Barata) |
-| `m0052` | Mai 1828 | `O Lad. Jozé Ferreira` | **andere Hand** (Ferreira) |
-| `m0055` | Okt ~1828? | `o Coad. Joze Ferreira` | **Ferreira** |
+| `m0052` | Mai 1828 | `O Lad. Jozé Ferreira` | **andere Hand** (Ferreira; vgl. g8) |
+| `m0055` | Okt ~1828? | `o Coad. José Ferreira` | **Ferreira** — Gegenlese bestätigt |
 
 Für die Roza-Suche (~1820–1835) zuerst **Barata**-Seiten lesen;
 bei Signatur Ferreira eigene Karte (später).
@@ -134,7 +134,7 @@ Zu jedem Crop kurz antworten: **stimmt / anders: … / unsicher**.
 | 2 | [g4 Elternzeile](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) | `Jozé Simoens Vinagre, e Maria Joaquina` … `logar do Outeiro` | offen |
 | 3 | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg) (+ Zeilen `g3-zeile1…5`) | siehe Zeilenlese unten | **schwierig** — Fließtext |
 | 4 | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) | `Materno de Antonio Duarte, e Maria Rosa` … `forao Padrinhos Manoel Mendes e sua mulher Maria de Jesus` | **könnte sehr gut sein** |
-| 5 | [g8](scans/schriftproben/barata/g8-signatur-m0055.jpg) | **nicht** Barata → `Coad. Joze Ferreira` (Handwechsel) | offen |
+| 5 | [g8](scans/schriftproben/barata/g8-signatur-m0055.jpg) | `o Coad. José Ferreira` (nicht Barata) | **bestätigt — José Ferreira** |
 
 Optional parallel: Conservatória-Fotos in
 [`archiv/conservatoria-ansiao/`](../archiv/conservatoria-ansiao/) (S1).
