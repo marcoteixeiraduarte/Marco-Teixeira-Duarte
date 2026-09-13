@@ -16,12 +16,12 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 | ID | Faden | Pflicht-Eltern / Anker | Band lokal? | Status | Protokoll |
 | --- | --- | --- | --- | --- | --- |
-| T1 | Taufe **Roza Maria** (Alvorge) | Joaquim **Duarte** × Florencia; Fingerprint Avós Duarte/Ramos | ja `alvorge-records/` | in Lesung — Bruder Manoel 1829 sicher | [`suche-taufe-roza-manoel.md`](linie-torre/suche-taufe-roza-manoel.md) |
+| T1 | Taufe **Roza Maria** (Alvorge) | Joaquim **Duarte** × Florencia; Fingerprint Avós Duarte/Ramos | ja `alvorge-records/` | **Treffer** 28.4.1822 m0098-R; Geburtstag 22/26 Gegenlese | [`suche-taufe-roza-manoel.md`](linie-torre/suche-taufe-roza-manoel.md) |
 | T2 | Taufe **Manoel Pedro dos Reis** (Torre) | Manoel Pedro × Joaquina Maria; Pragoza | ja `torre-records/` | in Lesung | dasselbe |
 | T3 | Elternheirat Joaquim Duarte × Florencia | Alvorge Casamentos ~1815–1835 | **Blocker** Lücke 1789–1859 | Blocker → ADLRA | [`ARCHIVE-UND-LINKS.md`](../archiv/ARCHIVE-UND-LINKS.md) |
 | T4 | Elternheirat Manoel Pedro × Joaquina | Torre Casamentos | Stichprobe negativ | offen | suche-taufe… |
 | T5 | Joaquim-Nachname `Duarte` vs `Fre…` | 1829+1851 = Duarte (**wahrscheinlich**); `Fre…` 1854 noch klären | teilweise | [`alvorge-ateanha.md`](linie-torre/alvorge-ateanha.md) |
-| T6 | Geschwister Duarte×Florencia | Avós Manoel Duarte/Maria Jozefa + Antonio Ramos/Angelica | ja | nur Manoel 1829; Roza offen | [`scans/alvorge-joaquim-florencia/`](scans/alvorge-joaquim-florencia/) |
+| T6 | Geschwister Duarte×Florencia | Avós Manoel Duarte/Maria Jozefa + Antonio Ramos/Angelica | ja | Roza 1822 + Joaquina 1820 + Manoel 1829 | [`scans/alvorge-joaquim-florencia/`](scans/alvorge-joaquim-florencia/) |
 | D1 | José Freire Bicho Heirat 1922 Nr. 94 | AUC RCV Penela (+ Processos) | Viewer oft tot | Blocker / Lesesaal | [`AUC-coimbra-jose-freire-bicho.md`](linie-duarte/AUC-coimbra-jose-freire-bicho.md) |
 | D2 | Casamentos António Duarte × Thereza; António Freire Bicho × Maria Ignácia | AUC `PNL01` | online möglich | offen | linie-duarte |
 | A1 | Avelar: Alexandre × Joaquina 1774 = Caetanas Großeltern? | Gegenlese m0013 | online | wahrscheinlich | [`avelar-kandidaten.md`](linie-torre/avelar-kandidaten.md) |
