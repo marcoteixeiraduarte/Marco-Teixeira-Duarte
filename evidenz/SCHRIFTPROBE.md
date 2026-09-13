@@ -132,12 +132,26 @@ Zu jedem Crop kurz antworten: **stimmt / anders: … / unsicher**.
 | 1 | [g5-signatur](scans/schriftproben/barata/g5-signatur-barata-m0050.jpg) | `Vig.º Fran.co Barata` | **passt — Unterschrift** (nicht Fließtext) |
 | g1 | [g1 Fevereiro](scans/schriftproben/barata/g1-fevereiro-m0050.jpg) | `Fevereiro` | **stimmt** (Gegenlese) |
 | 2 | [g4 Elternzeile](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) | `Jozé Simoens Vinagre, e Maria Joaquina` … `logar do Outeiro` | offen |
-| 3 | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg) | `Francisco Luiz, e Maria Caetana` … `Moita Santa` | offen |
+| 3 | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg) (+ Zeilen `g3-zeile1…5`) | siehe Zeilenlese unten | **schwierig** — Fließtext |
 | 4 | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) | … `Antonio Duarte, e Maria Rosa` … Padrinhos | offen |
 | 5 | [g8](scans/schriftproben/barata/g8-signatur-m0055.jpg) | **nicht** Barata → `Coad. Joze Ferreira` (Handwechsel) | offen |
 
 Optional parallel: Conservatória-Fotos in
 [`archiv/conservatoria-ansiao/`](../archiv/conservatoria-ansiao/) (S1).
+
+### g3 — Zeilenlese (schwierig)
+
+Gesamt-Crop schwer; deshalb Zeilen. Status: **unsicher an den markierten Stellen**.
+
+| Zeile | Vorschlag | Gewissheit |
+| --- | --- | --- |
+| 1 | `… filho do primeiro Matrimonio de Francisco Luiz, e Maria Caetana do Lugar` | wahrscheinlich |
+| 2 | `da Moita Santa: Neto paterno de Manoel Ro[drigues], e Catherina Maria …` | `Moita Santa` wahrsch.; Großvatername **offen** (`Rodrigues` vs. andere Lesung) |
+| 3 | `… freguezia: Materno de Antonio Jozé, e Maria Caetana do logar da Charneca …` | wahrscheinlich |
+| 4 | `… forao Padrinhos Manoel dos Santos …` | wahrscheinlich |
+| 5 | `… Do que fiz este Assento em o dito dia` | wahrscheinlich |
+
+Bitte besonders prüfen: **Moita Santa** vs. **Monte Santo**; Großvater **Manoel Rodrigues**.
 
 ---
 
