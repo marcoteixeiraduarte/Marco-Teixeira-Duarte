@@ -216,6 +216,11 @@ Einzelblätter mit Scanpfad, Transkript und Gewissheit:
 [evidenz/README.md](evidenz/README.md). Ausgangspunkt Duarte:
 [evidenz/00-ausgangspunkt.md](evidenz/00-ausgangspunkt.md).
 
+Suchmodell (Download first, Eltern-Match, Anti-Muster):
+[evidenz/SUCHMODELL.md](evidenz/SUCHMODELL.md).
+Offene Fäden (schließen / suchen / verbinden):
+[evidenz/OFFENE-FAEDEN.md](evidenz/OFFENE-FAEDEN.md).
+
 ## Stammbaumblatt
 
 Gegenlese der **bisavós und älteren** Karten gegen diese Akten:
