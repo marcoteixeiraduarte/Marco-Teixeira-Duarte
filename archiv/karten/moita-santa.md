@@ -21,7 +21,7 @@
 
 Lugar in der **freguezia do Alvorge**. Belegt in Alvorge-Batismos ~Feb 1828
 (Barata-Hand, Crop g3): Eltern u. a. aus `Moita Santa`; Formel
-`do mesmo Logar`. Nicht mit Monte Santo verwechseln.
+`do mesmo Logar`. Nicht mit Monte Santo verwechseln. Formel in den Akten oft: **`do mesmo logar`** / `do dito logar` (derselbe Lugar).
 Für die Roza-Suche: weiterer Alvorge-Lugar neben Vale Paio, Aljazede,
 Ateanha, Bemposta, Vila Nova — **getrennt lassen**.
 

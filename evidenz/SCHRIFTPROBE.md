@@ -97,6 +97,7 @@ immer mit **Formeln derselben Zeit** vergleichen — nicht mit modernem PT.
 | `Neto paterno` / `Materno` | neto paterno / materno | Großeltern-Block |
 | `comprometidos para se casarem` | comprometidos… | oft bei `filho natural` |
 | `ut supra` | ut supra | Latein: „wie oben“ (Datum/Ort) |
+| `do mesmo logar` / `do dito logar` | do mesmo lugar | **bestätigt**; bezieht sich auf den zuvor genannten Lugar (hier Moita Santa) |
 
 Wort-Crops: [`w1`](scans/schriftproben/barata/w1-baptizei-solemnemente-m0050.jpg),
 [`w3`](scans/schriftproben/barata/w3-neto-paterno-freguezia-m0050.jpg).
@@ -146,7 +147,7 @@ Gesamt-Crop schwer; deshalb Zeilen. Status: **unsicher an den markierten Stellen
 | Zeile | Vorschlag | Gewissheit |
 | --- | --- | --- |
 | 1 | `… filho do primeiro Matrimonio de Francisco Luiz, e Maria Caetana do Lugar` | wahrscheinlich |
-| 2 | `da Moita Santa: Neto paterno de Manoel Ro[drigues], e Catherina Maria …` | **Moita Santa (Alvorge) bestätigt**; Großvatername **offen** |
+| 2 | `da Moita Santa: Neto paterno de Manoel Ro[drigues], e Catherina Maria do mesmo logar …` | **Moita Santa (Alvorge)** + **`do mesmo logar` bestätigt**; Großvatername **offen** |
 | 3 | `… freguezia: Materno de Antonio Jozé, e Maria Caetana do logar da Charneca …` | wahrscheinlich |
 | 4 | `… forao Padrinhos Manoel dos Santos …` | wahrscheinlich |
 | 5 | `… Do que fiz este Assento em o dito dia` | wahrscheinlich |
