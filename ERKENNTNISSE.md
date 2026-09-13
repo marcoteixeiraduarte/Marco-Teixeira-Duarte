@@ -164,6 +164,9 @@ Elternheiraten **António Duarte × Thereza Freire** und
 
 ## Noch offen (nächste Arbeit)
 
+Priorisierte Fäden + Reihenfolge: [`evidenz/OFFENE-FAEDEN.md`](evidenz/OFFENE-FAEDEN.md).
+Suchregeln (Download first, Eltern-Match, Anti-Muster): [`evidenz/SUCHMODELL.md`](evidenz/SUCHMODELL.md).
+
 | Priorität | Aufgabe |
 | --- | --- |
 | 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |

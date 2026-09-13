@@ -44,3 +44,8 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 2. Kurzes Transkript der Namens- und Datumszeilen.
 3. Erst danach in ein Personenblatt übernehmen.
 4. Widersprüche stehen lassen, nicht glätten.
+
+## Suchmodell und offene Fäden
+
+- [`SUCHMODELL.md`](SUCHMODELL.md) — Ablauf, Anti-Muster, was „gefunden“ heißt
+- [`OFFENE-FAEDEN.md`](OFFENE-FAEDEN.md) — was schließen / suchen / verbinden
