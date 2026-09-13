@@ -27,7 +27,7 @@ Ansião                                 Penela
 ├─ Alvorge
 │  ├─ Ateanha / Atianha
 │  ├─ Vale Paio · Aljazede / Vallejazede
-│  ├─ Bemposta · Vila Nova
+│  ├─ Bemposta · Vila Nova · Moita Santa
 │  └─ Vale Galego (Negativkontrolle)
 └─ Avelar · Rapoula
 ```
@@ -57,6 +57,7 @@ Ansião                                 Penela
 - [Aljazede / Vallejazede](aljazede.md) — Lugar
 - [Bemposta (Alvorge)](bemposta.md) — Lugar
 - [Vila Nova (Alvorge)](vila-nova-alvorge.md) — Lugar
+- [Moita Santa (Alvorge)](moita-santa.md) — Lugar
 - [Vale Galego](vale-galego.md) — Lugar
 - [Avelar](avelar.md) — Freguesia
 - [Rapoula (bei Avelar)](rapoula.md) — Lugar

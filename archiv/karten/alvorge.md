@@ -19,7 +19,7 @@
 
 ## Kurznotiz
 
-Roza Maria „natural e baptizada na freguesia do Alvorge“. Batismos 1808–1822 / 1822–1852 lokal unter alvorge-records/. Casamentos 1789–1859 fehlen online → nur ADLRA. Lugares: Ateanha, Vale Paio, Aljazede/Vallejazede, Bemposta, Vila Nova — getrennt lassen.
+Roza Maria „natural e baptizada na freguesia do Alvorge“. Batismos 1808–1822 / 1822–1852 lokal unter alvorge-records/. Casamentos 1789–1859 fehlen online → nur ADLRA. Lugares: Ateanha, Vale Paio, Aljazede/Vallejazede, Bemposta, Vila Nova, **Moita Santa** — getrennt lassen.
 
 ## Karten
 

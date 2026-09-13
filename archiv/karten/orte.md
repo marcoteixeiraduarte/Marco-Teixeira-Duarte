@@ -1,6 +1,6 @@
 # Ortsliste (vollständig)
 
-Stand: 37 Orte. GeoJSON: [orte.geojson](orte.geojson).
+Stand: 38 Orte. GeoJSON: [orte.geojson](orte.geojson).
 
 | Ort | Typ | Cluster | Município | Archiv | Status | Karte |
 |-----|-----|---------|-----------|--------|--------|-------|
@@ -23,6 +23,7 @@ Stand: 37 Orte. GeoJSON: [orte.geojson](orte.geojson).
 | [Leiria](leiria.md) | Distrikthauptstadt / Archivort | `archiv` | Leiria | ADLRA — Arquivo Distrital … | gesichert (Archiv) | [OSM](https://www.openstreetmap.org/?mlat=39.7436&mlon=-8.8071#map=13/39.7436/-8.8071) |
 | [Lisboa](lisboa.md) | Hauptstadt / Nationalarchiv / Portal | `archiv` | Lisboa | ANTT; digitarq.arquivos.pt | Portal / Nationalarchiv | [OSM](https://www.openstreetmap.org/?mlat=38.7078&mlon=-9.1366#map=13/38.7078/-9.1366) |
 | [Orada (Senhora da Orada)](orada.md) | Freguesia / Ort | `abgrenzung` | Ansião | ADLRA | Nachbar — nicht Kernlinie | [OSM](https://www.openstreetmap.org/?mlat=39.9597&mlon=-8.46611#map=13/39.9597/-8.46611) |
+| [Moita Santa](moita-santa.md) | Lugar | `ansiao-adlra` | Ansião (Pfarrei Alvorge) | ADLRA PANS01 | gesichert als Lugar der Pfarrei Alvorge | [OSM](https://www.openstreetmap.org/?mlat=39.9788&mlon=-8.4507#map=13/39.9788/-8.4507) |
 | [Penela](penela.md) | Kreisstadt (Concelho) | `cumeeira-auc` | Penela | AUC — RCV Penela + PNL01 | gesichert | [OSM](https://www.openstreetmap.org/?mlat=40.032&mlon=-8.3899#map=13/40.032/-8.3899) |
 | [Pião / Valle do Pião](piao.md) | Lugar | `ansiao-adlra` | Ansião (Pfarrei Lagarteira) | ADLRA PANS05 | gesichert — Pfarrei Lagarteira, nicht To… | [OSM](https://www.openstreetmap.org/?mlat=39.95354&mlon=-8.40614#map=13/39.95354/-8.40614) |
 | [Podentes](podentes.md) | Freguesia | `cumeeira-auc` | Penela | AUC | Nachbarfreguesia | [OSM](https://www.openstreetmap.org/?mlat=40.01&mlon=-8.4#map=13/40.01/-8.4) |

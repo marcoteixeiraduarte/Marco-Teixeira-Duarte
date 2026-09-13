@@ -778,6 +778,27 @@
         "archiv": "außerhalb ADLRA/AUC-Kern",
         "status": "Kontext"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4507,
+          39.9788
+        ]
+      },
+      "properties": {
+        "id": "moita-santa",
+        "name": "Moita Santa (Alvorge)",
+        "tipo": "Lugar",
+        "municipio": "Ansião (Pfarrei Alvorge)",
+        "distrito": "Leiria",
+        "cluster": "ansiao-adlra",
+        "linha": "Materno (Alvorge-Umfeld)",
+        "archiv": "ADLRA PANS01",
+        "status": "gesichert als Lugar der Pfarrei Alvorge"
+      }
     }
   ]
 }
