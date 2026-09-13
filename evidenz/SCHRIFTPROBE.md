@@ -47,7 +47,7 @@ Belege: `m0048`, `m0050`. Crops: [`scans/schriftproben/barata/`](scans/schriftpr
 
 | Zeichen / Wort | typische Form (Notiz) | Beleg |
 | --- | --- | --- |
-| Signatur | `Vig.º Fran.co Barata` bzw. `O P.e F.e Barata` + große Paraphe | [g5](scans/schriftproben/barata/g5-signatur-barata-m0050.jpg), [g7](scans/schriftproben/barata/g7-signatur-pe-barata-m0048.jpg) |
+| Signatur | `Vig.º Fran.co Barata` bzw. `O P.e F.e Barata` + große Paraphe — **Gegenlese: passt (Unterschrift!)** | [g5](scans/schriftproben/barata/g5-signatur-barata-m0050.jpg), [g7](scans/schriftproben/barata/g7-signatur-pe-barata-m0048.jpg) |
 | `F` / `Fevereiro` | hohes `F` mit schmaler Ober- und Unterschleife — **Gegenlese: stimmt** | [g1](scans/schriftproben/barata/g1-fevereiro-m0050.jpg) |
 | `J` / `João` / `Jozé` | großes Rundoval oben, langer Abschwung unter die Zeile | [g4](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) |
 | `Joaquina` | `J` wie oben; `qu` eng; End-`a` oft offen | g4 — **Gegenlese bitte** |
@@ -112,19 +112,29 @@ Wort-Crops: [`w1`](scans/schriftproben/barata/w1-baptizei-solemnemente-m0050.jpg
 
 Regel: **Quellenform belassen**; moderne Form nur in Klammern daneben.
 
+### Unterschrift ≠ Fließschrift
+
+**g5 passt**, ist aber die **Signaturzeile** (`Vig.º Fran.co Barata` + Paraphe).
+Buchstaben dort sind oft verschnörkelter / anders verbunden als im
+Assento-Text. Für Namenssuche (`Joaquim`, `Florencia`, `Roza`) die
+Formen aus dem **Fließtext** (g1, g3, g4, w1–w5) verwenden, nicht aus
+der Unterschrift ableiten. Signatur dient vor allem zur **Hand-ID**
+(Barata vs. Ferreira).
+
 ---
 
 ## Gegenlese — bitte du
 
 Zu jedem Crop kurz antworten: **stimmt / anders: … / unsicher**.
 
-| # | Crop | Meine Lesung |
-| --- | --- | --- |
-| 1 | [g5-signatur](scans/schriftproben/barata/g5-signatur-barata-m0050.jpg) | `Vig.º Fran.co Barata` |
-| 2 | [g4 Elternzeile](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) | `Jozé Simoens Vinagre, e Maria Joaquina` … `logar do Outeiro` |
-| 3 | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg) | `Francisco Luiz, e Maria Caetana` … `Moita Santa` |
-| 4 | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) | … `Antonio Duarte, e Maria Rosa` … Padrinhos |
-| 5 | [g8](scans/schriftproben/barata/g8-signatur-m0055.jpg) | **nicht** Barata → `Coad. Joze Ferreira` (Handwechsel) |
+| # | Crop | Meine Lesung | Status |
+| --- | --- | --- | --- |
+| 1 | [g5-signatur](scans/schriftproben/barata/g5-signatur-barata-m0050.jpg) | `Vig.º Fran.co Barata` | **passt — Unterschrift** (nicht Fließtext) |
+| g1 | [g1 Fevereiro](scans/schriftproben/barata/g1-fevereiro-m0050.jpg) | `Fevereiro` | **stimmt** (Gegenlese) |
+| 2 | [g4 Elternzeile](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) | `Jozé Simoens Vinagre, e Maria Joaquina` … `logar do Outeiro` | offen |
+| 3 | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg) | `Francisco Luiz, e Maria Caetana` … `Moita Santa` | offen |
+| 4 | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) | … `Antonio Duarte, e Maria Rosa` … Padrinhos | offen |
+| 5 | [g8](scans/schriftproben/barata/g8-signatur-m0055.jpg) | **nicht** Barata → `Coad. Joze Ferreira` (Handwechsel) | offen |
 
 Optional parallel: Conservatória-Fotos in
 [`archiv/conservatoria-ansiao/`](../archiv/conservatoria-ansiao/) (S1).
