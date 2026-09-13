@@ -48,7 +48,7 @@ Belege: `m0048`, `m0050`. Crops: [`scans/schriftproben/barata/`](scans/schriftpr
 | Zeichen / Wort | typische Form (Notiz) | Beleg |
 | --- | --- | --- |
 | Signatur | `Vig.º Fran.co Barata` bzw. `O P.e F.e Barata` + große Paraphe | [g5](scans/schriftproben/barata/g5-signatur-barata-m0050.jpg), [g7](scans/schriftproben/barata/g7-signatur-pe-barata-m0048.jpg) |
-| `F` / `Fevereiro` | hohes `F` mit schmaler Ober- und Unterschleife | [g1](scans/schriftproben/barata/g1-fevereiro-m0050.jpg) |
+| `F` / `Fevereiro` | hohes `F` mit schmaler Ober- und Unterschleife — **Gegenlese: stimmt** | [g1](scans/schriftproben/barata/g1-fevereiro-m0050.jpg) |
 | `J` / `João` / `Jozé` | großes Rundoval oben, langer Abschwung unter die Zeile | [g4](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) |
 | `Joaquina` | `J` wie oben; `qu` eng; End-`a` oft offen | g4 — **Gegenlese bitte** |
 | `M` / `Maria` / `Manoel` | breites dreihöckriges `M` mit Anstrich | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg), g4 |
@@ -63,6 +63,54 @@ Belege: `m0048`, `m0050`. Crops: [`scans/schriftproben/barata/`](scans/schriftpr
 
 Noch **leer** (sobald Anker gefunden): `Florencia`/`Florência`, `Roza`/`Rosa`,
 `Joaquim` (männlich, nicht nur Joaquina).
+
+---
+
+## Zeitgenössische Schreibweise (nicht modernisieren)
+
+Kirchenbücher ~1820–1835 folgen **nicht** der heutigen AO. Beim Lesen
+immer mit **Formeln derselben Zeit** vergleichen — nicht mit modernem PT.
+
+### Formelwörter bei Barata (Belege m0048/m0050)
+
+| Barata schreibt (Quellenform) | heute üblich | Hinweis |
+| --- | --- | --- |
+| `Fevereiro` | Fevereiro | **bestätigt** (Gegenlese); Monat oft ausgeschrieben |
+| `baptizei` / `baptizado` | batizei / batizado | **p** bleibt; nicht „korrigieren“ |
+| `solemnemente` | solenemente | oft `mn` |
+| `santos oleos` / `oleos` | santos óleos | ohne Akzent |
+| `filho` / `filha` | filho / filha | gleich |
+| `filho natural` | filho natural | Formel für unehelich |
+| `logar` | lugar | **o**, nicht u — sehr häufig bei Barata |
+| `freguezia` | freguesia | **z**, nicht s |
+| `Assento` / `assento` | assento | Eintragsformel `fiz este assento` |
+| `forao` | foram | Endung `-ao` statt `-am` |
+| `mez` | mês | ohne Zirkumflex; `z` |
+| `nasceo` | nasceu | ältere Verbalform möglich |
+| `Jozé` / `Joze` | José | **z** statt s |
+| `Manoel` | Manuel | **ao**, nicht au |
+| `Luiz` | Luís | **z** |
+| `Caetana` / `Catherina` | Caetana / Catarina | `th` / `ae` möglich |
+| `Simoens` | Simões | `oe`/`ens` statt ões |
+| `Vinagre` | Vinagre | gleich |
+| `Padrinhos` / `Madrinha` | padrinhos / madrinha | Formel |
+| `Neto paterno` / `Materno` | neto paterno / materno | Großeltern-Block |
+| `comprometidos para se casarem` | comprometidos… | oft bei `filho natural` |
+| `ut supra` | ut supra | Latein: „wie oben“ (Datum/Ort) |
+
+Wort-Crops: [`w1`](scans/schriftproben/barata/w1-baptizei-solemnemente-m0050.jpg),
+[`w3`](scans/schriftproben/barata/w3-neto-paterno-freguezia-m0050.jpg).
+
+### Für die Roza-Suche erwarten
+
+| Ziel | wahrscheinliche Quellenform | nicht erwarten |
+| --- | --- | --- |
+| Roza | `Roza` / `Rosa` / `Roza Maria` | modernisiertes `Rosa` erzwingen |
+| Florencia | `Florencia` / `Florência` / `Florensa`? | nur moderne Akzente |
+| Joaquim | `Joaquim` / `Joaquim` | Verwechslung mit `João` / `Francisco` |
+| Elternpaar | `… de Joaquim …, e Florencia …` | Nachname erst nach klarer Zeile |
+
+Regel: **Quellenform belassen**; moderne Form nur in Klammern daneben.
 
 ---
 
