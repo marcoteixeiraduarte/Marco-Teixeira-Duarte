@@ -146,7 +146,7 @@ Gesamt-Crop schwer; deshalb Zeilen. Status: **unsicher an den markierten Stellen
 | Zeile | Vorschlag | Gewissheit |
 | --- | --- | --- |
 | 1 | `… filho do primeiro Matrimonio de Francisco Luiz, e Maria Caetana do Lugar` | wahrscheinlich |
-| 2 | `da Moita Santa: Neto paterno de Manoel Ro[drigues], e Catherina Maria …` | `Moita Santa` wahrsch.; Großvatername **offen** (`Rodrigues` vs. andere Lesung) |
+| 2 | `da Moita Santa: Neto paterno de Manoel Ro[drigues], e Catherina Maria …` | **Moita Santa bestätigt**; Großvatername **offen** (`Rodrigues` vs. andere) |
 | 3 | `… freguezia: Materno de Antonio Jozé, e Maria Caetana do logar da Charneca …` | wahrscheinlich |
 | 4 | `… forao Padrinhos Manoel dos Santos …` | wahrscheinlich |
 | 5 | `… Do que fiz este Assento em o dito dia` | wahrscheinlich |
