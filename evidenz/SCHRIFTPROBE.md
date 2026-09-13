@@ -61,8 +61,12 @@ Belege: `m0048`, `m0050`. Crops: [`scans/schriftproben/barata/`](scans/schriftpr
 | `Logar` | Schreibung **Logar** (nicht modern `Lugar`) | g3, g4 |
 | Rand-Lugar | oft kürzer/andere Feder — separat lesen | `*-rand.jpg` |
 
-Noch **leer** (sobald Anker gefunden): `Florencia`/`Florência`, `Roza`/`Rosa`,
-`Joaquim` (männlich, nicht nur Joaquina).
+| `Florencia` | klare `F`-Schleife + `lorencia` — **Anker Ferreira-Hand** | Manoel 1829 m0059-R ([HOLD-PARENTS](scans/alvorge-joaquim-florencia/HOLD-1829-07-09_manel_PARENTS_JoaquimDuarte-x-FlorenciaMaria.jpg)) |
+| `Duarte` | ornamentales `D` auch bei Ferreira | m0059-R Elternzeile; vgl. g6 Barata |
+| `Joaquim` (männlich) | `Joaq.m` / ausgeschrieben — nicht mit Joaquina verwechseln | m0059-R; Antonio 1834 m0097 (`Joaq.m Jozé`) |
+| `Roza`/`Rosa` | noch **kein** Anker dieses Paares | Homonyme in Negativtabelle |
+
+**Zwei Florencia-Paare:** Duarte×Florencia (m0059) vs. Jozé×Florencia (m0097) — Avós entscheiden.
 
 ---
 

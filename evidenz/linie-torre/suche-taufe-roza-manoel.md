@@ -55,20 +55,52 @@ Ateanha/Atianha ist **kein** eigenes tombo-Fonds, steht aber im Alvorge-Band
 als Lugar (z. B. `…0004_m0089`, `…0004_m0091`, Schreibweise `Atianha`).
 Ohne lokale JPG war das im PR nicht sichtbar.
 
+### Treffer: Elternpaar Joaquim Duarte × Florencia Maria (sicher)
+
+| Feld | Lesung | Gewissheit |
+| --- | --- | --- |
+| Kind | **Manoel** | sicher |
+| Taufe / Geburt | **9.7.1829** / **29.6.1829** | sicher |
+| Vater | **Joaquim Duarte** | sicher |
+| Mutter | **Florencia Maria** | sicher |
+| Lugar | Aljorde / Alvorge (Rand+Text) | wahrscheinlich |
+| Avós pat. | Manoel Duarte × Maria Jozefa | sicher |
+| Avós mat. | Antonio Ramos × Angelica Maria, Athianha/Ateanha | wahrscheinlich |
+| Quelle | `…0004_m0059` (rechte Seite); Schreiber Jozé Ferreira | — |
+
+Crops: [`evidenz/scans/alvorge-joaquim-florencia/`](../scans/alvorge-joaquim-florencia/).
+Passt namensmäßig zur Heirat 1851 (`Joaquim Duarte × Florencia Maria`).
+Lugar 1829 (Aljorde/Alvorge) vs. 1851 (**Valle paio**) noch klären (Umzug/Schreibform).
+
+**Roza als Kind dieses Paares:** in den geprüften Bereichen **noch negativ**.
+
+### Homonym — nicht Rozas Eltern (sicher getrennt)
+
+| Kind | Datum | Eltern | Avós | Lugar | Quelle |
+| --- | --- | --- | --- | --- | --- |
+| Antonio | tauf 10.11.1834 | Joaquim **Jozé** × Florencia Maria | Joze Sebastiao×Maria Joaquina; Joze Caetano×Angelina Rosa (Granja) | Castello Ventoso | m0097-R / m0098-L |
+| Manoel | 6.11.1833 | Theodoro Lopes × Florencia Maria | Simões Vinagre / Izabel dos Anjos | Oiteiro | m0090 |
+| Adrianno | 25.8.1833 | Jozé Luis × Florencia Maria | Grillo / Joaquina Maria | Outeiro | m0088 |
+| Maria | 9.9.1829 | Theodoro Lopes × Florencia Maria | — | Oiteiro | m0061 |
+
 ### Durchsicht 1822–1852 (Stand, lokal)
 
 | Seite | Jahr (ca.) | Ergebnis |
 | --- | --- | --- |
 | m0020 | ~1824 | Parish Alvorge; kein Joaquim×Florencia |
 | m0030 | 1826 | Vale-Galego-Roza ausgeschlossen |
-| m0050 | 1828 | kein Treffer |
-| m0068 | 1830 | Joaquim als Kindname; kein Elternpaar |
-| m0089–m0091 | 1833–1834 | **Atianha**/Alvorge im Text; Florencia Maria × Theodoro Lopes (Kind Manoel) — **anderes** Paar; keine Roza×Joaquim×Florencia |
+| m0040–m0058 | ~1827–1829 | Duarte-Fingerprint / Roza: Negativ (Bänder) |
+| **m0059-R** | **1829** | **Treffer:** Manoel, Joaquim Duarte × Florencia Maria |
+| m0060–m0090 | ~1829–1833 | kein weiteres Duarte×Florencia-Kind; viele Roza-Homonyme |
+| m0089–m0091 | 1833–1834 | Atianha; Florencia × Theodoro Lopes — anderes Paar |
+| m0097–m0098 | 1834 | Antonio = Joaquim Jozé × Florencia — **Homonym**, nicht 1851 |
+| m0102–m0140 | Stichprobe | kein Duarte-Fingerprint |
 
 OCR (Tesseract por) auf m0020–m0120 nur als Hinweisgeber; Handschrift zu unsicher
 für alleinige Entscheidung.
 
-**Noch offen:** Vollzeilen m0001–m0244 und Band 0003 systematisch.
+**Noch offen:** Roza-Taufe mit Duarte-Fingerprint (dicht **vor 1823** in Band 0003;
+Valle paio / Athianha); Joaquims `Fre…` aus Sohnes-Taufe 1854 gegen `Duarte` halten.
 
 ### Elternheirat Joaquim × Florencia (Alvorge)
 

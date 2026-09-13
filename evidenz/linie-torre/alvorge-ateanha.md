@@ -27,6 +27,14 @@ Einträge aus Ateanha stehen im **Alvorge-Band**, Rand oft `Ateanha`.
 Roza Maria, Tochter von Joaquim […] × Florencia Maria, Heirat 1851.
 Fenster: Taufe **etwa 1820–1835**.
 
+### Zwischenstand 2026-09-13
+
+**Bruder Manoel** (*29.6. / tauf 9.7.1829), Eltern **Joaquim Duarte × Florencia Maria**,
+Avós Duarte/Jozefa und Ramos/Angelica (Athianha) — **sicher**
+(`…0004_m0059`; Crops unter `evidenz/scans/alvorge-joaquim-florencia/`).
+Passt zum Nachnamen in der Heirat 1851. Rozas eigene Taufe noch offen.
+Homonym **nicht** anhängen: Joaquim Jozé × Florencia (Antonio 1834, Castello Ventoso).
+
 Bücher zuerst:
 
 - Batismos Alvorge **1808–1822** — `PT/ADLRA/PRQ/PANS01/001/0003`, 100 Bilder.

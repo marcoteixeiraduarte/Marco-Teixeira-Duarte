@@ -16,11 +16,12 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 | ID | Faden | Pflicht-Eltern / Anker | Band lokal? | Status | Protokoll |
 | --- | --- | --- | --- | --- | --- |
-| T1 | Taufe **Roza Maria** (Alvorge) | Joaquim × Florencia; Heirat 1851 | ja `alvorge-records/` | in Lesung | [`suche-taufe-roza-manoel.md`](linie-torre/suche-taufe-roza-manoel.md) |
+| T1 | Taufe **Roza Maria** (Alvorge) | Joaquim **Duarte** × Florencia; Fingerprint Avós Duarte/Ramos | ja `alvorge-records/` | in Lesung — Bruder Manoel 1829 sicher | [`suche-taufe-roza-manoel.md`](linie-torre/suche-taufe-roza-manoel.md) |
 | T2 | Taufe **Manoel Pedro dos Reis** (Torre) | Manoel Pedro × Joaquina Maria; Pragoza | ja `torre-records/` | in Lesung | dasselbe |
-| T3 | Elternheirat Joaquim × Florencia | Alvorge Casamentos ~1815–1835 | **Blocker** Lücke 1789–1859 | Blocker → ADLRA | [`ARCHIVE-UND-LINKS.md`](../archiv/ARCHIVE-UND-LINKS.md) |
+| T3 | Elternheirat Joaquim Duarte × Florencia | Alvorge Casamentos ~1815–1835 | **Blocker** Lücke 1789–1859 | Blocker → ADLRA | [`ARCHIVE-UND-LINKS.md`](../archiv/ARCHIVE-UND-LINKS.md) |
 | T4 | Elternheirat Manoel Pedro × Joaquina | Torre Casamentos | Stichprobe negativ | offen | suche-taufe… |
-| T5 | Joaquim-Nachname `Duarte` vs `Fre…` | aus Rozas Taufe klären | hängt an T1 | offen | [`alvorge-ateanha.md`](linie-torre/alvorge-ateanha.md) |
+| T5 | Joaquim-Nachname `Duarte` vs `Fre…` | 1829+1851 = Duarte (**wahrscheinlich**); `Fre…` 1854 noch klären | teilweise | [`alvorge-ateanha.md`](linie-torre/alvorge-ateanha.md) |
+| T6 | Geschwister Duarte×Florencia | Avós Manoel Duarte/Maria Jozefa + Antonio Ramos/Angelica | ja | nur Manoel 1829; Roza offen | [`scans/alvorge-joaquim-florencia/`](scans/alvorge-joaquim-florencia/) |
 | D1 | José Freire Bicho Heirat 1922 Nr. 94 | AUC RCV Penela (+ Processos) | Viewer oft tot | Blocker / Lesesaal | [`AUC-coimbra-jose-freire-bicho.md`](linie-duarte/AUC-coimbra-jose-freire-bicho.md) |
 | D2 | Casamentos António Duarte × Thereza; António Freire Bicho × Maria Ignácia | AUC `PNL01` | online möglich | offen | linie-duarte |
 | A1 | Avelar: Alexandre × Joaquina 1774 = Caetanas Großeltern? | Gegenlese m0013 | online | wahrscheinlich | [`avelar-kandidaten.md`](linie-torre/avelar-kandidaten.md) |
@@ -48,10 +49,12 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 ## Empfohlene Reihenfolge
 
-1. **S4** Gegenlese Barata-Crops (parallel **S1** Conservatória)
-2. **S2–S3** Blattkorrekturen / „Mesmos pais“ streichen
-3. **T1 dann T2** Volllese lokal (nur Barata-Seiten zuerst markieren)
-4. **V1/V2** nur bei Eltern-Match
-5. **D1/D2** parallel bei AUC-Zugang
-6. **T3** ADLRA für Casamentos-Lücke
-7. **A1/A2**, **N1** dazwischen
+1. **T1** Roza mit Duarte-Fingerprint (Band 0003 dicht; Valle paio / Athianha)
+2. **T6** weitere Geschwister; Valle-paio-Bezug zu Aljorde 1829 klären
+3. **S4** Rest Gegenlese (g4; g3-Großvater) — parallel **S1**
+4. **T2** Manoel Pedro Taufe Torre
+5. **V1/V2** nur bei Eltern-Match
+6. **T3** ADLRA Casamentos-Lücke (Joaquim Duarte × Florencia)
+7. **D1/D2**, **A1/A2**, **N1**, **S2–S3** dazwischen
+
+**Nicht vermischen:** Joaquim Jozé × Florencia (Antonio 1834, Castello Ventoso) ≠ Joaquim Duarte × Florencia (Manoel 1829 / Heirat 1851).
