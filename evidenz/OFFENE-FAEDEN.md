@@ -10,7 +10,7 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 | S1 | Conservatória Ansião *1912–1915 | 10 Fotos händisch lesen | offen | [`archiv/conservatoria-ansiao/`](../archiv/conservatoria-ansiao/README.md) |
 | S2 | Blattkorrekturen Stammbaum | Joze Maria, Narciza-Name, Margarida-Datum, Manuel †1962 | offen | [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) |
 | S3 | José Freire Bicho „Mesmos pais“ | streichen; Geburt ~1894 weiter offen | offen | linie-duarte |
-| S4 | Schriftprobe Alvorge (Vigario Barata) | Buchstabenkarte an m0050 + Ankerwörter | offen | [`SCHRIFTPROBE.md`](SCHRIFTPROBE.md) |
+| S4 | Schriftprobe Alvorge (**Fran.co Barata**) | Gegenlese Crops g3–g8; Karte ergänzen | **warte auf Gegenlese** | [`SCHRIFTPROBE.md`](SCHRIFTPROBE.md) |
 
 ## Suchen (Anschluss Generation)
 
@@ -48,9 +48,10 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 ## Empfohlene Reihenfolge
 
-1. **S1–S3** schließen (schnell, Material da)
-2. **T1 dann T2** Volllese lokal
-3. **V1/V2** nur bei Eltern-Match
-4. **D1/D2** parallel bei AUC-Zugang
-5. **T3** ADLRA für Casamentos-Lücke
-6. **A1/A2**, **N1** dazwischen
+1. **S4** Gegenlese Barata-Crops (parallel **S1** Conservatória)
+2. **S2–S3** Blattkorrekturen / „Mesmos pais“ streichen
+3. **T1 dann T2** Volllese lokal (nur Barata-Seiten zuerst markieren)
+4. **V1/V2** nur bei Eltern-Match
+5. **D1/D2** parallel bei AUC-Zugang
+6. **T3** ADLRA für Casamentos-Lücke
+7. **A1/A2**, **N1** dazwischen
