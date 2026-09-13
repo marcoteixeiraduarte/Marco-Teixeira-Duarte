@@ -53,7 +53,7 @@ Belege: `m0048`, `m0050`. Crops: [`scans/schriftproben/barata/`](scans/schriftpr
 | `Joaquina` | `J` wie oben; `qu` eng; End-`a` oft offen | g4 — **Gegenlese bitte** |
 | `M` / `Maria` / `Manoel` | breites dreihöckriges `M` mit Anstrich | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg), g4 |
 | `Fr` / `Francisco` | `F`+`r` eng; nicht mit `Fre…` verwechseln ohne Kontext | g3 |
-| `D` / `Duarte` | ornamentales `D` (Anker auf m0048 Großvaterzeile) | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) |
+| `D` / `Duarte` | ornamentales `D` — **g6 Gegenlese: könnte sehr gut sein** | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) |
 | `z` in `Jozé` / `Luiz` | langer Unterbogen unter die Zeile | g3, g4 |
 | End-`s` | kleiner Aufwärts-Haken (nicht modernes `s`) | g4 `Santos`/`Oleos`-Umfeld |
 | langes `s` mitten im Wort | wie `f` ohne Querstrich | `Assento`, `dos` |
@@ -133,7 +133,7 @@ Zu jedem Crop kurz antworten: **stimmt / anders: … / unsicher**.
 | g1 | [g1 Fevereiro](scans/schriftproben/barata/g1-fevereiro-m0050.jpg) | `Fevereiro` | **stimmt** (Gegenlese) |
 | 2 | [g4 Elternzeile](scans/schriftproben/barata/g4-joze-simoes-maria-joaquina-m0050.jpg) | `Jozé Simoens Vinagre, e Maria Joaquina` … `logar do Outeiro` | offen |
 | 3 | [g3](scans/schriftproben/barata/g3-francisco-maria-caetana-m0050.jpg) (+ Zeilen `g3-zeile1…5`) | siehe Zeilenlese unten | **schwierig** — Fließtext |
-| 4 | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) | … `Antonio Duarte, e Maria Rosa` … Padrinhos | offen |
+| 4 | [g6](scans/schriftproben/barata/g6-duarte-padrinhos-m0048.jpg) | `Materno de Antonio Duarte, e Maria Rosa` … `forao Padrinhos Manoel Mendes e sua mulher Maria de Jesus` | **könnte sehr gut sein** |
 | 5 | [g8](scans/schriftproben/barata/g8-signatur-m0055.jpg) | **nicht** Barata → `Coad. Joze Ferreira` (Handwechsel) | offen |
 
 Optional parallel: Conservatória-Fotos in
