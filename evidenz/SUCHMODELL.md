@@ -52,6 +52,7 @@ Anker sichern
 5. **Ortsformen nicht mergen** — Vale Paio ≠ Aljazede ≠ Ateanha, bis ein Akt sie verbindet.
 6. **Eine Generation zurück** — Sammelband 17./frühes 18. Jh. erst **an den Stammbaum** hängen, wenn die Linie zeitlich anliegt. Quellenlesen und Prüfregister (`fruehe-register-1609-1748.md`) sind vorher erlaubt; kein Personen-Merge.
 7. **Linien nicht kreuzen** — Duarte/Cumeeira und Torre/Reis getrennt; Teixeira archivisch Cumeeira, familiär materno.
+8. **Immer Geschwister mitlesen** — sobald ein Elternpaar (Fingerprint) steht: im Band vor/nach dem Ankerkind systematisch nach weiteren Kindern suchen. Geschwister sind keine Ablenkung; sie sichern den Fingerprint (Avós, Lugar) und öffnen **Seitenäste** (Paten, Heiraten, spätere Anschlüsse). Homonyme mit anderen Eltern bleiben Negativtabelle.
 
 ---
 
@@ -111,6 +112,7 @@ Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
 | Duarte-Eltern an Narciza hängen | Arme getrennt |
 | OCR-Konflikte in den Baum | händisch lesen |
 | Sammelband 1609–1748 namensmatchen / in den Baum ziehen | Generation für Generation; bis dahin nur Prüfregister ([`fruehe-register-1609-1748.md`](linie-torre/fruehe-register-1609-1748.md)) |
+| Nur Zielkind suchen, Geschwister überspringen | Fingerprint-Band vor/nach mitlesen — Seitenäste sichern den Anschluss |
 | „Apresentação da Universidade de Coimbra“ = Lagerort | Präsentationsrecht; Bücher bei ADLRA |
 
 ---
@@ -119,6 +121,7 @@ Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
 
 - [ ] Suchkarte aktualisiert (Status + Bildbereiche)?
 - [ ] Negativsuche mit Signatur/Bild notiert?
+- [ ] Geschwister im Fingerprint-Fenster mitgelesen (Treffer oder Negativbereich)?
 - [ ] Kein neuer Baum-Eintrag ohne Eltern-Match?
 - [ ] Ortsformen quellengetreu?
 - [ ] Richtiger Archiv-Cluster (AUC vs ADLRA)?
