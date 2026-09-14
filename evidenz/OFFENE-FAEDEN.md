@@ -50,11 +50,13 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 ## Empfohlene Reihenfolge
 
 1. **T1** Gegenlese Geburtstag Roza 1822; dann **V1** an G4
-2. **T6** Joaquina 1820 Gegenlese; Valle paio vs Aljazede
-3. **S4** Rest Gegenlese (g4; g3-Großvater) — parallel **S1**
-4. **T2** Manoel Pedro Taufe Torre
+2. **T6** Geschwister Duarte×Florencia weiter (Joaquina 1820 Gegenlese; weitere Kinder; Seitenäste)
+3. **T2** Manoel Pedro Taufe Torre — **inkl. Geschwister** desselben Paares
+4. **S4** Rest Gegenlese (g4; g3-Großvater) — parallel **S1**
 5. **V1/V2** nur bei Eltern-Match
 6. **T3** ADLRA Casamentos-Lücke (Joaquim Duarte × Florencia)
 7. **D1/D2**, **A1/A2**, **N1**, **S2–S3** dazwischen
+
+**Regel:** Bei jedem neuen Eltern-Fingerprint immer Geschwister mitlesen (siehe [`SUCHMODELL.md`](SUCHMODELL.md) Regel 8).
 
 **Nicht vermischen:** Joaquim Jozé × Florencia (Antonio 1834, Castello Ventoso) ≠ Joaquim Duarte × Florencia (Manoel 1829 / Heirat 1851).
