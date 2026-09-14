@@ -9,7 +9,7 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 | --- | --- | --- | --- | --- |
 | S1 | Conservatória Ansião *1912–1915 | 10 Fotos händisch lesen | offen | [`archiv/conservatoria-ansiao/`](../archiv/conservatoria-ansiao/README.md) |
 | S2 | Blattkorrekturen Stammbaum | Joze Maria, Narciza-Name, Margarida-Datum, Manuel †1962 | offen | [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) |
-| S3 | José Freire Bicho „Mesmos pais“ | streichen; Geburt ~1894 weiter offen | offen | linie-duarte |
+| S3 | José Freire Bicho „Mesmos pais“ | streichen; Geburt über Raster/Akt 1922 | offen | [`suche-geburt-jose-freire-bicho.md`](linie-duarte/suche-geburt-jose-freire-bicho.md) |
 | S4 | Schriftprobe Alvorge (**Fran.co Barata**) | Gegenlese Crops g3–g8; Karte ergänzen | **warte auf Gegenlese** | [`SCHRIFTPROBE.md`](SCHRIFTPROBE.md) |
 
 ## Suchen (Anschluss Generation)
@@ -22,7 +22,7 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 | T4 | Elternheirat Manoel Pedro × Joaquina | Torre Casamentos | Stichprobe negativ | offen | suche-taufe… |
 | T5 | Joaquim-Nachname `Duarte` vs `Fre…` | 1829+1851 = Duarte (**wahrscheinlich**); `Fre…` 1854 noch klären | teilweise | [`alvorge-ateanha.md`](linie-torre/alvorge-ateanha.md) |
 | T6 | Geschwister Duarte×Florencia (**Seitenäste**) | Avós Manoel Duarte/Maria Jozefa + Antonio Ramos/Angelica | ja | Roza 1822 + Joaquina 1820 + Manoel 1829; weitere Kinder noch suchen | [`scans/alvorge-joaquim-florencia/`](scans/alvorge-joaquim-florencia/) |
-| D1 | José Freire Bicho Heirat 1922 Nr. 94 | AUC RCV Penela (+ Processos) | Viewer oft tot | Blocker / Lesesaal | [`AUC-coimbra-jose-freire-bicho.md`](linie-duarte/AUC-coimbra-jose-freire-bicho.md) |
+| D1 | José Freire Bicho Heirat 1922 Nr. 94 + Geburt | AUC RCV Penela (+ Processos); parallel Raster 1887–1902 × Nachbarn | Viewer oft tot | Blocker / Lesesaal; Raster aktiv | [`suche-geburt-jose-freire-bicho.md`](linie-duarte/suche-geburt-jose-freire-bicho.md) · [`AUC-coimbra-jose-freire-bicho.md`](linie-duarte/AUC-coimbra-jose-freire-bicho.md) |
 | D2 | Casamentos António Duarte × Thereza; António Freire Bicho × Maria Ignácia | AUC `PNL01` | online möglich | offen | linie-duarte |
 | A1 | Avelar: Alexandre × Joaquina 1774 = Caetanas Großeltern? | Gegenlese m0013 | online | wahrscheinlich | [`avelar-kandidaten.md`](linie-torre/avelar-kandidaten.md) |
 | A2 | Taufe Manoel Joaquim Sol / Maria Joaquina | Avelar | online | offen | avelar-kandidaten |
@@ -55,7 +55,8 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 4. **S4** Rest Gegenlese (g4; g3-Großvater) — parallel **S1**
 5. **V1/V2** nur bei Eltern-Match
 6. **T3** ADLRA Casamentos-Lücke (Joaquim Duarte × Florencia)
-7. **D1/D2**, **A1/A2**, **N1**, **S2–S3** dazwischen
+7. **D1** José Freire Bicho: Akt 1922 **oder** Raster Cumeeira/Lagarteira 1890–1898 (H0) — siehe [`suche-geburt-jose-freire-bicho.md`](linie-duarte/suche-geburt-jose-freire-bicho.md)
+8. **D2**, **A1/A2**, **N1**, **S2–S3** dazwischen
 
 **Regel:** Bei jedem neuen Eltern-Fingerprint immer Geschwister mitlesen (siehe [`SUCHMODELL.md`](SUCHMODELL.md) Regel 8).
 
