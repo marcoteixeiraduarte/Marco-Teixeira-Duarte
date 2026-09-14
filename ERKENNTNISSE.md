@@ -174,22 +174,25 @@ Suchregeln (Download first, Eltern-Match, Anti-Muster): [`evidenz/SUCHMODELL.md`
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
-| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
+| 6 | Alvorge: Roza-Taufe 28.4.1822 (Duarte×Florencia) Gegenlese Geburtstag; Stammbaumanschluss nach Prüfung; `Duarte` vs. 1854 `Fre…` |
+| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede / Aljaride getrennt lassen |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 
 ---
 
-## Alter Band PANS08/003/0001 — später, von jung nach alt
+## Alter Band PANS08/003/0001 — Quellen ja, Stammbaumanschluss später
 
 Lokal geprüfte Stichprobe (16 Seiten) aus dem Sammelband:
 
 - Casamentos 1609–1719  
 - Óbitos 1609–1748  
 
-**Kein Upload, kein Personenanschluss.** Mehrere Generationen vor dem
-derzeit gesicherten Reis-Anschluss. Sofortige Namenssuche (Mendes, Dias,
-Roiz …) würde Scheinsicherheit erzeugen.
+**Kein Upload der Bilder.** Sofortige Namenssuche in den Stammbaum
+(Mendes, Dias, Roiz …) würde Scheinsicherheit erzeugen.
+
+Maßgebliches Prüfregister (Mentions, Unsicherheiten, Bild-Prüfsummen;
+kein Personen-Merge):
+[`evidenz/linie-torre/fruehe-register-1609-1748.md`](evidenz/linie-torre/fruehe-register-1609-1748.md).
 
 Forschungsweg:
 
@@ -197,9 +200,8 @@ Forschungsweg:
 2. Deren Eltern sicher bestimmen  
 3. Generation für Generation bis ins frühe 18. Jahrhundert  
 4. Erst wenn eine belegte Linie zeitlich an 1748 heranreicht, den Band
-   systematisch erschließen  
-5. Bis dahin: nur als ungesichtete Stichproben aus `PANS08/003/0001`
-   vermerken — ohne Personenanschluss und außerhalb von Git  
+   **an den Stammbaum** anschließen  
+5. Bis dahin: Quellen im Prüfregister erfassen — ohne Stammbaumanschluss  
 
 Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
 [`evidenz/linie-torre/suche-taufe-roza-manoel.md`](evidenz/linie-torre/suche-taufe-roza-manoel.md).
@@ -210,7 +212,9 @@ Lokale Ablage (gitignore) für Volllese:
 - `torre-records/` — Batismos 1810–1842 (143)
 
 Ateanha/Atianha ist im Alvorge-Band sichtbar (z. B. m0089/m0091), hat aber
-keine eigenen tombo-Bücher. Taufanschluss Roza/Manoel Pedro noch offen.
+keine eigenen tombo-Bücher. **Roza-Taufe 28.4.1822** (Duarte×Florencia) ist
+im Arbeitsprotokoll erfasst — Anschluss an den Stammbaum nach Gegenlese;
+Manoel Pedro (Torre) noch offen.
 
 **Blocker online:** Alvorge-Casamentos **1789–1859** fehlen (Lücke 1788→1860).
 

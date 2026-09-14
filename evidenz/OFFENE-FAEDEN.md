@@ -42,7 +42,7 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 | Thema | Warum warten |
 | --- | --- |
-| Sammelband Torre 1609–1748 | Linie zeitlich nicht heran |
+| Sammelband Torre 1609–1748 → **Stammbaumanschluss** | Linie zeitlich nicht heran; **Quellen erfassen** im Prüfregister ist erlaubt — siehe [`fruehe-register-1609-1748.md`](linie-torre/fruehe-register-1609-1748.md) |
 | Duarte ↔ Torre vermischen | getrennte Arme |
 | Patenort Sarrazina / São Cosme | Lesung unklar |
 | Homonyme ohne Elternmatch | Scheinsicherheit |

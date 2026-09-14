@@ -111,7 +111,7 @@ Zielsuche: Taufe Roza Maria, Eltern Joaquim × Florencia Maria (~1820–1835).
 | Batismos 1842–1859 | `…/001/0004` | (bei Bedarf) | — |
 | Casamentos 1812–1859 | `…/002/0003` | Viewer-id `6230184fe7b24d380e323ff32271ae9f` | Stichproben offen |
 | Casamentos 1719–1813 | `…/002/…` | tombo ans08 | noch offen |
-| Sammelband alt | `…/003/0001` (1609–1748) | — | **erst später**, keine Namenssuche |
+| Sammelband alt | `…/003/0001` (1609–1748) | — | Quellen: [`fruehe-register-1609-1748.md`](../evidenz/linie-torre/fruehe-register-1609-1748.md); **Stammbaumanschluss erst später**, keine Namenssuche in den Baum |
 
 Zielsuche: Taufe Manoel Pedro, Eltern Manoel Pedro × Joaquina Maria, Pragosa.
 

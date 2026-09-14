@@ -2,7 +2,9 @@
 
 Arbeitsstand nach Merge von PR #8. Dem Faden vom gesicherten Paar
 **Manoel Pedro dos Reis × Roza Maria** (Heirat 23.3.1851) zurückfolgen —
-nicht den Sammelband 1609–1748 öffnen.
+nicht den Sammelband 1609–1748 **an den Stammbaum** anschließen.
+Quellenlesen dieses Bandes: nur über das Prüfregister
+[`fruehe-register-1609-1748.md`](fruehe-register-1609-1748.md) (kein Personen-Merge).
 
 **Methode ab 2026-09-12:** benötigte Bände lokal ablegen (DigitArq
 `/api/rdigital/{uuid}` + `/rdigital/dissemination?fileId=`), dann lesen.
@@ -166,5 +168,6 @@ Kein sicherer Tauf- oder Elternheiratsanschluss bisher.
 2. Nur mit passenden Eltern übernehmen.
 3. Ortsformen nicht harmonisieren.
 4. Negativbereiche mit Datum und Bildbereich protokollieren.
-5. Alten Sammelband `PANS08/003/0001` (1609–1748) erst anfassen, wenn
-   diese Linie zeitlich heranreicht.
+5. Alten Sammelband `PANS08/003/0001` (1609–1748) erst **an den Stammbaum**
+   anschließen, wenn diese Linie zeitlich heranreicht. Quellen erfassen:
+   [`fruehe-register-1609-1748.md`](fruehe-register-1609-1748.md).

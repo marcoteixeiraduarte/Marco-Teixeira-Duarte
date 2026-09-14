@@ -50,7 +50,7 @@ Anker sichern
 3. **Negativ = Bildbereich** — z. B. `0004 m0030–m0060, ~1826–1829, kein Joaquim×Florencia`.
 4. **Homonyme aussortieren** — gleiche Vornamen, andere Eltern → Negativtabelle.
 5. **Ortsformen nicht mergen** — Vale Paio ≠ Aljazede ≠ Ateanha, bis ein Akt sie verbindet.
-6. **Eine Generation zurück** — Sammelband 17./frühes 18. Jh. erst, wenn die Linie zeitlich anliegt.
+6. **Eine Generation zurück** — Sammelband 17./frühes 18. Jh. erst **an den Stammbaum** hängen, wenn die Linie zeitlich anliegt. Quellenlesen und Prüfregister (`fruehe-register-1609-1748.md`) sind vorher erlaubt; kein Personen-Merge.
 7. **Linien nicht kreuzen** — Duarte/Cumeeira und Torre/Reis getrennt; Teixeira archivisch Cumeeira, familiär materno.
 
 ---
@@ -110,7 +110,7 @@ Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
 | Figueiras Podres ≠ de S. João | ein Ort, zwei Namen |
 | Duarte-Eltern an Narciza hängen | Arme getrennt |
 | OCR-Konflikte in den Baum | händisch lesen |
-| Sammelband 1609–1748 namensmatchen | Generation für Generation |
+| Sammelband 1609–1748 namensmatchen / in den Baum ziehen | Generation für Generation; bis dahin nur Prüfregister ([`fruehe-register-1609-1748.md`](linie-torre/fruehe-register-1609-1748.md)) |
 | „Apresentação da Universidade de Coimbra“ = Lagerort | Präsentationsrecht; Bücher bei ADLRA |
 
 ---
