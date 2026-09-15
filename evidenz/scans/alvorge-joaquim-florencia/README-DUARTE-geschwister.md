@@ -6,7 +6,7 @@ Stand: 2026-09-13
 - Eltern: **Joaquim Duarte × Florencia Maria**
 - Anker: Manoel, Taufe **9.7.1829** (*29.6.1829), Band 0004 m0059-R
 - Avós pat.: Manoel Duarte × Maria Jozefa
-- Avós mat.: Antonio Ramos × Angelica Maria (Athianha/Ateanha)
+- Avós mat.: António Ramos × **Angélica Maria** (**Ateanha**; Aktform oft Atianha/Athianha)
 - Heirat 1851: Joaquim Duarte × Florencia Maria, Valle paio
 
 **Nicht** vermischen mit Joaquim Jozé × Florencia Maria / Antonio 1834 (Castello Ventoso; andere Avós).

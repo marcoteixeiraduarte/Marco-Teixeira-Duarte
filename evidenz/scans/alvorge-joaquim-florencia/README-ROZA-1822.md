@@ -9,7 +9,7 @@
 | Eltern | Joaquim Duarte × Florencia Maria | sicher |
 | Lugar | **Aljazede** | sicher — Gegenlese |
 | Avós pat. | Manoel Duarte × Jozefa Maria | sicher |
-| Avós mat. | Antonio Ramos × Angelica Maria, Atianha | sicher |
+| Avós mat. | António Ramos × **Angélica Maria**, **Ateanha** | sicher — Gegenlese |
 
 Crops: `HOLD-ROZA-1822-04-28_*`.
 

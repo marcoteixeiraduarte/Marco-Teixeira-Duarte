@@ -84,7 +84,7 @@ Lugar 1829 (Aljorde/Alvorge) vs. 1851 (**Valle paio**) noch klären (Umzug/Schre
 | Mutter | **Florencia Maria** | sicher |
 | Lugar | **Aljazede** | sicher — Gegenlese |
 | Avós pat. | Manoel Duarte × Jozefa Maria | sicher |
-| Avós mat. | Antonio Ramos × Angelica Maria, **Atianha** | sicher |
+| Avós mat. | António Ramos × **Angélica Maria**, **Ateanha** | sicher — Gegenlese |
 | Quelle | `…0003_m0098` rechte Seite, Mitte | — |
 
 Crops: `HOLD-ROZA-1822-04-28_*` in [`evidenz/scans/alvorge-joaquim-florencia/`](../scans/alvorge-joaquim-florencia/).

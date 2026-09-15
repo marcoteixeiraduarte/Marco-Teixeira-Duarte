@@ -14,7 +14,7 @@ Dieselbe Familie wie Manoel 9.7.1829 (m0059-R) und Joaquina 21.2.1820 (m0084-R).
 | Mutter | Florencia Maria | sicher |
 | Lugar Eltern | **Aljazede** (früher gelesen: Aljaride/Alfaride/Algarida) | sicher — Gegenlese |
 | Avós pat. | Manoel Duarte × Jozefa Maria / Maria Jozefa (derselbe Lugar) | sicher |
-| Avós mat. | Antonio Ramos × Angelica Maria, Atianha/Athianha (Isento Mosteiro Santa Cruz de Coimbra) | sicher / wahrscheinlich |
+| Avós mat. | António Ramos × **Angélica Maria**, **Ateanha** (Aktform oft Atianha/Athianha; Isento Mosteiro Santa Cruz de Coimbra) | sicher — Gegenlese |
 | Padrinhos | Manoel Luiz × Roza (solteira, f.ª de Luiz Antonio Grillo), Val Florido | wahrscheinlich |
 
 ## Quelle

@@ -12,7 +12,7 @@ Ateanha = Herkunft der mütterlichen Großeltern, nicht zwingend Rozas Wohnort.
 | Pfarrei Alvorge | Roza Maria 1851/1878/1903 | sicher als ihre Pfarrei |
 | Aljazede / Vallejazede | in Sohnesheirat und -tod | sicher genannt |
 | Vale Paio | in der Heirat 1851 | wahrscheinlich derselbe oder ein Nachbarlugar |
-| **Ateanha** | Avós mat. von Roza/Manoel/Joaquina (Antonio Ramos × Angelica) | sicher in Taufen 1820/1822/1829 |
+| **Ateanha** | Avós mat. von Roza/Manoel/Joaquina (António Ramos × **Angélica Maria**) | sicher — Gegenlese; Aktform oft Atianha |
 | Vila Nova de Alvorge | Patin 1854 (Maria Joaquina, Witwe) | sicher im Taufeintrag des Sohnes |
 
 Ateanha, Aljazede und Vale Paio gehören zur **einen** Pfarrei
