@@ -1,4 +1,4 @@
-# VERIFY m0098-R — Roza *~22–26.4. / bapt 28.4.1822
+# VERIFY m0098-R — Roza *~offen / bapt 28.4.1822
 
 ## Urteil
 **Hält** als Kind von **Joaquim Duarte × Florencia Maria** (Duarte-Fingerprint).
@@ -22,6 +22,11 @@ Dieselbe Familie wie Manoel 9.7.1829 (m0059-R) und Joaquina 21.2.1820 (m0084-R).
 
 - **28** steht **vor** `Baptizei` = **Tauftag** (Abril 1822), nicht der Geburtstag.
 - Geburtstag erst **nach** dem Namen, hinter `nasceo`/`nascida`.
+
+## Quelle
+- Band: `PT/ADLRA/PRQ/PANS01/001/0003` (Batismos 1808–1822)
+- Bild: `…0003_m0098.jpg`, **rechte Seite**, mittlerer Eintrag
+- Rand: **Aljazede** / Roza
 
 ## Crops
 `HOLD-ROZA-1822-04-28_*` in diesem Ordner.
