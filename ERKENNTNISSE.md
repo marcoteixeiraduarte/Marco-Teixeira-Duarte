@@ -18,6 +18,7 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 | Ort | Inhalt |
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechenden Namen; Conservatória-Fotokopien |
+| [`archiv/karten/`](archiv/karten/README.md) | Ortsblätter, Gesamtliste, GeoJSON |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter mit Transkript und Gewissheit |
 | [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter |
 | `*-records/` | Personenakten mit Signatur und DigitArq/AUC-Links |
@@ -25,16 +26,20 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 
 ---
 
-## Zwei getrennte Spuren
+## Zwei Familienarme — ein Cumeeira-Archiv dazwischen
 
 ```
 Ramo paterno (Duarte / Freire Bicho)     Ramo materno (Torre / Reis / Teixeira …)
 Cumeeira · Carrasqueiras ·               Torre · Pragoza · Avelar ·
 Cabeça Redonda · Figueiras Podres        Lagarteira / Pião · Alvorge
+        └──────── AUC PNL01 (Cumeeira) ────────┘
+                  Duarte + Teixeira teilen die Bücher
 ```
 
 Die Duarte-Urgroßeltern sind **nicht** an die Torre-/Narciza-Spur
-gehängt. Gemeinsam ist nur der spätere Familienrahmen auf dem Blatt.
+gehängt. **Teixeira** steht familiär im materno-Arm, archivisch aber
+in denselben Cumeeira-Bänden wie Duarte (`PNL01` / AUC). Archive und
+Links: [`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md); Karten: [`archiv/karten/`](archiv/karten/README.md).
 
 ---
 
@@ -57,7 +62,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 
 | Thema | Stand |
 | --- | --- |
-| José Freire Bicho ~1894, „Mesmos pais (irmãos)“ | **streichen**. Eltern über Heirat 1922 separat belegt; nicht mit Margaridas Eltern gleichsetzen. Geburt weiter offen |
+| José Freire Bicho ~1894, „Mesmos pais (irmãos)“ | **streichen**. Eltern über Heirat 1922 separat; Geburt offen — Raster erweitert (1887–1902, Nachbarpfarreien): [`suche-geburt-jose-freire-bicho.md`](evidenz/linie-duarte/suche-geburt-jose-freire-bicho.md) |
 | Margarida Blatt `* 24.07.1897 · Santa Eufémia` | ersetzen durch `* 27.06.1897 · Cabeça Redonda` |
 | Manuel † | Blatt und Averbamento **30.09.1962 · Ansião** — frühere Lesung 1964 war Regression |
 | Figueiras Podres | **ein** Ort (mit **-s**); heute Figueiras de S. João; Taufen auch `Figueira Podra` |
@@ -114,13 +119,18 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 4. Maria da Piedade † `16.01.1952`: Tages-/Monatszuordnung weiterhin nicht sicher
 5. Manuel Duarte † **30.09.1962 · Ansião** (Blatt = Averbamento; 1964 war Fehlregression)
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
-7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
+7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922; Geburt — Raster [`suche-geburt-jose-freire-bicho.md`](evidenz/linie-duarte/suche-geburt-jose-freire-bicho.md)
 8. João Teixeira: Weiler **Cabeça Redonda** (nicht nur Cumeeira); Vater `Custodio`
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
 
 ---
+
+## Archive und Links (Gesamtliste)
+
+Alle Portale, Signaturen und Zuständigkeiten:
+[`archiv/ARCHIVE-UND-LINKS.md`](archiv/ARCHIVE-UND-LINKS.md).
 
 ## AUC Coimbra (Uni-Archiv) – wo weiter suchen
 
@@ -154,6 +164,9 @@ Elternheiraten **António Duarte × Thereza Freire** und
 
 ## Noch offen (nächste Arbeit)
 
+Priorisierte Fäden + Reihenfolge: [`evidenz/OFFENE-FAEDEN.md`](evidenz/OFFENE-FAEDEN.md).
+Suchregeln (Download first, Eltern-Match, Anti-Muster): [`evidenz/SUCHMODELL.md`](evidenz/SUCHMODELL.md).
+
 | Priorität | Aufgabe |
 | --- | --- |
 | 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
@@ -161,22 +174,25 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
-| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
+| 6 | Alvorge: Roza-Taufe 28.4.1822 (Duarte×Florencia) Gegenlese Geburtstag; Stammbaumanschluss nach Prüfung; `Duarte` vs. 1854 `Fre…` |
+| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede / Aljaride getrennt lassen |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 
 ---
 
-## Alter Band PANS08/003/0001 — später, von jung nach alt
+## Alter Band PANS08/003/0001 — Quellen ja, Stammbaumanschluss später
 
 Lokal geprüfte Stichprobe (16 Seiten) aus dem Sammelband:
 
 - Casamentos 1609–1719  
 - Óbitos 1609–1748  
 
-**Kein Upload, kein Personenanschluss.** Mehrere Generationen vor dem
-derzeit gesicherten Reis-Anschluss. Sofortige Namenssuche (Mendes, Dias,
-Roiz …) würde Scheinsicherheit erzeugen.
+**Kein Upload der Bilder.** Sofortige Namenssuche in den Stammbaum
+(Mendes, Dias, Roiz …) würde Scheinsicherheit erzeugen.
+
+Maßgebliches Prüfregister (Mentions, Unsicherheiten, Bild-Prüfsummen;
+kein Personen-Merge):
+[`evidenz/linie-torre/fruehe-register-1609-1748.md`](evidenz/linie-torre/fruehe-register-1609-1748.md).
 
 Forschungsweg:
 
@@ -184,12 +200,23 @@ Forschungsweg:
 2. Deren Eltern sicher bestimmen  
 3. Generation für Generation bis ins frühe 18. Jahrhundert  
 4. Erst wenn eine belegte Linie zeitlich an 1748 heranreicht, den Band
-   systematisch erschließen  
-5. Bis dahin: nur als ungesichtete Stichproben aus `PANS08/003/0001`
-   vermerken — ohne Personenanschluss und außerhalb von Git  
+   **an den Stammbaum** anschließen  
+5. Bis dahin: Quellen im Prüfregister erfassen — ohne Stammbaumanschluss  
 
-Kurz: dem Faden vom Licht zurück in die Tiefe folgen, nicht im Nebel
-bekannte Namen suchen.
+Arbeitsprotokoll zur Taufsuche (Roza / Manoel Pedro):
+[`evidenz/linie-torre/suche-taufe-roza-manoel.md`](evidenz/linie-torre/suche-taufe-roza-manoel.md).
+
+Lokale Ablage (gitignore) für Volllese:
+
+- `alvorge-records/` — Batismos 1808–1822 (100) + 1822–1852 (**244**)
+- `torre-records/` — Batismos 1810–1842 (143)
+
+Ateanha/Atianha ist im Alvorge-Band sichtbar (z. B. m0089/m0091), hat aber
+keine eigenen tombo-Bücher. **Roza-Taufe 28.4.1822** (Duarte×Florencia) ist
+im Arbeitsprotokoll erfasst — Anschluss an den Stammbaum nach Gegenlese;
+Manoel Pedro (Torre) noch offen.
+
+**Blocker online:** Alvorge-Casamentos **1789–1859** fehlen (Lücke 1788→1860).
 
 ---
 

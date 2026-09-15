@@ -37,3 +37,7 @@ Digital vorliegende Cumeeira-Scans: Taufen Manuel 1885, Joaquina 1886,
 Margarida 1897; Heirat Duarte 1907; Taufe João Teixeira 1879. Negativsuche
 José als Sohn von António Freire Bicho × Maria Ignácia in Cumeeira
 1893–1895 und Lagarteira 1894 ist vorläufig und ersetzt den Zivilakt nicht.
+
+**Erweitertes Geburts-Suchraster** (Jahre 1887–1902, Nachbarpfarreien,
+Namensvarianten, Negativlog):  
+[`suche-geburt-jose-freire-bicho.md`](suche-geburt-jose-freire-bicho.md).

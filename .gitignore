@@ -97,7 +97,9 @@ duarte-freire-records/cumeeira/casamentos-1907/*
 !duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0015.jpg
 !duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0016.jpg
 
-alvorge-records/
+alvorge-records/*
+!alvorge-records/README.md
+
 
 # Evidenz-Ledger: Markdown und versionierte Scans
 !evidenz/
@@ -106,3 +108,6 @@ alvorge-records/
 !evidenz/scans/
 !evidenz/scans/**
 !evidenz/scans/**/*.jpg
+torre-records/*
+!torre-records/README.md
+

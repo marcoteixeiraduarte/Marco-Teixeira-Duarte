@@ -35,7 +35,11 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
+- `linie-torre/fruehe-register-1609-1748.md` — **maßgebliches** Prüfregister zum
+  frühen Mischband (Quellen erfassen erlaubt; Stammbaumanschluss offen;
+  lokale Scans nicht versioniert)
 - `quellenregister.md` — alle versionierten Scans
+- [`archiv/ARCHIVE-UND-LINKS.md`](../archiv/ARCHIVE-UND-LINKS.md) — Archive, Portale, Signaturen
 
 ## Regel für neue Funde
 
@@ -43,3 +47,9 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 2. Kurzes Transkript der Namens- und Datumszeilen.
 3. Erst danach in ein Personenblatt übernehmen.
 4. Widersprüche stehen lassen, nicht glätten.
+
+## Suchmodell und offene Fäden
+
+- [`SUCHMODELL.md`](SUCHMODELL.md) — Ablauf, Anti-Muster, was „gefunden“ heißt
+- [`OFFENE-FAEDEN.md`](OFFENE-FAEDEN.md) — was schließen / suchen / verbinden
+- [`SCHRIFTPROBE.md`](SCHRIFTPROBE.md) — Pfarrerhand lernen, Lesbarkeit verbessern

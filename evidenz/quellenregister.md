@@ -3,6 +3,10 @@
 Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 `avelar-records/` und sind nicht versioniert.
 
+Textbasiertes Prüfregister zum frühen Mischband Torre (Bilder lokal,
+nicht versioniert): [`linie-torre/fruehe-register-1609-1748.md`](linie-torre/fruehe-register-1609-1748.md).
+Quellen erfassen dort ist erlaubt; Stammbaumanschluss bleibt offen.
+
 ## Duarte-Linie, Cumeeira
 
 | ID | Ereignis | Datei |

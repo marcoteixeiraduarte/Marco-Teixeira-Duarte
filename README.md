@@ -13,6 +13,9 @@ zusammenführen, ohne die Quellenform zu zerstören.
 
 ## Ortsregister
 
+Kartenblätter und GeoJSON: [`archiv/karten/`](archiv/karten/README.md).
+
+
 ### PRAGOZA / PRAGOSA
 
 Identifizierter Ort: Weiler in der Pfarrei Nossa Senhora da Graça da
@@ -212,6 +215,11 @@ späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
 Einzelblätter mit Scanpfad, Transkript und Gewissheit:
 [evidenz/README.md](evidenz/README.md). Ausgangspunkt Duarte:
 [evidenz/00-ausgangspunkt.md](evidenz/00-ausgangspunkt.md).
+
+Suchmodell (Download first, Eltern-Match, Anti-Muster):
+[evidenz/SUCHMODELL.md](evidenz/SUCHMODELL.md).
+Offene Fäden (schließen / suchen / verbinden):
+[evidenz/OFFENE-FAEDEN.md](evidenz/OFFENE-FAEDEN.md).
 
 ## Stammbaumblatt
 

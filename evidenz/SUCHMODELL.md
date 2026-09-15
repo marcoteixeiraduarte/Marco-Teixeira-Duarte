@@ -1,0 +1,154 @@
+# Suchmodell — wie wir rückwärts suchen
+
+Arbeitsmodell aus den bisherigen Fehlern und Erfolgen.
+Ziel: weniger Schein-Negativ, weniger Linienvermischung, klarere Anschlüsse.
+
+Lebende Liste der Fäden: [`OFFENE-FAEDEN.md`](OFFENE-FAEDEN.md).
+
+## Kernsatz
+
+**Nur verbinden, was Eltern + Ort + Zeitfenster gemeinsam tragen.**
+Viewer-Stichprobe ist Orientierung, keine Volllese.
+
+---
+
+## 1. Suchkarte (vor jeder Suche)
+
+Jede offene Person bekommt **eine** Karte (Abschnitt in `suche-*.md`) mit:
+
+| Feld | Pflicht |
+| --- | --- |
+| Zielperson | Name in Quellenform |
+| Gesicherter Anker | Eintrag, der die Suche begründet (Heirat/Taufe des Kindes) |
+| Pflicht-Eltern | genau dieses Paar — sonst kein Treffer |
+| Pfarrei / Lugar | Quellenformen getrennt auflisten |
+| Zeitfenster | z. B. Taufe ~1820–1835 |
+| Bücher (Signatur + UUID) | Batismos / Casamentos / Óbitos |
+| Lokalpfad | `*-records/…` oder „noch nicht geladen“ |
+| Status | `offen` / `in Lesung` / `Negativbereich` / `Kandidat` / `sicher` / `Blocker` |
+| Nächster Schritt | ein Satz, ausführbar |
+| Nicht tun | typische Fehlanschlüsse |
+
+---
+
+## 2. Ablauf (immer gleich)
+
+```
+Anker sichern
+  → Archiv wählen (AUC ≠ ADLRA ≠ Conservatória)
+    → Bandliste + Online-Lücken prüfen
+      → lokal laden, wenn Band digital ist
+        → Volllese im Fenster (Bildbereich protokollieren)
+          → nur bei Eltern-Match → Personenblatt
+            → erst dann Stammbaum / ERKENNTNISSE anfassen
+```
+
+### Regeln
+
+1. **Download first** — „nicht gefunden“ nur nach lokaler Volllese oder dokumentiertem Blocker.
+2. **OCR nur Hinweis** — Tesseract/Viewer-Text entscheidet keine Identität.
+3. **Negativ = Bildbereich** — z. B. `0004 m0030–m0060, ~1826–1829, kein Joaquim×Florencia`.
+4. **Homonyme aussortieren** — gleiche Vornamen, andere Eltern → Negativtabelle.
+5. **Ortsformen nicht mergen** — Vale Paio ≠ Aljazede ≠ Ateanha, bis ein Akt sie verbindet.
+6. **Eine Generation zurück** — Sammelband 17./frühes 18. Jh. erst **an den Stammbaum** hängen, wenn die Linie zeitlich anliegt. Quellenlesen und Prüfregister (`fruehe-register-1609-1748.md`) sind vorher erlaubt; kein Personen-Merge.
+7. **Linien nicht kreuzen** — Duarte/Cumeeira und Torre/Reis getrennt; Teixeira archivisch Cumeeira, familiär materno.
+8. **Immer Geschwister mitlesen** — sobald ein Elternpaar (Fingerprint) steht: im Band vor/nach dem Ankerkind systematisch nach weiteren Kindern suchen. Geschwister sind keine Ablenkung; sie sichern den Fingerprint (Avós, Lugar) und öffnen **Seitenäste** (Paten, Heiraten, spätere Anschlüsse). Homonyme mit anderen Eltern bleiben Negativtabelle.
+9. **Jahre erweitern bei Negativ** — „nicht gefunden“ im Kernfenster ist kein Abbruch. Nach dokumentiertem Negativ systematisch ausdehnen:
+   - Schritt 1: Kern (±2 bis ±4 um abgeleitetes Alter/Ankerjahr)
+   - Schritt 2: Nah (±3 weitere Jahre je Seite)
+   - Schritt 3: Rand (±2–3 weitere Jahre) **oder** Raumring wechseln (Nachbarpfarrei), dann wieder von Kern
+   - Jede Schicht im Negativlog festhalten; nicht dasselbe enge Fenster wiederholen
+   - Stopp nur bei: Treffer mit Eltern-Match, Blocker, oder Akt liefert genaues Datum/Alter
+
+---
+
+## 3. Was „gefunden“ heißt
+
+| Stufe | Bedingung |
+| --- | --- |
+| sicher | Scan gelesen; Eltern, Ort, Datum passen zum Anker |
+| wahrscheinlich | dieselben Personen über ≥2 Einträge; ein Detail weicht ab |
+| Kandidat | Name/Ort/Zeit passen; Eltern oder Lugar unklar |
+| offen | Fenster gelesen oder Blocker; kein Anschluss |
+| ausgeschlossen | klar andere Eltern/Pfarrei (Negativtabelle) |
+
+**Kein** Anschluss über: ähnlichen Nachnamen, gleichen Lugar allein, „Mesmos pais“, Patenort-Vermutung.
+
+---
+
+## 4. Archiv-Router (kurz)
+
+| Frage | Wohin |
+| --- | --- |
+| Cumeeira / Cabeça Redonda / Figueiras Podres / Carrasqueiras | **AUC** `PNL01` |
+| Zivil Penela (z. B. 1922) | **AUC** RCV Penela |
+| Torre, Alvorge, Avelar, Lagarteira | **ADLRA** `PANS08` / `PANS01` / `PANS03` / `PANS05` |
+| Bisavós *1912–1915 Fotos | Conservatória Ansião → lokal lesen |
+| Alvorge-Casamentos 1789–1859 | **nur ADLRA vor Ort** (Online-Lücke) |
+| DigitArq / Torre do Tombo | Zugang, nicht Lagerort der Ansião-Bücher |
+
+Details: [`archiv/ARCHIVE-UND-LINKS.md`](../archiv/ARCHIVE-UND-LINKS.md).
+Orte: [`archiv/karten/`](../archiv/karten/README.md).
+
+---
+
+## 5. DigitArq-Volllese (Muster)
+
+```text
+1) UUID des Bandes aus tombo/DigitArq
+2) API-Liste der fileIds (max groß genug für den Band)
+3) dissemination?fileId=… → JPG lokal
+4) README im Ordner: Band, UUID, Anzahl, Download-Datum
+5) Leselog: Bild → Jahr → Treffer/Negativ
+```
+
+Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
+
+---
+
+## 6. Anti-Muster (aus diesem Projekt)
+
+| Anti-Muster | Stattdessen |
+| --- | --- |
+| Viewer-Stichprobe als „Band gelesen“ | lokal laden, Fenster durchlesen |
+| Erste Roza Maria übernehmen | Elternzeile prüfen |
+| Ateanha = Rozas Herkunft | nur belegte Pfarrei Alvorge |
+| Pião zu Torre schlagen | Lagarteira `PANS05` |
+| Figueiras Podres ≠ de S. João | ein Ort, zwei Namen |
+| Duarte-Eltern an Narciza hängen | Arme getrennt |
+| OCR-Konflikte in den Baum | händisch lesen |
+| Sammelband 1609–1748 namensmatchen / in den Baum ziehen | Generation für Generation; bis dahin nur Prüfregister ([`fruehe-register-1609-1748.md`](linie-torre/fruehe-register-1609-1748.md)) |
+| Nur Zielkind suchen, Geschwister überspringen | Fingerprint-Band vor/nach mitlesen — Seitenäste sichern den Anschluss |
+| Negativ im engen Fenster → Suche beenden | Jahre schichtweise erweitern (Regel 9); Raumring wechseln |
+| „Apresentação da Universidade de Coimbra“ = Lagerort | Präsentationsrecht; Bücher bei ADLRA |
+
+---
+
+## 7. Qualitätscheck vor dem Commit
+
+- [ ] Suchkarte aktualisiert (Status + Bildbereiche)?
+- [ ] Negativsuche mit Signatur/Bild notiert?
+- [ ] Bei Negativ: nächste Jahresschicht / Raumring geplant (nicht stecken bleiben)?
+- [ ] Geschwister im Fingerprint-Fenster mitgelesen (Treffer oder Negativbereich)?
+- [ ] Kein neuer Baum-Eintrag ohne Eltern-Match?
+- [ ] Ortsformen quellengetreu?
+- [ ] Richtiger Archiv-Cluster (AUC vs ADLRA)?
+- [ ] [`OFFENE-FAEDEN.md`](OFFENE-FAEDEN.md) / `ERKENNTNISSE.md` angepasst?
+
+---
+
+## 8. Später (wenn die Volllese skaliert)
+
+1. Leselog-Tabelle pro Band (`bild,jahr,namen,eltern,ort,status`)
+2. Download-Skript DigitArq (UUID → Ordner), idempotent
+3. GeoJSON-Status `sicher` / `genähert` / `Kandidat`
+
+Solange die Fenster klein sind: Markdown + lokale JPG reichen.
+
+---
+
+## 9. Schriftprobe (Lesbarkeit)
+
+Schwierige Namenszeilen nicht raten: zuerst die **Hand des Vigários**
+über Ankerwörter lernen. Vorlage und Hilfe-Kanäle:
+[`SCHRIFTPROBE.md`](SCHRIFTPROBE.md).
