@@ -41,9 +41,21 @@ Heirat 1922 → typisches Brautalter ~20–35 → Geburt **grob 1887–1902**.
 | --- | --- | --- | --- |
 | A Kern | **1890–1898** | 1 | um Blatt-~1894 ±4 |
 | B Nah | **1887–1889**, **1899–1902** | 2 | Alter aus Akt oft ±2–4 Jahre falsch |
-| C Rand | **1884–1886**, **1903–1905** | 3 | nur wenn A/B und Nachbarn leer; oder Akt nennt anderes Alter |
+| C Rand | **1884–1886**, **1903–1905** | 3 | wenn A/B + Ring-1/2 leer; oder Akt nennt anderes Alter |
+| D Weit | **1880–1883**, **1906–1908** | 4 | nur nach C-Negativ oder Akt-Hinweis (sehr jung/alt bei Heirat) |
 
-Zivilakt 1922 kann das Fenster **ersetzen** (explizites Alter/Geburtsdatum).
+### Erweiterungslogik (Pflicht bei Negativ)
+
+1. Schicht A in **einer** Pfarrei (Ring 1 Priorität 1) unter H0 lesen → Negativlog.
+2. Kein Treffer → Schicht B **derselben** Pfarrei.
+3. Kein Treffer → nächste Pfarrei im Ring (gleich Schicht A→B), nicht sofort D.
+4. Ring 1 A+B leer → Ring 2 ab Schicht A.
+5. Erst dann Schicht C/D oder Ring 3 (Akt-Hinweis).
+6. **Nie** dasselbe enge Fenster (z. B. nur 1893–95 × Cumeeira × H1) erneut als „Suche“.
+
+Zivilakt 1922 kann das Fenster **ersetzen** (explizites Alter/Geburtsdatum) — dann Raster neu zuschneiden.
+
+Siehe allgemein [`../SUCHMODELL.md`](../SUCHMODELL.md) Regel 9.
 
 ---
 

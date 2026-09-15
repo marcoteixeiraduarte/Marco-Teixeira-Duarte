@@ -53,6 +53,12 @@ Anker sichern
 6. **Eine Generation zurück** — Sammelband 17./frühes 18. Jh. erst **an den Stammbaum** hängen, wenn die Linie zeitlich anliegt. Quellenlesen und Prüfregister (`fruehe-register-1609-1748.md`) sind vorher erlaubt; kein Personen-Merge.
 7. **Linien nicht kreuzen** — Duarte/Cumeeira und Torre/Reis getrennt; Teixeira archivisch Cumeeira, familiär materno.
 8. **Immer Geschwister mitlesen** — sobald ein Elternpaar (Fingerprint) steht: im Band vor/nach dem Ankerkind systematisch nach weiteren Kindern suchen. Geschwister sind keine Ablenkung; sie sichern den Fingerprint (Avós, Lugar) und öffnen **Seitenäste** (Paten, Heiraten, spätere Anschlüsse). Homonyme mit anderen Eltern bleiben Negativtabelle.
+9. **Jahre erweitern bei Negativ** — „nicht gefunden“ im Kernfenster ist kein Abbruch. Nach dokumentiertem Negativ systematisch ausdehnen:
+   - Schritt 1: Kern (±2 bis ±4 um abgeleitetes Alter/Ankerjahr)
+   - Schritt 2: Nah (±3 weitere Jahre je Seite)
+   - Schritt 3: Rand (±2–3 weitere Jahre) **oder** Raumring wechseln (Nachbarpfarrei), dann wieder von Kern
+   - Jede Schicht im Negativlog festhalten; nicht dasselbe enge Fenster wiederholen
+   - Stopp nur bei: Treffer mit Eltern-Match, Blocker, oder Akt liefert genaues Datum/Alter
 
 ---
 
@@ -113,6 +119,7 @@ Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
 | OCR-Konflikte in den Baum | händisch lesen |
 | Sammelband 1609–1748 namensmatchen / in den Baum ziehen | Generation für Generation; bis dahin nur Prüfregister ([`fruehe-register-1609-1748.md`](linie-torre/fruehe-register-1609-1748.md)) |
 | Nur Zielkind suchen, Geschwister überspringen | Fingerprint-Band vor/nach mitlesen — Seitenäste sichern den Anschluss |
+| Negativ im engen Fenster → Suche beenden | Jahre schichtweise erweitern (Regel 9); Raumring wechseln |
 | „Apresentação da Universidade de Coimbra“ = Lagerort | Präsentationsrecht; Bücher bei ADLRA |
 
 ---
@@ -121,6 +128,7 @@ Arbeitskopien bleiben **gitignore**; versioniert wird nur das Protokoll.
 
 - [ ] Suchkarte aktualisiert (Status + Bildbereiche)?
 - [ ] Negativsuche mit Signatur/Bild notiert?
+- [ ] Bei Negativ: nächste Jahresschicht / Raumring geplant (nicht stecken bleiben)?
 - [ ] Geschwister im Fingerprint-Fenster mitgelesen (Treffer oder Negativbereich)?
 - [ ] Kein neuer Baum-Eintrag ohne Eltern-Match?
 - [ ] Ortsformen quellengetreu?
