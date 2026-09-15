@@ -13,7 +13,11 @@ modernisiert.
   (Lesung `Rua d'Allem` möglich)
 - Vater: **Luiz Guiomar**, Arbeiter, natürlich aus **Bemposta**,
   Pfarrei **Alvorge**
-- Mutter: **Delfina Maria**
+- Mutter: **Delfina Maria**, governadora de casa, natürlich aus
+  **lugar da Leiria, dieser Pfarrei Torre** (Lesung `Leiria`; nicht
+  die Stadt Leiria. Ladeia / Lameira offen)
+- das Paar **aqui recebidos** (in Torre getraut) und 1874 wohnhaft
+  **Rua d'Além**
 - väterliche Großeltern: **Antonio Dias Guiomar** und
   **Joaquina Maria**
 - mütterliche Großeltern: **José Gregorio** und **Nazareth Maria**
@@ -92,9 +96,15 @@ Richtige Reihenfolge, nur diese Akte:
 ```
 Antonio Dias Guiomar × Joaquina Maria
   Luiz Guiomar  ×  Delfina Maria
-                   (ihre Eltern: José Gregorio × Nazareth Maria)
+                   (ihre Eltern: José Gregorio × Nazareth Maria;
+                    sie natural lugar da Leiria, Pfarrei Torre)
       João  * 22.04.1874  Rua d'Além
 ```
+
+**Dias Guiomar** als Compound ist der Suchanker im Umkreis
+Bemposta (Alvorge) / Torre. Eigener Faden, nicht mit Roza/Alvorge
+(Reis) vermischen. Blatt:
+[`evidenz/linie-guiomar/00-dias-guiomar.md`](../evidenz/linie-guiomar/00-dias-guiomar.md).
 
 ## Maria, Taufe 5. März 1882 (Lagarteira)
 

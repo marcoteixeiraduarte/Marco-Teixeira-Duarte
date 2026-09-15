@@ -67,8 +67,10 @@ João
 
 Eltern **Luiz Guiomar** × **Delfina Maria** – **passen** (Blattform
 des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
-**Antonio Dias Guiomar**). Blattort `Vale de Todos` ist die Pfarrei;
-der Weiler ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
+**Antonio Dias Guiomar**). Luiz natürlich **Bemposta**, Alvorge;
+Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre (Lesung);
+`aqui recebidos` in Torre. Blattort `Vale de Todos` ist die Pfarrei;
+der Weiler des Kindes ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
 in Torre – **passt**. Heirat mit **Maria Helena** aus Lagarteira
 (Randvermerk; Tagesdatum nicht als einzige Form).
 
