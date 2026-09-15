@@ -36,6 +36,33 @@ Gegenlese 15.09.2026, Elternzeilen:
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht zwingend erstes Kind | sicher als Formel |
 
+## Was Bemposta ist
+
+**Lugar**, keine eigene Pfarrei. Im Akt 1874:
+
+`natural do lugar da Bemposta, freguezia de Alvorge deste Concelho`
+
+Taufen aus Bemposta stehen in den **Alvorge-Büchern** (`PANS01`), oft
+mit Rand `Bemposta`. Es gibt keine Kirchenbücher „Pfarrei Bemposta“.
+
+| | |
+|---|---|
+| Lage | Freguesia Alvorge, Kreis Ansião. Etwa 39.976 N, 8.431 W. PLZ 3240-405 |
+| Nachbarweiler | Carrascal, Chousos Cimeiros |
+| Distanz Torre | rund **2 km** südlich zur Igreja Matriz Torre de Vale de Todos — deshalb Luiz aus Bemposta, Heirat und Wohnort in Torre |
+| Kapellen vor Ort | Nossa Senhora do Rosário; São Jorge. Keine eigenen Taufbücher |
+
+Nicht tauschen:
+
+- **Bemposta (Penamacor)** — andere Ortschaft, Foral 1510, anderer Kreis
+- **Carrasqueiras** (Cumeeira / Duarte) — anderer Fleck, anderer Kreis
+- **São Jorge** der Matta-Taufe 1872 — `logar` der Pfarrei **Torre** / Vale de Todos, nicht die Kapelle bei Bemposta
+
+Luiz ist 1874 **natural** Bemposta, aber **wohnhaft** Rua d'Além.
+Naturalidade ≠ Wohnort. Antonio Dias Guiomar × Joaquina Maria werden
+zuerst in den Alvorge-Bänden unter Bemposta gesucht, nicht in einer
+erfundenen Pfarrei Bemposta.
+
 ## Alle Pfarreien des Kreises Ansião
 
 **Dias Guiomar** wird in **allen** Pfarreien des historischen Kreises
