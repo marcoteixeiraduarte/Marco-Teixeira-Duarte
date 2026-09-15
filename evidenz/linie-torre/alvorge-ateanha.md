@@ -30,12 +30,14 @@ Fenster: Taufe **etwa 1820–1835**.
 
 ### Zwischenstand 2026-09-13
 
-**Roza** (*~22–26.4. / tauf **28.4.1822**), Band 0003 m0098-R, Lugar Aljaride/Algarida;
+**Roza** (*~22–26.4. / tauf **28.4.1822**), Band 0003 m0098-R, Lugar **Aljazede**;
 Eltern **Joaquim Duarte × Florencia Maria**, Avós Duarte/Ramos, mat. **Atianha** — **sicher**.
 Geschwister: **Joaquina** 21.2.1820 (m0084-R); **Manoel** 9.7.1829 (0004 m0059-R).
 Crops: `evidenz/scans/alvorge-joaquim-florencia/HOLD-ROZA-*`.
 Passt zum Nachnamen in der Heirat 1851. Homonym **nicht** anhängen:
 Joaquim Jozé × Florencia (Antonio 1834, Castello Ventoso).
+
+Hinweis Lugar: 1822 **Aljazede** (Gegenlese); 1851 Heirat **Valle paio** — getrennt lassen.
 
 Bücher zuerst:
 

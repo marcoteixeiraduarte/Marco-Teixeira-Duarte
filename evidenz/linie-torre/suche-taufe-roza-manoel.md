@@ -18,7 +18,7 @@ Siehe dortige README. Viewer-Stichproben allein gelten nicht als Volllese.
 | Manoel Pedro dos Reis | Eltern **Manoel Pedro × Joaquina Maria**, Pragosa, Torre | Heirat 1851; Taufe Sohn 1854 |
 | Roza Maria | Eltern **Joaquim […] × Florencia Maria**, Pfarrei Alvorge | Heirat 1851 |
 | Joaquims Nachname | 1851 Lesung `Duarte`; 1854 beim Sohn beginnend `Fre…` | offen bis Alvorge-Taufe |
-| Rozas Lugar | Vale Paio / Vallejazede / Aljazede — getrennt lassen | Ateanha nur Suchort |
+| Rozas Lugar | **Aljazede** (1822, Gegenlese); 1851 Valle paio — getrennt | Ateanha nur Suchort |
 
 Blätter: [G4-paterno-reis](G4-paterno-reis.md), [alvorge-ateanha](alvorge-ateanha.md).
 

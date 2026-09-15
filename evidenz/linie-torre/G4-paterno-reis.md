@@ -130,7 +130,7 @@ Bruder Manoel 1829 lesen **Duarte** (**wahrscheinlich**); Taufzeile des Sohnes
 
 ### Taufe Roza (Alvorge) — Anschluss
 
-- Band `PANS01/001/0003` **m0098-R**, Taufe **28.4.1822**, Lugar Aljaride/Aljazede
+- Band `PANS01/001/0003` **m0098-R**, Taufe **28.4.1822**, Lugar **Aljazede** (Gegenlese)
 - Eltern **Joaquim Duarte × Florencia Maria**; Avós Duarte/Jozefa und Ramos/Angelica (Atianha)
 - Crops: `evidenz/scans/alvorge-joaquim-florencia/HOLD-ROZA-1822-04-28_*`
 - Gewissheit Anschluss an dieses Blatt: **wahrscheinlich** (Eltern+Avós-Match)

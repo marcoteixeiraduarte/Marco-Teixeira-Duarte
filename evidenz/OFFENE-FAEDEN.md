@@ -16,7 +16,7 @@ Nach Fortschritt diese Datei und ggf. [`ERKENNTNISSE.md`](../ERKENNTNISSE.md) ak
 
 | ID | Faden | Pflicht-Eltern / Anker | Band lokal? | Status | Protokoll |
 | --- | --- | --- | --- | --- | --- |
-| T1 | Taufe **Roza Maria** (Alvorge) | Joaquim **Duarte** × Florencia; Fingerprint Avós Duarte/Ramos | ja `alvorge-records/` | **Treffer** 28.4.1822 m0098-R; Geburtstag 22/26 Gegenlese | [`suche-taufe-roza-manoel.md`](linie-torre/suche-taufe-roza-manoel.md) |
+| T1 | Taufe **Roza Maria** (Alvorge) | Joaquim **Duarte** × Florencia; Fingerprint Avós Duarte/Ramos | ja `alvorge-records/` | **Treffer** 28.4.1822 m0098-R; Lugar **Aljazede** Gegenlese; Geburtstag 22/26 offen | [`suche-taufe-roza-manoel.md`](linie-torre/suche-taufe-roza-manoel.md) |
 | T2 | Taufe **Manoel Pedro dos Reis** (Torre) | Manoel Pedro × Joaquina Maria; Pragoza | ja `torre-records/` | in Lesung | dasselbe |
 | T3 | Elternheirat Joaquim Duarte × Florencia | Alvorge Casamentos ~1815–1835 | **Blocker** Lücke 1789–1859 | Blocker → ADLRA | [`ARCHIVE-UND-LINKS.md`](../archiv/ARCHIVE-UND-LINKS.md) |
 | T4 | Elternheirat Manoel Pedro × Joaquina | Torre Casamentos | Stichprobe negativ | offen | suche-taufe… |

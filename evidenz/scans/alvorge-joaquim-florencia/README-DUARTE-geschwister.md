@@ -12,9 +12,9 @@ Stand: 2026-09-13
 **Nicht** vermischen mit Joaquim Jozé × Florencia Maria / Antonio 1834 (Castello Ventoso; andere Avós).
 
 ## Ergebnis
-- **Roza/Rosa Maria dieses Paares:** **Treffer** — Taufe **28.4.1822**, Band **0003 m0098-R**, Lugar Aljaride/Algarida; Avós Duarte/Ramos + Atianha. Crops: `HOLD-ROZA-1822-04-28_*`. Siehe [`README-VERIFY-m0098-roza-1822.md`](README-VERIFY-m0098-roza-1822.md).
+- **Roza/Rosa Maria dieses Paares:** **Treffer** — Taufe **28.4.1822**, Band **0003 m0098-R**, Lugar **Aljazede** (Gegenlese; früher Aljaride/Algarida); Avós Duarte/Ramos + Atianha. Crops: `HOLD-ROZA-1822-04-28_*`. Siehe [`README-VERIFY-m0098-roza-1822.md`](README-VERIFY-m0098-roza-1822.md).
 - **Weitere Geschwister mit Fingerprint:**
-  - **Joaquina** *12.2. / tauf 21.2.1820, m0084-R, Aljareda/Aljaride — `HOLD-1820-02-21_joaquina_*`
+  - **Joaquina** *12.2. / tauf 21.2.1820, m0084-R, Aljazede/Aljareda — `HOLD-1820-02-21_joaquina_*`
   - **Manoel** *29.6. / tauf 9.7.1829, Band 0004 m0059-R — `HOLD-1829-07-09_*`
 - Scheintreffer Band 0004 m0060: **verworfen** — Joaquim Mendes × Angelina Rosa (`NEGATIV-m0060-…`)
 
