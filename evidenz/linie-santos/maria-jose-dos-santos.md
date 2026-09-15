@@ -65,6 +65,9 @@ lugar dos Magos, Pfarrei Ansião. Blatt:
 väterlicher Verwandter Joãos, nicht der Santos-Eltern. 1913 wohnt
 das Paar in Ribeira de Cima, rund 700 m von Figueiras de São João.
 
+Mündlich: Verwandte in **Santiago da Guarda**. Spur, kein Akt.
+Blatt: [santiago-da-guarda](santiago-da-guarda.md).
+
 Averbamento rechts: Heirat des Kindes am **23. April 1937** mit
 Maria Emília Guiomar, Vale de Todos. Das ist der nächste Generation,
 nicht Maria José.

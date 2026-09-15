@@ -61,7 +61,7 @@ vermuteten Taufe.
 
 ## Nachbarpfarre — nicht als Sackgasse
 
-**Santiago da Guarda** (`PANS07`): Blatt
+**Santiago da Guarda** (`PANS07`): mündlich Verwandte dort. Blatt
 [santiago-da-guarda.md](santiago-da-guarda.md).
 Ribeira dort ≠ Ribeira de Cima (PANS02). Netos ≠ Magos.
 

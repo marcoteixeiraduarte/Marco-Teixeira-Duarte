@@ -9,7 +9,28 @@ Torre (`PANS08`). Gleicher Kreis, anderer Pfarrbezirk.
 Maria José ist 1913 `natural desta freguesia e concelho de Ansião`
 im Zivilakt der Stadtpfarre. Ihre **eigene Taufe** bleibt deshalb
 in **PANS02**. Santiago da Guarda wird geöffnet für **Eltern,
-Heirat und die Ribeira**, die in PANS02 schon als Herkunft vorkommt.
+Heirat, die Ribeira** und die mündlich genannten Verwandten.
+
+## Mündliche Überlieferung
+
+| Feld | Eintrag | Gewissheit |
+|---|---|---|
+| Inhalt | In Santiago da Guarda gab es Verwandte | mündlich |
+| Quelle | Auftraggeber, diese Arbeit (15.09.2026) | — |
+| Welche Personen | nicht genannt | offen |
+| Welche Linie | am ehesten Santos / Ansião-Cluster, nicht festgelegt | Kandidat |
+
+Das ist **kein** Akt und **kein** Stammbaumschluss. Es begründet,
+warum PANS07 nicht als Randnotiz liegt: die Familie erinnert
+Verwandte dort. Ein Kirchenbuch muss die Personen erst nennen.
+
+Passt der **Richtung** nach zu PANS02 1878 (Paten und ein Vater aus
+`lugar de Ribeira, freguesia de São Thiago da Guarda`). Richtung
+ist nicht Identität. Maximiano Rodrigues × Carolina und José Mendes
+werden nicht still zu den mündlichen Verwandten gemacht.
+
+Nicht an Duarte/Cumeeira und nicht an Reis/Torre hängen, nur weil
+„Verwandte in Santiago da Guarda“ gesagt wurde.
 
 ## Pfarrei
 
@@ -47,7 +68,9 @@ In PANS02, Band 0013, schon gelesen (nicht Zielpaar):
 
 Das ist Verkehr zwischen Vila de Ansião und Ribeira in Santiago da
 Guarda im selben Jahrzehnt, in dem Maria José (~1883/84) liegt.
-Kein Identitätsbeleg für José dos Santos × Maria Thereza.
+Kein Identitätsbeleg für José dos Santos × Maria Thereza. Die
+mündliche Überlieferung (Verwandte dort) und diese Akte **stützen
+sich der Richtung nach**, ersetzen einander nicht.
 
 Castelo in Santiago da Guarda nicht mit Castelo der Pfarrei Torre
 gleichsetzen. **José Thereza** (PANS02 19.11.1878) ist
@@ -73,7 +96,11 @@ Dieselbe Marker-Regel wie [index.md](index.md): Santos, Thereza,
 Ribeira, Teixeira, Affonso, Maria José.
 
 Zuerst **Casamentos** José dos Santos × Maria Thereza (von vorn,
-nicht nur ein Jahr). Dann Taufen der Eltern und Geschwister.
+nicht nur ein Jahr). Dann Taufen der Eltern, Geschwister und
+weiterer Santos in Ribeira / Granja / Sitz. Ziel: die mündlich
+genannten Verwandten an einem Akt festmachen — oder als andere
+Familie abgrenzen.
+
 Nicht Maria Josés Taufe hier suchen gegen den Zivilakt 1913.
 
 Nicht an Reis/Gato/Alvorge und nicht an Cumeeira-Santos hängen.
