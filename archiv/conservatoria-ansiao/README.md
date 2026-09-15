@@ -28,7 +28,7 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 | [10.jpg](10.jpg) | 3,7 MB | Foto 10 (Deckblatt der Fotokopie) |
 
 Wohnort Guiomar (15.09.2026). Der Akt schreibt den **Lugar Vale de
-Todos**; die Straße ist **Barreira** (João und Maria Emília).
+Todos**; die Straße ist **Barreira** (Grundstücksakten, João und Maria Emília).
 
 | Datei | Akt | Wohnort im Text |
 |---|---|---|

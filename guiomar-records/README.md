@@ -26,7 +26,7 @@ modernisiert.
 Das Blatt schreibt `João Dias Guiomar · * 1874 · Vale de Todos`.
 Das Jahr **passt**. Der Weiler **dieser Taufe** ist **Rua d'Além**.
 Spätestens mit João als Vater und Maria Emília ist die Straße
-**Barreira**, derselbe Lugar Vale de Todos. `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
+**Barreira** (Grundstücksakten), derselbe Lugar Vale de Todos. `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
 nicht im Taufnamen des Kindes. Die Blatteltern **Luiz Dias Guiomar**
 × **Delfina Maria** **passen** der Richtung nach (Quellenform des
 Vaters: `Luiz Guiomar`).
@@ -51,7 +51,8 @@ beide `falecido`.
 Geburt Maria Emília, Foto `04.jpg` (21. August 1915): João × Maria
 Helena **domiciliados no lugar da Vale de Todos**.
 
-Straße **Barreira**, Lugar Vale de Todos, CartTop 017164. Blatt:
+Straße **Barreira** (Grundstücksakten beim Auftraggeber), Lugar Vale
+de Todos, CartTop 017164. Blatt:
 [`evidenz/linie-guiomar/00-dias-guiomar.md`](../evidenz/linie-guiomar/00-dias-guiomar.md).
 
 Quelle:

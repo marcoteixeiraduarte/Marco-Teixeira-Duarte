@@ -8,7 +8,8 @@ Linien werden nicht vermischt.
 | Art | Bedeutung |
 |---|---|
 | Scan | Kirchenbuch, Zivilakt, Foto. Form und Datum von dort. |
-| Auftraggeber | was du sicher weißt (Wohnort, Zuordnung). **Gilt.** Der Scan liefert die schriftliche Form; er stellt dieses Wissen nicht unter Vorbehalt, nur weil die Rua im Akt fehlt. |
+| Auftraggeber | was du sicher weißt. **Gilt.** |
+| Grundstücke | Caderneta, Matriz, Escritura beim Auftraggeber. Genealogisch nur Ort und Personen. **Nicht** ins Repo oder nach Geni: Artikelnummer, NIF, volle Anschrift, Flurnummer. |
 
 Geni, Schätzdaten und stille Vermischung sind keine Quelle.
 

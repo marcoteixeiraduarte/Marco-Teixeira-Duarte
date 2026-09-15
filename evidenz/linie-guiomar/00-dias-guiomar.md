@@ -85,18 +85,20 @@ Pfarrei.
 ### Wer wann wo
 
 Luiz ist 1874 in die **Rua d'Além** gezogen. Spätestens **João und
-Maria Emília** wohnen in der **Barreira**. Beides derselbe Lugar
-**Vale de Todos**.
+Maria Emília** in der **Barreira**. Überliefert; steht in den
+**Grundstücksakten** des Auftraggebers. Civil schreibt denselben
+Lugar **Vale de Todos**.
+
+Die Grundstückspapiere bleiben beim Auftraggeber, nicht in diesem
+Repo. Hier nur der Ort. Keine Artikelnummer, kein NIF.
 
 | Zeitpunkt | Quelle | Wohnort |
 |---|---|---|
 | 1874 | Taufe João, Scan | Luiz × Delfina **lugar da Rua d'Além** |
-| spätestens 1915 | Auftraggeber | João und Maria Emília, **Barreira** |
+| spätestens 1915 | Grundstücksakten, Auftraggeber | João und Maria Emília, **Barreira** |
 | 1915 | Foto `04.jpg` | João × Maria Helena, Casa im **lugar da Vale de Todos** (Maria Emília) |
 | 1934 | Foto `03.jpg`, nur Wohnort | Maria Emília und Vater João, **lugar da Vale de Todos** |
 | 1958 | Foto `07.jpg` | João **lugar da Vale de Todos** |
-
-Der Akt schreibt den Lugar, die Familie die Straße. CartTop 017164.
 
 Nicht tauschen:
 
@@ -202,7 +204,7 @@ Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 | Pfarrei | Dias-Guiomar-Durchsicht |
 |---|---|
 | Alvorge | offen |
-| Torre | Akt João 1874; Zivil 1915/1934/1958 Lugar Vale de Todos (Straße Barreira: João + Maria Emília) |
+| Torre | Akt João 1874; Zivil 1915/1934/1958 Lugar Vale de Todos, Straße Barreira |
 | Ansião-Stadt | offen (PANS02-Bände der Santos-Spur zählen hier nicht als Coverage) |
 | Santiago da Guarda | offen |
 | Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur, kein Dias-Guiomar-Treffer) |

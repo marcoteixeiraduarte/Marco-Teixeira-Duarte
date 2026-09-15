@@ -71,7 +71,7 @@ des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
 Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre (Lesung);
 `aqui recebidos` in Torre. Blattort `Vale de Todos` ist der Lugar;
 1874 Straße des Kindes **Rua d'Além**. Spätestens als Vater von
-**Maria Emília** (* 21.08.1915) **Barreira**. Tod: Randvermerk
+**Maria Emília** (* 21.08.1915) **Barreira** (Grundstücksakten). Tod: Randvermerk
 **8. Januar 1958** in Torre – **passt**; Zivilakt Foto `07.jpg`
 **lugar da Vale de Todos**. Heirat mit **Maria Helena** aus
 Lagarteira (Randvermerk; Tagesdatum nicht als einzige Form).

@@ -16,5 +16,6 @@ wurden. Coverage extra führen, sobald ein Band von vorn läuft.
 Zielpaar der Rückwärtssuche: **Antonio Dias Guiomar × Joaquina Maria**,
 Bemposta / Alvorge — noch ohne eigene Taufe oder Heirat.
 
-**Barreira:** João und Maria Emília, Lugar Vale de Todos. Luiz 1874
-Rua d'Além, derselbe Weiler. [00-dias-guiomar.md](00-dias-guiomar.md).
+**Barreira:** João und Maria Emília. Überliefert; Grundstücksakten
+beim Auftraggeber. Civil: Lugar Vale de Todos. Luiz 1874 Rua d'Além.
+[00-dias-guiomar.md](00-dias-guiomar.md).
