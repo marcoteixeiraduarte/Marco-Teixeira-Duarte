@@ -3,6 +3,9 @@
 Nur gelesene Akte. Kein Stammbaumschluss. Regel:
 [00-dias-guiomar.md](00-dias-guiomar.md).
 
+Suche: **alle neun Pfarreien** des Kreises Ansião. Marker **Dias Guiomar**
+/ Guiomar als Nachname, nicht der weibliche Vorname.
+
 Diese Liste beweist **nicht**, dass alle Seiten dazwischen gelesen
 wurden. Coverage extra führen, sobald ein Band von vorn läuft.
 

@@ -163,7 +163,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
 | 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` — **nicht** mit Dias Guiomar / Bemposta vermischen |
-| 6b | **Dias Guiomar:** Alvorge Batismos 1822–1852 (Luiz, Kinder Antonio × Joaquina, Bemposta); Torre Casamentos vor 1874 (Luiz × Delfina, `aqui recebidos`); Torre Batismos ab 1875 (Geschwister João) |
+| 6b | **Dias Guiomar in allen 9 Pfarreien des Kreises Ansião** (Alvorge, Torre, Ansião, Santiago da Guarda, Lagarteira, Avelar, Chão de Couce, Pousaflores, Orada). Start Alvorge 1822–1852 und Torre Casamentos vor 1874; die übrigen sieben gehören zur Suche, nicht erst „bei Treffer“ |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 

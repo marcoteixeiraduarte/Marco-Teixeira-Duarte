@@ -36,21 +36,40 @@ Gegenlese 15.09.2026, Elternzeilen:
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht zwingend erstes Kind | sicher als Formel |
 
-## Geografie — enger Umkreis, nicht der ganze Kreis
+## Alle Pfarreien des Kreises Ansião
 
-Bemposta (Alvorge) und die Kirche Torre de Vale de Todos liegen
-wenige Kilometer auseinander (Bemposta etwa 39.976 N, 8.431 W;
-Torre etwa 39.961 N, 8.428 W). Luiz ist von der Alvorge-Seite
-über die Pfarrgrenze nach Rua d'Além gezogen. Das ist der
-natürliche Suchradius.
+**Dias Guiomar** wird in **allen** Pfarreien des historischen Kreises
+gesucht, nicht nur in Alvorge und Torre. Der Compound ist markant
+genug; ein Treffer in Avelar oder Santiago da Guarda wäre kein
+Lärm, sondern Cluster.
 
-| Zone | Pfarrei | Warum |
-|---|---|---|
-| **Kern väterlich** | Alvorge `PANS01`, Lugar **Bemposta** | Naturalidade Luiz; Taufe Luiz und Geschwister (Kinder Antonio Dias Guiomar × Joaquina Maria) |
-| **Kern 1874** | Torre `PANS08`, Rua d'Além | Taufe João; Heirat Luiz × Delfina; weitere Kinder des Paars |
-| Delfina | Torre, Lugar Leiria [Lesung] | ihre Taufe (Eltern José Gregorio × Nazareth Maria) |
-| Erst bei Treffer | Lagarteira `PANS05` | Schwiegerpfarre João (Maria 1882), nicht Herkunft Dias Guiomar |
-| Nicht zuerst | Ansião-Stadt `PANS02`, Santiago da Guarda `PANS07` | Nachbar im Kreis; nur wenn ein Marker-Akt dorthin zeigt |
+Reihenfolge ist Priorität, nicht Ausschluss. Alvorge und Torre zuerst,
+weil der Akt 1874 dort ansetzt. Die übrigen Pfarreien gehören trotzdem
+zur Suche.
+
+Neun Pfarreien, tombo [Ansião](https://nosportugueses.pt/pt/paroquiais/154/ansiao),
+Archiv `PT/ADLRA/PRQ/PANS…`:
+
+| # | Pfarrei | tombo | Signatur | Orago | Bezug zu dieser Spur |
+|---|---|---|---|---|---|
+| 1 | **Alvorge** | [ans01](https://tombo.pt/f/ans01) | `PANS01` | Nossa Senhora da Conceição | Luiz natural **Bemposta**. Taufe Luiz und Geschwister Antonio Dias Guiomar × Joaquina Maria |
+| 2 | **Torre de Vale de Todos** | [ans08](https://tombo.pt/f/ans08) | `PANS08` | Nossa Senhora da Graça | Taufe João 1874; Heirat Luiz × Delfina (`aqui recebidos`); Rua d'Além; Taufe Delfina |
+| 3 | **Ansião** (Vila) | [ans02](https://tombo.pt/f/ans02) | `PANS02` | Nossa Senhora da Conceição | Stadtpfarre, Nachbar. Marker Dias Guiomar / Guiomar als Nachname |
+| 4 | **Santiago da Guarda** | [ans07](https://tombo.pt/f/ans07) | `PANS07` | São Tiago | Nachbarpfarre Alvorge/Ansião. Nicht mit der mündlichen Santos-Spur vermischen |
+| 5 | **Lagarteira** | [ans05](https://tombo.pt/f/ans05) | `PANS05` | São Domingos | Schwiegerpfarre João (Maria 1882). Dias Guiomar dort suchen, nicht nur die Schwiegermutter |
+| 6 | **Avelar** | [ans03](https://tombo.pt/f/ans03) | `PANS03` | Espírito Santo | Kreispfarre. Nicht mit der Gato/Affonseca-Spur vermischen |
+| 7 | **Chão de Couce** | [ans04](https://tombo.pt/f/ans04) | `PANS04` | — | Kreispfarre (bis 1855 eigener Kreis) |
+| 8 | **Pousaflores** | [ans06](https://tombo.pt/f/ans06) | `PANS06` | Nossa Senhora das Neves | Kreispfarre |
+| 9 | **Orada** | [ans09](https://tombo.pt/f/ans09) | `PANS09` | Nossa Senhora da Orada | Bücher nur bis **1850**. Für Antonio Dias Guiomars Generation brauchbar; nicht mit Orada `srp08` tauschen |
+
+Bemposta (Alvorge) und die Kirche Torre liegen wenige Kilometer
+auseinander (Bemposta etwa 39.976 N, 8.431 W; Torre etwa 39.961 N,
+8.428 W). Luiz ist über diese Grenze gezogen — das erklärt den
+**Start**, nicht die Grenze der Suche.
+
+Nachbarkreise (Penela/Cumeeira, Soure/Rabaçal, Figueiró) erst, wenn
+ein Akt aus den neun Pfarreien dorthin zeigt. Nicht still nach
+Cumeeira-Santos oder Duarte ziehen.
 
 ## Marker
 
@@ -68,12 +87,16 @@ Vale Paio ohne Dias Guiomar.
 
 ## Suchreihenfolge
 
+Zuerst die zwei Pfarreien des Akts 1874, danach die übrigen sieben
+des Kreises, dieselben Marker.
+
 1. **Alvorge Batismos 1822–1852** `PANS01/001/0004`
    DigitArq `4b820d7bb81e4910a88430792e576518` (244 Bilder).
    Luiz, Sohn von Antonio Dias Guiomar × Joaquina Maria, Bemposta.
    Geschwister desselben Paars gelten als Treffer (Cluster).
 2. **Alvorge Batismos 1808–1822** `PANS01/001/0003`, falls Luiz früher
-   liegt oder Geschwister vor 1822.
+   liegt oder Geschwister vor 1822. Alvorge-Heiraten Antonio × Joaquina
+   daneben.
 3. **Torre Casamentos** vor April 1874: Luiz Guiomar × Delfina Maria
    (`aqui recebidos`). Zuerst die Jahresbände knapp vor 1874, dann
    zurück, nicht nur ein Jahr.
@@ -83,9 +106,11 @@ Vale Paio ohne Dias Guiomar.
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
    Lugar Leiria [Lesung]. Eigenes Fenster, nicht mit Dias Guiomar
    vermischen.
-
-Alvorge-Heiraten Antonio Dias Guiomar × Joaquina Maria: sobald Luiz'
-Taufe das ungefähre Jahr der Elternheirat eingrenzt.
+6. **Die übrigen sieben:** Ansião-Stadt, Santiago da Guarda, Lagarteira,
+   Avelar, Chão de Couce, Pousaflores, Orada (bis 1850). Je Pfarrei
+   Batismos und Casamentos mit derselben Marker-Regel, von vorn in
+   den Bänden um 1820–1890. Treffer in die Liste, auch ohne sofortigen
+   Anschluss an Luiz.
 
 ## Stand 15.09.2026
 
@@ -94,17 +119,32 @@ abrufbar). Die Alvorge-Bände haben `hasImages: true`, sind aber in
 dieser Sitzung nicht seitenweise zu öffnen.
 
 Lokal gelesen für diese Spur: nur die Taufe João 1874 (eine Doppelseite
-von `PANS08/001/0019`, Band nur **1874**). PANS02-Bände der Santos-Spur
-sind ein anderer Faden und wurden hier nicht als Dias-Guiomar-Coverage
-gezählt.
+von `PANS08/001/0019`, Band nur **1874**).
+
+Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
+
+| Pfarrei | Dias-Guiomar-Durchsicht |
+|---|---|
+| Alvorge | offen |
+| Torre | nur Akt João 1874 |
+| Ansião-Stadt | offen (PANS02-Bände der Santos-Spur zählen hier nicht als Coverage) |
+| Santiago da Guarda | offen |
+| Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur, kein Dias-Guiomar-Treffer) |
+| Avelar | offen |
+| Chão de Couce | offen |
+| Pousaflores | offen |
+| Orada | offen |
 
 Nächster Schritt, sobald die Bilder da sind: Band Alvorge 1822–1852
-von vorn, Marker-Liste [index.md](index.md).
+von vorn, Marker-Liste [index.md](index.md). Dann die übrigen acht.
 
 ## Bewusst nicht
 
 - Roza Maria / Joaquim × Florencia nicht an Antonio Dias Guiomar hängen.
+- Gato/Affonseca in Avelar, Santos in Ansião/Santiago, Duarte in Cumeeira
+  nicht still mitziehen, nur weil dieselbe Pfarrei durchsucht wird.
 - Stadt Leiria nicht mit `lugar da Leiria` in Torre tauschen.
 - Bemposta (Alvorge, Ansião) nicht mit Bemposta (Penamacor) tauschen.
+- Orada Ansião (`ans09` / `PANS09`) nicht mit Orada `srp08` tauschen.
 - Manuel Dias Guiomar auf Geni nicht als Sohn Luizes führen, bis ein Akt
   ihn nennt.
