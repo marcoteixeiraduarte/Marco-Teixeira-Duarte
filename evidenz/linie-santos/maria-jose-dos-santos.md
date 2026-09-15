@@ -15,7 +15,7 @@ Santos (1907) werden hier nicht still mitgehängt.
 | Alter am 10.09.1913 | 29 Jahre | sicher im Zivilakt |
 | Geburt (gerechnet) | 11.09.1883–10.09.1884; mit Rundung 1882–1885 | wahrscheinlich / Fenster offen |
 | Blatt | `~1884 · Ansião` | Richtung passt |
-| Naturalidade 1913 | dieser Pfarrei und diesem Kreis Ansião | sicher |
+| Naturalidade 1913 | dieser Pfarrei und diesem Kreis Ansião (Vila de Ansião im Pfarrsinn) | sicher |
 | Wohnort 1913 | Ribeira de Cima, Pfarrei Ansião | sicher |
 | Stand 1913 | casada, profissão doméstica | sicher |
 | Mann | João Teixeira | sicher |
@@ -65,8 +65,10 @@ lugar dos Magos, Pfarrei Ansião. Blatt:
 väterlicher Verwandter Joãos, nicht der Santos-Eltern. 1913 wohnt
 das Paar in Ribeira de Cima, rund 700 m von Figueiras de São João.
 
-Mündlich: Verwandte in **Santiago da Guarda**. Spur, kein Akt.
-Blatt: [santiago-da-guarda](santiago-da-guarda.md).
+Mündlich: **dos Santos**-Verwandte in **Santiago da Guarda**.
+Maria José selbst **Vila de Ansião** (Stadtpfarre) — geografisch
+stimmig, Taufe bleibt PANS02. Blatt:
+[santiago-da-guarda](santiago-da-guarda.md).
 
 Averbamento rechts: Heirat des Kindes am **23. April 1937** mit
 Maria Emília Guiomar, Vale de Todos. Das ist der nächste Generation,

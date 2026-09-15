@@ -74,7 +74,9 @@ Joaquim Teixeira 1913 **nicht** still mit den Santos-Eltern
 zusammenziehen — **wahrscheinlich** väterliche Teixeira-Seite.
 Blatt: [`evidenz/linie-santos/maria-jose-dos-santos.md`](../evidenz/linie-santos/maria-jose-dos-santos.md),
 [`paten-1913`](../evidenz/linie-santos/paten-1913.md).
-Mündlich: Verwandte in **Santiago da Guarda** — Spur, kein Akt;
+Mündlich: **dos Santos**-Verwandte in **Santiago da Guarda**.
+Maria José selbst Vila-Pfarrei Ansião — geografisch stimmig,
+Taufe bleibt PANS02.
 [`santiago-da-guarda`](../evidenz/linie-santos/santiago-da-guarda.md).
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos

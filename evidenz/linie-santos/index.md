@@ -61,7 +61,8 @@ vermuteten Taufe.
 
 ## Nachbarpfarre — nicht als Sackgasse
 
-**Santiago da Guarda** (`PANS07`): mündlich Verwandte dort. Blatt
+**Santiago da Guarda** (`PANS07`): mündlich **dos Santos**-Verwandte
+dort; Maria José selbst Vila-Pfarrei Ansião. Blatt
 [santiago-da-guarda.md](santiago-da-guarda.md).
 Ribeira dort ≠ Ribeira de Cima (PANS02). Netos ≠ Magos.
 
