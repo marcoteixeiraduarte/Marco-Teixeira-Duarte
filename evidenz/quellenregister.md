@@ -31,3 +31,11 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1854-JOSE-B | Taufe José Pedro, Fortsetzung | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0057.jpg` |
 | AVL-BAP-1781-THEO | Taufe Theodora Maria | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANSO3-001-0003_m0028.jpg` |
 | AVL-CAS-1774-13 | Zwei Heiraten: Alexandre×Joaquina und Antonio Simões×Maria Joaquina | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg` (Kopie: `narcisa-records/casamento-avos-avelar/`) |
+
+## Santos-Linie, Ansião (Zivilstand)
+
+| ID | Ereignis | Datei |
+|---|---|---|
+| CRC-ANS-1913-MANUEL | Geburt Manuel Teixeira, 10.09.1913 | `archiv/conservatoria-ansiao/01.jpg` |
+| CRC-ANS-1913-MANUEL-CROP | derselbe Akt, aufrecht verkleinert | `evidenz/scans/santos/CRC-ANS-1913-manuel-teixeira.jpg` |
+| CRC-ANS-1913-SANTOS-ELTERN | Ausschnitt Maria José und Großeltern | `evidenz/scans/santos/CRC-ANS-1913-manuel-teixeira-maria-jose-eltern.jpg` |

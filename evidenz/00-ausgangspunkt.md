@@ -47,9 +47,23 @@ Zählung, wenn José Pedro × Narciza der 3. Grad sind:
 | 4. Grad materno | João Gato × Caetana Maria | sicher als Eltern der Narciza | [linie-torre/caetana-maria](linie-torre/caetana-maria.md) |
 | 5./6. Grad materno | Alexandre Manoel × Joaquina da Affonseca | sicher als Großeltern der Caetana; Heirat offen | [linie-torre/avelar-kandidaten](linie-torre/avelar-kandidaten.md) |
 
+## Dritte Spur — Santos, Ansião-Stadt, nicht an Reis oder Duarte gehängt
+
+Blattkarte: **Maria José dos Santos · ~1884 · Ansião**, Frau des João Teixeira.
+
+| Feld | Eintrag | Gewissheit | Blatt |
+|---|---|---|---|
+| 3.º avós | Maria José dos Santos, 29 Jahre am 10.09.1913 | sicher im Zivilakt des Sohnes | [linie-santos/maria-jose-dos-santos](linie-santos/maria-jose-dos-santos.md) |
+| Naturalidade | Pfarrei und Kreis Ansião | sicher 1913 | dasselbe |
+| Eltern | José dos Santos × Maria Thereza | sicher als Großeltern Manuels 1913 | dasselbe |
+| Taufe / eigene Heirat | noch nicht im Kirchenbuch | offen | [linie-santos/00-ansiao](linie-santos/00-ansiao.md) |
+
+Alvorge (Roza) bleibt offen und wird hier nicht weitergesucht.
+
 ## Was bewusst nicht vermischt wird
 
 - Cumeeira / Carrasqueiras / Cabeça Redonda / Figueiras Podres gehört zur Duarte-Linie.
 - Torre de Vale de Todos / Pragosa / Avelar / João Bom gehört zur Torre-Linie.
+- Vila de Ansião / Ribeira de Cima / Maria José dos Santos gehört zur Santos-Spur.
 - **Theodora Maria** (Avelar 1781) ist nicht Maria Joaquina Sol. Blatt: [theodora-maria-1781](linie-torre/theodora-maria-1781.md)
 - **Maria Joaquina × Antonio Simões** (Castelo 10.2.1774) ist nicht Maria Joaquina Sol. Blatt: [maria-joaquina-simoes-1774](linie-torre/maria-joaquina-simoes-1774.md)

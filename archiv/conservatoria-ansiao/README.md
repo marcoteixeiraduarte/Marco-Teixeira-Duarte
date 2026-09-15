@@ -16,7 +16,7 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 
 | Datei | Bytes | Rolle |
 | --- | --- | --- |
-| [01.jpg](01.jpg) | 6,4 MB | Foto 1 |
+| [01.jpg](01.jpg) | 6,4 MB | Geburt Manuel Teixeira, 10.09.1913 — **gegenlesen** |
 | [02.jpg](02.jpg) | 6,0 MB | Foto 2 |
 | [03.jpg](03.jpg) | 5,9 MB | Foto 3 |
 | [04.jpg](04.jpg) | 6,3 MB | Foto 4 |
@@ -35,5 +35,7 @@ dieser Generation, sobald ein Akt festgelesen ist:
 - José Mendes d'Ascensão · * 1914
 - Palmira Reis · * 24.04.1912
 
-und die noch offenen 3.º avós Joaquina Ramalha dos Reis und
-Maria José dos Santos.
+und die noch offenen 3.º avós Joaquina Ramalha dos Reis.
+**Maria José dos Santos** ist über den Zivilakt des Sohnes Manuel
+(Foto `01.jpg`, 10.09.1913) festgelesen: Eltern **José dos Santos** ×
+**Maria Thereza**. Blatt: [`evidenz/linie-santos/`](../../evidenz/linie-santos/maria-jose-dos-santos.md).

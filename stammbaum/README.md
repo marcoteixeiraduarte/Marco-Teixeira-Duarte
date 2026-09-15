@@ -54,7 +54,21 @@ Elternort nicht.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
-Offen. Eltern: `Pais de Maria José por confirmar`.
+Zivilakt des Sohnes Manuel, 10.09.1913, Conservatória Ansião
+(`archiv/conservatoria-ansiao/01.jpg`):
+
+```
+Maria José dos Santos
+29 Jahre am 10.09.1913 → * etwa 1883/1884
+natural desta freguesia e concelho de Ansião
+wohnhaft Ribeira de Cima
+Eltern: José dos Santos × Maria Thereza
+```
+
+Blatt-`~1884 · Ansião` **passt** der Richtung nach. `Pais de Maria José
+por confirmar` **ersetzen** durch **José dos Santos** × **Maria Thereza**.
+Eigene Taufe und Heirat mit João Teixeira noch **offen**.
+Blatt: [`evidenz/linie-santos/maria-jose-dos-santos.md`](../evidenz/linie-santos/maria-jose-dos-santos.md).
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
@@ -145,7 +159,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | Blatt | Quelle / Status |
 | --- | --- |
 | Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
-| Pais de Maria José por confirmar | offen |
+| Pais de Maria José por confirmar | **ersetzen:** Zivilakt 1913 nennt **José dos Santos** × **Maria Thereza**. Taufe Maria Josés in PANS02 noch offen |
 | Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |
