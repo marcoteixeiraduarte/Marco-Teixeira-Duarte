@@ -119,3 +119,5 @@ verwechseln.
   Ansião` (Heirat Duarte 1907) bleibt nur Ortszeuge derselben Pfarrei,
   keine Identität mit dem Vater Maria Josés.
 - Ribeira de Cima nicht mit Ribeira anderer Kreise tauschen.
+- Ribeira in **Santiago da Guarda** ist eine andere Ribeira im
+  **selben** Kreis; Blatt [santiago-da-guarda.md](santiago-da-guarda.md).

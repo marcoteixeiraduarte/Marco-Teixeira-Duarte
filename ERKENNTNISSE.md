@@ -163,7 +163,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Alvorge/Roza **pausiert**. PANS02 **von vorn**: Marker-Liste Santos/Thereza/Magos/Ribeira (`evidenz/linie-santos/index.md`); nicht nur 1883/84 |
+| 6 | Alvorge/Roza **pausiert**. PANS02 von vorn; **Santiago da Guarda** (`PANS07`) für Ribeira/Eltern/Heirat, nicht für Maria Josés Taufe gegen den Akt 1913 |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 

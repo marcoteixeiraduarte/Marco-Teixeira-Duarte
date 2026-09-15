@@ -13,9 +13,9 @@ Status: **Ausschluss** = gelesen, nicht das Zielpaar.
 | Seite | Nr | Datum | Kind | Vater | Mutter | Lugar | Marker | Status |
 |---|---|---|---|---|---|---|---|---|
 | 0005 | 9 | 26.02.1878 | Maria José | Francisco, trabalhador | Maria de Jesus | Vila | Maria José | Ausschluss |
-| 0006 | 11 | 11.03.1878 | Maria José | Maximiano Rodrigues, proprietário | Carolina da Conceição | Vila | Maria José; Pate Ribeira / São Thiago da Guarda | Ausschluss |
+| 0006 | 11 | 11.03.1878 | Maria José | Maximiano Rodrigues, proprietário | Carolina da Conceição | Vila | Paten **lugar de Ribeira, freguesia de São Thiago da Guarda** | Ausschluss als Kind; Ort PANS07 |
 | 0006 | 12 | 13.04.1878 | Manuel | (Zeile offen) | | **Netos** | Netos ≠ Magos | Ort |
-| 0008 | 16 | 24.04.1878 | Francisco | José Mendes, trabalhador | Mutter mit Ribeira, **São Thiago da Guarda** | Vila | andere Ribeira | nicht Ansião |
+| 0008 | 16 | 24.04.1878 | Francisco | José Mendes, trabalhador, **natural Ribeira, São Thiago da Guarda** | (weiter) | Vila | Herkunft PANS07 | nicht Ansião-Ribeira |
 | 0014 | 32 | 18.08.1878 | Manuel | José Alves, proprietário, Constantina | Maria Marques, da Ribeira | **Ribeira** dieser Pfarrei | Wohnlugar 1913 schon 1878 belegt | Ort; nicht Santos |
 | 0016 | 39 | 05.10.1878 | José | Manuel Rodrigues, trabalhador | (Sarzedella) | Sarzedella | Pate José Dias Ramalho — nicht an Reis-Ramalha hängen | nicht mischen |
 | 0018 | 43 | 19.11.1878 | Manuel | **José Thereza**, trabalhador, Castelo / Torre de Vale de Todos | Anna Rita?, dieser Vila | Vila | Thereza hier **Vorname des Vaters**, nicht Maria Thereza | Ausschluss |

@@ -24,8 +24,9 @@ Oliveiras, Casal da Viegas, Font Gallega, Lagares, Constantina, Magos.
 Ein Carrasqueiras im Kreis Ansião (heute oft Lagarteira/Ansião) ist
 ein anderer Fleck, bis ein Akt sie gleichsetzt.
 
-Lagarteira ist **PANS05**, nicht diese Pfarrei. Userwunsch: zuerst
-Ansião direkt (PANS02).
+Lagarteira ist **PANS05**, Santiago da Guarda **PANS07**.
+Maria Josés Taufe: zuerst Ansião-Stadt (PANS02). PANS07 für
+Eltern/Heirat/Ribeira: [santiago-da-guarda.md](santiago-da-guarda.md).
 
 ## Bücher dieser Spur
 
@@ -52,5 +53,9 @@ Pfarrei (nicht Salvaterra de Magos).
    Jeden Marker-Akt in die Liste. Zielpaar oder Geschwister können
    in jedem Jahr stehen.
 2. Band `0014` danach ebenfalls von Seite `0002` (1884).
-3. Heirat José dos Santos × Maria Thereza: Casamentos PANS02 von vorn.
-4. Taufe Joaquim Teixeira (Pate 1913) in Torre oder Cumeeira.
+3. Heirat José dos Santos × Maria Thereza: Casamentos PANS02 **und**
+   PANS07 von vorn.
+4. **Santiago da Guarda** (`PANS07`): Ribeira dieser Pfarrei und
+   Eltern, sobald die Bände offen sind. Taufe Maria Josés nicht
+   dorthin gegen den Zivilakt 1913.
+5. Taufe Joaquim Teixeira (Pate 1913) in Torre oder Cumeeira.

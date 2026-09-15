@@ -17,12 +17,14 @@ Sobald **eines** zutrifft:
 
 - Kind oder Eltern: **Santos**, **Teixeira**, **Affonso** / Afonso
 - Mutter oder Frau: **Thereza** / Tereza / Theresa
-- Lugar: **Magos**, **Ribeira** (dieser Pfarrei), **Figueiras**, **Netos**
+- Lugar: **Magos**, **Ribeira** (PANS02 oder Santiago da Guarda, getrennt halten), **Figueiras**, **Netos**
+- Pfarrei **Santiago da Guarda** / São Thiago da Guarda (Herkunft, Paten)
 - Kind **Maria José** (auch andere Eltern — als Ausschluss)
 
 Nicht aufgenommen: beliebige Maria/José ohne diese Marker.
 Lagarteira, Alvorge, Carrasqueiras-Cumeeira bleiben auf ihren
-Linienblättern; hier nur, wenn der Akt in **PANS02** steht.
+Linienblättern; hier nur, wenn der Akt in **PANS02** oder in
+**PANS07** steht.
 
 ## Paare (eigene Mini-Liste, sobald ein Akt sie nennt)
 
@@ -53,13 +55,17 @@ bei 1885 weitermachen, bevor 1884 von Seite `0002` durch ist.
 
 ## Heiraten (daneben, ebenfalls von vorn)
 
-José dos Santos × Maria Thereza: PANS02 Casamentos 1860–1879 und
-1880–1899, sobald die Dateilisten stehen. Dieselbe Marker-Regel.
-Nicht nur das Jahr vor der vermuteten Taufe.
+José dos Santos × Maria Thereza: PANS02 **und** PANS07 Casamentos,
+von vorn. Dieselbe Marker-Regel. Nicht nur ein Jahr vor der
+vermuteten Taufe.
+
+## Nachbarpfarre — nicht als Sackgasse
+
+**Santiago da Guarda** (`PANS07`): Blatt
+[santiago-da-guarda.md](santiago-da-guarda.md).
+Ribeira dort ≠ Ribeira de Cima (PANS02). Netos ≠ Magos.
 
 ## Bewusst nicht
 
 - Linien Duarte/Cumeeira und Reis/Torre nicht in diese Liste
   ziehen, nur weil ein Santos oder eine Ribeira vorkommt.
-- Ribeira in São Thiago da Guarda ist eine andere Ribeira.
-- Netos ist nicht Magos.
