@@ -69,10 +69,16 @@ Eltern **Luiz Guiomar** × **Delfina Maria** – **passen** (Blattform
 des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
 **Antonio Dias Guiomar**). Luiz natürlich **Bemposta**, Alvorge;
 Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre (Lesung);
-`aqui recebidos` in Torre. Blattort `Vale de Todos` ist die Pfarrei;
-der Weiler des Kindes ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
-in Torre – **passt**. Heirat mit **Maria Helena** aus Lagarteira
-(Randvermerk; Tagesdatum nicht als einzige Form).
+`aqui recebidos` in Torre. Blattort `Vale de Todos` ist 1874 die
+Pfarrei; der Weiler des Kindes ist **Rua d'Além**. Tod: Randvermerk
+**8. Januar 1958** in Torre – **passt**; Zivilakt Foto `07.jpg`
+domicilio **lugar da Vale de Todos**. 1915 (Geburt Maria Emília,
+Foto `04.jpg`) dasselbe: João × Maria Helena im **lugar da Vale de
+Todos**. **Barreira** steht in keinem dieser Akte. Rua da Barreira
+liegt im selben Lugar (CartTop 017164), rund 300 m von Rua d'Além —
+kein zweiter Pfarreisprung. Luiz’ eigener Wohnort nach 1874: **offen**.
+Heirat mit **Maria Helena** aus Lagarteira (Randvermerk; Tagesdatum
+nicht als einzige Form).
 
 #### Maria Helena Guiomar · * 25.02.1882 · Pião
 

@@ -24,9 +24,10 @@ modernisiert.
 - Pate: **João Paschoal**, verheiratet, Arbeiter
 
 Das Blatt schreibt `João Dias Guiomar · * 1874 · Vale de Todos`.
-Das Jahr **passt**. Der Weiler ist **Rua d'Além**; `Vale de Todos`
-ist die Pfarrei bzw. der heutige Kartenname, nicht der Weiler dieses
-Eintrags. `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
+Das Jahr **passt**. Der Weiler **dieser Taufe** ist **Rua d'Além**.
+`Vale de Todos` ist 1874 die Pfarrei bzw. der Lugar-Name; die Straße
+steht im Akt. Civil 1915/1958 nennt denselben Lugar ohne Straße
+(unten). `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
 nicht im Taufnamen des Kindes. Die Blatteltern **Luiz Dias Guiomar**
 × **Delfina Maria** **passen** der Richtung nach (Quellenform des
 Vaters: `Luiz Guiomar`).
@@ -40,9 +41,25 @@ Spätere Hände an dieser Taufe nennen:
 - den Tod am **8. Januar 1958** in der Pfarrei Torre
 
 Das Blatt-`† 08.01.1958 · Vale de Todos` **passt** zu diesem
-Sterbevermerk. Der Zivilakt selbst ist hier nicht geprüft. Das genaue
-Heiratsdatum ist in dieser Hand nicht als einzige gesicherte Form
-festgehalten (Lesungen 1907 und 1909).
+Sterbevermerk. Das genaue Heiratsdatum ist in dieser Hand nicht als
+einzige gesicherte Form festgehalten (Lesungen 1907 und 1909).
+
+Zivilakt Conservatória Ansião, Foto `07.jpg` (Registo de óbito,
+8. Januar 1958): João Dias Guiomar, 83 Jahre, domiciliado no
+**lugar da Vale de Todos**, freguesia Torre de Vale de Todos;
+Luiz Dias Guiomar und Delfina Maria beide `falecido`. **Barreira**
+steht nicht in diesem Akt. Vollständige Gegenlese der übrigen
+Felder bleibt am Foto; hier nur Wohnort und Tod.
+
+Geburt der Tochter Maria Emília, Foto `04.jpg` (21. August 1915):
+João Dias Guiomar × Maria Helena **domiciliados no lugar da Vale
+de Todos**. Wieder kein Wort Barreira. Luiz steht als Großvater,
+ohne eigenen Wohnort — das belegt nicht, dass Luiz 1915 noch dort
+lebte, und nicht, dass er nach Barreira gezogen wäre.
+
+Rua d'Além und Rua da Barreira sind derselbe Lugar Vale de Todos
+(CartTop-Locality 017164). Blatt:
+[`evidenz/linie-guiomar/00-dias-guiomar.md`](../evidenz/linie-guiomar/00-dias-guiomar.md).
 
 Quelle:
 
