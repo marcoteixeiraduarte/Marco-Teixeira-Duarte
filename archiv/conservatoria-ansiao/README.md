@@ -27,10 +27,8 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 | [09.jpg](09.jpg) | 6,8 MB | Foto 9 |
 | [10.jpg](10.jpg) | 3,7 MB | Foto 10 (Deckblatt der Fotokopie) |
 
-Nur auf den **Guiomar-Wohnort** gelesen (15.09.2026), nicht als
-vollständige Gegenlese der Karten. Die Akte schreibt den **Lugar**;
-die Straße **Barreira** gilt spätestens bei João und Maria Emília
-(Auftraggeber) und liegt in diesem Lugar.
+Wohnort Guiomar (15.09.2026). Der Akt schreibt den **Lugar Vale de
+Todos**; die Straße ist **Barreira** (João und Maria Emília).
 
 | Datei | Akt | Wohnort im Text |
 |---|---|---|

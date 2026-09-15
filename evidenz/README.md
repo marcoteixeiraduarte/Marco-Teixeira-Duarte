@@ -1,19 +1,28 @@
 # Evidenz-Ledger
 
-Jeder Fakt steht nur, wenn ein Scan danebenliegt.
 Schreibweisen bleiben so, wie sie im Eintrag stehen.
 Linien werden nicht vermischt.
+
+## Quellenarten
+
+| Art | Bedeutung |
+|---|---|
+| Scan | Kirchenbuch, Zivilakt, Foto. Form und Datum von dort. |
+| Auftraggeber | was du sicher weißt (Wohnort, Zuordnung). **Gilt.** Der Scan liefert die schriftliche Form; er stellt dieses Wissen nicht unter Vorbehalt, nur weil die Rua im Akt fehlt. |
+
+Geni, Schätzdaten und stille Vermischung sind keine Quelle.
 
 ## Gewissheit
 
 | Stufe | Bedeutung |
 |---|---|
-| sicher | am Originalscan gelesen, Datum und Personen passen zusammen |
-| wahrscheinlich | gleiche Personen über mehrere Einträge, aber ein Detail weicht ab |
+| sicher | feststehend: am Scan gelesen **oder** Auftraggeber-Wissen |
+| wahrscheinlich | mehrere Einträge zeigen dieselbe Person, ein Detail weicht ab |
 | Kandidat | Namens- und Ortsnähe, Identität nicht bewiesen |
-| offen | gesucht, nicht gefunden oder widersprüchlich |
+| offen | wirklich unbekannt — nicht: „steht nicht wörtlich im Scan“ |
 
-Unsichere Wörter stehen in `[]`.
+Unsichere **Lesungen** am Scan stehen in `[]`. Das ist nicht dasselbe
+wie Auftraggeber-Wissen.
 
 ## Ausgangspunkt
 

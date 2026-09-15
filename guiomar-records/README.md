@@ -25,10 +25,8 @@ modernisiert.
 
 Das Blatt schreibt `João Dias Guiomar · * 1874 · Vale de Todos`.
 Das Jahr **passt**. Der Weiler **dieser Taufe** ist **Rua d'Além**.
-`Vale de Todos` ist der Lugar. Spätestens mit João als Vater und
-Maria Emília gilt in der Familie die Straße **Barreira** (derselbe
-Lugar). Civil 1915/1958 schreibt den Lugar, nicht die Rua — das
-widerspricht der Barreira nicht. `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
+Spätestens mit João als Vater und Maria Emília ist die Straße
+**Barreira**, derselbe Lugar Vale de Todos. `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
 nicht im Taufnamen des Kindes. Die Blatteltern **Luiz Dias Guiomar**
 × **Delfina Maria** **passen** der Richtung nach (Quellenform des
 Vaters: `Luiz Guiomar`).
@@ -51,12 +49,9 @@ Zivilakt Conservatória Ansião, Foto `07.jpg` (Registo de óbito,
 beide `falecido`.
 
 Geburt Maria Emília, Foto `04.jpg` (21. August 1915): João × Maria
-Helena **domiciliados no lugar da Vale de Todos**. Luiz nur als
-Großvater, ohne Wohnortzeile.
+Helena **domiciliados no lugar da Vale de Todos**.
 
-Die Straße **Barreira** gilt spätestens bei diesem Vater und dieser
-Tochter (Auftraggeber). Der Akt nennt den Lugar, die Familie die
-Rua — CartTop 017164, derselbe Weiler wie Rua d'Além 1874. Blatt:
+Straße **Barreira**, Lugar Vale de Todos, CartTop 017164. Blatt:
 [`evidenz/linie-guiomar/00-dias-guiomar.md`](../evidenz/linie-guiomar/00-dias-guiomar.md).
 
 Quelle:

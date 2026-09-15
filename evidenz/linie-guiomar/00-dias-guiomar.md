@@ -82,30 +82,21 @@ Travessa de São Jorge. Kartenabstand Rua da Barreira ↔ Rua de Além
 rund **300 m**. Das ist ein Straßenwechsel im Weiler, keine andere
 Pfarrei.
 
-### Wer wann wo — zwei Quellen, kein Widerspruch
+### Wer wann wo
 
-Die **Straße Barreira** gilt **spätestens bei João und Maria Emília**.
-Das ist Familienwissen (Auftraggeber), Quellentyp mündlich, nicht
-in Zweifel ziehen. Der Zivilakt schreibt denselben **Lugar**, nicht
-eine andere Gegend.
+Luiz ist 1874 in die **Rua d'Além** gezogen. Spätestens **João und
+Maria Emília** wohnen in der **Barreira**. Beides derselbe Lugar
+**Vale de Todos**.
 
-| Zeitpunkt | Quelle | Was sie sagt | Rolle |
-|---|---|---|---|
-| 1874 | Taufe João, Scan | Luiz × Delfina **moradores no lugar da Rua d'Além** | Luiz’ Generation, andere Straße, **derselbe** Lugar |
-| spätestens 1915 | mündlich, Auftraggeber | João (Vater) und Maria Emília in der **Barreira** | Straße; gilt ab dieser Generation |
-| 1915 | Conservatória Foto `04.jpg` | João × Maria Helena **domiciliados no lugar da Vale de Todos**; Kind Maria Emília in einer Casa dieses Lugar | Lugar. Barreira liegt darin. Luiz nur als Großvater, ohne Wohnortzeile |
-| 1934 | Conservatória Foto `03.jpg` (Heirat Maria Emília, nur Wohnort) | Braut natural und residente **lugar da Vale de Todos**; Vater João Dias Guiomar ebenfalls dieser Lugar | derselbe Lugar, immer noch João + Tochter |
-| 1958 | Conservatória Foto `07.jpg` | João **domiciliado no lugar da Vale de Todos**; Luiz bereits `falecido` | João bleibt im Lugar bis zum Tod |
+| Zeitpunkt | Quelle | Wohnort |
+|---|---|---|
+| 1874 | Taufe João, Scan | Luiz × Delfina **lugar da Rua d'Além** |
+| spätestens 1915 | Auftraggeber | João und Maria Emília, **Barreira** |
+| 1915 | Foto `04.jpg` | João × Maria Helena, Casa im **lugar da Vale de Todos** (Maria Emília) |
+| 1934 | Foto `03.jpg`, nur Wohnort | Maria Emília und Vater João, **lugar da Vale de Todos** |
+| 1958 | Foto `07.jpg` | João **lugar da Vale de Todos** |
 
-Der Zivilstand nennt den **Lugar Vale de Todos**, die Familie die
-**Straße Barreira**. Beides ist wahr. Der Akt muss die Rua nicht
-schreiben, damit sie gilt.
-
-Luiz 1874 ist noch **Rua d'Além**. Spätestens mit João und Maria
-Emília ist es die Barreira. Der Straßenwechsel liegt **dazwischen**,
-im selben Weiler — kein zweiter Pfarreisprung. Ob Luiz selbst noch
-auf die Barreira gezogen ist, oder erst João, bleibt die einzige
-offene Stelle an Luiz, nicht an João/Maria Emília.
+Der Akt schreibt den Lugar, die Familie die Straße. CartTop 017164.
 
 Nicht tauschen:
 
@@ -187,8 +178,6 @@ des Kreises, dieselben Marker.
 4. **Torre Batismos** ab 1875 (Jahresbände): weitere Kinder Luiz ×
    Delfina. João ist nur der erste dieses Vornamens. Geni-„Söhne“
    Antonio / Manuel Dias Guiomar hier prüfen, nicht voraussetzen.
-   Wohnortzeile: Zeitpunkt des Straßenwechsels Rua d'Além → Barreira
-   (zwischen 1874 und spätestens 1915).
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
    Lugar Leiria [Lesung]. Eigenes Fenster, nicht mit Dias Guiomar
    vermischen.
@@ -236,8 +225,3 @@ von vorn, Marker-Liste [index.md](index.md). Dann die übrigen acht.
 - Manuel Dias Guiomar auf Geni nicht als Sohn Luizes führen, bis ein Akt
   ihn nennt.
 - Barreira (Vale de Todos) nicht mit Barreira (Pousaflores) tauschen.
-- Barreira bei João und Maria Emília nicht in Zweifel ziehen, weil der
-  Zivilakt nur Vale de Todos schreibt. Das ist der Lugar, die Straße
-  liegt darin.
-- Ob **Luiz** selbst noch auf die Barreira gezogen ist: offen. João und
-  Maria Emília dort: nicht offen.

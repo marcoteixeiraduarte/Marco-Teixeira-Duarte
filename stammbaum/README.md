@@ -70,14 +70,11 @@ des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
 **Antonio Dias Guiomar**). Luiz natürlich **Bemposta**, Alvorge;
 Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre (Lesung);
 `aqui recebidos` in Torre. Blattort `Vale de Todos` ist der Lugar;
-1874 ist die Straße des Kindes **Rua d'Além**. Spätestens als Vater
-von **Maria Emília** (* 21.08.1915) gilt für João die Straße
-**Barreira** (Auftraggeber; Civil schreibt den Lugar Vale de Todos).
-Tod: Randvermerk **8. Januar 1958** in Torre – **passt**; Zivilakt
-Foto `07.jpg` weiterhin **lugar da Vale de Todos**. Kein zweiter
-Pfarreisprung. Ob Luiz selbst noch auf die Barreira gezogen ist:
-offen. Heirat mit **Maria Helena** aus Lagarteira (Randvermerk;
-Tagesdatum nicht als einzige Form).
+1874 Straße des Kindes **Rua d'Além**. Spätestens als Vater von
+**Maria Emília** (* 21.08.1915) **Barreira**. Tod: Randvermerk
+**8. Januar 1958** in Torre – **passt**; Zivilakt Foto `07.jpg`
+**lugar da Vale de Todos**. Heirat mit **Maria Helena** aus
+Lagarteira (Randvermerk; Tagesdatum nicht als einzige Form).
 
 #### Maria Helena Guiomar · * 25.02.1882 · Pião
 

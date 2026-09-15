@@ -40,7 +40,7 @@ Torre de Vale de Todos.
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
 | `São Jorge` / `S. Jorge` | Taufe Manuel, 1.8.1872, Rand und Fließtext `logar de São Jorge` dieser Pfarrei; Heirat João Roiz Gato, 16.11.1837 |
 | `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
-| `Rua da Barreira` / `R BARREIRA` | CartTop Locality 017164, **derselbe** Lugar Vale de Todos wie `R ALEM`. Straße spätestens bei João und Maria Emília (Auftraggeber); Civil 1915/1958 schreibt den Lugar. Nicht Pousaflores-Barreira (017100) |
+| `Rua da Barreira` / `R BARREIRA` | João und Maria Emília, Lugar Vale de Todos (CartTop 017164, dieselbe Locality wie `R ALEM`). Nicht Pousaflores-Barreira (017100) |
 
 `São Jorge` ist **kein** eigener ferner Weiler und keine fremde Pfarrei.
 Lokal ist es die kleine Kapelle im Weiler Vale de Todos (Auftraggeber).
