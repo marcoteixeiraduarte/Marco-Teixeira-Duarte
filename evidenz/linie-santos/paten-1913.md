@@ -74,11 +74,10 @@ PANS02, Band 1878–1883 und 1884–1889:
 | 1882 März, Akte **Maria José**, Moitinho dos Mortos (Seite 103 des Bandes 0013, 27. März) | **andere Person**: Mutter Maria de Jesus (Casal / Moitinho), nicht José × Thereza. Ausgeschlossen |
 | 1885 | angefangen (Jan.; Sep. Namenränder); Paar noch nicht gefunden |
 
-Nächster Schritt: restliches **1882** (Jan–Aug, Dez) und **1884 Feb–Dez**
-plus **1885** zu Ende auf das **Elternpaar**, nicht nur auf den
-Vornamen Maria José. Geschwister desselben Paares gelten als Treffer.
-Heirat José dos Santos × Maria Thereza in PANS02 Casamentos ~1875–1883
-daneben.
+Nächster Schritt: Band `0013` von vorn zu Ende (Liste
+[index-baptismos.md](index-baptismos.md)). Heirat José × Thereza
+und Taufe Joaquim Teixeira daneben — nicht als Ersatz für den
+vorderen Lauf.
 
 Patenorte **nicht** mit Duarte/Carrasqueiras und **nicht** mit
 Reis/Alvorge vermischen.

@@ -24,7 +24,9 @@ Santos (1907) werden hier nicht still mitgehängt.
 
 29 vollendete Jahre am 10. September 1913 ergeben Geburt zwischen
 11. September 1883 und 10. September 1884. Übliche Rundung verschiebt
-das um ein Jahr: Fenster **1882–1885**, nicht nur 1883/84.
+das um ein Jahr. Das ist nur ein **Hinweis**. Die Taufsuche läuft
+**von vorn nach hinten** durch PANS02, mit Marker-Liste
+([index.md](index.md)), nicht als Fenster um 1884.
 
 ## Quelle 1 — Geburt des Sohnes Manuel, 10. September 1913
 
@@ -72,7 +74,8 @@ nicht Maria José.
 Pfarrei **Ansião-Stadt** (`PT/ADLRA/PRQ/PANS02`, tombo
 [ans02](https://tombo.pt/f/ans02)), Orago Nossa Senhora da Conceição.
 
-Fenster aus dem Alter 1913 plus ein Jahr: **1882–1885**.
+Fenster aus dem Alter 1913 plus Rundung: **Hinweis 1882–1885**.
+Suche selbst: Band von vorn, Liste [index-baptismos.md](index-baptismos.md).
 
 Bücher:
 
@@ -94,9 +97,10 @@ Durchgesehen, **kein** Treffer mit Eltern José dos Santos × Maria Thereza:
 - 1882 März: Taufe **Maria José**, Moitinho dos Mortos (Seite 103) —
   **ausgeschlossen** (Mutter Maria de Jesus, nicht Thereza)
 
-Mehrere Taufen `Maria` / `Maria José` 1882–1884 gehören anderen Paaren.
-Nicht den ersten `Maria` nehmen. Rest 1882 und 1885 sowie Geschwister
-desselben Elternpaars bleiben offen.
+Mehrere Taufen `Maria` / `Maria José` 1878 und 1882 gehören anderen
+Paaren (zwei Maria José 1878 in der Vila; 1882 Moitinho dos Mortos).
+Nicht den ersten `Maria` nehmen. Rest des Bandes von vorn; Geschwister
+desselben Elternpaars gelten als Treffer.
 
 ## Heirat João Teixeira × Maria José
 

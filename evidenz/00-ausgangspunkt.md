@@ -58,6 +58,7 @@ Blattkarte: **Maria José dos Santos · ~1884 · Ansião**, Frau des João Teixe
 | Eltern | José dos Santos × Maria Thereza | sicher als Großeltern Manuels 1913 | dasselbe |
 | Taufe / eigene Heirat | noch nicht im Kirchenbuch | offen | [linie-santos/00-ansiao](linie-santos/00-ansiao.md) |
 | Paten des Sohnes 1913 | Joaquim Teixeira (Figueiras, **wahrscheinlich** väterlich João); Pedro Affonso (Magos, nicht als Verwandter belegt) | s. Blatt | [linie-santos/paten-1913](linie-santos/paten-1913.md) |
+| Taufindex PANS02 | von 1878 an, Marker-Akte | in Arbeit | [linie-santos/index](linie-santos/index.md) |
 
 Alvorge (Roza) bleibt offen und wird hier nicht weitergesucht.
 Wohnort 1913 **Ribeira de Cima** liegt rund 700 m von Figueiras de

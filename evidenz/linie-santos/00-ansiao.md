@@ -43,14 +43,14 @@ Paten 1913 und der Wohncluster Ribeira / Figueiras:
 [paten-1913](paten-1913.md). Magos ist ein historischer Lugar dieser
 Pfarrei (nicht Salvaterra de Magos).
 
+**Listen, von vorn:** [index.md](index.md), Treffer
+[index-baptismos.md](index-baptismos.md). Nicht nur 1883/84.
+
 ## Nächster Schritt
 
-1. Taufe Maria José **oder Geschwister** desselben Paars José dos
-   Santos × Maria Thereza, PANS02 **1882–1885** (nicht nur 1883/84).
-   1882 Sep–Nov und 1883 Sep–1884 Jan ohne Treffer; eine andere
-   Maria José März 1882 (Moitinho dos Mortos) ausgeschlossen.
-2. Heirat der Eltern José × Thereza, PANS02 Casamentos ~1875–1883,
-   mit Blick auf Magos / Ribeira de Cima.
-3. Heirat João Teixeira × Maria José, Ansião 1900–1911 oder Cumeeira.
-4. Taufe **Joaquim Teixeira** (Pate 1913) in Torre oder Cumeeira:
-   Bruder Joãos vs. Bruder Custodios.
+1. Band `0013` **von vorn zu Ende** (Rest 1878, dann 1879–1883).
+   Jeden Marker-Akt in die Liste. Zielpaar oder Geschwister können
+   in jedem Jahr stehen.
+2. Band `0014` danach ebenfalls von Seite `0002` (1884).
+3. Heirat José dos Santos × Maria Thereza: Casamentos PANS02 von vorn.
+4. Taufe Joaquim Teixeira (Pate 1913) in Torre oder Cumeeira.
