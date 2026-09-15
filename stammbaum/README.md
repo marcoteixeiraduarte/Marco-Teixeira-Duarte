@@ -26,10 +26,10 @@ suchen, nicht im Kirchenbuch:
 
 | Blatt | Status |
 | --- | --- |
-| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911; Fotokopien Conservatória Ansião in [archiv/conservatoria-ansiao/](../archiv/conservatoria-ansiao/README.md), noch nicht festgelesen |
-| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911; dieselben Fotokopien, noch nicht festgelesen |
-| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos, nicht fremder Sterbeort. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
+| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911; Foto `01.jpg` händisch gelesen (Manuel, Eltern, Großeltern; unsichere Lesungen markiert). Fotos `02`–`09` offen. Foto `10` Deckblatt. [archiv/conservatoria-ansiao/](../archiv/conservatoria-ansiao/README.md) |
+| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911; dieselben Fotokopien, Fotos `02`–`09` noch nicht festgelesen |
+| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos, nicht fremder Sterbeort. Fotokopien Conservatória Ansião vorhanden, Fotos `02`–`09` noch nicht festgelesen |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos. Fotokopien Conservatória Ansião vorhanden, Fotos `02`–`09` noch nicht festgelesen |
 
 ### 3.º avós
 
@@ -54,7 +54,36 @@ Elternort nicht.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
-Offen. Eltern: `Pais de Maria José por confirmar`.
+Zivilakt des Sohnes Manuel, 10.09.1913, Conservatória Ansião
+(`archiv/conservatoria-ansiao/01.jpg`; Foto 01 ausgewertet):
+
+```
+Maria José dos Santos
+Alter 29 am 10.09.1913 (sicher im Akt)
+rechnerischer Kern * 11.09.1883–10.09.1884; Priorität 1882–1885;
+historisches Geburtsdatum offen
+natural desta freguesia e concelho de Ansião
+  → Freguesia und Concelho Ansião sicher;
+    Vila-Sitz, Geburtslugar und Taufort offen
+wohnhaft Ribeira de Cima (rund 700 m von Figueiras de São João)
+Eltern: Francisco José dos Santos × Maria Thereza
+Paten des Sohnes: Joaquim Teixeira (Figueiras Podres, Torre);
+Pedro Affonso (Magos, Ansião)
+```
+
+Blatt-`~1884 · Ansião` **passt** der Richtung nach. `Pais de Maria José
+por confirmar` **ersetzen** durch **Francisco José dos Santos** ×
+**Maria Thereza**. Francisco nicht weglassen.
+Eigene Taufe und Heirat mit João Teixeira noch **offen**; PANS02 ist
+der primäre Taufbestand, nicht der bewiesene Taufort.
+Joaquim Teixeira 1913 **nicht** still mit den Santos-Eltern
+zusammenziehen — **Kandidat** für einen väterlichen Verwandten
+Joãos, Grad offen.
+Blatt: [`evidenz/linie-santos/maria-jose-dos-santos.md`](../evidenz/linie-santos/maria-jose-dos-santos.md),
+[`paten-1913`](../evidenz/linie-santos/paten-1913.md).
+Mündliche Mitteilung 15.09.2026: **dos-Santos-Verwandte** in
+**Santiago da Guarda** (Personen offen, Nachbarspur).
+[`santiago-da-guarda`](../evidenz/linie-santos/santiago-da-guarda.md).
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
@@ -145,7 +174,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | Blatt | Quelle / Status |
 | --- | --- |
 | Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
-| Pais de Maria José por confirmar | offen |
+| Pais de Maria José por confirmar | **ersetzen:** Zivilakt 1913 nennt **Francisco José dos Santos** × **Maria Thereza**. Taufsuche Maria Josés beginnt in PANS02; Taufort offen |
 | Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |

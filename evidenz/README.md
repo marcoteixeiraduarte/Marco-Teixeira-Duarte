@@ -15,6 +15,10 @@ Linien werden nicht vermischt.
 
 Unsichere Wörter stehen in `[]`.
 
+Mündliche Mitteilung ist eine **Quellenart**, kein Gewissheitsgrad
+neben dieser Tabelle. Ein aus dem Alter **errechneter** Zeitraum
+ist rechnerisch, kein historisches Datum.
+
 ## Ausgangspunkt
 
 Die jüngsten vollständig belegten Urgroßeltern der Duarte-Linie:
@@ -35,6 +39,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
+- `linie-santos/` — Maria José (PANS02); Santiago da Guarda (PANS07)
 - `quellenregister.md` — alle versionierten Scans
 
 ## Regel für neue Funde

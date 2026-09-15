@@ -22,6 +22,9 @@ Die Kapelle in Ateanha war früher Igreja Matriz von São Martinho.
 Eigene Kirchenbücher unter Ateanha gibt es bei tombo nicht.
 Einträge aus Ateanha stehen im **Alvorge-Band**, Rand oft `Ateanha`.
 
+Die Taufsuche in diesen Bänden läuft ohne Treffer Joaquim × Florencia.
+**Pausiert**, solange die Santos-Spur in Ansião-Stadt offen ist.
+
 ## Was hier gesucht wird
 
 Roza Maria, Tochter von Joaquim […] × Florencia Maria, Heirat 1851.
