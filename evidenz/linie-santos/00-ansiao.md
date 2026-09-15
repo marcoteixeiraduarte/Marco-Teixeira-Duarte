@@ -39,9 +39,18 @@ Ansião direkt (PANS02).
 
 Lokale Kopien: `ansiao-records/` (gitignore).
 
+Paten 1913 und der Wohncluster Ribeira / Figueiras:
+[paten-1913](paten-1913.md). Magos ist ein historischer Lugar dieser
+Pfarrei (nicht Salvaterra de Magos).
+
 ## Nächster Schritt
 
-1. Taufe Maria José, Eltern José dos Santos × Maria Thereza, PANS02
-   1882–1885 zu Ende lesen (1883 Sep–Dez und 1884 Jan ohne Treffer).
-2. Heirat João Teixeira × Maria José, Ansião 1900–1911 oder Cumeeira.
-3. Erst danach Taufe der Eltern (José dos Santos × Maria Thereza).
+1. Taufe Maria José **oder Geschwister** desselben Paars José dos
+   Santos × Maria Thereza, PANS02 **1882–1885** (nicht nur 1883/84).
+   1882 Sep–Nov und 1883 Sep–1884 Jan ohne Treffer; eine andere
+   Maria José März 1882 (Moitinho dos Mortos) ausgeschlossen.
+2. Heirat der Eltern José × Thereza, PANS02 Casamentos ~1875–1883,
+   mit Blick auf Magos / Ribeira de Cima.
+3. Heirat João Teixeira × Maria José, Ansião 1900–1911 oder Cumeeira.
+4. Taufe **Joaquim Teixeira** (Pate 1913) in Torre oder Cumeeira:
+   Bruder Joãos vs. Bruder Custodios.

@@ -13,7 +13,7 @@ Santos (1907) werden hier nicht still mitgehängt.
 |---|---|---|
 | Name 1913 | Maria José dos Santos | sicher |
 | Alter am 10.09.1913 | 29 Jahre | sicher im Zivilakt |
-| Geburt (gerechnet) | etwa September 1883 bis September 1884 | wahrscheinlich |
+| Geburt (gerechnet) | 11.09.1883–10.09.1884; mit Rundung 1882–1885 | wahrscheinlich / Fenster offen |
 | Blatt | `~1884 · Ansião` | Richtung passt |
 | Naturalidade 1913 | dieser Pfarrei und diesem Kreis Ansião | sicher |
 | Wohnort 1913 | Ribeira de Cima, Pfarrei Ansião | sicher |
@@ -23,8 +23,8 @@ Santos (1907) werden hier nicht still mitgehängt.
 | Vorname des Vaters | José; davor ein großer Anfangsbuchstabe, Lesung `Francisco` möglich | José sicher; Francisco nur Kandidat |
 
 29 vollendete Jahre am 10. September 1913 ergeben Geburt zwischen
-11. September 1883 und 10. September 1884. Übliche Rundung kann ein
-Jahr verschieben. Deshalb bleibt die eigene Taufe **offen**.
+11. September 1883 und 10. September 1884. Übliche Rundung verschiebt
+das um ein Jahr: Fenster **1882–1885**, nicht nur 1883/84.
 
 ## Quelle 1 — Geburt des Sohnes Manuel, 10. September 1913
 
@@ -56,9 +56,12 @@ Joãos Alter 32 am 10.09.1913 steht so im Akt. Zur Taufe
 13.10.1879 wären das vollendete 33 Jahre. Übliche Unterrundung;
 kein zweiter João.
 
-Zeugen des Zivilakts (nicht die Santos-Eltern): Joaquim Teixeira,
+Zeugen, die **Paten** des Kindes sein wollten: Joaquim Teixeira,
 Figueiras Podres, Pfarrei Torre de Vale de Todos; Pedro Affonso,
-lugar dos Magos, Pfarrei Ansião.
+lugar dos Magos, Pfarrei Ansião. Blatt:
+[paten-1913](paten-1913.md). Joaquim ist **wahrscheinlich**
+väterlicher Verwandter Joãos, nicht der Santos-Eltern. 1913 wohnt
+das Paar in Ribeira de Cima, rund 700 m von Figueiras de São João.
 
 Averbamento rechts: Heirat des Kindes am **23. April 1937** mit
 Maria Emília Guiomar, Vale de Todos. Das ist der nächste Generation,
@@ -69,8 +72,7 @@ nicht Maria José.
 Pfarrei **Ansião-Stadt** (`PT/ADLRA/PRQ/PANS02`, tombo
 [ans02](https://tombo.pt/f/ans02)), Orago Nossa Senhora da Conceição.
 
-Fenster aus dem Alter 1913: **September 1883 – September 1884**,
-daneben 1882 und 1885 wegen Rundung.
+Fenster aus dem Alter 1913 plus ein Jahr: **1882–1885**.
 
 Bücher:
 
@@ -86,9 +88,15 @@ Durchgesehen, **kein** Treffer mit Eltern José dos Santos × Maria Thereza:
 
 - 1883 September–Dezember (Band 0013, ab Seite 140: u. a. Akte 32–49)
 - 1884 Januar (Band 0014, Akte 1–12 und weitere Maria-Akte ohne diese Eltern)
+- 1882 September–November (Akte u. a. 31–39: Maria der Leiria/Constantina;
+  Maria Vilas unehelich; Maria da Conceição Chão da Ponte; Conceição
+  Vilas, Eltern Manuel Faria dos Santos × Maria da Conceição — anderer Santos)
+- 1882 März: Taufe **Maria José**, Moitinho dos Mortos (Seite 103) —
+  **ausgeschlossen** (Mutter Maria de Jesus, nicht Thereza)
 
-Mehrere Taufen `Maria` 1884 gehören anderen Paaren (Casal das Oliveiras,
-Casal da Viegas, Vila, …). Nicht den ersten `Maria` nehmen.
+Mehrere Taufen `Maria` / `Maria José` 1882–1884 gehören anderen Paaren.
+Nicht den ersten `Maria` nehmen. Rest 1882 und 1885 sowie Geschwister
+desselben Elternpaars bleiben offen.
 
 ## Heirat João Teixeira × Maria José
 

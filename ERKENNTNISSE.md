@@ -88,7 +88,8 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
 | João Teixeira | * 13.10.1879 Cabeça Redonda; Eltern Custodio Teixeira × Joana de Jesus | sicher | [teixeira](teixeira-records/README.md) |
-| Maria José dos Santos | 29 Jahre am 10.09.1913; natural Ansião; Eltern José dos Santos × Maria Thereza | sicher im Zivilakt des Sohnes; Taufe offen | [linie-santos](evidenz/linie-santos/maria-jose-dos-santos.md) |
+| Maria José dos Santos | 29 Jahre am 10.09.1913; natural Ansião; Eltern José dos Santos × Maria Thereza | sicher im Zivilakt des Sohnes; Taufe offen (Fenster 1882–1885) | [linie-santos](evidenz/linie-santos/maria-jose-dos-santos.md) |
+| Paten Manuel 1913 | Joaquim Teixeira, Figueiras Podres (Torre); Pedro Affonso, Magos (Ansião) | Joaquim **wahrscheinlich** väterlicher Verwandter Joãos; Pedro nicht als Verwandter belegt | [paten-1913](evidenz/linie-santos/paten-1913.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
@@ -162,7 +163,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Alvorge/Roza **pausiert**. Ansião PANS02: Taufe Maria José dos Santos (Eltern José dos Santos × Maria Thereza), Fenster 1882–1885; Heirat João Teixeira × Maria José |
+| 6 | Alvorge/Roza **pausiert**. Ansião PANS02: Taufe Maria José **oder Geschwister** (José dos Santos × Maria Thereza), Fenster **1882–1885** (nicht nur 1883/84); Magos/Ribeira; Heirat der Eltern; Taufe Joaquim Teixeira (Pate) |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 

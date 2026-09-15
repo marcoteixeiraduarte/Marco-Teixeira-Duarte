@@ -17,7 +17,7 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 | Datei | Bytes | Rolle |
 | --- | --- | --- |
 | [01.jpg](01.jpg) | 6,4 MB | Geburt Manuel Teixeira, 10.09.1913 — **gegenlesen** |
-| [02.jpg](02.jpg) | 6,0 MB | Foto 2 |
+| [02.jpg](02.jpg) | 6,0 MB | Foto 2 — Heiratsformular (art. 355 CRC), nicht Fortsetzung von `01` |
 | [03.jpg](03.jpg) | 5,9 MB | Foto 3 |
 | [04.jpg](04.jpg) | 6,3 MB | Foto 4 |
 | [05.jpg](05.jpg) | 6,1 MB | Foto 5 |

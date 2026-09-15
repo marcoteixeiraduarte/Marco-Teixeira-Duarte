@@ -59,16 +59,21 @@ Zivilakt des Sohnes Manuel, 10.09.1913, Conservatória Ansião
 
 ```
 Maria José dos Santos
-29 Jahre am 10.09.1913 → * etwa 1883/1884
+29 Jahre am 10.09.1913 → * etwa 1883/1884, Fenster wegen Rundung 1882–1885
 natural desta freguesia e concelho de Ansião
-wohnhaft Ribeira de Cima
+wohnhaft Ribeira de Cima (rund 700 m von Figueiras de São João)
 Eltern: José dos Santos × Maria Thereza
+Paten des Sohnes: Joaquim Teixeira (Figueiras Podres, Torre);
+Pedro Affonso (Magos, Ansião)
 ```
 
 Blatt-`~1884 · Ansião` **passt** der Richtung nach. `Pais de Maria José
 por confirmar` **ersetzen** durch **José dos Santos** × **Maria Thereza**.
 Eigene Taufe und Heirat mit João Teixeira noch **offen**.
-Blatt: [`evidenz/linie-santos/maria-jose-dos-santos.md`](../evidenz/linie-santos/maria-jose-dos-santos.md).
+Joaquim Teixeira 1913 **nicht** still mit den Santos-Eltern
+zusammenziehen — **wahrscheinlich** väterliche Teixeira-Seite.
+Blatt: [`evidenz/linie-santos/maria-jose-dos-santos.md`](../evidenz/linie-santos/maria-jose-dos-santos.md),
+[`paten-1913`](../evidenz/linie-santos/paten-1913.md).
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 

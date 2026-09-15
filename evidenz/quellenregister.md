@@ -39,3 +39,4 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | CRC-ANS-1913-MANUEL | Geburt Manuel Teixeira, 10.09.1913 | `archiv/conservatoria-ansiao/01.jpg` |
 | CRC-ANS-1913-MANUEL-CROP | derselbe Akt, aufrecht verkleinert | `evidenz/scans/santos/CRC-ANS-1913-manuel-teixeira.jpg` |
 | CRC-ANS-1913-SANTOS-ELTERN | Ausschnitt Maria José und Großeltern | `evidenz/scans/santos/CRC-ANS-1913-manuel-teixeira-maria-jose-eltern.jpg` |
+| CRC-ANS-1913-PADRINHOS | Zeugen/Paten Joaquim Teixeira und Pedro Affonso | `evidenz/scans/santos/CRC-ANS-1913-manuel-teixeira-padrinhos.jpg` |
