@@ -25,9 +25,10 @@ modernisiert.
 
 Das Blatt schreibt `João Dias Guiomar · * 1874 · Vale de Todos`.
 Das Jahr **passt**. Der Weiler **dieser Taufe** ist **Rua d'Além**.
-`Vale de Todos` ist 1874 die Pfarrei bzw. der Lugar-Name; die Straße
-steht im Akt. Civil 1915/1958 nennt denselben Lugar ohne Straße
-(unten). `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
+`Vale de Todos` ist der Lugar. Spätestens mit João als Vater und
+Maria Emília gilt in der Familie die Straße **Barreira** (derselbe
+Lugar). Civil 1915/1958 schreibt den Lugar, nicht die Rua — das
+widerspricht der Barreira nicht. `Dias` steht hier beim Großvater **Antonio Dias Guiomar**,
 nicht im Taufnamen des Kindes. Die Blatteltern **Luiz Dias Guiomar**
 × **Delfina Maria** **passen** der Richtung nach (Quellenform des
 Vaters: `Luiz Guiomar`).
@@ -46,19 +47,16 @@ einzige gesicherte Form festgehalten (Lesungen 1907 und 1909).
 
 Zivilakt Conservatória Ansião, Foto `07.jpg` (Registo de óbito,
 8. Januar 1958): João Dias Guiomar, 83 Jahre, domiciliado no
-**lugar da Vale de Todos**, freguesia Torre de Vale de Todos;
-Luiz Dias Guiomar und Delfina Maria beide `falecido`. **Barreira**
-steht nicht in diesem Akt. Vollständige Gegenlese der übrigen
-Felder bleibt am Foto; hier nur Wohnort und Tod.
+**lugar da Vale de Todos**; Luiz Dias Guiomar und Delfina Maria
+beide `falecido`.
 
-Geburt der Tochter Maria Emília, Foto `04.jpg` (21. August 1915):
-João Dias Guiomar × Maria Helena **domiciliados no lugar da Vale
-de Todos**. Wieder kein Wort Barreira. Luiz steht als Großvater,
-ohne eigenen Wohnort — das belegt nicht, dass Luiz 1915 noch dort
-lebte, und nicht, dass er nach Barreira gezogen wäre.
+Geburt Maria Emília, Foto `04.jpg` (21. August 1915): João × Maria
+Helena **domiciliados no lugar da Vale de Todos**. Luiz nur als
+Großvater, ohne Wohnortzeile.
 
-Rua d'Além und Rua da Barreira sind derselbe Lugar Vale de Todos
-(CartTop-Locality 017164). Blatt:
+Die Straße **Barreira** gilt spätestens bei diesem Vater und dieser
+Tochter (Auftraggeber). Der Akt nennt den Lugar, die Familie die
+Rua — CartTop 017164, derselbe Weiler wie Rua d'Além 1874. Blatt:
 [`evidenz/linie-guiomar/00-dias-guiomar.md`](../evidenz/linie-guiomar/00-dias-guiomar.md).
 
 Quelle:

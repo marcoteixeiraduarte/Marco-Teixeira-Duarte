@@ -51,6 +51,6 @@ Zählung, wenn José Pedro × Narciza der 3. Grad sind:
 
 - Cumeeira / Carrasqueiras / Cabeça Redonda / Figueiras Podres gehört zur Duarte-Linie.
 - Torre de Vale de Todos / Pragosa / Avelar / João Bom gehört zur Torre-Linie (Reis/Gato).
-- **Dias Guiomar** (Bemposta/Alvorge × Rua d'Além/Torre) ist ein eigener Faden, nicht an Roza in Alvorge gehängt. Barreira ist dieselbe Locality Vale de Todos wie Rua d'Além, kein belegter Zweitumzug. Blatt: [linie-guiomar/00-dias-guiomar](linie-guiomar/00-dias-guiomar.md)
+- **Dias Guiomar** (Bemposta/Alvorge × Rua d'Além/Torre) ist ein eigener Faden, nicht an Roza in Alvorge gehängt. Straße **Barreira** spätestens bei João und Maria Emília, derselbe Lugar Vale de Todos. Blatt: [linie-guiomar/00-dias-guiomar](linie-guiomar/00-dias-guiomar.md)
 - **Theodora Maria** (Avelar 1781) ist nicht Maria Joaquina Sol. Blatt: [theodora-maria-1781](linie-torre/theodora-maria-1781.md)
 - **Maria Joaquina × Antonio Simões** (Castelo 10.2.1774) ist nicht Maria Joaquina Sol. Blatt: [maria-joaquina-simoes-1774](linie-torre/maria-joaquina-simoes-1774.md)

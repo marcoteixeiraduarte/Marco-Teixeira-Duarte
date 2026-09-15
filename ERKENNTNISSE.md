@@ -89,8 +89,8 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | --- | --- | --- | --- |
 | João Teixeira | * 13.10.1879 Cabeça Redonda; Eltern Custodio Teixeira × Joana de Jesus | sicher | [teixeira](teixeira-records/README.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
-| Luiz Guiomar × Delfina Maria | Eltern João 1874; Großvater **Antonio Dias Guiomar** (nicht Sohn Luizes); Luiz natural Bemposta/Alvorge; Delfina natural Leiria [Lesung], Pfarrei Torre; `aqui recebidos` in Torre; 1874 wohnhaft **Rua d'Além** | sicher im Taufakt; Luiz * ~1835 und Delfina * 1902 (Geni) keine Quellen. Delfina 1902 **unmöglich**. Umzug Luiz nach Barreira **offen** (kein Akt). Suche: [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
-| João, Wohnort nach 1874 | 1915 und † 1958 **lugar da Vale de Todos**; Barreira nicht im Text | sicher als Lugar (Fotos 04, 07). Rua da Barreira = derselbe Weiler wie Rua d'Além (CartTop 017164), nicht Pousaflores | [guiomar](guiomar-records/README.md); [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
+| Luiz Guiomar × Delfina Maria | Eltern João 1874; Großvater **Antonio Dias Guiomar** (nicht Sohn Luizes); Luiz natural Bemposta/Alvorge; Delfina natural Leiria [Lesung], Pfarrei Torre; `aqui recebidos` in Torre; 1874 wohnhaft **Rua d'Além** | sicher im Taufakt; Luiz * ~1835 und Delfina * 1902 (Geni) keine Quellen. Delfina 1902 **unmöglich**. Ob Luiz selbst noch auf die Barreira gezogen ist: offen. Suche: [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
+| João und Maria Emília, Barreira | spätestens diese Generation in der **Barreira**; Civil 1915/1958 **lugar da Vale de Todos** (derselbe Lugar, CartTop 017164) | Straße: mündlich Auftraggeber, nicht in Zweifel. Lugar: sicher am Scan (Fotos 04, 07) | [guiomar](guiomar-records/README.md); [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
@@ -118,7 +118,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
 8. João Teixeira: Weiler **Cabeça Redonda** (nicht nur Cumeeira); Vater `Custodio`
-9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`. Auf Geni: Delfina * 1902 streichen; Antonio Dias Guiomar ist **Vater** Luizes, nicht Kind; Manuel Dias Guiomar als Sohn lösen, bis ein Akt vorliegt. Barreira nicht im Akt; Straße im selben Lugar Vale de Todos wie Rua d'Além
+9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`. Auf Geni: Delfina * 1902 streichen; Antonio Dias Guiomar ist **Vater** Luizes, nicht Kind; Manuel Dias Guiomar als Sohn lösen, bis ein Akt vorliegt. Straße **Barreira** spätestens mit João und Maria Emília (Auftraggeber); Civil schreibt den Lugar Vale de Todos
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
 
