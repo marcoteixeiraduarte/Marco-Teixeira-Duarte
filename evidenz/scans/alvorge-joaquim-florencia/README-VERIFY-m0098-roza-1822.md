@@ -12,7 +12,7 @@ Dieselbe Familie wie Manoel 9.7.1829 (m0059-R) und Joaquina 21.2.1820 (m0084-R).
 | Geburt | 22. oder 26.4.1822 („vinte e dois“ / „vinte e seis“) | wahrscheinlich — Gegenlese nötig |
 | Vater | Joaquim Duarte | sicher |
 | Mutter | Florencia Maria | sicher |
-| Lugar Eltern | Aljaride / Alfaride / Algarida (Aljazede-Variante) | wahrscheinlich |
+| Lugar Eltern | **Aljazede** (früher gelesen: Aljaride/Alfaride/Algarida) | sicher — Gegenlese |
 | Avós pat. | Manoel Duarte × Jozefa Maria / Maria Jozefa (derselbe Lugar) | sicher |
 | Avós mat. | Antonio Ramos × Angelica Maria, Atianha/Athianha (Isento Mosteiro Santa Cruz de Coimbra) | sicher / wahrscheinlich |
 | Padrinhos | Manoel Luiz × Roza (solteira, f.ª de Luiz Antonio Grillo), Val Florido | wahrscheinlich |
@@ -20,7 +20,7 @@ Dieselbe Familie wie Manoel 9.7.1829 (m0059-R) und Joaquina 21.2.1820 (m0084-R).
 ## Quelle
 - Band: `PT/ADLRA/PRQ/PANS01/001/0003` (Batismos 1808–1822)
 - Bild: `…0003_m0098.jpg`, **rechte Seite**, mittlerer Eintrag
-- Rand: Aljaride / Roza
+- Rand: **Aljazede** / Roza
 
 ## Crops
 `HOLD-ROZA-1822-04-28_*` in diesem Ordner.

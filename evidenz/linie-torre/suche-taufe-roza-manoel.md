@@ -82,7 +82,7 @@ Lugar 1829 (Aljorde/Alvorge) vs. 1851 (**Valle paio**) noch klären (Umzug/Schre
 | Taufe / Geburt | **28.4.1822** / *22. oder 26.4.1822 | sicher / wahrscheinlich |
 | Vater | **Joaquim Duarte** | sicher |
 | Mutter | **Florencia Maria** | sicher |
-| Lugar | Aljaride / Algarida (Aljazede-Variante) | wahrscheinlich |
+| Lugar | **Aljazede** | sicher — Gegenlese |
 | Avós pat. | Manoel Duarte × Jozefa Maria | sicher |
 | Avós mat. | Antonio Ramos × Angelica Maria, **Atianha** | sicher |
 | Quelle | `…0003_m0098` rechte Seite, Mitte | — |
@@ -117,7 +117,7 @@ für alleinige Entscheidung.
 
 **Erledigt:** Roza-Taufe mit Duarte-Fingerprint — Band 0003 m0098-R (28.4.1822).
 Noch offen: Geburtstag 22 vs 26 Gegenlese; Joaquims `Fre…` (1854) gegen `Duarte` halten;
-Lugar Aljaride 1822 vs Valle paio 1851.
+Lugar **Aljazede** 1822 vs Valle paio 1851 (getrennt lassen; Umzug/Schreibform).
 
 ### Elternheirat Joaquim × Florencia (Alvorge)
 

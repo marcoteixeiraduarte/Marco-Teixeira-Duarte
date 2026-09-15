@@ -7,7 +7,7 @@
 | Taufe | 28.4.1822 | sicher |
 | Geburt | 20./22./26.4.1822 | Gegenlese |
 | Eltern | Joaquim Duarte × Florencia Maria | sicher |
-| Lugar | Aljazede / Aljaride | wahrscheinlich |
+| Lugar | **Aljazede** | sicher — Gegenlese |
 | Avós pat. | Manoel Duarte × Jozefa Maria | sicher |
 | Avós mat. | Antonio Ramos × Angelica Maria, Atianha | sicher |
 
