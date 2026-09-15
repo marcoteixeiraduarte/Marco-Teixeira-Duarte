@@ -4,13 +4,19 @@ Nur Marker-Akte. Quellenform. Band `0013` =
 `PT-ADLRA-PRQ-PANS02-001-0013`. Seite = Dateinummer.
 Regel: [index.md](index.md).
 
+Diese Liste beweist **nicht**, dass alle Seiten dazwischen gelesen
+wurden. Coverage und Lücken: [index.md](index.md).
+
 Status: **Ausschluss** = gelesen, nicht das Zielpaar.
 **Ort** = Lugar der Spur, andere Familie.
 **offen** = Zielpaar noch ohne Akt.
 
+Spalte **Taufdatum**: Datum des Taufeintrags im Band, nicht das
+Geburtsdatum, sofern nicht extra vermerkt.
+
 ## 1878 (von vorn, Band 0013)
 
-| Seite | Nr | Datum | Kind | Vater | Mutter | Lugar | Marker | Status |
+| Seite | Nr | Taufdatum | Kind | Vater | Mutter | Lugar | Marker | Status |
 |---|---|---|---|---|---|---|---|---|
 | 0005 | 9 | 26.02.1878 | Maria José | Francisco, trabalhador | Maria de Jesus | Vila | Maria José | Ausschluss |
 | 0006 | 11 | 11.03.1878 | Maria José | Maximiano Rodrigues, proprietário | Carolina da Conceição | Vila | Paten **lugar de Ribeira, freguesia de São Thiago da Guarda** | Ausschluss als Kind; Ort PANS07 |
@@ -27,23 +33,25 @@ Name nicht als Treffer gilt.
 
 ## 1882 (noch nicht der vordere Lauf; Stichprobe)
 
-| Seite | Nr | Datum | Kind | Vater | Mutter | Lugar | Marker | Status |
+| Seite | Nr | Taufdatum | Kind | Vater | Mutter | Lugar | Marker | Status |
 |---|---|---|---|---|---|---|---|---|
-| 0103 | — | 27.03.1882 | Maria José | nicht José dos Santos | Maria de Jesus | Moitinho dos Mortos | Maria José | Ausschluss |
+| 0103 | — | 27.03.1882 | Maria José | nicht Francisco José / José dos Santos | Maria de Jesus | Moitinho dos Mortos | Maria José | Ausschluss |
 | 0111 | 34 | 04.10.1882 | Maria | — | Rosa (unehelich) | Vila | Maria | Ausschluss |
 | 0112 | 36 | 26.10.1882 | Maria da Conceição | — | Rosa (unehelich) | Chão da Ponte | Maria | Ausschluss |
 | 0113 | 39 | 15.11.1882 | Conceição | Manuel Faria dos **Santos** | Maria da Conceição | Vila | anderes Santos-Paar | Ausschluss |
 
 ## 1883 Sep–Dez / 1884 Jan (Stichprobe)
 
-Kein Akt José dos Santos × Maria Thereza. Weitere Maria anderer
+Kein Akt Francisco José dos Santos × Maria Thereza (Marker auch
+José dos Santos / Francisco dos Santos). Weitere Maria anderer
 Paare nicht als Ziel übernehmen. Von vorn in Band `0014` nachholen.
 
 ## Marker ohne Treffer (Stand dieses Durchgangs)
 
 | Marker | Stand |
 |---|---|
-| José dos Santos × Maria Thereza | offen |
+| Francisco José dos Santos × Maria Thereza | offen |
+| Francisco dos Santos / José dos Santos × Maria Thereza | offen (dieselbe Suche, Namensvarianten) |
 | lugar dos Magos als Geburtslugar | 1878 Jan–Sep nicht gesehen |
 | Teixeira als Vater in PANS02 | offen (João * 1879 Cumeeira) |
 | Affonso / Pedro Affonso | offen |

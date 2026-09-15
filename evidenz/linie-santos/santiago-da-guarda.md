@@ -6,32 +6,35 @@ Heute **Santiago da Guarda**. Dieselbe Pfarrei.
 Das ist **nicht** die Stadtpfarre Ansião (`PANS02`) und **nicht**
 Torre (`PANS08`). Gleicher Kreis, anderer Pfarrbezirk.
 
-Maria José ist 1913 `natural desta freguesia e concelho de Ansião`
-im Zivilakt der Stadtpfarre. Ihre **eigene Taufe** bleibt deshalb
-in **PANS02**. Santiago da Guarda wird geöffnet für **Eltern,
-Heirat, die Ribeira** und die mündlich genannten Verwandten.
+Maria José ist 1913 `natural desta freguesia e concelho de Ansião`.
+Gesichert sind Freguesia und Concelho Ansião. Ihre **Taufsuche
+beginnt in PANS02**. Geburtslugar und tatsächlicher Taufort bleiben
+offen. Santiago da Guarda wird geöffnet als **Nachbarspur** für
+Eltern, Heirat, die andere Ribeira und die mündlich genannten
+Verwandten — nicht weil die Naturalidade 1913 diese Pfarrei wäre.
 
 ## Mündliche Überlieferung
 
-| Feld | Eintrag | Gewissheit |
-|---|---|---|
-| Inhalt | **dos Santos**-Verwandte in Santiago da Guarda | mündlich |
-| Quelle | Auftraggeber, diese Arbeit (15.09.2026) | — |
-| Maria José | `natural` der Stadtpfarre Ansião (Vila de Ansião im Pfarrsinn) | sicher 1913; zum Cluster **passt** |
-| Geburtslugar in der Pfarrei | Vila-Sitz vs. Ribeira vs. Magos | offen |
-| Welche Verwandten in PANS07 | Namen nicht genannt | offen |
+Mündlich ist hier eine **Quellenart**, kein Gewissheitsgrad.
 
-Die Vila de Ansião und Santiago da Guarda liegen im selben Kreis,
+| Feld | Eintrag |
+|---|---|
+| Quelle | mündliche Mitteilung des Auftraggebers, 15.09.2026 |
+| Aussage | dos-Santos-Verwandte in Santiago da Guarda |
+| Personenidentität | offen |
+| genealogischer Anschluss | Hypothese / Kandidat |
+| Suchwert | Nachbarspur |
+
+José / Francisco José dos Santos und Maria Thereza werden dadurch
+**nicht** nach Santiago da Guarda versetzt. Maximiano Rodrigues ×
+Carolina und José Mendes (Ribeira, PANS07, 1878) werden nicht still
+zu diesen Verwandten.
+
+Die Vila-Pfarrei Ansião und Santiago da Guarda liegen im selben Kreis,
 wenige Kilometer auseinander. Eine dos-Santos-Familie in der
-**Stadtpfarre**, mit Verwandten in der **Nachbarpfarre**, ist
-geografisch stimmig. Das erklärt die Naturalidade 1913 und die
-mündliche Erinnerung zugleich — ohne die Taufe nach PANS07 zu
-ziehen.
-
-Das bleibt **kein** Akt. José dos Santos × Maria Thereza sind
-nicht damit nach Santiago da Guarda versetzt. Maximiano Rodrigues
-× Carolina und José Mendes (Ribeira, PANS07, 1878) werden nicht
-still zu diesen Verwandten.
+Freguesia Ansião mit Verwandten in der Nachbarpfarre ist
+**geografisch vereinbar**. Das erklärt die Naturalidade 1913 nicht
+und bestätigt die mündliche Erinnerung nicht.
 
 Nicht an Duarte/Cumeeira und nicht an Reis/Torre hängen.
 
@@ -57,7 +60,7 @@ Zwei Ribeiras, nicht tauschen:
 
 | Ribeira | Pfarrei | Beleg |
 |---|---|---|
-| Ribeira / Ribeira de Cima | Ansião-Stadt, PANS02 | Wohnort João × Maria José 1913; Taufe Manuel Alves 18.08.1878 |
+| Ribeira / Ribeira de Cima | Ansião, PANS02 | Wohnort João × Maria José 1913; Taufe Manuel Alves 18.08.1878 |
 | Ribeira | Santiago da Guarda, PANS07 | PANS02 1878: Paten der Maria José Maximiano; Naturalidade José Mendes |
 
 ## Warum diese Pfarrei an der Santos-Spur hängt
@@ -69,11 +72,13 @@ In PANS02, Band 0013, schon gelesen (nicht Zielpaar):
 | 0006 | 11, 11.03.1878 | Maria José (Maximiano Rodrigues × Carolina), Vila. Paten **ambos casados, lugar de Ribeira, freguesia de São Thiago da Guarda** |
 | 0008 | 16, 24.04.1878 | Francisco, Vila. Vater José Mendes, trabalhador, **natural do lugar de Ribeira, freguesia de São Thiago da Guarda** |
 
-Das ist Verkehr zwischen Vila de Ansião und Ribeira in Santiago da
-Guarda im selben Jahrzehnt, in dem Maria José (~1883/84) liegt.
-Kein Identitätsbeleg für José dos Santos × Maria Thereza. Die
-mündliche dos-Santos-Verwandtschaft dort und diese Akte **stützen
-sich der Richtung nach**, ersetzen einander nicht.
+Die PANS02-Akte von 1878 belegen **Verbindungen zwischen beiden
+Pfarreien**. Sie bilden geografischen Kontext, aber **keinen
+personellen Beleg** für die mündlich überlieferte
+dos-Santos-Verwandtschaft. Kalendarisch liegen sie nur **fünf bis
+sechs Jahre** vor dem rechnerischen Geburtszeitraum Maria Josés
+(11.09.1883–10.09.1884), nicht „im selben Jahrzehnt“ als
+Erklärung.
 
 Castelo in Santiago da Guarda nicht mit Castelo der Pfarrei Torre
 gleichsetzen. **José Thereza** (PANS02 19.11.1878) ist
@@ -96,11 +101,12 @@ versioniert. PANS02 bleibt der laufende Band von vorn.
 ## Was gesucht wird, sobald die Bilder da sind
 
 Dieselbe Marker-Regel wie [index.md](index.md): Santos, Thereza,
-Ribeira, Teixeira, Affonso, Maria José.
+Francisco, Francisco José, Ribeira, Teixeira, Affonso, Maria José.
 
-Zuerst **Casamentos** José dos Santos × Maria Thereza (von vorn,
-nicht nur ein Jahr). Dann weitere **dos Santos** in Ribeira /
-Granja / Sitz — die mündlich genannten Verwandten. Maria José
-selbst in PANS02 (Vila-Pfarrei).
+Zuerst **Casamentos** Francisco José dos Santos × Maria Thereza
+(von vorn, Marker auch José dos Santos / Francisco dos Santos).
+Dann weitere **dos Santos** in Ribeira / Granja / Sitz — die
+mündlich genannten Verwandten. Maria Josés Taufsuche beginnt in
+PANS02.
 
 Nicht an Reis/Gato/Alvorge und nicht an Cumeeira-Santos hängen.

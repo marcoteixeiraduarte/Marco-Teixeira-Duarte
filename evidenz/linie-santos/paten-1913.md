@@ -23,17 +23,22 @@ Paten João Teixeiras von 1879.
 
 | Person 1913 | Bezug | Gewissheit |
 |---|---|---|
-| **Joaquim Teixeira**, casado, trabalhador, Figueiras Podres (Pfarrei Torre) | gleicher Familienname wie der Vater des Kindes; wohnt am Herkunftsort von Joãos Vater Custodio (`Figueira Podra` / Figueiras Podres) | **wahrscheinlich** väterlicher Verwandter Joãos (Bruder oder Onkel). **Nicht** an die Santos-Eltern gehängt |
-| **Pedro Affonso**, solteiro, mação, proprietário, lugar dos Magos (Pfarrei Ansião) | andere Familie, ledig, anderer Weiler | **kein** Verwandtschaftsbeleg. Ortszeiger in derselben Stadtpfarre wie Maria Josés Naturalidade |
-| Cumeeira-Pate **João dos Santos** × Joaquina Freire (Taufe Manoel Duarte 1885, Carrasqueiras) | anderer Akt, andere Pfarrei | **nicht** mit José dos Santos (Vater Maria Josés) gleichsetzen |
+| **Joaquim Teixeira**, casado, trabalhador, Figueiras Podres (Pfarrei Torre) | gleicher Familienname wie der Vater des Kindes; wohnt am Herkunftsort von Joãos Vater Custodio (`Figueira Podra` / Figueiras Podres) | **Kandidat** für einen väterlichen Verwandten Joãos; konkreter Grad (Bruder, Onkel oder anderer) offen. **Nicht** an die Santos-Eltern gehängt |
+| **Pedro Affonso**, solteiro, mação, proprietário, lugar dos Magos (Pfarrei Ansião) | andere Familie, ledig, anderer Weiler | **kein** Verwandtschaftsbeleg. Ortszeiger in derselben Freguesia Ansião wie Maria Josés Naturalidade 1913 |
+| Cumeeira-Pate **João dos Santos** × Joaquina Freire (Taufe Manoel Duarte 1885, Carrasqueiras) | anderer Akt, andere Pfarrei | **nicht** mit Francisco José dos Santos (Vater Maria Josés) gleichsetzen |
 | Zeuge **José dos Santos**, Carrasqueiras, `freguesia e concelho de Ansião` (Heirat Duarte 1907) | nur Namens- und Kreisnähe | **Kandidat höchstens** für denselben Namen in der Grenzlage; Identität mit Maria Josés Vater **offen, nicht angenommen** |
+
+Namensgleichheit plus räumliche Nähe zu Figueiras plus Bezug zur
+Herkunft Custodios erfüllen die eigene Definition von
+**wahrscheinlich** nicht (gleiche Person über mehrere Einträge).
+Deshalb bleibt Joaquim **Kandidat**.
 
 Joaquim als Bruder Joãos bleibt möglich: die Taufe 1879 nennt João
 `primeiro deste nome` (erster dieses Vornamens), nicht erstes Kind.
 Ein älterer Joaquim, Sohn von Custodio × Joana, oder ein Bruder
 Custodios (Sohn von Jozé Simão Teixeira × Maria Forte) — beides
-**Kandidat**, bis die eigene Taufe Joaquims in Cumeeira oder Torre
-liegt.
+ebenfalls nur **Kandidat**, bis die eigene Taufe Joaquims in
+Cumeeira oder Torre liegt.
 
 ## Leben sie dort, wo die Paten herkommen?
 
@@ -55,28 +60,35 @@ Geländekante**, an der Joaquim in Figueiras (damals Pfarrei Torre)
 wohnt. Väterliche **Wurzel und Wohnort 1913** treffen sich dort.
 
 Maria José ist 1913 `natural desta freguesia e concelho de Ansião`.
-Das deckt Ribeira de Cima und Magos. Ob die Santos-Eltern in Magos,
-Ribeira oder in der Vila wurzeln, sagt der Zivilakt **nicht**. Magos
-ist Suchort für José dos Santos × Maria Thereza, kein Wohnbeleg.
+Gesichert: Freguesia und Concelho. Das **kann** Ribeira de Cima und
+Magos einschließen, beweist aber keinen dieser Lugares als
+Geburtsort. Ob die Santos-Eltern in Magos, Ribeira oder im Vila-Sitz
+wurzeln, sagt der Zivilakt **nicht**. Magos ist Suchort für
+Francisco José dos Santos × Maria Thereza, kein Wohnbeleg.
 
-## Taufe Maria José — Fenster nicht nur 1883/84
+## Taufsuche und Familiencluster — zwei verschiedene Läufe
 
-29 vollendete Jahre am 10.09.1913 ergeben rechnerisch
-11.09.1883–10.09.1884. Übliche Rundung um **ein Jahr nach vorn oder
-zurück**: **1882–1885**.
+Nicht dasselbe:
+
+| Ebene | Bedeutung |
+|---|---|
+| Rechnerischer Kern | 29 vollendete Jahre am 10.09.1913 → 11.09.1883–10.09.1884. Historisches Geburtsdatum bleibt **offen** |
+| Erweiterte Priorität | 1882–1885, falls das Alter ungenau ist |
+| Systematischer Bandlauf | ab 1878, weil Band 0013 dort beginnt; Geschwister- und Elternmarker (Santos, Thereza, Francisco, Teixeira, Affonso, Magos, Ribeira) |
 
 PANS02, Band 1878–1883 und 1884–1889:
 
-| Gelesen | Ergebnis |
-|---|---|
-| 1883 Sep–Dez; 1884 Jan | kein Paar José dos Santos × Maria Thereza |
-| **1882** Sep–Nov (Akte u. a. 31–39) | kein Treffer mit diesen Eltern |
-| 1882 März, Akte **Maria José**, Moitinho dos Mortos (Seite 103 des Bandes 0013, 27. März) | **andere Person**: Mutter Maria de Jesus (Casal / Moitinho), nicht José × Thereza. Ausgeschlossen |
-| 1885 | angefangen (Jan.; Sep. Namenränder); Paar noch nicht gefunden |
+| Gelesen | Art | Ergebnis |
+|---|---|---|
+| 1883 Sep–Dez; 1884 Jan | Stichprobe im rechnerischen Kern | kein Paar Francisco José dos Santos × Maria Thereza |
+| **1882** Sep–Nov (Akte u. a. 31–39) | Stichprobe in der erweiterten Priorität | kein Treffer mit diesen Eltern |
+| 1882 März, Akte **Maria José**, Moitinho dos Mortos (Seite 103 des Bandes 0013, 27. März) | Stichprobe | **andere Person**: Mutter Maria de Jesus (Casal / Moitinho), nicht Francisco José × Thereza. Ausgeschlossen |
+| 1885 | angefangen (Jan.; Sep. Namenränder) | Paar noch nicht gefunden |
+| 1878 von vorn (siehe Coverage in [index.md](index.md)) | Bandlauf / Marker | Zielpaar offen; Lücken 1878 ausdrücklich |
 
 Nächster Schritt: Band `0013` von vorn zu Ende (Liste
-[index-baptismos.md](index-baptismos.md)). Heirat José × Thereza
-und Taufe Joaquim Teixeira daneben — nicht als Ersatz für den
+[index-baptismos.md](index-baptismos.md)). Heirat Francisco José ×
+Thereza und Taufe Joaquim Teixeira daneben — nicht als Ersatz für den
 vorderen Lauf.
 
 Patenorte **nicht** mit Duarte/Carrasqueiras und **nicht** mit

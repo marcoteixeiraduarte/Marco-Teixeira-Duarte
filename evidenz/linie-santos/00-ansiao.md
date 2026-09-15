@@ -10,7 +10,7 @@ beim Zivilakt des Sohnes 1913, nicht bei einem Zeugen.
 
 | Feld | Wert |
 |---|---|
-| Pfarrei | Ansião (Vila), Nossa Senhora da Conceição |
+| Pfarrei | Ansião (Stadtpfarre / Vila als Pfarrbezirk, nicht als Geburtslugar), Nossa Senhora da Conceição |
 | tombo | [ans02](https://tombo.pt/f/ans02) |
 | Archiv | `PT/ADLRA/PRQ/PANS02` |
 | DigitArq-Fonds | `e8b5d5020be6471e889de8de72dde999` |
@@ -25,8 +25,10 @@ Ein Carrasqueiras im Kreis Ansião (heute oft Lagarteira/Ansião) ist
 ein anderer Fleck, bis ein Akt sie gleichsetzt.
 
 Lagarteira ist **PANS05**, Santiago da Guarda **PANS07**.
-Maria Josés Taufe: zuerst Ansião-Stadt (PANS02). PANS07 für
-Eltern/Heirat/Ribeira: [santiago-da-guarda.md](santiago-da-guarda.md).
+Maria Josés Taufsuche **beginnt** in PANS02 (Naturalidade 1913:
+Freguesia und Concelho Ansião; Geburtslugar und Taufort offen).
+PANS07 für Eltern/Heirat/Ribeira als Nachbarspur:
+[santiago-da-guarda.md](santiago-da-guarda.md).
 
 ## Bücher dieser Spur
 
@@ -44,8 +46,10 @@ Paten 1913 und der Wohncluster Ribeira / Figueiras:
 [paten-1913](paten-1913.md). Magos ist ein historischer Lugar dieser
 Pfarrei (nicht Salvaterra de Magos).
 
-**Listen, von vorn:** [index.md](index.md), Treffer
-[index-baptismos.md](index-baptismos.md). Nicht nur 1883/84.
+**Listen, von vorn:** [index.md](index.md) (Coverage getrennt von
+der Marker-Liste), Treffer [index-baptismos.md](index-baptismos.md).
+Rechnerischer Kern 11.09.1883–10.09.1884; erweiterte Priorität
+1882–1885; Bandlauf ab 1878.
 
 ## Nächster Schritt
 
@@ -53,9 +57,10 @@ Pfarrei (nicht Salvaterra de Magos).
    Jeden Marker-Akt in die Liste. Zielpaar oder Geschwister können
    in jedem Jahr stehen.
 2. Band `0014` danach ebenfalls von Seite `0002` (1884).
-3. Heirat José dos Santos × Maria Thereza: Casamentos PANS02 **und**
-   PANS07 von vorn.
+3. Heirat Francisco José dos Santos × Maria Thereza: Casamentos
+   PANS02 **und** PANS07 von vorn (Marker auch José dos Santos /
+   Francisco dos Santos).
 4. **Santiago da Guarda** (`PANS07`): Ribeira dieser Pfarrei und
-   Eltern, sobald die Bände offen sind. Taufe Maria Josés nicht
-   dorthin gegen den Zivilakt 1913.
+   Eltern, sobald die Bände offen sind. Nachbarspur; Maria Josés
+   Taufsuche beginnt in PANS02, der Taufort bleibt offen.
 5. Taufe Joaquim Teixeira (Pate 1913) in Torre oder Cumeeira.

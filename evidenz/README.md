@@ -15,6 +15,10 @@ Linien werden nicht vermischt.
 
 Unsichere Wörter stehen in `[]`.
 
+Mündliche Mitteilung ist eine **Quellenart**, kein Gewissheitsgrad
+neben dieser Tabelle. Ein aus dem Alter **errechneter** Zeitraum
+ist rechnerisch, kein historisches Datum.
+
 ## Ausgangspunkt
 
 Die jüngsten vollständig belegten Urgroßeltern der Duarte-Linie:

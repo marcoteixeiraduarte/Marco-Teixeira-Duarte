@@ -47,19 +47,19 @@ Zählung, wenn José Pedro × Narciza der 3. Grad sind:
 | 4. Grad materno | João Gato × Caetana Maria | sicher als Eltern der Narciza | [linie-torre/caetana-maria](linie-torre/caetana-maria.md) |
 | 5./6. Grad materno | Alexandre Manoel × Joaquina da Affonseca | sicher als Großeltern der Caetana; Heirat offen | [linie-torre/avelar-kandidaten](linie-torre/avelar-kandidaten.md) |
 
-## Dritte Spur — Santos, Ansião-Stadt, nicht an Reis oder Duarte gehängt
+## Dritte Spur — Santos, Ansião, nicht an Reis oder Duarte gehängt
 
 Blattkarte: **Maria José dos Santos · ~1884 · Ansião**, Frau des João Teixeira.
 
 | Feld | Eintrag | Gewissheit | Blatt |
 |---|---|---|---|
 | 3.º avós | Maria José dos Santos, 29 Jahre am 10.09.1913 | sicher im Zivilakt des Sohnes | [linie-santos/maria-jose-dos-santos](linie-santos/maria-jose-dos-santos.md) |
-| Naturalidade | Stadtpfarre Ansião (Vila de Ansião im Pfarrsinn) | sicher 1913 | dasselbe |
-| Eltern | José dos Santos × Maria Thereza | sicher als Großeltern Manuels 1913 | dasselbe |
-| Taufe / eigene Heirat | noch nicht im Kirchenbuch | offen | [linie-santos/00-ansiao](linie-santos/00-ansiao.md) |
-| Paten des Sohnes 1913 | Joaquim Teixeira (Figueiras, **wahrscheinlich** väterlich João); Pedro Affonso (Magos, nicht als Verwandter belegt) | s. Blatt | [linie-santos/paten-1913](linie-santos/paten-1913.md) |
-| Taufindex PANS02 | von 1878 an, Marker-Akte | in Arbeit | [linie-santos/index](linie-santos/index.md) |
-| Santiago da Guarda | mündlich **dos Santos**-Verwandte dort; Ribeira 1878 in PANS02 | mündlich; Personen offen | [linie-santos/santiago-da-guarda](linie-santos/santiago-da-guarda.md) |
+| Naturalidade 1913 | Freguesia Ansião und Concelho Ansião (`desta freguesia e concelho de Ansião`) | sicher 1913; Vila-Sitz, Geburtslugar und Taufort offen | dasselbe |
+| Eltern | Francisco José dos Santos × Maria Thereza | sicher als Großeltern Manuels 1913; Francisco nicht weglassen | dasselbe |
+| Taufe / eigene Heirat | noch nicht im Kirchenbuch | offen; PANS02 primärer Bestand | [linie-santos/00-ansiao](linie-santos/00-ansiao.md) |
+| Paten des Sohnes 1913 | Joaquim Teixeira (Figueiras, **Kandidat** väterlich João, Grad offen); Pedro Affonso (Magos, nicht als Verwandter belegt) | s. Blatt | [linie-santos/paten-1913](linie-santos/paten-1913.md) |
+| Taufindex PANS02 | von 1878 an, Marker-Akte plus Coverage | in Arbeit | [linie-santos/index](linie-santos/index.md) |
+| Santiago da Guarda | mündliche Mitteilung 15.09.2026: dos-Santos-Verwandte dort | Quellenart mündlich; Personenidentität offen; Anschluss Kandidat | [linie-santos/santiago-da-guarda](linie-santos/santiago-da-guarda.md) |
 
 Alvorge (Roza) bleibt offen und wird hier nicht weitergesucht.
 Wohnort 1913 **Ribeira de Cima** liegt rund 700 m von Figueiras de
@@ -69,6 +69,6 @@ São João — väterliche Teixeira-Wurzel, nicht automatisch Santos-Wurzel.
 
 - Cumeeira / Carrasqueiras / Cabeça Redonda / Figueiras Podres gehört zur Duarte-Linie.
 - Torre de Vale de Todos / Pragosa / Avelar / João Bom gehört zur Torre-Linie.
-- Vila de Ansião / Ribeira de Cima / Maria José dos Santos gehört zur Santos-Spur; mündlich dos-Santos-Verwandte in Santiago da Guarda, Taufe Maria Josés bleibt PANS02.
+- Freguesia Ansião / Ribeira de Cima (Wohnort 1913) / Maria José dos Santos gehört zur Santos-Spur. Mündliche Mitteilung: dos-Santos-Verwandte in Santiago da Guarda (Personen offen). Taufsuche beginnt in PANS02; Taufort offen.
 - **Theodora Maria** (Avelar 1781) ist nicht Maria Joaquina Sol. Blatt: [theodora-maria-1781](linie-torre/theodora-maria-1781.md)
 - **Maria Joaquina × Antonio Simões** (Castelo 10.2.1774) ist nicht Maria Joaquina Sol. Blatt: [maria-joaquina-simoes-1774](linie-torre/maria-joaquina-simoes-1774.md)
