@@ -45,10 +45,18 @@ Olivenland; Nachbar Ferraria de S. João hat einen alten Überbestand
 
 ## Was das für die Suche heißt
 
-Heirat João Teixeira (Forte) × Maria José dos Santos zuerst in
-**Ansião**, **Cumeeira** und **Chão de Couce** — alle drei liegen an
-dieser Ecke. Nicht nach Gondomar oder São Cosme ausweichen, weil ein
-Weilername doppelt vorkommt.
+Heirat und Taufe Maria José: **wir wissen nicht, welche Kirche.**
+Im Kopf behalten — innerer Ring:
+
+1. Torre de Vale de Todos (`PANS08`)
+2. Lagarteira (`PANS05`)
+3. Ansião (`PANS02`)
+4. Chão de Couce (`PANS04`)
+5. Cumeeira / Cabeça Redonda (`PNL01`)
+
+Manchmal alle Orte um Ansião. Blatt: [suchkreis](suchkreis.md).
+
+Joãos eigene Taufe nicht noch einmal suchen (Cumeeira N.º 42).
 
 Duarte `* 1885 Carrasqueiras` und die Paten 1879 bleiben getrennt,
 auch wenn der Weiler geografisch derselbe Kandidat ist.

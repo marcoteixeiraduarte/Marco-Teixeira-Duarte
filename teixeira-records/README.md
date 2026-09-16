@@ -57,8 +57,10 @@ Frau: **Maria José dos Santos**, natürlich freguesia Ansião, 1913
 wohnhaft Ribeira de Cima mit João. Eltern (Zivilakt Sohn Manuel,
 10.09.1913): **Francisco José dos Santos** × **Maria Thereza**.
 
-Heirat João × Maria José: **offen** (Fenster 1900–1912; zuerst
-Ansião, dann Cumeeira, dann Chão de Couce).
+Heirat João × Maria José: **offen**. Welche Kirche, unbekannt.
+Suchkreis: Torre, Lagarteira, Ansião, Chão de Couce, Cumeeira;
+manchmal alle Orte um Ansião.
+[suchkreis](../evidenz/linie-teixeira/suchkreis.md).
 
 Blatt: [maria-jose-dos-santos.md](../evidenz/linie-teixeira/maria-jose-dos-santos.md).
 

@@ -145,8 +145,11 @@ Mündlich ein Fleck, vier Mündungen, Oliven über 1500 Jahre. Kirchlich
 stoßen **Cumeeira, Chão de Couce, Ansião und Torre** hier an.
 OSM: Maxial, Carrasqueiras, Cabeça Redonda, Figueiras Podres und
 Ribeira de Cima liegen alle in PLZ 3240-706, jeweils unter 1 km.
-Vale de Todos ~3,8 km. Blatt:
-[ecke-maxial](evidenz/linie-teixeira/ecke-maxial.md).
+Vale de Todos ~3,8 km. **Heirat und Taufe Maria José:** welche Kirche
+unbekannt; innerer Ring Torre / Lagarteira / Ansião / Chão de Couce /
+Cumeeira, manchmal alle Orte um Ansião.
+Blatt: [ecke-maxial](evidenz/linie-teixeira/ecke-maxial.md),
+[suchkreis](evidenz/linie-teixeira/suchkreis.md).
 
 ### ATANHA / ALVORGE
 

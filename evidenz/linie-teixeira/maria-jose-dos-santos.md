@@ -17,7 +17,8 @@ Cumeeira-Pate João dos Santos (1885) und Zeuge José dos Santos
 | Eltern | **Francisco José dos Santos** × **Maria Thereza** | sicher als Großeltern Manuels 1913 |
 
 Das sind die **neuen Eltern** auf der Karte `Pais de Maria José por
-confirmar`. Taufe Maria Josés selbst bleibt offen (PANS02 primär).
+confirmar`. Taufe Maria Josés selbst bleibt offen. Welche Kirche:
+unbekannt — Suchkreis, nicht nur PANS02.
 
 ## Quelle — Geburt des Sohnes Manuel, 10.09.1913
 
@@ -50,10 +51,12 @@ Emília Guiomar, Vale de Todos — nächste Generation, nicht Maria José.
 Noch **offen**. Kind * 10.09.1913, João * 13.10.1879: Fenster etwa
 **1900–1912**. Ab April 1911 Zivilregister Ansião.
 
-Üblich die Pfarrei der Braut: zuerst **Ansião** (PANS02,
-Casamentos 1900–1909 und 1910–1911). Daneben **Cumeeira** (AUC,
-Pfarrei des Bräutigams) und **Chão de Couce** (PANS04; geografisch
-dieselbe Ecke). Nicht mit der Heirat des Sohnes 1937 verwechseln.
+**In welcher Kirche, wissen wir nicht.** Der innere Ring bleibt im
+Kopf: Torre de Vale de Todos, Lagarteira, Ansião, Chão de Couce,
+Cumeeira (Cabeça Redonda). Manchmal alle Orte um Ansião. Blatt:
+[suchkreis](suchkreis.md).
+
+Nicht mit der Heirat des Sohnes 1937 verwechseln.
 
 Lokal liegen bisher nur die ersten Blätter von PANS02 1900–1909
 (`ansiao-records/casamentos-1900-1909/`, Einband). Kein Treffer dort.

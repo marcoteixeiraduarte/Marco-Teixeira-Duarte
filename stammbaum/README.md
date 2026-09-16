@@ -61,8 +61,11 @@ den Elternort nicht.
 Eltern **nicht mehr offen:** **Francisco José dos Santos** ×
 **Maria Thereza** (Zivilakt Sohn Manuel, 10.09.1913, Ribeira de Cima).
 Naturalidade 1913: freguesia e concelho de Ansião. Taufe selbst
-offen. Heirat mit João Teixeira (Forte) offen (1900–1912).
-Blatt: [maria-jose-dos-santos](../evidenz/linie-teixeira/maria-jose-dos-santos.md).
+offen. Heirat mit João Teixeira (Forte) offen — **welche Kirche
+unbekannt** (Torre, Lagarteira, Ansião, Chão de Couce, Cumeeira;
+manchmal alle Orte um Ansião).
+Blatt: [maria-jose-dos-santos](../evidenz/linie-teixeira/maria-jose-dos-santos.md),
+[suchkreis](../evidenz/linie-teixeira/suchkreis.md).
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
