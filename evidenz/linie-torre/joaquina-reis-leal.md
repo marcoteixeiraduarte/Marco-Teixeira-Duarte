@@ -31,35 +31,52 @@ Averbamentos am Rand derselben Seite: Heirat 19.04.1937 mit José
 Mendes; Ehe durch Tod des Mannes 15.11.1996 aufgelöst; eigene
 **† 16.12.1999**, freguesia Torre de Vale de Todos, Assento 165/1999.
 
-## Heirat der Eltern — 26.08.1897
+## Heirat — 21.08.1896, nicht 1897
 
-Im Geburtsakt 1912 steht nach den Wohnorten der Eltern das Datum
-**26. August 1897**. Das ist die übliche Stelle der **Elternheirat**.
-Kirche Torre, noch vor dem Zivilzwang.
+Kirchenbuch Torre, Casamentos **1896** N.º 2,
+`PT/ADLRA/PRQ/PANS08/002/0038`, Bild `m0003` (linke Buchseite).
+Scan: `archiv/matta/1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg`.
 
-Gewissheit: **wahrscheinlich**. Nächster Scan: Casamentos Torre 1897,
-26. August, Manuel (d'Matta) × Joaquina (Reis / Ramalho). Dort müssen
-Joaquinas Eltern namentlich stehen. Das entscheidet Reis / Ramalho /
-Leal.
+> Aos vinte e um dias do mez de Agosto, do anno de mil
+> oito centos e noventa e seis, nesta Egreja Parochial
+> de Nossa Senhora da Graça da Torre de Valle de Todos …
+> compareceram os nubentes **Manuel Matta** e
+> **Joaquina Ramalha**
+
+| Feld | Wert | Gewissheit |
+| --- | --- | --- |
+| Datum | **21. August 1896** | sicher |
+| Rand | `M.el Matta` / `Joaq.a Ramalha` | sicher |
+| Er | 24, solteiro, trabalhador, natürlich **São Jorge**, dort getauft; Sohn der **Anna de Jesus Matta** | sicher |
+| Sie | 23, occupação domestica, natürlich **Pragoza**, dort getauft und wohnhaft | sicher |
+| Ihre Eltern | **José dos Reis** × **Maria Ramalha**, diese Pfarrei | sicher |
+| Zeugen | Bernardino Pedro, casado, São Jorge; Francisco Baptista, casado, trabalhador, **Estrada**, Pfarrei Torre | sicher |
+| Leal in diesem Akt | **nicht** genannt | sicher abwesend |
+
+Der Zivilakt Palmira 1912 schreibt **26. August 1897**. Das ist
+sechzehn Jahre später, vom Vater als Declarante. **Kirche geht vor:**
+21.08.1896. Band 1897 (`PANS08/002/0039`) ist ganz gelesen: zehn
+Heiraten, dieses Paar nicht darunter. Einziger August 1897 ist N.º 6
+am 21.8., José Pedro Guilherme × Anna (Lindos).
 
 ## Großeltern mütterlich — nicht glätten
 
-Erste Lesung der Zeile `neta materna` in `08.jpg`:
+Heirat 1896 und erste Lesung `neta materna` 1912 **passen:**
 
-> … e materna de José Reis, fallecido, do dito lugar da Pragoza, e de
-> [Maria Ramalho?], …
+> filha legitima de José dos Reis e de Maria Ramalha
 
 | Lesung | Gewissheit |
 | --- | --- |
-| Ein Großvater **Reis**, tot, **Pragoza** | wahrscheinlich |
-| Zweite Person mit **Ramalho** | Kandidat (Hand) |
-| **Angelica Maria Leal** in diesem Akt | **nicht** festgelesen |
-| Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** | Blatt; bleibt stehen, bis 1897 oder Joaquinas Taufe |
+| Vater **José dos Reis**, Pragoza | sicher (Heirat 1896); 1912 bereits tot |
+| Mutter **Maria Ramalha** | sicher (Heirat 1896) |
+| **Angelica Maria Leal** als Mutter Joaquinas | **nicht** in 1896, **nicht** festgelesen in 1912 |
+| Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** | Blatt; **nicht** die Eltern dieser Heirat |
 
-`José Reis` von Pragoza ist **Kandidat**, nicht Identität mit
-**José Pedro dos Reis** († 1903). Maria da Piedade (* 1878) und
-Joaquina (Reis, Kind 1912) können Schwestern sein oder zwei
-Reis-Häuser in demselben Weiler. Erst die Heirat 1897 trennt das.
+`José dos Reis` × `Maria Ramalha` ist **nicht** dasselbe Paar wie
+**José Pedro dos Reis** × Narciza. Narciza heiratet 1878; Joaquina
+ist 23 im August 1896 (* etwa 1872–1873) mit Mutter **Ramalha**.
+Zwei Reis-Häuser in Pragoza bleiben getrennt. Taufe Joaquinas:
+Torre, Pragoza, **etwa 1872–1874**.
 
 ## Heirat 1937 — beide in Pragoza
 
@@ -88,9 +105,11 @@ Mündlich / Blatt interessant: welcher Stamm am Ort am stärksten blieb,
 und ob Leal über die Frau kam.
 
 Übliches portugiesisches Muster: Kind **dos Reis Leal** = Vater Reis,
-Mutter Leal. Im Zivilregister 1912/1937 siegt der Name **Reis**
-(Joaquina Reis, Palmira Reis). **Leal** ist auf dem Blatt die Mutter
-Joaquinas und in diesen beiden Akten **noch nicht** gelesen.
+Mutter Leal. Die Heirat 1896 schreibt die Frau **Joaquina Ramalha**
+(Vater Reis, Mutter Ramalha). Zivil 1912/1937 siegt **Reis**.
+**Leal** steht auf dem Blatt als Angelica Maria Leal — **nicht** als
+Mutter dieser Joaquina. Wo Leal herkommt, bleibt offen (weiter oben,
+nicht diese Generation).
 
-Nächster Schritt ist die Heirat **26.08.1897**, nicht eine neue
-Namensgleichung.
+Nächster Schritt: Taufe Joaquina, Torre **1872–1874**, Pragoza,
+Eltern José dos Reis × Maria Ramalha.

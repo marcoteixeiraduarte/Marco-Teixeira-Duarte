@@ -49,3 +49,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | CON-CAS-1937-11 | Heirat José Mendes Ascenção × Palmira dos Reis, Pragoza | `archiv/conservatoria-ansiao/06.jpg` |
 | CON-OBI-1958-JOAO | Tod João Dias Guiomar, Vale de Todos | `archiv/conservatoria-ansiao/07.jpg` |
 | CON-NAS-1912-69 | Geburt Palmira Reis, Pragoza | `archiv/conservatoria-ansiao/08.jpg` |
+| TVT-CAS-1896-02 | Heirat Manuel Matta × Joaquina Ramalha, 21.08.1896 | `matta-records/casamento-1896/PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg` |
+| TVT-CAS-1896-02-L | dieselbe Heirat, nur linke Seite | `evidenz/scans/torre/1896-casamento-manuel-matta-joaquina-ramalha-left.jpg` |

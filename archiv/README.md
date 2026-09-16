@@ -69,6 +69,7 @@ Leer lassen, bis du sie selbst gelesen hast.
 | --- | --- | --- |
 | [1872-baptismo-manuel-PANS08-001-0017_m0007.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0007.jpg) | 1950×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/b03dbf2707414bd0b03f5d6d78f62181) |
 | [1872-baptismo-manuel-PANS08-001-0017_m0008.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0008.jpg) | 1965×1500 | dasselbe |
+| [1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg](matta/1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg) | 2835×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/70ca5cac730e44caade08834c666a216) |
 
 ### Joze Maria / Anna
 

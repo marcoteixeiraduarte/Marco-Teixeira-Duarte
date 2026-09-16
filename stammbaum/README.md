@@ -150,21 +150,20 @@ Manuel
 kein eigener ferner Ort. **filho natural** der **Anna de Jesus Matta**. Vater ungenannt –
 **passt** zum Blatt. `Matta` steht bei der Mutter. Tod: Randvermerk
 nennt den **15.** und ist 1946 in Ansião nachgetragen; Blatt
-`† 15.02.1946` ist die Richtung. Heirat mit **Joaquina Ramalho**
-(Randvermerk).
+`† 15.02.1946` ist die Richtung. Heirat mit **Joaquina Ramalha**
+**21.08.1896**, Torre N.º 2 — **passt** (Kirche; Zivil 1912 weicht).
 
 #### Joaquina Ramalha dos Reis
 
 Zivil 1912/1937: **Joaquina Reis**, natürlich **Pragoza**. Mann
-**Manuel d'Matta** natürlich São Jorge, wohnhaft Pragoza (er zieht
+**Manuel Matta** natürlich São Jorge, wohnhaft Pragoza (er zieht
 zu ihr). Kind **Palmira Reis** — Reis von der Mutter.
 
-Eltern auf dem Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal**.
-Im Akt 1912 erste Lesung der Großeltern mütterlich: ein **Reis** in
-Pragoza und eine Person mit **Ramalho**; **Leal** dort nicht
-festgelesen. Blatt und Akt bleiben nebeneinander.
+Heirat **21.08.1896**, Torre, als **Joaquina Ramalha**. Eltern dort
+**José dos Reis** × **Maria Ramalha** — **sicher**. Blatt
+**Manuel Dias Ramalho** × **Angelica Maria Leal** ist **nicht**
+dieses Paar. Leal bleibt offen, weiter oben.
 [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md).
-Nächster Scan: Heirat **26.08.1897**, Torre.
 
 ### 4.º avós (ramo materno)
 
@@ -179,7 +178,7 @@ Nächster Scan: Heirat **26.08.1897**, Torre.
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
-| Manuel Dias Ramalho × Angelica Maria Leal | Blatt; Zivil 1912 schreibt Joaquina **Reis**, Pragoza. Leal nicht festgelesen. Offen bis Heirat 1897 |
+| Manuel Dias Ramalho × Angelica Maria Leal | Blatt; **nicht** die Eltern der Heirat 1896. Kirche: **José dos Reis** × **Maria Ramalha**. Leal weiter oben offen |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
 **Rosa Maria**. Das entspricht dem Sterbeakt 1903 (`Manuel Pedro dos

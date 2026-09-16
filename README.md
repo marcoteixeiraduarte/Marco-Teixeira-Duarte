@@ -279,6 +279,7 @@ Zum Durchforsten der Scans: [`archiv/NAMEN.md`](archiv/NAMEN.md).
 Einzelblätter mit Scanpfad, Transkript und Gewissheit:
 [evidenz/README.md](evidenz/README.md). Ausgangspunkt Duarte:
 [evidenz/00-ausgangspunkt.md](evidenz/00-ausgangspunkt.md).
+Jahre und Ringe: [evidenz/suche-erweitert.md](evidenz/suche-erweitert.md).
 
 ## Stammbaumblatt
 

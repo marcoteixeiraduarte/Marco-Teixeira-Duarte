@@ -25,7 +25,8 @@ Einträge aus Ateanha stehen im **Alvorge-Band**, Rand oft `Ateanha`.
 ## Was hier gesucht wird
 
 Roza Maria, Tochter von Joaquim […] × Florencia Maria, Heirat 1851.
-Fenster: Taufe **etwa 1820–1835**.
+Fenster: Taufe **1815–1840** (nicht nur 1820–1835).
+Jahre: [suche-erweitert](../suche-erweitert.md).
 
 Bücher zuerst:
 

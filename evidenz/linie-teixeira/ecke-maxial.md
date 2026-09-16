@@ -68,7 +68,7 @@ Im Kopf behalten — Ring:
 6. **Avelar** (`PANS03`)
 7. **Alvorge** (`PANS01`)
 
-Blatt: [suchkreis](suchkreis.md).
+Blatt: [suchkreis](suchkreis.md), [suche-erweitert](../suche-erweitert.md).
 
 Joãos eigene Taufe nicht noch einmal suchen (Cumeeira N.º 42).
 Fehlender Weiler in einer Heirat außerhalb Torre ist hier normal.

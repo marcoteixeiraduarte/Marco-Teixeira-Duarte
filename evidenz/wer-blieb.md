@@ -24,7 +24,7 @@ der Pfarrei; Teixeira umtriebig.
 | **Duarte** | Carrasqueiras | * und Heirat 1907 dort; Frau aus dem Nachbarweiler Cabeça Redonda | sicher |
 | **Mendes Ferreira** | Ateanha (Alvorge) als Herkunft | **nicht** das stärkste Bleiben: der Mann geht zur Frau | sicher als Herkunft; Wohnen folgt der Frau |
 | **Teixeira** | Figueiras Podres → Cabeça Redonda → Ribeira de Cima | umtriebig, kurze Wege | sicher |
-| **Ramalho / Leal** | Pragoza nur als Blatt-/Aktfrage | eigene Taufe Joaquinas und Heirat 1897 noch offen | offen |
+| **Ramalho** | Pragoza | Mutter Joaquinas: **Maria Ramalha**; Vater **José dos Reis** — Haus über die Frau | sicher (Heirat 1896) |
 
 **Dos Reis** ist in Pragoza stärker als Mendes. Mendes kommen aus
 Ateanha und setzen sich über die Frau (Barbeiro, dann Reis) in Torre

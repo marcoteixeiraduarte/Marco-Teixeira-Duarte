@@ -38,9 +38,10 @@ gehören in denselben Kopf, nicht erst „wenn der Rest leer ist“.
 | **Avelar** | DigitArq `PANS03` / tombo ans03 | Vila de Avelar; Kreis Ansião |
 | **Alvorge** | DigitArq `PANS01` / tombo ans01 | Bemposta, Ateanha; Kreis Ansião |
 
-Heirat **1900–1912** (ab April 1911 Zivilregister) in **jeder** dieser
-Kirchen möglich. Taufe Maria José ebenso. João selbst nicht noch einmal
-suchen: seine Taufe ist Cumeeira N.º 42.
+Heirat João × Maria José: **1895–1913** (ab April 1911 Zivil **Ansião
+und Penela**) in **jeder** dieser Kirchen möglich. Taufe Maria José
+**1876–1894**. João selbst nicht noch einmal suchen: Cumeeira N.º 42.
+Jahre und, zur Not, die Ortschaften weitermachen — [suche-erweitert](../suche-erweitert.md).
 
 Suche in Avelar oder Alvorge **hängt nicht** die Torre-Reis- oder
 Gato-Linie an João Teixeira (Forte). Nur dieselbe Markerregel:

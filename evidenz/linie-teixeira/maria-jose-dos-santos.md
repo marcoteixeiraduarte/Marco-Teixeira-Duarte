@@ -48,8 +48,9 @@ Emília Guiomar, Vale de Todos — nächste Generation, nicht Maria José.
 
 ## Heirat João Teixeira (Forte) × Maria José dos Santos
 
-Noch **offen**. Kind * 10.09.1913, João * 13.10.1879: Fenster etwa
-**1900–1912**. Ab April 1911 Zivilregister Ansião.
+Noch **offen**. Kind * 10.09.1913, João * 13.10.1879: Fenster
+**1895–1913**. Ab April 1911 Zivil **Ansião und Penela**.
+Jahre nicht zu eng: [suche-erweitert](../suche-erweitert.md).
 
 **In welcher Kirche, wissen wir nicht.** Im Kopf: Torre de Vale de
 Todos, Lagarteira, Ansião, Chão de Couce, Cumeeira, **Avelar**,
