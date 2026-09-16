@@ -33,7 +33,7 @@ gehören in denselben Kopf, nicht erst „wenn der Rest leer ist“.
 | **Cumeeira** / Cabeça Redonda | AUC `PNL01` | Cabeça Redonda; Taufe João N.º 42 |
 | **Chão de Couce** | DigitArq `PANS04` / tombo ans04 | Carrasqueiras, Maxial |
 | **Ansião** | DigitArq `PANS02` / tombo ans02 | Ribeira de Cima, Magos, Vila |
-| **Torre de Vale de Todos** | DigitArq `PANS08` / tombo ans08 | Vale de Todos; Pate Joaquim 1913 |
+| **Torre de Vale de Todos** | DigitArq `PANS08` / tombo ans08 | Vale de Todos; **Castello** und **Barreira** gleich daneben (Auftraggeber); Pragoza; Rua d'Além; São Jorge |
 | **Lagarteira** (LAR) | DigitArq `PANS05` / tombo ans05 | Pião; Grenze zu Torre |
 | **Avelar** | DigitArq `PANS03` / tombo ans03 | Vila de Avelar; Kreis Ansião |
 | **Alvorge** | DigitArq `PANS01` / tombo ans01 | Bemposta, Ateanha; Kreis Ansião |
@@ -65,8 +65,10 @@ Die Ecke erklärt, warum das so ist:
 
 Die **Mendes** und **Barbeiro** bleiben in **Pragoza** / Valle de
 Todos. In der Pfarrei Torre stehen bei Taufen und Heiraten die
-kleinen Weiler: `Pragoza`, `Valle de Todos`, `Rua d'Além`, `São Jorge`.
-Das machen die anderen Kirchen des Rings **selten bis gar nicht**.
+kleinen Weiler: `Pragoza`, `Valle de Todos`, `Rua d'Além`, `São Jorge`,
+`Castello`, `Barreira`. `Castello` hier ist Vale de Todos; Barreira
+liegt gleich daneben. Nicht das Castelo von Avelar. Die anderen
+Kirchen des Rings nennen solche Weiler **selten bis gar nicht**.
 
 Deshalb: eine Teixeira-Heirat in Ansião, Chão de Couce oder Cumeeira
 nennt oft nur die Pfarrei, nicht Cabeça Redonda oder Carrasqueiras.

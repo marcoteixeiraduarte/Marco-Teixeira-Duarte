@@ -122,6 +122,10 @@ Paten:
 > José Louro […] Castello, pelo qual tocou Manoel Caetano Respicio
 > madrinha Maria Joaquina, viuva, lugar de Villanova de Alvorge
 
+`Castello` in diesem **Torre**-Akt: **wahrscheinlich** Castello von
+Vale de Todos (Barreira liegt gleich daneben). Nicht still mit dem
+Castelo der Pfarrei Avelar (1774) gleichsetzen.
+
 Priester: João Gomes Freire da Silva.
 
 Der Nachname des mütterlichen Großvaters bleibt **offen** (Heirat 1851:

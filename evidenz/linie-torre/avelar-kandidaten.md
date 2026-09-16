@@ -41,7 +41,9 @@ dieselbe Frau ist wie Joaquina da Affonseca.
 ## Offen auf derselben Heiratsseite
 
 Oben auf `m0013`, **7. Februar 1774**: **Alexandre × Joaquina**, Castelo.
-Das ist nicht Antonio Simões. Eltern noch nicht sicher. Nicht mit Rapoula gleichsetzen.
+Das ist nicht Antonio Simões. Eltern noch nicht sicher. Nicht mit Rapoula
+gleichsetzen. **Nicht** Castello von Vale de Todos (dort liegt Barreira
+gleich daneben, Pfarrei Torre).
 
 ## Nächster Rückwärtsschritt in Avelar
 

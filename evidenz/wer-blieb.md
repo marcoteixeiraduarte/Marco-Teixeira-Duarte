@@ -92,6 +92,10 @@ Delfinas eigenes Herkunftsweiler (José Gregorio × Nazareth Maria)
 steht 1874 nicht ausgeschrieben. Kind * Rua d'Além; Luiz aus
 Bemposta. Wer vor Luiz schon in Rua d'Além saß, bleibt **offen**.
 
+**Castello** und **Barreira** sind Flecken **in** Vale de Todos,
+gleich nebeneinander (Auftraggeber; OSM Rua do Castelo hängt an
+Rua da Barreira). Nicht das Castelo von Avelar.
+
 ## Die Ecke gegen Vale de Todos
 
 Teixeira und Freire: Männer aus **Figueiras Podres** zur Frau in

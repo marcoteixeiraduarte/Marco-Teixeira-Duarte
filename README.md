@@ -52,6 +52,8 @@ Torre de Vale de Todos.
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
 | `São Jorge` / `S. Jorge` | Taufe Manuel, 1.8.1872, Rand und Fließtext `logar de São Jorge` dieser Pfarrei; Heirat João Roiz Gato, 16.11.1837 |
 | `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
+| `Castello` / `Castelo` | Pate José Louro, Taufe José Pedro 1854; Auftraggeber: Vale de Todos, Barreira daneben — nicht Avelar |
+| `Barreira` | OSM Rua da Barreira, hängt an Rua do Castelo; Auftraggeber |
 
 `São Jorge` ist **kein** eigener ferner Weiler und keine fremde Pfarrei.
 Lokal ist es die kleine Kapelle im Weiler Vale de Todos (Auftraggeber).
@@ -62,6 +64,32 @@ Locality São Jorge.
 Quellenform `São Jorge` bleibt neben `Valle de Todos` stehen. Nicht
 zusammenwerfen mit der **Capela / Rua / Mata de São Jorge** in
 Chão de Couce (andere Pfarrei) und nicht mit São Jorge in Porto de Mós.
+
+### CASTELLO / BARREIRA (Vale de Todos)
+
+**Auftraggeber:** Castello von Vale de Todos; **Barreira liegt
+gleich daneben.** Das sind Straßen/Flecken **im** Weiler, Pfarrei
+Torre, nicht Avelar.
+
+OSM (PLZ 3240-710):
+
+| Straße | ungefähr | Nachbar |
+| --- | --- | --- |
+| Rua do Castelo | 39.965 N, 8.417 W | hängt an Rua da Barreira |
+| Rua da Barreira | 39.965 N, 8.418 W | hängt an Rua do Castelo und Rua de Trás do Castelo |
+| Rua da Pragosa | 39.962 N, 8.418 W | derselbe Weiler, wenige hundert Meter |
+| Rua de São Jorge | 39.964 N, 8.420 W | derselbe Weiler |
+
+Pate **José Louro**, Taufe José Pedro 1854, `Castello`: in einem
+Torre-Akt **wahrscheinlich** dieses Castello, nicht Avelar.
+
+**Anderer Castelo:** Rua do Castelo / Canto do Castelo in **Avelar**
+(Casal de Santo António / Rapoula, ~6 km östlich, PLZ 3240-334).
+Die Heiraten 1774 im Buch Avelar (`Castello` am Rand) gehören zu
+**jener** Pfarrei. Nicht mit Vale de Todos zusammenwerfen.
+
+**Barreira** hier nicht an Thereza Freire (Cumeeira, Lesung offen)
+hängen. Namensvetter.
 
 ### ANCIAO / Ansião
 

@@ -106,7 +106,7 @@ die Frau **Maria** aus Pião, nicht Contente/Feio als Linie.
 
 | Befund | Gewissheit |
 | --- | --- |
-| Alexandre × Joaquina Maria, Castello, wahrscheinlich 7.2.1774 (oberer Eintrag m0013) | wahrscheinlich = Caetanas Großeltern |
+| Alexandre × Joaquina Maria, Castello, wahrscheinlich 7.2.1774 (oberer Eintrag m0013) | wahrscheinlich = Caetanas Großeltern; Castello = **Avelar**, nicht Vale de Todos |
 | Antonio Simões × Maria Joaquina, 10.2.1774 (unterer Eintrag) | **ausgeschlossen** als unsere Maria Joaquina |
 | Theodora Maria *27.12.1780 / tauf 9.1.1781, Rapoula, Alexandre Manoel Furtado × Marianna da Affonseca | **nicht** Maria Joaquina Sol; Schwester nur Kandidat |
 

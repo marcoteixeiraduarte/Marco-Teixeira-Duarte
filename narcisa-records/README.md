@@ -147,7 +147,9 @@ Caetanas Taufe nennt als **mütterliche** Großeltern **Alexandre Manoel**
 nennt **Alexandre** × **Joaquina Maria** aus Castello in derselben
 Pfarrei, wahrscheinlich 1774. Vornamen, Pfarrei und Chronologie passen
 zu einem Sohn **Manoel (Joaquim) Sol**. Das ist **wahrscheinlich**, nicht
-gesichert. `Furtado`/`Affonseca` und Elternzeilen aus diesem Eintrag
+gesichert. Dieses Castello ist das der **Pfarrei Avelar**, nicht
+Castello von Vale de Todos (Auftraggeber: dort liegt Barreira gleich
+daneben). `Furtado`/`Affonseca` und Elternzeilen aus diesem Eintrag
 werden nicht als Tatsache übernommen.
 
 **Theodora Maria** (Taufe 9.1.1781, Rapoula, Eltern Alexandre Manoel
