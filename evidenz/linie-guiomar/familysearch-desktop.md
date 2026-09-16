@@ -98,6 +98,10 @@ Kindesname ist **José**, männlich.
 Bände 1866 und 1868–1873 ohne weiteres Kind dieses Paars. João 1874
 ist Ref. **271946**, Bild 7, dann Rua d'Além.
 
+Passakt Luis Dias Guiomar (33 J., Santos): Taufe nach João, Fenster
+**1876** Ref. **271948**, **1877** 271949, **1878** 271950, **1879**
+271951, **1880** 271952. Band **1875** (271947) ohne dieses Paar.
+
 ## 3. Alvorge, Rand Bemposta
 
 | | |
