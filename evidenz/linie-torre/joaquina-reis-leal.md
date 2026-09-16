@@ -5,6 +5,9 @@ Eltern auf dem Blatt: **Manuel Dias Ramalho** × **Angelica Maria Leal**.
 Die Zivilakte 1912/1937 schreiben sie **Joaquina Reis**. Die drei
 Nachnamen nicht zu einem glätten.
 
+**Auftraggeber: das stimmt** — Joaquina **Reis**, Pragoza; Palmira
+trägt Reis von der Mutter; Leal nicht in 1912/1937 glätten.
+
 Nicht still an José Pedro dos Reis × Narciza hängen, nur weil beide
 in Pragoza sitzen.
 

@@ -9,11 +9,15 @@ der Weiler oft — die Bewegung ist trotzdem da.
 
 Blatt: [Dos Reis / Leal](linie-torre/joaquina-reis-leal.md).
 
+**Auftraggeber: das stimmt.** Reis-Haus in Pragoza über die Töchter;
+Männer ziehen zu; Mendes aus Ateanha folgen der Frau; Barbeiro in
+der Pfarrei; Teixeira umtriebig.
+
 ## Am stärksten sesshaft
 
 | Familie | Ort | Wie das Haus bleibt | Gewissheit |
 | --- | --- | --- | --- |
-| **dos Reis** | **Pragoza** | Kaufmannshaus José Pedro; danach halten die **Töchter**, die Männer ziehen zu | sicher als Muster 1854–1937 |
+| **dos Reis** | **Pragoza** | Kaufmannshaus José Pedro; danach halten die **Töchter**, die Männer ziehen zu | sicher (Akten + Auftraggeber) |
 | **Barbeiro** | Pragoza → Valle de Todos | dieselbe Pfarrei, Weiler rutscht; Anna * Valle de Todos | sicher |
 | **Sol** | Torre | Caetana * und † Torre; Gato kommt zu ihr | sicher |
 | **Guiomar** | Rua d'Além / Vale de Todos | nach der Ankunft aus Alvorge; João † 1958 dort | sicher ab Luiz |

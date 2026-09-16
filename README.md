@@ -33,7 +33,7 @@ Sie wird nicht mehr über alle Einträge gelegt.
 halten die **Töchter** Pragoza, die Männer ziehen zu (Matta aus São
 Jorge, Ascenção aus Valle de Todos). Mendes kommen aus Ateanha und
 folgen der Frau. Barbeiro bleiben in der Pfarrei (Pragoza / Valle de
-Todos). Blatt: [wer-blieb](evidenz/wer-blieb.md).
+Todos). **Auftraggeber: das stimmt.** Blatt: [wer-blieb](evidenz/wer-blieb.md).
 
 In Torre stehen die kleinen Weiler **sogar bei Heiraten** (`Pragoza`,
 `Valle de Todos`, `Rua d'Além`). In Ansião, Chão de Couce, Cumeeira
