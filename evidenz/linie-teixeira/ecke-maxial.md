@@ -46,15 +46,17 @@ Olivenland; Nachbar Ferraria de S. João hat einen alten Überbestand
 ## Was das für die Suche heißt
 
 Heirat und Taufe Maria José: **wir wissen nicht, welche Kirche.**
-Im Kopf behalten — innerer Ring:
+Im Kopf behalten — Ring:
 
 1. Torre de Vale de Todos (`PANS08`)
 2. Lagarteira (`PANS05`)
 3. Ansião (`PANS02`)
 4. Chão de Couce (`PANS04`)
 5. Cumeeira / Cabeça Redonda (`PNL01`)
+6. **Avelar** (`PANS03`)
+7. **Alvorge** (`PANS01`)
 
-Manchmal alle Orte um Ansião. Blatt: [suchkreis](suchkreis.md).
+Blatt: [suchkreis](suchkreis.md).
 
 Joãos eigene Taufe nicht noch einmal suchen (Cumeeira N.º 42).
 

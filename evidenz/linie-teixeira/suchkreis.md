@@ -21,40 +21,43 @@ Naturalidade Ansião 1913 heißt: kirchlich die Pfarrei Ansião **oder**
 eine Taufe in einer Nachbarpfarrei bei Wohnsitz in der Ecke. Nicht
 sofort nur PANS02.
 
-## Innerer Ring — immer im Kopf
+## Immer im Kopf
 
-Diese Kirchen liegen aneinander. Ein Akt in der einen, Paten oder
-Wohnort in der anderen, ist hier normal.
+Diese Kirchen liegen um Ansião. Ein Akt in der einen, Paten oder
+Wohnort in der anderen, ist hier normal. **Avelar** und **Alvorge**
+gehören in denselben Kopf, nicht erst „wenn der Rest leer ist“.
 
-| Pfarrei | Bestand | Weiler der Ecke |
+### Ecke und Nachbarn
+
+| Pfarrei | Bestand | Weiler / Rolle |
 | --- | --- | --- |
-| **Cumeeira** / Cabeça Redonda | AUC `PNL01` | Cabeça Redonda |
+| **Cumeeira** / Cabeça Redonda | AUC `PNL01` | Cabeça Redonda; Taufe João N.º 42 |
 | **Chão de Couce** | DigitArq `PANS04` / tombo ans04 | Carrasqueiras, Maxial |
 | **Ansião** | DigitArq `PANS02` / tombo ans02 | Ribeira de Cima, Magos, Vila |
-| **Torre de Vale de Todos** | DigitArq `PANS08` / tombo ans08 | Vale de Todos; 1913 Pate Joaquim Teixeira aus Figueiras Podres „Pfarrei Torre“ |
+| **Torre de Vale de Todos** | DigitArq `PANS08` / tombo ans08 | Vale de Todos; Pate Joaquim 1913 |
 | **Lagarteira** (LAR) | DigitArq `PANS05` / tombo ans05 | Pião; Grenze zu Torre |
+| **Avelar** | DigitArq `PANS03` / tombo ans03 | Vila de Avelar; Kreis Ansião |
+| **Alvorge** | DigitArq `PANS01` / tombo ans01 | Bemposta, Ateanha; Kreis Ansião |
 
-Heirat **1900–1912** (ab April 1911 Zivilregister Ansião) in **jeder**
-dieser fünf Kirchen möglich. Taufe Maria José (~1882–1885, Bandlauf
-breiter) ebenso. João selbst nicht noch einmal in den fünf Kirchen
+Heirat **1900–1912** (ab April 1911 Zivilregister) in **jeder** dieser
+Kirchen möglich. Taufe Maria José ebenso. João selbst nicht noch einmal
 suchen: seine Taufe ist Cumeeira N.º 42.
 
-## Äußerer Ring — wenn der innere leer bleibt
+Suche in Avelar oder Alvorge **hängt nicht** die Torre-Reis- oder
+Gato-Linie an João Teixeira (Forte). Nur dieselbe Markerregel:
+Francisco José dos Santos × Maria Thereza; João Teixeira × Maria José.
 
-Manchmal ist die Suche **alle Orte um Ansião**: Avelar (`PANS03`),
-Pousaflores, Santiago da Guarda (`PANS07`), Alvorge (`PANS01`).
-Nicht zuerst dorthin; nicht weglassen, wenn der innere Ring leer ist.
+## Weiter außen
 
+Wenn der Ring leer bleibt: Pousaflores, Santiago da Guarda (`PANS07`).
 Nicht nach Gondomar, São Cosme oder anderen Namensvettern außerhalb
 des Kreises springen, nur weil ein Weilername doppelt vorkommt.
 
 ## Reihenfolge, ohne eine Kirche zur einzig richtigen zu machen
 
-1. Innerer Ring, Heiraten 1900–1912: Ansião, Cumeeira, Chão de Couce,
-   Torre, Lagarteira.
-2. Innerer Ring, Taufen Maria José: dieselben fünf.
-3. Äußerer Ring um Ansião, dieselbe Markerregel
-   (Francisco José dos Santos × Maria Thereza; João Teixeira × Maria José).
+1. Ecke: Ansião, Cumeeira, Chão de Couce, Torre, Lagarteira.
+2. **Avelar**, **Alvorge** — gleicher Suchkreis, gleicher Marker.
+3. Pousaflores / Santiago da Guarda, falls der Ring leer bleibt.
 
 Die Ecke erklärt, warum das so ist:
 [ecke-maxial](ecke-maxial.md).

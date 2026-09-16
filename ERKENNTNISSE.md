@@ -89,7 +89,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
 | João Teixeira (Forte) | * 13.10.1879 Cabeça Redonda; Taufname João; Forte = Großmutter Maria Forte; Eltern Custodio Teixeira (Figueiras Podres, wohnhaft Cabeça Redonda) × Joana de Jesus (Cabeça Redonda); Paten Carrasqueiras / Chão de Couce | sicher | [teixeira](teixeira-records/README.md) |
-| Maria José dos Santos | ~1884, freguesia Ansião; Frau Joãos; Eltern **Francisco José dos Santos** × **Maria Thereza** (Akt 1913); Taufe und Heirat offen — Kirche unbekannt, Ring Torre/Lagarteira/Ansião/Chão de Couce/Cumeeira | sicher als Eltern 1913; Taufe/Heirat offen | [maria-jose](evidenz/linie-teixeira/maria-jose-dos-santos.md) |
+| Maria José dos Santos | ~1884, freguesia Ansião; Frau Joãos; Eltern **Francisco José dos Santos** × **Maria Thereza** (Akt 1913); Taufe und Heirat offen — Kirche unbekannt, Ring Torre/Lagarteira/Ansião/Chão de Couce/Cumeeira/**Avelar**/**Alvorge** | sicher als Eltern 1913; Taufe/Heirat offen | [maria-jose](evidenz/linie-teixeira/maria-jose-dos-santos.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
@@ -118,7 +118,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
 8. João Teixeira **(Forte)**: Weiler **Cabeça Redonda**; Taufname João; Vater `Custodio`, natürlich **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana natürlich Cabeça Redonda; Paten **Carrasqueiras / Chão de Couce**
-8a. `Pais de Maria José por confirmar` → **Francisco José dos Santos** × **Maria Thereza**; Heirat João × Maria José offen — Kirche unbekannt (Torre / Lagarteira / Ansião / Chão de Couce / Cumeeira, manchmal alle Orte um Ansião)
+8a. `Pais de Maria José por confirmar` → **Francisco José dos Santos** × **Maria Thereza**; Heirat João × Maria José offen — Kirche unbekannt (Torre / Lagarteira / Ansião / Chão de Couce / Cumeeira / **Avelar** / **Alvorge**)
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen

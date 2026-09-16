@@ -36,7 +36,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `linie-teixeira/` — João Teixeira (Forte) 1879; Maria José dos Santos;
-  Ecke Maxial; Suchkreis Torre/Lagarteira/Ansião/Chão de Couce/Cumeeira
+  Ecke Maxial; Suchkreis inkl. Avelar und Alvorge
 - `quellenregister.md` — alle versionierten Scans
 
 ## Regel für neue Funde

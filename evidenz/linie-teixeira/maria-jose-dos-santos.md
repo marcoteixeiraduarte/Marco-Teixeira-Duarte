@@ -51,10 +51,9 @@ Emília Guiomar, Vale de Todos — nächste Generation, nicht Maria José.
 Noch **offen**. Kind * 10.09.1913, João * 13.10.1879: Fenster etwa
 **1900–1912**. Ab April 1911 Zivilregister Ansião.
 
-**In welcher Kirche, wissen wir nicht.** Der innere Ring bleibt im
-Kopf: Torre de Vale de Todos, Lagarteira, Ansião, Chão de Couce,
-Cumeeira (Cabeça Redonda). Manchmal alle Orte um Ansião. Blatt:
-[suchkreis](suchkreis.md).
+**In welcher Kirche, wissen wir nicht.** Im Kopf: Torre de Vale de
+Todos, Lagarteira, Ansião, Chão de Couce, Cumeeira, **Avelar**,
+**Alvorge**. Blatt: [suchkreis](suchkreis.md).
 
 Nicht mit der Heirat des Sohnes 1937 verwechseln.
 

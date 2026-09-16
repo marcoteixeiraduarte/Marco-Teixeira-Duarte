@@ -58,8 +58,8 @@ wohnhaft Ribeira de Cima mit João. Eltern (Zivilakt Sohn Manuel,
 10.09.1913): **Francisco José dos Santos** × **Maria Thereza**.
 
 Heirat João × Maria José: **offen**. Welche Kirche, unbekannt.
-Suchkreis: Torre, Lagarteira, Ansião, Chão de Couce, Cumeeira;
-manchmal alle Orte um Ansião.
+Suchkreis: Torre, Lagarteira, Ansião, Chão de Couce, Cumeeira,
+**Avelar**, **Alvorge**.
 [suchkreis](../evidenz/linie-teixeira/suchkreis.md).
 
 Blatt: [maria-jose-dos-santos.md](../evidenz/linie-teixeira/maria-jose-dos-santos.md).
