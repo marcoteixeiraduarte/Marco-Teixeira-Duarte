@@ -13,7 +13,8 @@ Prüfblatt mit Transkript:
 - geboren **13. Oktober 1879**, 18 Uhr
 - Geburtsort: `logar de Cabeça Redonda` dieser Pfarrei
 - Vater: **Custodio Teixeira**, caseiro, natürlich aus
-  **Figueiras Podres**
+  **Figueiras Podres**, wohnhaft in **Cabeça Redonda**
+  (aus Figueiras Podres, wohnen in Cabeça Redonda — so bei Custodio)
 - Mutter: **Joana de Jesus**, caseira, natürlich aus
   **Cabeça Redonda** — nicht aus Figueiras Podres
 - wohnhaft: Cabeça Redonda; dort getraut und Pfarrkinder
