@@ -95,9 +95,10 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 Zehn Kamerabilder **5712×4284** in
 [conservatoria-ansiao/](conservatoria-ansiao/README.md).
-Noch **nicht** festgelesen: automatische Lesungen widersprechen sich,
-OCR versagt. Namen und Daten aus diesen Fotos stehen deshalb nicht
-im Stammbaum.
+Gelesen: `01` (Manuel 1913), `03`/`02` (Heirat 1937 Teixeira×Guiomar),
+`04` (Maria Emília 1915), `06`/`05` (Heirat 1937 Mendes×Palmira),
+`07` (Tod João Guiomar 1958), `08`/`09` (Palmira 1912).
+Keine Ausweisnummern aus diesen Fotos übernehmen.
 
 ## Nicht in diesem Archiv
 

@@ -79,6 +79,12 @@ Taufeintrag. `Neta` bei der Mutter steht 1845 nicht; 1880 heißt sie
 **Joaquina Maria Neta**. Die beiden Formen bleiben nebeneinander.
 `† 1922` steht in dieser Taufe nicht.
 
+1937 sitzt der Sohn **José Maria Ascenção** als proprietário mit
+Maria da Piedade im **lugar da Pragoza** (Heirat des Enkels José
+Mendes, `archiv/conservatoria-ansiao/06.jpg`). Er * Valle de Todos,
+Vater aus Ateanha: der Mann ist zur Reis-Frau gezogen.
+Blatt: [wer-blieb](../evidenz/wer-blieb.md).
+
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0004`,

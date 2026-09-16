@@ -37,6 +37,8 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `linie-teixeira/` — João Teixeira (Forte) 1879; Maria José dos Santos;
   Ecke Maxial; Suchkreis inkl. Avelar und Alvorge
+- `wer-blieb.md` — welche Familie wo sesshaft; Zuzug über Mann oder Frau
+- `linie-torre/joaquina-reis-leal.md` — Joaquina Reis / Ramalho / Leal, nicht glätten
 - `quellenregister.md` — alle versionierten Scans
 
 ## Regel für neue Funde

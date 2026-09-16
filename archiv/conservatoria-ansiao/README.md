@@ -30,15 +30,29 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 Foto `01.jpg` ist für den Geburtsakt **Manuel Teixeira** (10.09.1913,
 Ribeira de Cima) gelesen: Eltern João Teixeira × Maria José dos Santos;
 Großeltern Custodio Teixeira × Joana de Jesus und **Francisco José dos
-Santos** × **Maria Thereza**. Fotos `02`–`09` bleiben offen.
-Foto `10` ist das Deckblatt.
+Santos** × **Maria Thereza**.
 
-Offene Blattkarten dieser Generation, sobald ein Akt festgelesen ist:
+Weitere Fotos, soweit festgelesen (keine Ausweisnummern):
 
-- Manuel Teixeira · * 10.09.1913 · Ribeira de Cima (Akt `01.jpg` gelesen)
-- Maria Emília Guiomar · * 21.08.1915 · Vale de Todos
-- José Mendes d'Ascensão · * 1914
-- Palmira Reis · * 24.04.1912
+| Datei | Akt | Gewissheit |
+| --- | --- | --- |
+| `03.jpg` (+ Schluss `02.jpg`) | Heirat 23.04.1937 Manuel Teixeira × Maria Emília de Guiomar | sicher |
+| `04.jpg` | Geburt Maria Emília Guiomar, 21.08.1915, Vale de Todos | sicher |
+| `06.jpg` (+ Schluss `05.jpg`) | Heirat 19.04.1937 José Mendes Ascenção × Palmira dos Reis, beide **Pragoza** | sicher |
+| `07.jpg` | Tod João Dias Guiomar, 08.01.1958, Vale de Todos | sicher |
+| `08.jpg` / `09.jpg` | Geburt Palmira Reis, 24.04.1912, Pragoza; Mutter **Joaquina Reis** | sicher |
+| `10.jpg` | Deckblatt der Fotokopie | — |
 
-und die 3.º avó Joaquina Ramalha dos Reis. Maria José dos Santos:
-Eltern aus `01.jpg` bekannt, eigene Taufe und Heirat mit João offen.
+Blatt: [joaquina-reis-leal](../../evidenz/linie-torre/joaquina-reis-leal.md),
+[wer-blieb](../../evidenz/wer-blieb.md).
+
+Offene Blattkarten dieser Generation:
+
+- Manuel Teixeira · * 10.09.1913 · Ribeira de Cima (`01.jpg`)
+- Maria Emília Guiomar · * 21.08.1915 · Vale de Todos (`04.jpg`)
+- José Mendes d'Ascensão · * 1914 (Heirat 1937 gelesen; eigene Geburt N.º 320/1914 hier kein Foto)
+- Palmira Reis · * 24.04.1912 · Pragoza (`08.jpg`)
+
+3.º avó Joaquina: in 1912/1937 **Joaquina Reis**, natürlich Pragoza.
+Blatt Ramalho × Leal nicht glätten. Maria José dos Santos: Eltern aus
+`01.jpg` bekannt, eigene Taufe und Heirat mit João offen.

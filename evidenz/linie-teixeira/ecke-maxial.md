@@ -24,6 +24,11 @@ Couce**, **Ansião**, **Torre de Vale de Todos**. **Die Teixeira waren
 umtriebig:** ein Haus kann Cumeeira taufen, Chão de Couce als
 Patenpfarrei nennen und 1913 in Ansião wohnen, ohne weit zu ziehen.
 
+Wer welches Haus hält, und ob der Zuzug über Mann oder Frau ging:
+[wer-blieb](../wer-blieb.md). **Dos Reis** sitzen in Pragoza fester
+als Mendes (Mendes kommen aus Ateanha; die Töchter Reis halten den
+Weiler).
+
 **Nicht** wie Mendes / Barbeiro: die bleiben in **Pragoza** / Valle
 de Todos. In Torre stehen die kleinen Weiler **sogar in den Heiraten**
 (`Pragoza`, `Valle de Todos`, `Rua d'Além`). Die anderen Kirchen des

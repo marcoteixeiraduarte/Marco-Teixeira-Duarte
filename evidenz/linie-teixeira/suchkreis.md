@@ -75,3 +75,9 @@ In Torre das Gegenteil: ohne Weiler wäre der Akt untypisch.
 
 Linien nicht mischen. Mendes/Barbeiro bleiben Torre. Teixeira bleiben
 umtriebig über den Ring.
+
+Wer am Ort am stärksten blieb, und ob der Zuzug über den Mann oder
+die Frau ging: [wer-blieb](../wer-blieb.md). **Dos Reis** in Pragoza
+halten nach José Pedro über die **Töchter**; Mendes kommen aus
+Ateanha und ziehen zur Frau. **Leal** noch nicht im Zivilakt 1912
+festgelesen — [joaquina-reis-leal](../linie-torre/joaquina-reis-leal.md).

@@ -94,7 +94,11 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
-| Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta | sicher | [matta](matta-records/README.md) |
+| Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](matta-records/README.md) |
+| Joaquina Reis | natürlich Pragoza; Blatt Ramalha dos Reis / Eltern Ramalho × Leal; Zivil 1912 **Reis** | sicher als Ort und Name 1912; Leal offen | [joaquina-reis-leal](evidenz/linie-torre/joaquina-reis-leal.md) |
+| Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes, beide Pragoza | sicher | joaquina-reis-leal |
+
+Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
 
 ### Avelar – abgegrenzt
 
@@ -119,6 +123,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
 8. João Teixeira **(Forte)**: Weiler **Cabeça Redonda**; Taufname João; Vater `Custodio`, natürlich **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana natürlich Cabeça Redonda; Paten **Carrasqueiras / Chão de Couce**
 8a. `Pais de Maria José por confirmar` → **Francisco José dos Santos** × **Maria Thereza**; Heirat João × Maria José offen — Kirche unbekannt (Torre / Lagarteira / Ansião / Chão de Couce / Cumeeira / **Avelar** / **Alvorge**)
+8b. Joaquina: Zivil **Reis**, Pragoza; Blatt Ramalho × Leal nicht glätten; Heirat mit Manuel Matta **26.08.1897** (wahrscheinlich, Akt 1912)
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
@@ -160,7 +165,8 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | Priorität | Aufgabe |
 | --- | --- |
 | 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
-| 2 | Conservatória Ansião: zehn Fotos in [`archiv/conservatoria-ansiao/`](archiv/conservatoria-ansiao/README.md) händisch lesen (bisavós *1912–1915) |
+| 2 | Conservatória Ansião: `01` `03` `04` `06` `07` `08` gelesen; Geburt José Mendes N.º 320/1914 und Heirat Torre **26.08.1897** Manuel × Joaquina noch ohne Scan |
+| 2a | Casamentos Torre 1897: Manuel d'Matta × Joaquina Reis — entscheidet Reis / Ramalho / Leal |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |

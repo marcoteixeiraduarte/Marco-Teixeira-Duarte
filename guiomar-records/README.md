@@ -36,9 +36,11 @@ Spätere Hände an dieser Taufe nennen:
 - den Tod am **8. Januar 1958** in der Pfarrei Torre
 
 Das Blatt-`† 08.01.1958 · Vale de Todos` **passt** zu diesem
-Sterbevermerk. Der Zivilakt selbst ist hier nicht geprüft. Das genaue
-Heiratsdatum ist in dieser Hand nicht als einzige gesicherte Form
-festgehalten (Lesungen 1907 und 1909).
+Sterbevermerk. Zivilakt Conservatória: `archiv/conservatoria-ansiao/07.jpg`,
+Akt N.º 7 — **passt** (João Dias Guiomar, 83, proprietário, Vale de
+Todos; Frau Maria Helena, natürlich Lagarteira, dort wohnhaft). Das
+genaue Heiratsdatum ist in der Taufhand nicht als einzige gesicherte
+Form festgehalten (Lesungen 1907 und 1909).
 
 Quelle:
 

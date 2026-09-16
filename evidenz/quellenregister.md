@@ -38,3 +38,14 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1854-JOSE-B | Taufe José Pedro, Fortsetzung | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0057.jpg` |
 | AVL-BAP-1781-THEO | Taufe Theodora Maria | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANSO3-001-0003_m0028.jpg` |
 | AVL-CAS-1774-13 | Zwei Heiraten: Alexandre×Joaquina und Antonio Simões×Maria Joaquina | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg` (Kopie: `narcisa-records/casamento-avos-avelar/`) |
+
+## Conservatória Ansião (Fotokopien)
+
+| ID | Ereignis | Datei |
+|---|---|---|
+| CON-NAS-1913-MANUEL | Geburt Manuel Teixeira, Ribeira de Cima | `archiv/conservatoria-ansiao/01.jpg` |
+| CON-CAS-1937-TEIX | Heirat Manuel Teixeira × Maria Emília de Guiomar | `archiv/conservatoria-ansiao/03.jpg` |
+| CON-NAS-1915-EMILIA | Geburt Maria Emília Guiomar, Vale de Todos | `archiv/conservatoria-ansiao/04.jpg` |
+| CON-CAS-1937-11 | Heirat José Mendes Ascenção × Palmira dos Reis, Pragoza | `archiv/conservatoria-ansiao/06.jpg` |
+| CON-OBI-1958-JOAO | Tod João Dias Guiomar, Vale de Todos | `archiv/conservatoria-ansiao/07.jpg` |
+| CON-NAS-1912-69 | Geburt Palmira Reis, Pragoza | `archiv/conservatoria-ansiao/08.jpg` |

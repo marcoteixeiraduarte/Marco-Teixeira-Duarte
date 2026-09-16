@@ -28,7 +28,10 @@ nicht als Taufname des Kindes.
 Spätere Hände nennen:
 
 - eine Heirat mit **Joaquina Ramalho** (Tagesjahr in dieser Hand
-  nicht als einzige Form; Lesungen 1904 und 1926)
+  nicht als einzige Form; Lesungen 1904 und 1926). Zivil Geburt der
+  Tochter Palmira 1912: Elternheirat **26.08.1897**; Frau dort
+  **Joaquina Reis**, natürlich Pragoza; Manuel wohnhaft Pragoza
+  (aus São Jorge zugezogen)
 - den Tod am **15.** eines Monats; der Vermerk ist in Ansião am
   **14. Juli 1946** nachgetragen, Zivilregister Nr. 126
 
