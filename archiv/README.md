@@ -60,6 +60,14 @@ Leer lassen, bis du sie selbst gelesen hast.
 | Datei | Px | Portal |
 | --- | --- | --- |
 | [1874-baptismo-joao-PANS08-001-0019_m0007.jpg](guiomar/1874-baptismo-joao-PANS08-001-0019_m0007.jpg) | 1985×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/0891824574de4cadb67f50b56c8b0066) |
+| [1860-casamento-filho-jose-gregorio-PANS08-002-0004_m0003.jpg](guiomar/1860-casamento-filho-jose-gregorio-PANS08-002-0004_m0003.jpg) | 2295×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/05068c6b3e91459baf7a6f2993b4a6c0) |
+| [1845-baptismo-bemposta-dias-guiomar-PANS01-001-0004_m0180.jpg](guiomar/1845-baptismo-bemposta-dias-guiomar-PANS01-001-0004_m0180.jpg) | 2169×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/4b820d7bb81e4910a88430792e576518) |
+| [1859-casamento-luiz-dias-delfina-PANS08-002-0003_m0082.jpg](guiomar/1859-casamento-luiz-dias-delfina-PANS08-002-0003_m0082.jpg) | 2430×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9) |
+| [1860-baptismo-jose-PANS08-001-0005_m0005.jpg](guiomar/1860-baptismo-jose-PANS08-001-0005_m0005.jpg) | 2295×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/844a4a786ddd4b3b9ffbd72068c967f6) |
+| [1862-baptismo-manuel-PANS08-001-0007_m0005.jpg](guiomar/1862-baptismo-manuel-PANS08-001-0007_m0005.jpg) | 2388×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/246a5d7b5af846f0a452f06b26010bd4) |
+| [1864-baptismo-maria-PANS08-001-0009_m0004.jpg](guiomar/1864-baptismo-maria-PANS08-001-0009_m0004.jpg) | 2266×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/d0db326739e548e38579882ea265a6c3) |
+| [1867-baptismo-antonio-PANS08-001-0012_m0003.jpg](guiomar/1867-baptismo-antonio-PANS08-001-0012_m0003.jpg) | 2221×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/2ee004fd29bb4b69bdc12cb8e1756a26) |
+| [1867-baptismo-antonio-PANS08-001-0012_m0004.jpg](guiomar/1867-baptismo-antonio-PANS08-001-0012_m0004.jpg) | 2233×1500 | dasselbe |
 | [1882-baptismo-maria-PANS05-001-0027_m0003.jpg](guiomar/1882-baptismo-maria-PANS05-001-0027_m0003.jpg) | 2695×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/2c7b220442234ab791fe60ff866e08f2) |
 
 ### Matta

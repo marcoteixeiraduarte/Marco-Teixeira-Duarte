@@ -1,19 +1,29 @@
 # Evidenz-Ledger
 
-Jeder Fakt steht nur, wenn ein Scan danebenliegt.
 Schreibweisen bleiben so, wie sie im Eintrag stehen.
 Linien werden nicht vermischt.
+
+## Quellenarten
+
+| Art | Bedeutung |
+|---|---|
+| Scan | Kirchenbuch, Zivilakt, Foto. Form und Datum von dort. |
+| Auftraggeber | was du sicher weißt. **Gilt.** |
+| Grundstücke | Caderneta, Matriz, Escritura beim Auftraggeber. Genealogisch nur Ort und Personen. **Nicht** ins Repo oder nach Geni: Artikelnummer, NIF, volle Anschrift, Flurnummer. |
+
+Geni, Schätzdaten und stille Vermischung sind keine Quelle.
 
 ## Gewissheit
 
 | Stufe | Bedeutung |
 |---|---|
-| sicher | am Originalscan gelesen, Datum und Personen passen zusammen |
-| wahrscheinlich | gleiche Personen über mehrere Einträge, aber ein Detail weicht ab |
+| sicher | feststehend: am Scan gelesen **oder** Auftraggeber-Wissen |
+| wahrscheinlich | mehrere Einträge zeigen dieselbe Person, ein Detail weicht ab |
 | Kandidat | Namens- und Ortsnähe, Identität nicht bewiesen |
-| offen | gesucht, nicht gefunden oder widersprüchlich |
+| offen | wirklich unbekannt — nicht: „steht nicht wörtlich im Scan“ |
 
-Unsichere Wörter stehen in `[]`.
+Unsichere **Lesungen** am Scan stehen in `[]`. Das ist nicht dasselbe
+wie Auftraggeber-Wissen.
 
 ## Ausgangspunkt
 
@@ -35,6 +45,8 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
+- `linie-guiomar/` — Dias Guiomar (Bemposta/Alvorge × Torre); nicht Roza/Reis
+- `passregister-teixeira-duarte.md` — Manuel Teixeira und Manuel Duarte sind nicht der Pass Luis Dias Guiomar
 - `quellenregister.md` — alle versionierten Scans
 
 ## Regel für neue Funde
