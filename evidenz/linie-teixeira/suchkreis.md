@@ -60,3 +60,18 @@ des Kreises springen, nur weil ein Weilername doppelt vorkommt.
 
 Die Ecke erklärt, warum das so ist:
 [ecke-maxial](ecke-maxial.md).
+
+## Nicht wie Mendes / Barbeiro in Pragoza
+
+Die **Mendes** und **Barbeiro** bleiben in **Pragoza** / Valle de
+Todos. In der Pfarrei Torre stehen bei Taufen und Heiraten die
+kleinen Weiler: `Pragoza`, `Valle de Todos`, `Rua d'Além`, `São Jorge`.
+Das machen die anderen Kirchen des Rings **selten bis gar nicht**.
+
+Deshalb: eine Teixeira-Heirat in Ansião, Chão de Couce oder Cumeeira
+nennt oft nur die Pfarrei, nicht Cabeça Redonda oder Carrasqueiras.
+Das Fehlen des Weilers heißt nicht, dass es die falsche Familie ist.
+In Torre das Gegenteil: ohne Weiler wäre der Akt untypisch.
+
+Linien nicht mischen. Mendes/Barbeiro bleiben Torre. Teixeira bleiben
+umtriebig über den Ring.

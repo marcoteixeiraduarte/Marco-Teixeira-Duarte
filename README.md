@@ -29,6 +29,12 @@ Torre de Valle de Todos (heute Torre de Vale de Todos), Kreis Ansião.
 Die frühere einheitliche Blattform `Pragosa` war eine Normalisierung.
 Sie wird nicht mehr über alle Einträge gelegt.
 
+In Torre stehen die kleinen Weiler **sogar bei Heiraten** (`Pragoza`,
+`Valle de Todos`, `Rua d'Além`). In Ansião, Chão de Couce, Cumeeira
+tun das die Kirchen **selten bis gar nicht**. Lustig, dass gerade
+Vale de Todos das macht. Die Mendes/Barbeiro bleiben in diesem
+Weilerkreis; die Teixeira nicht.
+
 ### VALLE DE TODOS / Vale de Todos
 
 Identifizierte Pfarrei und gleichnamiger Ort: Torre de Valle de Todos /

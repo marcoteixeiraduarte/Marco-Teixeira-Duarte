@@ -8,7 +8,9 @@ Nachname des Kindes.
 **Die Teixeira waren umtriebig:** Custodio aus Figueiras Podres,
 wohnhaft Cabeça Redonda; João 1879 Cumeeira, 1913 Ribeira de Cima
 (Ansião); Pate Joaquim Teixeira 1913 Figueiras Podres / Torre. Deshalb
-Heirat und Taufe Maria José im ganzen Ring suchen.
+Heirat und Taufe Maria José im ganzen Ring suchen. **Nicht** wie
+Mendes/Barbeiro in Pragoza: Torre nennt die kleinen Weiler **sogar
+bei Heiraten**; die anderen Kirchen tun das selten bis gar nicht.
 
 Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
 Coimbra. Schreibweisen folgen dem Eintrag.

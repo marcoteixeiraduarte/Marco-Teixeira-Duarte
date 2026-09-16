@@ -54,7 +54,9 @@ Podres). Großeltern dort: **Jozé Simão Teixeira** × **Maria Forte**
 (Figueiras Podres); **Joaquim Carvalho** × **Maria de Jesus**
 (Cabeça Redonda). Die Paten João da Cruz und Maria da Conceição
 stehen mit **Carrasqueiras**, Pfarrei **Chão de Couce** – das ändert
-den Elternort nicht.
+den Elternort nicht. Die Teixeira waren **umtriebig** (nicht wie
+Mendes/Barbeiro in Pragoza). Heirat mit Maria José deshalb im Ring,
+nicht nur in Cumeeira.
 
 #### Maria José dos Santos · ~1884 · Ansião
 

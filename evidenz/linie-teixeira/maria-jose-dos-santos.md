@@ -55,6 +55,11 @@ Noch **offen**. Kind * 10.09.1913, João * 13.10.1879: Fenster etwa
 Todos, Lagarteira, Ansião, Chão de Couce, Cumeeira, **Avelar**,
 **Alvorge**. Blatt: [suchkreis](suchkreis.md).
 
+Außerhalb Torre nennen die Kirchen bei Heiraten die kleinen Weiler
+**selten bis gar nicht**. Ein Akt ohne Cabeça Redonda oder
+Carrasqueiras kann trotzdem dieser Familie gehören. In Torre wäre
+das untypisch — dort bleiben Mendes/Barbeiro in **Pragoza**.
+
 Nicht mit der Heirat des Sohnes 1937 verwechseln.
 
 Lokal liegen bisher nur die ersten Blätter von PANS02 1900–1909

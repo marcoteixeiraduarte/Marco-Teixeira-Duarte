@@ -24,6 +24,14 @@ Couce**, **Ansião**, **Torre de Vale de Todos**. **Die Teixeira waren
 umtriebig:** ein Haus kann Cumeeira taufen, Chão de Couce als
 Patenpfarrei nennen und 1913 in Ansião wohnen, ohne weit zu ziehen.
 
+**Nicht** wie Mendes / Barbeiro: die bleiben in **Pragoza** / Valle
+de Todos. In Torre stehen die kleinen Weiler **sogar in den Heiraten**
+(`Pragoza`, `Valle de Todos`, `Rua d'Além`). Die anderen Kirchen des
+Rings tun das **selten bis gar nicht** — lustig, dass gerade Vale de
+Todos das macht. Eine Teixeira-Heirat in Ansião, Chão de Couce oder
+Cumeeira kann Cabeça Redonda oder Carrasqueiras weglassen, ohne die
+falsche Familie zu sein. In Torre wäre ein Akt ohne Weiler untypisch.
+
 ## Vier Mündungen
 
 Mündlich: vier Wasser münden dort. Geprüft daneben: Karst des
@@ -58,6 +66,7 @@ Im Kopf behalten — Ring:
 Blatt: [suchkreis](suchkreis.md).
 
 Joãos eigene Taufe nicht noch einmal suchen (Cumeeira N.º 42).
+Fehlender Weiler in einer Heirat außerhalb Torre ist hier normal.
 
 Duarte `* 1885 Carrasqueiras` und die Paten 1879 bleiben getrennt,
 auch wenn der Weiler geografisch derselbe Kandidat ist.
