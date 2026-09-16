@@ -1,6 +1,7 @@
 # Torre 16.02.1860 — Kind von José Gregorio × Nazareth Maria
 
-Nicht die Heirat Luiz × Delfina. Ein **Geschwister** Delfinas
+Nicht die Heirat Luiz × Delfina (die liegt am **10.11.1859**). Ein
+**Geschwister** Delfinas.
 (oder sie selbst — Vornamen noch gegenlesen).
 
 Quelle: Torre Casamentos 1860, `PANS08/002/0004`, Bild `m0003`,

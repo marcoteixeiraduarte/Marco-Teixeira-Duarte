@@ -89,7 +89,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | --- | --- | --- | --- |
 | João Teixeira | * 13.10.1879 Cabeça Redonda; Eltern Custodio Teixeira × Joana de Jesus | sicher | [teixeira](teixeira-records/README.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
-| Luiz Guiomar × Delfina Maria | Eltern João 1874; Großvater **Antonio Dias Guiomar** (nicht Sohn Luizes); Luiz natural Bemposta/Alvorge; Delfina natural **lugar da Leiria**, Pfarrei Torre (1860 bestätigt); `aqui recebidos` in Torre; 1874 wohnhaft **Rua d'Além** | sicher im Taufakt; Luiz * ~1835 und Delfina * 1902 (Geni) keine Quellen. Delfina 1902 **unmöglich**. Geschwisterakt 16.02.1860: [1860](evidenz/linie-guiomar/1860-casamento-filho-jose-gregorio.md) |
+| Luiz Guiomar × Delfina Maria | Heirat **10.11.1859** Torre (`Luiz Dias`); Taufe João 1874 (`Luiz Guiomar`); Großvater Antonio Dias Guiomar; Luiz natural Bemposta/Alvorge; Delfina natural lugar da Leiria; 1874 Rua d'Além | sicher. Blatt: [1859](evidenz/linie-guiomar/1859-casamento-luiz-delfina.md) |
 | João und Maria Emília, Barreira | **Barreira** (Grundstücksakten); Civil Lugar Vale de Todos | sicher | [guiomar](guiomar-records/README.md); [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
@@ -164,7 +164,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
 | 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` — **nicht** mit Dias Guiomar / Bemposta vermischen |
-| 6b | **Dias Guiomar:** Luiz × Delfina nicht in Torre Casamentos 1860–1874. Nächster Band **1812–1859** `PANS08/002/0003`. Alvorge 1822–1852 lokal, Durchsicht. FamilySearch hier 403 |
+| 6b | **Dias Guiomar:** Heirat Luiz × Delfina **10.11.1859** liegt. Als Nächstes Taufe Luiz (Alvorge) und Geschwister João ab 1860. FamilySearch 1976101 schärfer, hier kein Viewer |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 

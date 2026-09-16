@@ -32,7 +32,7 @@ Gegenlese 15.09.2026, Elternzeilen:
 | Antonio Dias Guiomar × Joaquina Maria | Eltern Luizes | sicher |
 | Luiz Guiomar | Vater João; natürlich **Bemposta**, Pfarrei **Alvorge** | sicher |
 | Delfina Maria | Mutter João; natürlich **lugar da Leiria, dieser Pfarrei Torre** | sicher (1874 + Heirat 16.02.1860 derselben Eltern) |
-| `aqui recebidos` | Luiz × Delfina in **Torre** getraut | sicher |
+| `aqui recebidos` | Luiz × Delfina in **Torre** getraut | sicher: **10.11.1859** |
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht zwingend erstes Kind | sicher als Formel |
 
@@ -128,7 +128,7 @@ Archiv `PT/ADLRA/PRQ/PANS…`:
 | # | Pfarrei | tombo | Signatur | Orago | Bezug zu dieser Spur |
 |---|---|---|---|---|---|
 | 1 | **Alvorge** | [ans01](https://tombo.pt/f/ans01) | `PANS01` | Nossa Senhora da Conceição | Luiz natural **Bemposta**. Taufe Luiz und Geschwister Antonio Dias Guiomar × Joaquina Maria |
-| 2 | **Torre de Vale de Todos** | [ans08](https://tombo.pt/f/ans08) | `PANS08` | Nossa Senhora da Graça | Taufe João 1874; Heirat Luiz × Delfina (`aqui recebidos`); Rua d'Além; Taufe Delfina |
+| 2 | **Torre de Vale de Todos** | [ans08](https://tombo.pt/f/ans08) | `PANS08` | Nossa Senhora da Graça | Taufe João 1874; Heirat Luiz × Delfina **10.11.1859**; Rua d'Além; Taufe Delfina |
 | 3 | **Ansião** (Vila) | [ans02](https://tombo.pt/f/ans02) | `PANS02` | Nossa Senhora da Conceição | Stadtpfarre, Nachbar. Marker Dias Guiomar / Guiomar als Nachname |
 | 4 | **Santiago da Guarda** | [ans07](https://tombo.pt/f/ans07) | `PANS07` | São Tiago | Nachbarpfarre Alvorge/Ansião. Nicht mit der mündlichen Santos-Spur vermischen |
 | 5 | **Lagarteira** | [ans05](https://tombo.pt/f/ans05) | `PANS05` | São Domingos | Schwiegerpfarre João (Maria 1882). Dias Guiomar dort suchen, nicht nur die Schwiegermutter |
@@ -174,23 +174,13 @@ des Kreises, dieselben Marker.
 2. **Alvorge Batismos 1808–1822** `PANS01/001/0003`, falls Luiz früher
    liegt oder Geschwister vor 1822. Alvorge-Heiraten Antonio × Joaquina
    daneben.
-3. **Torre Casamentos** vor April 1874: Luiz Guiomar × Delfina Maria
-   (`aqui recebidos`). Zuerst die kleinen Jahresbände, Inventar ADLRA
-   [PANS08](https://adlra.dglab.gov.pt/wp-content/uploads/sites/13/2015/07/Torre-Vale-Todos_PANS08.pdf):
+3. **Torre Casamentos** Luiz Guiomar × Delfina Maria (`aqui recebidos`).
+   **Gefunden: 10.11.1859**, `PANS08/002/0003` m0082. Blatt:
+   [1859-casamento-luiz-delfina.md](1859-casamento-luiz-delfina.md).
+   Quellenform des Bräutigams dort: `Luiz Dias`.
 
-   | Jahr | Signatur | Bilder (nosportugueses) |
-   |---|---|---|
-   | 1873 | `PANS08/002/0017` | 8 |
-   | 1872 | `PANS08/002/0016` | 8 |
-   | 1871 | `PANS08/002/0015` | 10 |
-   | 1870 | `PANS08/002/0014` | 5 |
-   | 1869 | `PANS08/002/0013` | **keine Heiraten** (Index-Notiz) |
-   | dann 1868 → zurück | `002/0012` … | |
-
-4. **Torre Batismos** ab 1875: `PANS08/001/0020` (1875, 13 Bilder),
-   dann 0021, 0022 … Geschwister Luiz × Delfina. João ist nur der
-   erste dieses Vornamens. Geni-„Söhne“ Antonio / Manuel hier prüfen,
-   nicht voraussetzen.
+4. **Torre Batismos** ab **1860** (nicht erst 1875): Geschwister Luiz ×
+   Delfina. João 1874 ist `primeiro deste nome`, 15 Jahre nach der Heirat.
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
    Lugar Leiria (1860 bestätigt). Fenster um 1831 und jünger. Eigenes
    Fenster, nicht mit Dias Guiomar vermischen. Geschwisterakt:
@@ -203,58 +193,47 @@ des Kreises, dieselben Marker.
 
 ## Stand 16.09.2026 (Fortsetzung)
 
-Weitergesucht, ohne auf Nachfrage zu warten.
+**Heirat gefunden.** 10.11.1859, Torre: **Luiz Dias** × **Delfina Maria**.
+Blatt: [1859-casamento-luiz-delfina.md](1859-casamento-luiz-delfina.md).
 
-DigitArq-Dissemination **läuft** (`/api/rdigital/{uuid}` +
-`/rdigital/dissemination?fileId=`). FamilySearch von hier **403**
-(Incapsula). Katalog Alvorge bleibt 1990465 / Ref. 271248 — schärfer,
-hier nicht zu öffnen.
+FamilySearch wäre für genau diese Seite und für Alvorge m0180 (Mai 1840)
+schärfer. Sammlung
+[1976101](https://www.familysearch.org/en/search/collection/1976101)
+(Portugal, Leiria, Catholic Church Records). Nós-Portugueses-Ref.
+**271980** (Torre Casamentos 1812–1859, Bild gegen Ende) und **271248**
+(Alvorge Batismos 1822–1852, um Bild 180). Von dieser Umgebung lädt der
+Viewer nicht (SPA/Cookies; Katalog 1990465 hier 404). DigitArq reicht
+für die Namenszeilen 1859.
 
-Treffer, nicht Luiz × Delfina:
+Weitere Treffer:
 
-- **16.02.1860** Torre: Kind von **José Gregorio † × Nazareth Maria**,
-  **lugar da Leiria**. Blatt:
-  [1860-casamento-filho-jose-gregorio.md](1860-casamento-filho-jose-gregorio.md).
-- **Mai 1840** Alvorge: Kind von **Antonio Dias** × [Josepha/Joaquina]
-  Maria, **Bemposta**, neto paterno **Dias Guiomar**. Kindesname offen.
-  Blatt:
-  [1840-baptismo-bemposta-dias-guiomar.md](1840-baptismo-bemposta-dias-guiomar.md).
+- **16.02.1860** Torre: Geschwister Delfinas, Eltern José Gregorio † ×
+  Nazareth Maria, Leiria.
+  [1860](1860-casamento-filho-jose-gregorio.md).
+- **Mai 1840** Alvorge: Kind von Antonio Dias in Bemposta, neto paterno
+  Dias Guiomar. Kindesname offen.
+  [1840](1840-baptismo-bemposta-dias-guiomar.md).
 
-Luiz × Delfina in Torre Casamentos, gelesen:
+Luiz × Delfina in den Jahresbänden 1860–1874 **nicht** — korrekt, die
+Heirat liegt **1859** im Sammelband.
 
-| Jahr | Signatur | Ergebnis |
-|---|---|---|
-| 1874 | `002/0018` | **eine** Heirat (6. Januar), nicht Luiz |
-| 1873–1870 | `002/0017`–`0014` | kein Luiz × Delfina gelesen |
-| 1869 | `002/0013` | keine Heiraten |
-| 1868–1861 | `002/0012`–`0005` | kein Luiz gelesen; Tinte blass |
-| 1860 | `002/0004` | Gregorio/Leiria-Akt; übrige Termos nicht Luiz |
-| 1812–1859 | `002/0003` (83 Bilder) | Download läuft |
-
-Alvorge Casamentos: Lücke **1788–1860** (Nós Portugueses). Antonio
-Dias Guiomar × Joaquina Maria dort nicht zu erwarten.
-
-Alvorge Batismos **1822–1852** `PANS01/001/0004`: 244 Bilder lokal.
-Kein Namenindex. **Mai 1840** `m0180`: Dias Guiomar / Bemposta /
-Antonio Dias. Restliche Seiten und Bände `001/0005` (1852–1859),
-`001/0003` (1808–1822) weiter.
+Als Nächstes: Taufe Luiz (Alvorge, vor 1859; 1840-Akt gegenlesen ob er
+selbst ist); Geschwister João in Torre Batismos ab 1860; Sterbeakten
+Antonio Dias × Joaquina Maria (beide † vor 10.11.1859).
 
 Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 
 | Pfarrei | Dias-Guiomar-Durchsicht |
 |---|---|
-| Alvorge | Band 1822–1852 lokal (244 Bilder), Durchsicht läuft |
-| Torre | Akt João 1874; Zivil 1915/1934/1958; Heirat Luiz × Delfina: 1860–1874 Jahresbände gelesen, nicht gefunden; 1812–1859 als Nächstes |
-| Ansião-Stadt | offen (PANS02-Bände der Santos-Spur zählen hier nicht als Coverage) |
+| Alvorge | Band 1822–1852 lokal; Mai 1840 Cluster; Luiz-Taufe weiter |
+| Torre | Taufe João 1874; **Heirat 10.11.1859**; Zivil 1915/1934/1958; Geschwister João ab 1860 offen |
+| Ansião-Stadt | offen |
 | Santiago da Guarda | offen |
-| Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur, kein Dias-Guiomar-Treffer) |
+| Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur) |
 | Avelar | offen |
 | Chão de Couce | offen |
 | Pousaflores | offen |
 | Orada | offen |
-
-Nächster Band: Torre Casamentos **1812–1859** `PANS08/002/0003`.
-Parallel Alvorge 1822–1852 Rand Bemposta, dann 1852–1859.
 
 ## Bewusst nicht
 

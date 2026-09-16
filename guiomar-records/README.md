@@ -16,8 +16,9 @@ modernisiert.
 - Mutter: **Delfina Maria**, governadora de casa, natürlich aus
   **lugar da Leiria, dieser Pfarrei Torre** (1874 und Heirat 16.02.1860
   derselben Eltern; nicht die Stadt Leiria)
-- das Paar **aqui recebidos** (in Torre getraut) und 1874 wohnhaft
-  **Rua d'Além**
+- das Paar **aqui recebidos** in Torre: Heirat **10. November 1859**
+  (`Luiz Dias` × `Delfina Maria`; seine Eltern Antonio Dias × Joaquina
+  Maria bereits tot; Bemposta / Leiria)
 - väterliche Großeltern: **Antonio Dias Guiomar** und
   **Joaquina Maria**
 - mütterliche Großeltern: **José Gregorio** und **Nazareth Maria**

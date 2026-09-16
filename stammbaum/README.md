@@ -69,8 +69,9 @@ Eltern **Luiz Guiomar** × **Delfina Maria** – **passen** (Blattform
 des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
 **Antonio Dias Guiomar**). Luiz natürlich **Bemposta**, Alvorge;
 Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre
-(1874 und Eltern 1860);
-`aqui recebidos` in Torre. Blattort `Vale de Todos` ist der Lugar;
+(1874 und Heirat 1859);
+`aqui recebidos` in Torre am **10.11.1859** (`Luiz Dias` ×
+`Delfina Maria`). Blattort `Vale de Todos` ist der Lugar;
 1874 Straße des Kindes **Rua d'Além**. Spätestens als Vater von
 **Maria Emília** (* 21.08.1915) **Barreira** (Grundstücksakten). Tod: Randvermerk
 **8. Januar 1958** in Torre – **passt**; Zivilakt Foto `07.jpg`

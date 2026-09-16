@@ -30,6 +30,7 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1854-JOSE-A | Taufe José Pedro, Beginn 19.12.1854 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0056.jpg` |
 | TVT-BAP-1854-JOSE-B | Taufe José Pedro, Fortsetzung | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0004_page_0057.jpg` |
 | TVT-CAS-1860-GREG | Kind José Gregorio × Nazareth Maria, Leiria | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0004_m0003.jpg` |
+| TVT-CAS-1859-LUIZ | Luiz Dias × Delfina Maria, 10.11.1859 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0082.jpg` |
 | ALV-BAP-1840-BEM | Bemposta, Antonio Dias, neto Dias Guiomar | `evidenz/scans/alvorge/PT-ADLRA-PRQ-PANS01-001-0004_m0180.jpg` |
 | AVL-BAP-1781-THEO | Taufe Theodora Maria | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANSO3-001-0003_m0028.jpg` |
 | AVL-CAS-1774-13 | Zwei Heiraten: Alexandre×Joaquina und Antonio Simões×Maria Joaquina | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg` (Kopie: `narcisa-records/casamento-avos-avelar/`) |
