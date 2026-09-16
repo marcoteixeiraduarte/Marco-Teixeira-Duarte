@@ -188,6 +188,10 @@ José Pedro dos Reis, 2.10.1903: `linha divisoria` zwischen der
 freguezia de Lagarteira und Nossa Senhora da Graça da Torre de Vale
 de Todos).
 
+**Contente** sitzt in Pião. **Feio** kommt von der Estrada da Pragoza
+dorthin. Deren Tochter **Maria** geht allein zu Guiomar nach Vale de
+Todos. Blatt: [wer-blieb](evidenz/wer-blieb.md).
+
 ## Archiv der Match-Scans
 
 Zum händischen Gegenlesen liegen alle Treffer unter sprechenden

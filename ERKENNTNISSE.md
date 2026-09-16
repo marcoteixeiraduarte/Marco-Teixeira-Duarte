@@ -91,7 +91,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | João Teixeira (Forte) | * 13.10.1879 Cabeça Redonda; Taufname João; Forte = Großmutter Maria Forte; Eltern Custodio Teixeira (Figueiras Podres, wohnhaft Cabeça Redonda) × Joana de Jesus (Cabeça Redonda); Paten Carrasqueiras / Chão de Couce | sicher | [teixeira](teixeira-records/README.md) |
 | Maria José dos Santos | ~1884, freguesia Ansião; Frau Joãos; Eltern **Francisco José dos Santos** × **Maria Thereza** (Akt 1913); Taufe und Heirat offen — Kirche unbekannt, Ring Torre/Lagarteira/Ansião/Chão de Couce/Cumeeira/**Avelar**/**Alvorge** | sicher als Eltern 1913; Taufe/Heirat offen | [maria-jose](evidenz/linie-teixeira/maria-jose-dos-santos.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
-| Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
+| Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena; **sie** geht zu João Guiomar nach Vale de Todos — nicht die Feio- oder Contente-Sippe | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
 | Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](matta-records/README.md) |
@@ -99,7 +99,8 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes, beide Pragoza | sicher | joaquina-reis-leal |
 
 Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
-**Auftraggeber: das stimmt.**
+**Auftraggeber: das stimmt.** Guiomar: Luiz aus Bemposta; neben ihm
+die Frau **Maria** aus Pião, nicht Contente/Feio als Linie.
 
 ### Avelar – abgegrenzt
 

@@ -100,6 +100,11 @@ Mutter `Maria Helena Contente` hängt `Contente` an; das ist der Name
 ihres Vaters **Jozé Contente**. `Pião` gehört zu **LAR /
 Lagarteira** (Pfarrei São Domingos da Lagarteira), nicht zu Torre.
 
+**Wer kam zu Guiomar:** Luiz (Dias) Guiomar aus Bemposta. Neben ihm
+nur die Frau **Maria** aus Pião — nicht die Contente-Sippe und nicht
+die Feio-Sippe. Feio (Estrada da Pragoza) ging zuvor **nach Pião**
+zur Contente-Frau. Blatt: [wer-blieb](../evidenz/wer-blieb.md).
+
 #### Joze Maria da Ascenção
 
 Blatt: `José Maria d’Ascensão · * 25.04.1880 · Pragosa · † 30.07.1948`.

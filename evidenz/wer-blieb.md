@@ -62,6 +62,36 @@ Joaquina Reis hält Pragoza; Manuel Matta kommt aus São Jorge.
 1937 wohnen José Mendes Ascenção und Palmira dos Reis beide in
 Pragoza — das Haus ist noch da.
 
+## Guiomar — wer kam dazu (nicht Feio, nicht Contente als Sippe)
+
+Wie Teixeira: **Dias Guiomar kommt an.** Luiz, natürlich **Bemposta**
+(Alvorge), Kind * **Rua d'Além**. `Dias` steht 1874 beim Großvater
+Antonio Dias Guiomar.
+
+**Neben ihm** kommt ins Guiomar-Haus in Vale de Todos **eine Frau:**
+Taufname **Maria**, * Valle do Pião / Lagarteira. 1915 und 1958
+wohnt sie bei João in Vale de Todos. Das ist **nicht** die
+Contente-Linie und **nicht** die Rodrigues-Feio-Linie als Familie.
+
+Drei Schritte, nicht vermischen:
+
+1. **Contente** bleibt in **Pião**. Jozé Contente × Helena Maria;
+   Tochter Maria Helena natürlich Valle do Pião.
+2. **Rodrigues Feio** kommt zu ihr: Joaquim, sapateiro, natürlich
+   **Estrada da Pragoza** (Torre), zieht nach Pião / Lagarteira.
+   Feio verlässt Pragoza, geht **nicht** zu Guiomar.
+3. Deren Tochter **Maria** heiratet João Dias Guiomar und geht
+   **allein** nach Vale de Todos. Contente und Feio bleiben in
+   Lagarteira.
+
+Blatt `Maria Helena Contente` hängt den Großvater **Jozé Contente**
+an die Mutter — derselbe Fehlertyp wie `Narcisa Rodrigues Gato`.
+Im Taufakt 1882 heißt die Mutter nur **Maria Helena**.
+
+Delfinas eigenes Herkunftsweiler (José Gregorio × Nazareth Maria)
+steht 1874 nicht ausgeschrieben. Kind * Rua d'Além; Luiz aus
+Bemposta. Wer vor Luiz schon in Rua d'Além saß, bleibt **offen**.
+
 ## Die Ecke gegen Vale de Todos
 
 Teixeira und Freire: Männer aus **Figueiras Podres** zur Frau in

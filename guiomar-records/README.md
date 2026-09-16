@@ -80,6 +80,11 @@ Dieselbe Doppelseite nennt **Pião** ausdrücklich als Weiler
 `do Pião desta freguezia`). Auftraggeber: **LAR / Lagarteira**.
 Deshalb fehlt Maria in den Torre-Taufen 1882.
 
+**Neben Dias Guiomar** kam ins Haus in Vale de Todos **diese Maria**
+(eine Frau aus Pião). **Contente** bleibt in Pião. **Rodrigues Feio**
+kam von der Estrada da Pragoza **nach Pião** (zur Frau), nicht nach
+Vale de Todos. Blatt: [wer-blieb](../evidenz/wer-blieb.md).
+
 ### Randvermerk zur Heirat
 
 Ein späterer Vermerk an dieser Taufe nennt die Ehe mit **João Dias
