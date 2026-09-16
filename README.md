@@ -160,7 +160,7 @@ Custodio × Joana bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
 | `Atanha`, Pfarrei `Alvorge` | Herkunft Joze Mendes Ferreiras, Taufe 1880 |
 | `Alvorge` | Sterbevermerk Joze Maria da Ascenção, 1948, an der Taufe der Ehefrau |
 | `Bemposta`, Pfarrei `Alvorge` | Herkunft Luiz Guiomars, Taufe João 1874; Suchkern Dias Guiomar |
-| `lugar da Leiria`, Pfarrei Torre | Herkunft Delfina Maria 1874 (Lesung; nicht Stadt Leiria) |
+| `lugar da Leiria`, Pfarrei Torre | Herkunft Delfina Maria 1874; Eltern 1860 dort Witwe Nazareth (nicht Stadt Leiria) |
 
 ### VALLE DO PIÃO / Pião / LAGARTEIRA (LAR)
 

@@ -68,7 +68,8 @@ João
 Eltern **Luiz Guiomar** × **Delfina Maria** – **passen** (Blattform
 des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
 **Antonio Dias Guiomar**). Luiz natürlich **Bemposta**, Alvorge;
-Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre (Lesung);
+Delfina natürlich **lugar da Leiria** dieser Pfarrei Torre
+(1874 und Eltern 1860);
 `aqui recebidos` in Torre. Blattort `Vale de Todos` ist der Lugar;
 1874 Straße des Kindes **Rua d'Além**. Spätestens als Vater von
 **Maria Emília** (* 21.08.1915) **Barreira** (Grundstücksakten). Tod: Randvermerk
