@@ -79,8 +79,9 @@ Manuel Teixeira, 32, Santos, natural **Canedo / Celorico de Basto**,
 Filiação **Joaquim Teixeira** (`PT/UM-ADB/AC/GCBRG/H-D/026/0012/38230`).
 
 * 1913: als Erwachsener erst ab den 1930er Jahren. Der Santos-Pass
-von Luis (33 Jahre, Generation ~1875–1880) liegt eine Generation
-früher. Tod **1973 Angónia** ist Mosambik, nicht Brasil.
+von Luis (33 Jahre) gehört in eine frühere Generation; dessen Taufe
+liegt nicht in Torre 1876–1880. Tod **1973 Angónia** ist Mosambik,
+nicht Brasil.
 
 Gewissheit: in CEPESE und im Leiria-Santos-Kontext **kein Treffer**.
 Ob ein späterer Kolonialpass nach Mosambik existiert, bleibt **offen**

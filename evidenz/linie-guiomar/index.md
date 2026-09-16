@@ -21,7 +21,7 @@ wurden. Coverage extra führen, sobald ein Band von vorn läuft.
 | PANS08/001/0012 m0003–m0004 | 9 | Taufe **22.04.1867** (* 16.03.) | **Antonio** | Luiz Guiomar | Delfina Maria | Lindos | neto paterno Antonio Dias Guiomar × Joaquina Maria, Bemposta | **sicher**; [1867 Antonio](1867-baptismo-antonio.md) |
 | PANS08/002/0004 m0003 | 1 | Heirat 16.02.1860 | Kind von José Gregorio × Nazareth Maria (29 J.) | [José Gregorio] Lesung | [Maria Jozepha] Lesung | Leiria (Eltern, Lesung) | Delfinas Geschwister | Cluster; [1860](1860-casamento-filho-jose-gregorio.md) |
 | PANS01/001/0004 m0180 | — | Taufe **24.05.1845** (* 15.) | [Kind, Name offen] | Antonio Dias | [Josepha/Joaquina] Maria | Bemposta | Dias Guiomar Großvater | Cluster, wahrsch. Geschwister Luizes; [1845](1845-baptismo-bemposta-dias-guiomar.md) |
-| GCLRA Passregister (Portal) | — | Pass, Alter **33**, Ziel Santos | **Luis Dias Guiomar** | Luís Guiomar | Delfina Maria | Natural + Residenz Torre de Vale de Todos | Filiação = unser Paar | **wahrscheinlich** Sohn, nicht Antonio×Joaquina; [Passakt](passakt-luis-dias-guiomar.md) |
+| GCLRA Passregister (Portal) | — | Pass, Alter **33**, Ziel Santos | **Luis Dias Guiomar** | Luís Guiomar | Delfina Maria | Natural + Residenz Torre de Vale de Todos | Filiação = unser Paar | **wahrscheinlich** Sohn; Taufe nicht 1876–1880; [Passakt](passakt-luis-dias-guiomar.md), [1876–1880](1876-1880-torre-kein-luis.md) |
 
 Zielpaar der Rückwärtssuche: **Antonio Dias × Joaquina Maria**,
 Bemposta / Alvorge — beide † vor 10.11.1859. Taufe und Heirat dieses
@@ -31,3 +31,6 @@ beim Bräutigam.
 **Barreira:** João und Maria Emília. Überliefert; Grundstücksakten
 beim Auftraggeber. Civil: Lugar Vale de Todos. Luiz 1874 Rua d'Além.
 [00-dias-guiomar.md](00-dias-guiomar.md).
+
+Torre **1876–1880** ohne weiteres Kind Luiz × Delfina:
+[1876–1880](1876-1880-torre-kein-luis.md).

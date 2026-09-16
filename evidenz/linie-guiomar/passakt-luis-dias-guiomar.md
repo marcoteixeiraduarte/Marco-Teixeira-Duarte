@@ -42,16 +42,18 @@ Kinder Luiz × Delfina im Taufbuch, bis hierher:
 | Maria | 04.05.1864 | — (weiblich; Pass ist Luis) |
 | Antonio | 16.03.1867 | ~1900 |
 | João | 22.04.1874 | ~1907 |
-| **Luis** (Passname) | nicht in 1860–1873, nicht 1875 | Taufe **offen**, Fenster **1876 ff.** |
+| **Luis** (Passname) | nicht in 1860–1873, nicht 1875, **nicht 1876–1880** | Taufe **offen**, Fenster **1881 ff.** |
 
 Der Reisende heißt **Luis**. José, Manuel, Antonio, João sind andere
 Taufnamen. João bleibt 1915/1934/1958 in Vale de Todos; den Pass
 nicht mit João tauschen.
 
-Bände **1861, 1863, 1865, 1866, 1868–1873, 1875** ohne Kind
-`Luiz`/`Luis` dieses Paars. 1874 ist João. Nächstes Fenster:
-Torre Batismos **1876–ca. 1880** (und jünger, sobald das Passdatum
-steht).
+Bände **1861, 1863, 1865, 1866, 1868–1873, 1875, 1876–1880** ohne Kind
+dieses Paars. 1874 ist João. Blatt der fünf Jahre:
+[1876–1880](1876-1880-torre-kein-luis.md).
+
+Der Luiz * 1876, São Jorge, N.º 2, ist **filho natural** von Theresa
+de Jesus — **ausgeschlossen**.
 
 Grobe Rechnung, sobald das Registerjahr festliegt:
 
@@ -60,7 +62,8 @@ Grobe Rechnung, sobald das Registerjahr festliegt:
 | 1893–1896 | fällt auf José/Manuel — Namen passen nicht |
 | ~1900 | fällt auf Antonio — Name passt nicht |
 | ~1907 | fällt auf João — Name passt nicht |
-| 1908–1913 | Geburt **1875–1880** — genau das offene Tauffenster |
+| 1908–1913 | Geburt 1875–1880 — in Torre **ohne** dieses Paar |
+| 1914–1918 | Geburt **1881–1885** — nächstes Tauffenster |
 
 Ohne Passdatum bleibt das Geburtsjahr **offen**. Die Generation
 (Sohn, nicht Vater, nicht Großvater) steht.
@@ -71,8 +74,9 @@ Nicht seitenweise alle Leiria-Bücher. Zuerst das **Datum** aus dem
 gefundenen Eintrag (Portal oder Blog). Dann nur den Band
 `GCLRA/H-D/001/00xx` dieses Jahres, Scan sichern.
 
-FamilySearch Torre nach João: Bände **1876** Ref. 271948,
-**1877** 271949, **1878** 271950, **1879** 271951, **1880** 271952.
+FamilySearch Torre: **1881** Ref. **271953**, **1882** 271954,
+**1883** 271955, **1884** 271956, **1885** 271957. Die Bände
+1876–1880 (271948–271952) sind für dieses Paar gelesen.
 
 Nicht mit José Guiomar, Alvorge, Pass Braga 1909 (andere Person)
 vermischen. Nicht mit weiblichem Vornamen Guiomar in CEPESE.

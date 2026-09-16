@@ -39,7 +39,7 @@ Gegenlese 15.09.2026, Elternzeilen:
 | Antonio | viertes Kind, * 16.03.1867, Taufe 22.04.1867, Lindos | sicher |
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht das erste Kind | sicher als Formel |
-| Luis Dias Guiomar (Pass, 33 J., Santos) | Filiação Luiz Guiomar × Delfina Maria, natural Torre | wahrscheinlich Sohn; Taufe offen. Nicht Manuel Teixeira *1913, nicht Manuel Duarte *1885 ([Passregister](../passregister-teixeira-duarte.md)) |
+| Luis Dias Guiomar (Pass, 33 J., Santos) | Filiação Luiz Guiomar × Delfina Maria, natural Torre | wahrscheinlich Sohn; Taufe offen (**1876–1880 ohne**, Fenster 1881 ff.). Nicht Manuel Teixeira *1913, nicht Manuel Duarte *1885 ([Passregister](../passregister-teixeira-duarte.md)) |
 
 Orte mit Karte und Pfarrei: [orte.md](orte.md). **Ladeia gibt es**
 (Quinta in Alvorge; Landschaft bis Torre). **Bemposta gehört zu
@@ -201,8 +201,10 @@ des Kreises, dieselben Marker.
 
 4. **Torre Batismos** ab **1860**: Geschwister Luiz × Delfina.
    **José * 31.05.1860**, **Manuel 1862**, **Maria * 04.05.1864**,
-   **Antonio * 16.03.1867**, alle Lindos. Bände 1861/63/65/66 und
-   **1868–1873** ohne. Dann João 1874, Rua d'Além.
+   **Antonio * 16.03.1867**, alle Lindos. Bände 1861/63/65/66,
+   **1868–1873**, **1875** und **1876–1880** ohne. Dann João 1874,
+   Rua d'Além. Mögliches Kind Luis: Fenster **1881 ff.**
+   [1876–1880](1876-1880-torre-kein-luis.md).
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
    Lugar Lindos (1859/1874). Fenster um 1831 und jünger. Eigenes
    Fenster, nicht mit Dias Guiomar vermischen. Geschwisterakt:
@@ -234,13 +236,15 @@ Weitere Treffer:
 - **22.04.1867** Torre: **Antonio**, * 16.03., Lindos. Vater hier
   `Luiz Guiomar`; neto paterno **Antonio Dias Guiomar** × Joaquina
   Maria, Bemposta. [1867 Antonio](1867-baptismo-antonio.md).
-- Bände **1861, 1863, 1865, 1866, 1868–1873, 1875** ohne weiteres Kind
-  dieses Paars. Lindos-Akten in diesen Jahren gehören anderen
-  Familien (Rodrigues, Dias Barbas, Dias Coelho, Ramos, …).
+- Bände **1861, 1863, 1865, 1866, 1868–1873, 1875, 1876–1880** ohne
+  weiteres Kind dieses Paars. Lindos- und Além-Akten in diesen Jahren
+  gehören anderen Familien (Manoel Dias, Sebastião Pedro, Ramos Alves,
+  Dias Barbosa, Quelhas × Delfina de Jesus, Gato, …).
+  [1876–1880](1876-1880-torre-kein-luis.md).
 - Passakt **Luis Dias Guiomar**, 33 J., Filiação Luís Guiomar ×
   Delfina Maria, natural und wohnhaft Torre, Ziel Santos.
   **Wahrscheinlich Sohn** dieses Paars, **nicht** Sohn von Antonio
-  Dias Guiomar × Joaquina Maria. Taufe offen (Fenster 1876 ff.).
+  Dias Guiomar × Joaquina Maria. Taufe offen (Fenster **1881 ff.**).
   [Passakt](passakt-luis-dias-guiomar.md).
 - **16.02.1860** Torre: Geschwister Delfinas, Eltern José Gregorio † ×
   Nazareth Maria, Torre (Lugar gegenlesen, wahrscheinlich Lindos).
@@ -256,15 +260,15 @@ korrekt, die Heirat liegt **1859** im Sammelband.
 Als Nächstes: Taufe Luiz (Vater) in Alvorge **vor 1845** (Fenster
 ~1829–1838); Sterbeakten Antonio Dias × Joaquina Maria (beide † vor
 10.11.1859); Taufe Delfina (Lindos/Torre, Fenster um 1831); Taufe
-eines möglichen Sohnes **Luis** **1876 ff.** (Passakt 33 Jahre,
-Santos). Blatt: [Passakt](passakt-luis-dias-guiomar.md).
+eines möglichen Sohnes **Luis** **1881 ff.** (Passakt 33 Jahre,
+Santos; 1876–1880 ohne). Blatt: [Passakt](passakt-luis-dias-guiomar.md).
 
 Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 
 | Pfarrei | Dias-Guiomar-Durchsicht |
 |---|---|
 | Alvorge | Band 1822–1852 lokal; Mai 1845 Cluster; Luiz-Taufe vor 1845 |
-| Torre | Taufe João 1874; **Heirat 10.11.1859**; Kinder **José 1860 / Manuel 1862 / Maria 1864 / Antonio 1867**; Bände 1861/63/65/66 und **1868–1873, 1875** ohne dieses Paar; Passakt Luis Dias Guiomar (Santos) wahrscheinlich späterer Sohn; Zivil 1915/1934/1958 |
+| Torre | Taufe João 1874; **Heirat 10.11.1859**; Kinder **José 1860 / Manuel 1862 / Maria 1864 / Antonio 1867**; Bände 1861/63/65/66 und **1868–1873, 1875, 1876–1880** ohne dieses Paar; Passakt Luis Dias Guiomar (Santos) wahrscheinlich späterer Sohn, Taufe ab 1881 offen; Zivil 1915/1934/1958 |
 | Ansião-Stadt | offen |
 | Santiago da Guarda | offen |
 | Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur) |
