@@ -49,7 +49,7 @@ Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
 **Cabeça Redonda**. Vater natürlich aus **Figueiras Podres**. Mutter
 **Joana de Jesus** natürlich aus Cabeça Redonda (nicht Figueiras
 Podres). Großeltern dort: **Jozé Simão Teixeira** × **Maria Forte**
-(Figueiras Podres); **Joaquim de Carvalho** × **Maria de Jesus**
+(Figueiras Podres); **Joaquim Carvalho** × **Maria de Jesus**
 (Cabeça Redonda). Die Paten João da Cruz und Maria da Conceição
 stehen mit **Carrasqueiras**, Pfarrei **Chão de Couce** – das ändert
 den Elternort nicht.
@@ -146,7 +146,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 
 | Blatt | Quelle / Status |
 | --- | --- |
-| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Vater natürlich **Figueiras Podres**; Joana natürlich **Cabeça Redonda**. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueiras Podres); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
+| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Vater natürlich **Figueiras Podres**; Joana natürlich **Cabeça Redonda**. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueiras Podres); **Joaquim Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | offen |
 | Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |

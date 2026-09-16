@@ -20,7 +20,7 @@ Prüfblatt mit Transkript:
 - erstes Kind dieses Namens
 - väterliche Großeltern: **Jozé Simão Teixeira** und **Maria Forte**,
   aus Figueiras Podres
-- mütterliche Großeltern: **Joaquim de Carvalho** und **Maria de Jesus**,
+- mütterliche Großeltern: **Joaquim Carvalho** und **Maria de Jesus**,
   aus Cabeça Redonda
 - Paten: **João da Cruz**, verheiratet, und dessen Tochter
   **Maria da Conceição**, ledig, natürliche und wohnhaft in
@@ -37,8 +37,8 @@ derselbe Fleck: Figueiras de S. João.
 `Carrasqueiras` / Chão de Couce steht **nur bei den Paten**. Vater,
 Mutter und beide Großelternpaare bleiben in Cabeça Redonda bzw.
 Figueiras Podres. Die frühere Lesung `Sarrazina` / São Cosme war
-eine Verlesung derselben Zeile (Zeilenumbruch `Carra-`/`queiras`;
-Wasserzeichen `Chão de Couce`).
+eine Verlesung derselben Zeile (Umbruch `Carras-` / `queiras`;
+Wasserzeichen `Chão de Couce`). **Maria Forte**, nicht Fonte.
 
 Den Weiler Carrasqueiras der Paten **nicht** mit der Geburt Manuel
 Duarte 1885 (Taufe Cumeeira) zu einer Familie machen. Geografie und

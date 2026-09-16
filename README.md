@@ -103,7 +103,7 @@ zusammengezogen.
 | `Carrasqueiras` | Geburt Manuel Duarte, 19.11.1885; Taufe Cumeeira N.º 40 | Cumeeira-Buch | sicher als geschrieben; **nicht** mit den Paten 1879 gleichsetzen |
 
 Die frühere Lesung der Patenzeile als `Sarrazina` / São Cosme war
-eine Verlesung: Zeilenumbruch `Carra-` / `queiras`; unter dem
+eine Verlesung: Zeilenumbruch `Carras-` / `queiras`; unter dem
 AUC-Wasserzeichen `Chão de Couce` (Chão≈São, Couce≈Cosme).
 
 OSM-Weiler **Carrasqueiras**: 39.932 N, 8.409 W, Estrada Principal,
@@ -139,7 +139,7 @@ Haushalte bleiben getrennt, bis ein Akt sie verbindet.
 | Custodio Teixeira (Vater) | **Figueiras Podres** | Cabeça Redonda, Pfarrei Cumeeira |
 | Joana de Jesus (Mutter) | **Cabeça Redonda** — nicht Figueiras Podres | Cabeça Redonda, Pfarrei Cumeeira |
 | Jozé Simão Teixeira × Maria Forte | Figueiras Podres | — |
-| Joaquim de Carvalho × Maria de Jesus | Cabeça Redonda | — |
+| Joaquim Carvalho × Maria de Jesus | Cabeça Redonda | — |
 | João da Cruz (casado) und Tochter Maria da Conceição (solteira) | Carrasqueiras, Pfarrei **Chão de Couce** | dort |
 
 ### ATANHA / ALVORGE
