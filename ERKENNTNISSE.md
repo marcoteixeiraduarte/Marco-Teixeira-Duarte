@@ -101,6 +101,8 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
 **Auftraggeber: das stimmt.** Guiomar: Luiz aus Bemposta; neben ihm
 die Frau **Maria** aus Pião, nicht Contente/Feio als Linie.
+Weiler und Gärten (Lagoa, Cancela, Castello, Barreira …) sind die
+Namen im Gedächtnis — deshalb schreibt Torre sie in die Akten.
 
 ### Avelar – abgegrenzt
 
