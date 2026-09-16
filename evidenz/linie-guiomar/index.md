@@ -13,8 +13,9 @@ wurden. Coverage extra führen, sobald ein Band von vorn läuft.
 |---|---|---|---|---|---|---|---|---|
 | PANS08/001/0019 m0007 | 12 | Taufe 10.05.1874 (* 22.04.) | João | Luiz Guiomar | Delfina Maria | Rua d'Além (Wohnort); Luiz natural Bemposta / Alvorge | Dias Guiomar beim Großvater Antonio | Anker; Zielsohn |
 | PANS08/002/0003 m0082 | — | Heirat **10.11.1859** | Luiz Dias × Delfina Maria | Antonio Dias × Joaquina Maria † | José Gregorio † × Nazareth Maria | Bemposta / Leiria | das Paar 1874 | **sicher**; [1859](1859-casamento-luiz-delfina.md) |
+| PANS08/001/0005 m0005 | 8 | Taufe **25.06.1860** (* 31.05.) | **José** | Luiz Dias | Delfina Maria | Lindoso | das Paar 1859/1874 | **sicher**; [1860 José](1860-baptismo-jose.md) |
 | PANS08/002/0004 m0003 | 1 | Heirat 16.02.1860 | Kind von José Gregorio × Nazareth Maria (29 J.) | [José Gregorio] Lesung | [Maria Jozepha] Lesung | Leiria (Eltern) | Delfinas Geschwister | Cluster; [1860](1860-casamento-filho-jose-gregorio.md) |
-| PANS01/001/0004 m0180 | — | Taufe Mai 1840 (* 15.) | [Kind, Name offen] | Antonio Dias | [Josepha/Joaquina] Maria | Bemposta | Dias Guiomar Großvater | Cluster; [1840](1840-baptismo-bemposta-dias-guiomar.md) |
+| PANS01/001/0004 m0180 | — | Taufe **24.05.1845** (* 15.) | [Kind, Name offen] | Antonio Dias | [Josepha/Joaquina] Maria | Bemposta | Dias Guiomar Großvater | Cluster, wahrsch. Geschwister Luizes; [1845](1845-baptismo-bemposta-dias-guiomar.md) |
 
 Zielpaar der Rückwärtssuche: **Antonio Dias × Joaquina Maria**,
 Bemposta / Alvorge — beide † vor 10.11.1859. Taufe und Heirat dieses

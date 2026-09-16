@@ -10,10 +10,8 @@ linke Seite, oberer Akt. Folgeseite beginnt 30.11.1859, anderes Paar.
 - Versioniert: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0082.jpg`
 - Arbeitskopie: `archiv/guiomar/1859-casamento-luiz-dias-delfina-PANS08-002-0003_m0082.jpg`
 
-FamilySearch (schärfer, von hier nicht zu öffnen): Sammlung
-[Portugal, Leiria, Catholic Church Records](https://www.familysearch.org/en/search/collection/1976101)
-1976101. Nós Portugueses Ref. **271980**. Bild gegen Ende des Bandes
-1812–1859 (DigitArq `m0082`, 83 Bilder).
+FamilySearch (schärfer am Desktop):
+[familysearch-desktop.md](familysearch-desktop.md) — Ref. **271980**, Bild 82/83.
 
 ## Transkript (Namens- und Ortszeilen)
 
@@ -50,10 +48,12 @@ Braut:
 
 1874 schreibt den Mann `Luiz Guiomar`. 1859 schreibt `Luiz Dias`.
 Beides quellengetreu lassen. `Dias` kommt vom Vater Antonio Dias;
-`Guiomar` vom Compound des Großvaters (Taufe João; Alvorge Mai 1840).
+`Guiomar` vom Compound des Großvaters (Taufe João; Alvorge Mai 1845).
 
-João * 22.04.1874 ist 15 Jahre nach der Heirat. Weitere Kinder
-1860–1873 sind zu erwarten (`primeiro deste nome` nur für João).
+Erstes Kind: **José**, * 31.05.1860, Taufe 25.06.1860, Lindoso.
+Blatt: [1860-baptismo-jose.md](1860-baptismo-jose.md). João * 22.04.1874
+ist `primeiro deste nome`, nicht das erste Kind. Weitere Geschwister
+1862–1873.
 
 Antonio Dias × Joaquina Maria sind **vor dem 10.11.1859** tot.
 Das begrenzt die Suche nach ihren Sterbeeinträgen (Alvorge Óbitos
