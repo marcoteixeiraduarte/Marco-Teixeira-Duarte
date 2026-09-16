@@ -5,7 +5,8 @@ Nur gelesene Akte. Kein Stammbaumschluss. Regel:
 
 Suche: **alle neun Pfarreien** des Kreises Ansião. Marker **Dias Guiomar**
 / Guiomar als Nachname, nicht der weibliche Vorname. Orte:
-[orte.md](orte.md) (Ladeia und Bemposta → Alvorge; Lindos → Torre).
+[orte.md](orte.md) (Ladeia und Bemposta → Alvorge; **Lindos** = Weiler
+in Torre de Vale de Todos).
 
 Diese Liste beweist **nicht**, dass alle Seiten dazwischen gelesen
 wurden. Coverage extra führen, sobald ein Band von vorn läuft.

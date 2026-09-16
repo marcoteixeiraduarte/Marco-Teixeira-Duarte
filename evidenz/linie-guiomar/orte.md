@@ -13,7 +13,7 @@ ein Akt ein ähnliches Wort schreibt.
 |---|---|---|---|---|
 | **Bemposta** | ja, lugar | **Alvorge** (`PANS01`) | Alvorge, PLZ 3240-405 | OSM 39.976 N, 8.431 W; Akt 1874 `freguezia de Alvorge`; Auftraggeber |
 | **Ladeia** | ja | **Alvorge** (Quinta); historisch die ganze Grenzlandschaft | Alvorge, PLZ 3240-402 (Ruinen) | OSM/SIPA/CM Ansião, siehe unten |
-| **Lindos** | ja | **Torre de Vale de Todos** (`PANS08`) | Ansião / Vale de Todos und Torre, CartTop 017164 und 035210 | `R LINDOS`; Akten 1859/1860/1862/1864/1874 |
+| **Lindos** | ja, **Weiler** in Torre de Vale de Todos | **Torre de Vale de Todos** (`PANS08`) | CartTop `R LINDOS` in TORRE DE VALE DE TODOS (035210) und VALE DE TODOS (017164) | Akten 1859/1860/1862/1864/1874 `lugar dos Lindos` |
 | **Lindoso** | ja, **Norden** | eigene Freguesia Lindoso | Ponte da Barca, Distrikt Viana do Castelo | Wikipedia/OSM ~41.87 N, 8.20 W. Nicht diese Familie. |
 | **Rua d'Além** | ja | Torre | Vale de Todos 017164 | CartTop `R ALEM` |
 | **Barreira** | ja | Torre | Vale de Todos 017164 | CartTop `R BARREIRA`; Grundstücksakten |
@@ -61,11 +61,13 @@ Nicht: Bemposta (Penamacor).
 
 Beide Namen gibt es. Es sind zwei Orte.
 
-**Hier:** `lugar dos Lindos`, Pfarrei Torre. Heirat 1859 und Taufe
-João 1874 schreiben das so. Die Jahresbände 1860/1862/1864 setzen an
-den Rand **`Lindos.`** (1864 eindeutig; 1860 `Linde.`). CartTop
-`R LINDOS`. OSM: Rua dos Lindos, Torre de Vale de Todos, 3240-710,
-an der Rua Nossa Senhora da Graça.
+**Hier:** **Lindos** ist ein Weiler der Pfarrei **Torre de Vale de
+Todos**. Die Akten schreiben `lugar dos Lindos, desta freguezia da
+Torre` (Heirat 1859, Taufe João 1874). Die Jahresbände 1860/1862/1864
+setzen an den Rand **`Lindos.`** CartTop katalogisiert denselben
+Weiler heute als Straße `R LINDOS` — Locality **TORRE DE VALE DE
+TODOS** (035210) und VALE DE TODOS (017164). OSM: Rua dos Lindos,
+3240-710, an der Rua Nossa Senhora da Graça (Matriz).
 
 **Im Norden:** **Lindoso**, eigene Freguesia im Kreis **Ponte da
 Barca**, Distrikt Viana do Castelo (Alto Minho). Etwa 41.87 N,

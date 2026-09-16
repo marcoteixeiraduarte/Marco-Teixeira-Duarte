@@ -41,7 +41,7 @@ Gegenlese 15.09.2026, Elternzeilen:
 
 Orte mit Karte und Pfarrei: [orte.md](orte.md). **Ladeia gibt es**
 (Quinta in Alvorge; Landschaft bis Torre). **Bemposta gehört zu
-Alvorge**. Delfina ist **Lindos** (Torre), nicht die Stadt Leiria.
+Alvorge**. **Lindos** ist ein Weiler in **Torre de Vale de Todos**.
 
 ## Was Bemposta ist
 
@@ -118,7 +118,7 @@ Nicht tauschen:
   (`R PRINCIPAL` / `R FONTE` / `R LAGOA` … BARREIRA). Andere Pfarrei.
 - **Lindoso** — gibt es, **Norden**: Freguesia Lindoso, Ponte da Barca,
   Viana do Castelo, ~41.87 N. Castelo de Lindoso. Rund 200 km entfernt.
-  Hier in Torre heißt der Lugar **Lindos** (`R LINDOS`).
+  **Lindos** ist ein **Weiler in Torre de Vale de Todos**.
 - **Ladeia** nicht mit Lindos und nicht mit der Stadt Leiria tauschen.
   Ladeia ist real und liegt in **Alvorge** (Quinta) bzw. als Landschaft
   über Alvorge und Torre. Blatt: [orte.md](orte.md).
