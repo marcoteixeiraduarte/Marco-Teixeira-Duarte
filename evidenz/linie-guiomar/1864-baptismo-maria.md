@@ -1,9 +1,9 @@
 # Torre 22.05.1864 — Maria, Tochter Luiz Dias × Delfina Maria
 
-Drittes Kind. Weiterhin **Lindoso**.
+Drittes Kind. Weiterhin **Lindos**.
 
 Quelle: Torre Batismos 1864, `PANS08/001/0009`, Bild `m0004`,
-linke Seite, Akt **N.º 11**. Rand: `Lindoso` / `Maria`.
+linke Seite, Akt **N.º 11**. Rand: `Lindos` / `Maria`.
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/001/0009`
 - DigitArq: `d0db326739e548e38579882ea265a6c3`
@@ -20,7 +20,7 @@ Ref. **271936**, Bild 4.
 > quatro deste mesmo mez e anno, filha legitima de Luiz Dias,
 > trabalhador, natural da Freguesia de Alvorge deste Concelho, e
 > de Delfina Maria, natural desta freguesia da Torre … moradores
-> no lugar da Lindoso; neta paterna de Antonio Dias e de Joaquina
+> no lugar dos Lindos; neta paterna de Antonio Dias e de Joaquina
 > Maria, ambos fallecidos … materno de José Gregorio, defunto, e
 > de Nazareth Maria
 
@@ -33,7 +33,7 @@ Ref. **271936**, Bild 4.
 | Kind | **Maria**, weiblich, N.º 11 | sicher |
 | Eltern | **Luiz Dias** × **Delfina Maria** | sicher |
 | Luiz natural | **Alvorge** (Bemposta in den Geschwisterakten) | sicher Pfarrei |
-| Wohnort | **Lindoso** | sicher |
+| Wohnort | **Lindos** | sicher |
 
 Bände **1861, 1863, 1865** ohne weiteres Kind dieses Paars.
 Nächstes Fenster: 1866–1873, dann João 1874.

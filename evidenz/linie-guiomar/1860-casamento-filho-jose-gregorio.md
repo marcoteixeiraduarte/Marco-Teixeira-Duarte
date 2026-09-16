@@ -20,17 +20,22 @@ linke Seite, erster Akt (N.º 1, 16. Februar).
 | Ort | Igreja Paroquial de Nossa Senhora da Graça da Torre | sicher |
 | Ein Elternteil des einen Ehegatten | **José Gregorio**, bereits **defunto** | sicher |
 | Der andere Elternteil | **Nazareth Maria**, **agora viuva** | sicher |
-| Wohnort dieser Eltern | **lugar da Leiria**, dieser Pfarrei Torre | sicher |
+| Wohnort dieser Eltern | **lugar** dieser Pfarrei Torre (`[Leiria/Lindos]`, Lesung) | gegenlesen |
 | Alter des Kindes dieses Paars | 29 Jahre → * um 1831 | sicher als Altersangabe |
 | Stand | solteiro/solteira, in Torre getauft | sicher die Formel; Genus gegenlesen |
 
 Das sind dieselben Eltern wie in der Taufe João 1874
 (`neto materno de José Gregorio e de Nazareth Maria`).
-`lugar da Leiria` ist damit **kein** Ladeia/Lameira und nicht die Stadt
-Leiria.
+
+**Ladeia gibt es** — Quinta in **Alvorge**, Landschaft bis Torre.
+Blatt: [orte.md](orte.md). Delfinas eigene Akte 1859 und 1874 schreiben
+`lugar dos Lindos` (Pfarrei Torre, CartTop `R LINDOS`). Die Stadt
+Leiria ist das nicht. Ob dieser Akt 1860 `Leiria` oder `Lindos`
+schreibt, bleibt Lesung. Ladeia nicht weglügen, nicht mit Lindos
+gleichsetzen.
 
 José Gregorio ist spätestens am 16.02.1860 tot. Nazareth lebt 1860
-als Witwe in Leiria.
+als Witwe in dieser Pfarrei Torre.
 
 ## Vornamen der Eheleute
 
@@ -44,7 +49,7 @@ Torre-Bände) hat schärfere Seiten; von dieser Maschine **403**.
 Zwei Lesungen, beide offen, bis gegenlesen:
 
 1. Bräutigam **José Gregorio**, 29, Sohn von José Gregorio † × Nazareth
-   Maria, Leiria; Braut **Maria Jozepha**, ~27, andere Eltern
+   Maria, Torre; Braut **Maria Jozepha**, ~27, andere Eltern
    ([Manoel Alves] × [Jozepha Maria], Lesung).
 2. Braut **Maria Jozepha**, 29, Tochter desselben Paars; Bräutigam
    anderer Name.

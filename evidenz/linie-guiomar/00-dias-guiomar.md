@@ -22,7 +22,7 @@ Gegenlese 15.09.2026, Elternzeilen:
 > filho legitimo e primeiro deste nome de Luiz Guiomar, trabalhador,
 > natural do lugar da Bemposta, freguezia de Alvorge deste Concelho
 > desta Diocese, e de Delfina Maria, governadora de casa, natural do
-> lugar da Leiria, desta freguesia, aqui recebidos, e moradores no
+> lugar dos Lindos, desta freguesia, aqui recebidos, e moradores no
 > lugar da Rua d'Além
 > neto paterno de Antonio Dias Guiomar e de Joaquina Maria
 > e materno de José Gregorio e de Nazareth Maria
@@ -31,13 +31,17 @@ Gegenlese 15.09.2026, Elternzeilen:
 |---|---|---|
 | Antonio Dias Guiomar × Joaquina Maria | Eltern Luizes | sicher |
 | Luiz Guiomar | Vater João; natürlich **Bemposta**, Pfarrei **Alvorge** | sicher |
-| Delfina Maria | Mutter João; natürlich **lugar da Leiria, dieser Pfarrei Torre** | sicher (1874 + Heirat **10.11.1859**) |
+| Delfina Maria | Mutter João; natürlich **lugar dos Lindos**, Pfarrei Torre | sicher (1874 + Heirat **10.11.1859**) |
 | `aqui recebidos` | Luiz × Delfina in **Torre** getraut | sicher: **10.11.1859** |
-| José | erstes Kind, * 31.05.1860, Taufe 25.06.1860, Lindoso | sicher |
-| Manuel | zweites Kind, Taufe 15.08.1862, Lindoso | sicher |
-| Maria | drittes Kind, * 04.05.1864, Taufe 22.05.1864, Lindoso | sicher |
+| José | erstes Kind, * 31.05.1860, Taufe 25.06.1860, Lindos | sicher |
+| Manuel | zweites Kind, Taufe 15.08.1862, Lindos | sicher |
+| Maria | drittes Kind, * 04.05.1864, Taufe 22.05.1864, Lindos | sicher |
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht das erste Kind | sicher als Formel |
+
+Orte mit Karte und Pfarrei: [orte.md](orte.md). **Ladeia gibt es**
+(Quinta in Alvorge; Landschaft bis Torre). **Bemposta gehört zu
+Alvorge**. Delfina ist **Lindos** (Torre), nicht die Stadt Leiria.
 
 ## Was Bemposta ist
 
@@ -53,6 +57,7 @@ mit Rand `Bemposta`. Es gibt keine Kirchenbücher „Pfarrei Bemposta“.
 | Lage | Freguesia Alvorge, Kreis Ansião. Etwa 39.976 N, 8.431 W. PLZ 3240-405 |
 | Nachbarweiler | Carrascal, Chousos Cimeiros |
 | Distanz Torre | rund **2 km** südlich zur Igreja Matriz Torre de Vale de Todos — deshalb Luiz aus Bemposta, Heirat und Wohnort in Torre |
+| Nachbar in derselben Pfarrei | Trás de Figueiró, Vila Nova (**Quinta da Ladeia**), Vale Florido, Ateanha |
 | Kapellen vor Ort | Nossa Senhora do Rosário; São Jorge. Keine eigenen Taufbücher |
 
 Nicht tauschen:
@@ -77,6 +82,8 @@ CartTop 2019, Kategorie 1003:
 
 | Form | CartTop-ID | Lugar | Locality |
 |---|---|---|---|
+| `R LINDOS` | `22110031016603` | VALE DE TODOS | 017164 |
+| `R LINDOS` | `22110031016604` | TORRE DE VALE DE TODOS | 035210 |
 | `R ALEM` | `22110031016263` | VALE DE TODOS | 017164 |
 | `R BARREIRA` | `22110031016286` | VALE DE TODOS | 017164 |
 
@@ -97,7 +104,8 @@ Repo. Hier nur der Ort. Keine Artikelnummer, kein NIF.
 
 | Zeitpunkt | Quelle | Wohnort |
 |---|---|---|
-| 1860 | Taufe José | Luiz × Delfina **lugar da Lindoso** (Torre); Nazareth Maria dort Witwe |
+| 1859–1864 | Heirat und Taufen José/Manuel/Maria | Luiz × Delfina **lugar dos Lindos** (Torre; CartTop `R LINDOS`) |
+| 1860 | Taufe José | Nazareth Maria, viuva, ebenfalls Lindos |
 | 1874 | Taufe João, Scan | Luiz × Delfina **lugar da Rua d'Além** |
 | spätestens 1915 | Grundstücksakten, Auftraggeber | João und Maria Emília, **Barreira** |
 | 1915 | Foto `04.jpg` | João × Maria Helena, Casa im **lugar da Vale de Todos** (Maria Emília) |
@@ -108,8 +116,11 @@ Nicht tauschen:
 
 - **Barreira, Pousaflores** — eigener Lugar, CartTop-Locality **017100**
   (`R PRINCIPAL` / `R FONTE` / `R LAGOA` … BARREIRA). Andere Pfarrei.
-- **Lindoso** (Ponte da Barca / Minho) — anderer Kreis. 1860 ist
-  `lugar da Lindoso` in der **Pfarrei Torre**.
+- **Lindoso** (Ponte da Barca / Minho) — anderer Kreis. Hier **Lindos**,
+  Pfarrei Torre.
+- **Ladeia** nicht mit Lindos und nicht mit der Stadt Leiria tauschen.
+  Ladeia ist real und liegt in **Alvorge** (Quinta) bzw. als Landschaft
+  über Alvorge und Torre. Blatt: [orte.md](orte.md).
 - **R ALEM, Chão de Couce / Casal Soeiro** — Locality **017068**,
   nicht Vale de Todos.
 - Rua da Barreira in **Alvaiázere** oder **Batalha**.
@@ -187,10 +198,10 @@ des Kreises, dieselben Marker.
 
 4. **Torre Batismos** ab **1860**: Geschwister Luiz × Delfina.
    **José * 31.05.1860**, **Manuel 1862**, **Maria * 04.05.1864**,
-   alle Lindoso. Bände 1861/63/65 ohne. Fenster **1866–1873** offen,
+   alle Lindos. Bände 1861/63/65 ohne. Fenster **1866–1873** offen,
    dann João 1874.
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
-   Lugar Leiria (1860 bestätigt). Fenster um 1831 und jünger. Eigenes
+   Lugar Lindos (1859/1874). Fenster um 1831 und jünger. Eigenes
    Fenster, nicht mit Dias Guiomar vermischen. Geschwisterakt:
    [1860-casamento-filho-jose-gregorio.md](1860-casamento-filho-jose-gregorio.md).
 6. **Die übrigen sieben:** Ansião-Stadt, Santiago da Guarda, Lagarteira,
@@ -210,16 +221,16 @@ Zuerst Heirat Bild 82, dann José 1860 Bild 5, dann Alvorge Bild 180.
 Weitere Treffer:
 
 - **25.06.1860** Torre: **José**, * 31.05., Luiz Dias × Delfina Maria,
-  Wohnort **Lindoso**.
+  Wohnort **Lindos**.
   [1860 José](1860-baptismo-jose.md).
 - **15.08.1862** Torre: **Manuel**, Luiz natural **Bemposta / Alvorge**,
-  Lindoso.
+  Lindos.
   [1862 Manuel](1862-baptismo-manuel.md).
-- **22.05.1864** Torre: **Maria**, * 04.05., Lindoso.
+- **22.05.1864** Torre: **Maria**, * 04.05., Lindos.
   [1864 Maria](1864-baptismo-maria.md).
 - Bände **1861, 1863, 1865** ohne weiteres Kind dieses Paars.
 - **16.02.1860** Torre: Geschwister Delfinas, Eltern José Gregorio † ×
-  Nazareth Maria, Leiria.
+  Nazareth Maria, Torre (Lugar gegenlesen, wahrscheinlich Lindos).
   [1860 Heirat](1860-casamento-filho-jose-gregorio.md).
 - **24. Mai 1845** Alvorge: Kind von Antonio Dias in Bemposta, neto
   paterno Dias Guiomar. Kindesname offen; **wahrscheinlich Geschwister
@@ -252,7 +263,8 @@ Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 - Roza Maria / Joaquim × Florencia nicht an Antonio Dias Guiomar hängen.
 - Gato/Affonseca in Avelar, Santos in Ansião/Santiago, Duarte in Cumeeira
   nicht still mitziehen, nur weil dieselbe Pfarrei durchsucht wird.
-- Stadt Leiria nicht mit `lugar da Leiria` in Torre tauschen.
+- Stadt Leiria nicht mit **Lindos** (Torre) und nicht mit **Ladeia**
+  (Alvorge) tauschen.
 - Bemposta (Alvorge, Ansião) nicht mit Bemposta (Penamacor) tauschen.
 - Orada Ansião (`ans09` / `PANS09`) nicht mit Orada `srp08` tauschen.
 - Manuel Dias Guiomar auf Geni nicht als Sohn Luizes führen, bis ein Akt

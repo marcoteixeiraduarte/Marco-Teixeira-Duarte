@@ -89,7 +89,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | --- | --- | --- | --- |
 | João Teixeira | * 13.10.1879 Cabeça Redonda; Eltern Custodio Teixeira × Joana de Jesus | sicher | [teixeira](teixeira-records/README.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
-| Luiz Guiomar × Delfina Maria | Heirat **10.11.1859** Torre (`Luiz Dias`); Taufe João 1874 (`Luiz Guiomar`); Großvater Antonio Dias Guiomar; Luiz natural Bemposta/Alvorge; Delfina natural lugar da Leiria; 1874 Rua d'Além | sicher. Blatt: [1859](evidenz/linie-guiomar/1859-casamento-luiz-delfina.md) |
+| Luiz Guiomar × Delfina Maria | Heirat **10.11.1859** Torre (`Luiz Dias`); Taufe João 1874 (`Luiz Guiomar`); Großvater Antonio Dias Guiomar; Luiz natural Bemposta/Alvorge; Delfina natural lugar dos Lindos; 1874 Rua d'Além. Ladeia gibt es (Alvorge). | sicher. Blatt: [1859](evidenz/linie-guiomar/1859-casamento-luiz-delfina.md); Orte: [orte.md](evidenz/linie-guiomar/orte.md) |
 | João und Maria Emília, Barreira | **Barreira** (Grundstücksakten); Civil Lugar Vale de Todos | sicher | [guiomar](guiomar-records/README.md); [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |

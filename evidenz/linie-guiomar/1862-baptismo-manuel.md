@@ -3,7 +3,7 @@
 Zweites Kind. `primeiro deste nome` für Manuel.
 
 Quelle: Torre Batismos 1862, `PANS08/001/0007`, Bild `m0005`,
-linke Seite unten, Akt **N.º 10**. Rand: `Lindoso` / `Manuel`.
+linke Seite unten, Akt **N.º 10**. Rand: `Lindos` / `Manuel`.
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/001/0007`
 - DigitArq: `246a5d7b5af846f0a452f06b26010bd4`
@@ -21,9 +21,9 @@ Ref. **271934**, Bild 5.
 > Dias, de profissão trabalhador, natural do lugar da Bemposta,
 > freguesia de Alvorge … e de Delfina Maria, de profissão
 > trabalhadora, natural desta mesma freguesia … moradores no
-> lugar da Lindoso; neto paterno de Antonio Dias e de Joaquina
+> lugar dos Lindos; neto paterno de Antonio Dias e de Joaquina
 > Maria do mesmo lugar da Bemposta; materno de José Gregorio,
-> defunto, e de Nazareth Maria viuva, do sobredito lugar da Lindoso
+> defunto, e de Nazareth Maria viuva, do sobredito lugar dos Lindos
 
 ## Was feststeht
 
@@ -34,7 +34,7 @@ Ref. **271934**, Bild 5.
 | Kind | **Manuel**, männlich, N.º 10 | sicher |
 | Eltern | **Luiz Dias** × **Delfina Maria** | sicher |
 | Luiz natural | **Bemposta / Alvorge** | sicher in diesem Akt |
-| Wohnort | **Lindoso** | sicher |
+| Wohnort | **Lindos** | sicher |
 
 Dieser Akt schreibt Luiz natural **Bemposta**, wie 1859 und 1874.
 Der Akt 1860 (`naturais da Torre` hinter dem Paar) bleibt daneben

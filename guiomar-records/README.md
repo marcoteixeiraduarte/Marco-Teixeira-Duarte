@@ -14,11 +14,11 @@ modernisiert.
 - Vater: **Luiz Guiomar**, Arbeiter, natürlich aus **Bemposta**,
   Pfarrei **Alvorge**
 - Mutter: **Delfina Maria**, governadora de casa, natürlich aus
-  **lugar da Leiria, dieser Pfarrei Torre** (1874 und Heirat 16.02.1860
-  derselben Eltern; nicht die Stadt Leiria)
+  **lugar dos Lindos, dieser Pfarrei Torre** (1874 und Heirat
+  10.11.1859; CartTop `R LINDOS`. Ladeia gibt es, gehört zu Alvorge.)
 - das Paar **aqui recebidos** in Torre: Heirat **10. November 1859**
   (`Luiz Dias` × `Delfina Maria`; seine Eltern Antonio Dias × Joaquina
-  Maria bereits tot; Bemposta / Leiria)
+  Maria bereits tot; Bemposta / Lindos)
 - väterliche Großeltern: **Antonio Dias Guiomar** und
   **Joaquina Maria**
 - mütterliche Großeltern: **José Gregorio** und **Nazareth Maria**
@@ -109,8 +109,8 @@ Richtige Reihenfolge, nur diese Akte:
 Antonio Dias Guiomar × Joaquina Maria
   Luiz Guiomar  ×  Delfina Maria
                    (ihre Eltern: José Gregorio × Nazareth Maria;
-                    sie natural lugar da Leiria, Pfarrei Torre;
-                    José † vor 16.02.1860, Nazareth 1860 viuva in Leiria)
+                    sie natural lugar dos Lindos, Pfarrei Torre;
+                    José † vor 16.02.1860, Nazareth 1860 viuva in Torre)
       João  * 22.04.1874  Rua d'Além
 ```
 
