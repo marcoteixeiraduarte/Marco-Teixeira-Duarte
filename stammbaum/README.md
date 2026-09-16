@@ -46,11 +46,13 @@ João
 
 Eltern **Custodio Teixeira** × **Joana de Jesus** – **passen** zum
 Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
-**Cabeça Redonda**. Vater natürlich aus `Figueira Podra`. Großeltern
-dort: **Jozé Simão Teixeira** × **Maria Forte**; **Joaquim de
-Carvalho** × **Maria de Jesus**. Die Paten João da Cruz und Maria da
-Conceição stehen mit `Sarrazina`, Pfarrei São Cosme – das ändert den
-Elternort nicht.
+**Cabeça Redonda**. Vater natürlich aus **Figueiras Podres**. Mutter
+**Joana de Jesus** natürlich aus Cabeça Redonda (nicht Figueiras
+Podres). Großeltern dort: **Jozé Simão Teixeira** × **Maria Forte**
+(Figueiras Podres); **Joaquim de Carvalho** × **Maria de Jesus**
+(Cabeça Redonda). Die Paten João da Cruz und Maria da Conceição
+stehen mit **Carrasqueiras**, Pfarrei **Chão de Couce** – das ändert
+den Elternort nicht.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
@@ -144,7 +146,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 
 | Blatt | Quelle / Status |
 | --- | --- |
-| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
+| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Vater natürlich **Figueiras Podres**; Joana natürlich **Cabeça Redonda**. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueiras Podres); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | offen |
 | Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |
@@ -250,10 +252,10 @@ Identität.
 | `Pragosa` bei José Mendes 1914, Palmira 1912 | diese Einträge hier nicht geprüft | erst Quelle, dann Form |
 | `Pragosa` bei Maria Célia 1959 | Zivilstand | heutige Form möglich |
 | `Pragosa` als Weiler der Reis-Linie 1896/1903 | Sterbeakten: `Pragoza` | Quellenform `Pragoza` |
-| `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); Taufen auch `Figueira Podra` / `Figueira Podres`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
+| `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); **so schreiben**. Andere Taufen auch `Figueira Podra`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
 | `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
-| `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
+| `Carrasqueiras`, `Cabeça Redonda` | Taufe Manuel 1885 (Cumeeira-Buch); Joaquina 1886 Cabeça Redonda | Weiler passen; Carrasqueiras der Paten João 1879 ist kirchlich **Chão de Couce**, nicht stillschweigend mit Duarte 1885 gleichsetzen |
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
 | `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira (LAR) | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |
@@ -268,7 +270,7 @@ Identität.
 4. Manuel Duarte † **30.09.1962 · Ansião** belassen (Blatt = Averbamento;
    nicht auf 1964 „korrigieren“).
 5. Margarida `* 24.07.1897 · Santa Eufémia` → `* 27.06.1897`, Cabeça Redonda / Cumeeira.
-6. `Figueiras Podres` **bleibt** am Ereignis; daneben heutige
+6. `Figueiras Podres` **so schreiben** am Ereignis; daneben heutige
    Zuordnung `Figueiras de S. João` (kein zweiter Ort).
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über
    Heirat 1922 separat belegt, nicht mit Margaridas Eltern gleichsetzen.
@@ -276,7 +278,9 @@ Identität.
    der Cumeeira-Taufen ersetzen (Tabelle oben).
 9. `Pais de José Maria por confirmar` durch **Joze Mendes Ferreira**
    ersetzen.
-10. João Teixeira: Ort **Cabeça Redonda**; Elternform `Custodio`.
+10. João Teixeira: Ort **Cabeça Redonda**; Elternform `Custodio`;
+    Vater **Figueiras Podres**; Joana Cabeça Redonda; Paten
+    Carrasqueiras / Chão de Couce.
 11. João Dias Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`.
 12. Maria Helena Guiomar: Taufname **Maria**, Ort **Valle do Pião**
     (LAR / Lagarteira); Mutter ohne erzwungenes `Contente`.

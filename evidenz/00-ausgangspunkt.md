@@ -50,6 +50,8 @@ Zählung, wenn José Pedro × Narciza der 3. Grad sind:
 ## Was bewusst nicht vermischt wird
 
 - Cumeeira / Carrasqueiras / Cabeça Redonda / Figueiras Podres gehört zur Duarte-Linie.
+  Carrasqueiras der Paten João 1879 ist kirchlich **Chão de Couce**;
+  nicht stillschweigend mit Duarte `* 1885 Carrasqueiras` gleichsetzen.
 - Torre de Vale de Todos / Pragosa / Avelar / João Bom gehört zur Torre-Linie.
 - **Theodora Maria** (Avelar 1781) ist nicht Maria Joaquina Sol. Blatt: [theodora-maria-1781](linie-torre/theodora-maria-1781.md)
 - **Maria Joaquina × Antonio Simões** (Castelo 10.2.1774) ist nicht Maria Joaquina Sol. Blatt: [maria-joaquina-simoes-1774](linie-torre/maria-joaquina-simoes-1774.md)

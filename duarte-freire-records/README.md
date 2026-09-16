@@ -10,6 +10,8 @@ wiedergegeben.
 ## Manuel Duarte
 
 - geboren **19. November 1885**, 8 Uhr morgens, in **Carrasqueiras**
+  (Cumeeira-Buch; nicht stillschweigend die Paten João 1879, Pfarrei
+  Chão de Couce)
 - getauft **2. Dezember 1885** in Cumeeira, Eintrag Nr. 40
 - Eltern: **António Duarte** und **Thereza Freire**, Tagelöhner aus
   Carrasqueiras

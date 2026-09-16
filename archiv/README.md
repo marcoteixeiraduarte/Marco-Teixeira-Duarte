@@ -20,9 +20,10 @@ dort, wo der Eintrag über die Bildgrenze läuft.
 | AUC, Bände 1879 / 1885 (Digitalisierung 2011) | ca. **1400×1000** JPEG | das **ist** die AUC-Dissemination; ZIP des ganzen Bandes enthält dieselben Dateien |
 | DigitArq / ADLRA | **1500** oder **2048** px Höhe | `/rdigital/files/{id}` (Original) ist 401; ohne Login nicht höher |
 
-João 1879 `m0016` (Patenzeile Sarrazina / São Cosme) und Manuel Duarte
-1885 bleiben deshalb klein. Eine schärfere öffentliche Kopie dieser
-beiden AUC-Bände gibt es derzeit nicht.
+João 1879 `m0016` (Patenzeile **gelesen:** Carrasqueiras / Chão de Couce;
+Vater Figueiras Podres; Joana Cabeça Redonda) und Manuel Duarte 1885
+bleiben deshalb klein. Eine schärfere öffentliche Kopie dieser beiden
+AUC-Bände gibt es derzeit nicht.
 
 ## Zuerst gegenlesen
 
@@ -31,8 +32,6 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 | Datei | Was klären |
 | --- | --- |
-| [teixeira/1879-baptismo-joao-…_m0016.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0016.jpg) | Patenort `Sarrazina` / Pfarrei São Cosme; Wortende `Figueira Podra` / `Podres` |
-| [teixeira/1879-baptismo-joao-…_m0015.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0015.jpg) | Beginn Nr. 42, Eltern, Cabeça Redonda |
 | [matta/1872-baptismo-manuel-…_m0007.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0007.jpg) | Großvater `Avelheiro` oder `Molheiro` |
 | [narcisa/1856-…_page_0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_page_0070.jpg) und […_m0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_m0070.jpg) | **zwei verschiedene Dateien** gleicher Pixelgröße; welche ist Narcizas Taufe (fol. 60v–61r)? |
 

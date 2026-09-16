@@ -3,6 +3,13 @@
 Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 `avelar-records/` und sind nicht versioniert.
 
+## Teixeira, Cumeeira (nicht Duarte)
+
+| ID | Ereignis | Datei |
+|---|---|---|
+| CUM-BAP-1879-42a | Taufe João Teixeira, Beginn N.º 42 | `teixeira-records/baptismos-1879/PNL01-002-0024_m0015.jpg` |
+| CUM-BAP-1879-42b | Taufe João Teixeira, Paten Carrasqueiras / Chão de Couce | `teixeira-records/baptismos-1879/PNL01-002-0024_m0016.jpg` |
+
 ## Duarte-Linie, Cumeeira
 
 | ID | Ereignis | Datei |

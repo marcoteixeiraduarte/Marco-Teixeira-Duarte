@@ -3,38 +3,46 @@
 Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
 Coimbra. Schreibweisen folgen dem Eintrag.
 
+Prüfblatt mit Transkript:
+[`evidenz/linie-teixeira/1879-joao.md`](../evidenz/linie-teixeira/1879-joao.md).
+
 ## Taufe, Eintrag Nr. 42
 
 - getauft **22. Oktober 1879**
 - Taufname: **João**
 - geboren **13. Oktober 1879**, 18 Uhr
 - Geburtsort: `logar de Cabeça Redonda` dieser Pfarrei
-- Vater: **Custodio Teixeira**, caseiro, natürlich aus `Figueira Podra`
-  (historisch Figueiras Podres, heute Figueiras de S. João; ein Ort)
-- Mutter: **Joana de Jesus**, natürlich aus Cabeça Redonda
+- Vater: **Custodio Teixeira**, caseiro, natürlich aus
+  **Figueiras Podres**
+- Mutter: **Joana de Jesus**, caseira, natürlich aus
+  **Cabeça Redonda** — nicht aus Figueiras Podres
 - wohnhaft: Cabeça Redonda; dort getraut und Pfarrkinder
 - erstes Kind dieses Namens
-- väterliche Großeltern: **Jozé Simão Teixeira** und **Maria Forte**
-  (Lesung `Fonte` möglich), aus Figueira Podra
+- väterliche Großeltern: **Jozé Simão Teixeira** und **Maria Forte**,
+  aus Figueiras Podres
 - mütterliche Großeltern: **Joaquim de Carvalho** und **Maria de Jesus**,
   aus Cabeça Redonda
 - Paten: **João da Cruz**, verheiratet, und dessen Tochter
-  **Maria da Conceição**, ledig, aus `Sarrazina`, Pfarrei São Cosme
+  **Maria da Conceição**, ledig, natürliche und wohnhaft in
+  **Carrasqueiras**, Pfarrei **Chão de Couce**
 
 Das Blatt-Datum `* 13.10.1879` **passt**. Der Blattort `Cumeeira` ist
 die Pfarrei; der Weiler im Eintrag ist **Cabeça Redonda**. Die
 Blatteltern **Custódio Teixeira** × **Joana de Jesus** **passen**
 (Quellenform des Vaters: `Custodio`).
 
-`Sarrazina` / São Cosme steht **nur bei den Paten**. Vater, Mutter und
-beide Großelternpaare bleiben in Cabeça Redonda bzw. Figueira Podra.
-Die Pfarrei São Cosme ist unter den Nachbarpfarreien nicht gefunden.
-**Sarzedela** / `Sarzdela` **gibt es** (CartTop 017053, ~3,5 km von
-Cabeça Redonda, Pfarrei Ansião, Kapelle São João Baptista). Als Lesung
-der Patenzeile **nicht** setzen: der Scan bricht `Sarra-` / `zina`;
-die Pfarrei im Akt ist São Cosme, nicht Ansião. Nicht mit **Sarzeda**
-(Pousaflores) tauschen. Der Suchradius für Custodio × Joana steigt
-dadurch nicht.
+`Figueiras Podres` so schreiben (historischer Name; **-es**). Heute
+derselbe Fleck: Figueiras de S. João.
+
+`Carrasqueiras` / Chão de Couce steht **nur bei den Paten**. Vater,
+Mutter und beide Großelternpaare bleiben in Cabeça Redonda bzw.
+Figueiras Podres. Die frühere Lesung `Sarrazina` / São Cosme war
+eine Verlesung derselben Zeile (Zeilenumbruch `Carra-`/`queiras`;
+Wasserzeichen `Chão de Couce`).
+
+Den Weiler Carrasqueiras der Paten **nicht** mit der Geburt Manuel
+Duarte 1885 (Taufe Cumeeira) zu einer Familie machen. Geografie und
+Abgrenzung: Ortsregister.
 
 Quelle:
 
