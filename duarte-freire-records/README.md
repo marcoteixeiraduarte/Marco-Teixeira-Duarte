@@ -30,12 +30,10 @@ Quelle:
 
 - geboren **7. Februar 1886**, 18 Uhr, in **Cabeça Redonda**
 - getauft **18. Februar 1886** in Cumeeira, Eintrag Nr. 9
-- Eltern: **António Freire Bicho**, aus Figueira Podra, und
+- Eltern: **António Freire Bicho**, aus **Figueiras Podres**, und
   **Maria Ignácia**, aus Cabeça Redonda und dort wohnhaft
-  (`Figueira Podra` = historisch Figueiras Podres, heute Figueiras
-  de S. João; ein Ort, siehe Ortsregister)
 - väterliche Großeltern: **António Freire Bicho** und **Maria de Christo**,
-  aus Figueira Podra
+  aus Figueiras Podres
 - mütterliche Großeltern: **Manuel Francisco Dias** und **Joaquina Maria**,
   aus Cabeça Redonda
 - Paten: **Manuel Francisco Dias** und dessen Ehefrau **Joaquina Silvéria**;
@@ -77,7 +75,7 @@ Quelle:
 
 - geboren **27. Juni 1897**, 11 Uhr morgens, und am selben Tag in Cumeeira
   getauft, Eintrag Nr. 21
-- Eltern: **Joaquim Freire Bicho**, aus Figueira Podra, und
+- Eltern: **Joaquim Freire Bicho**, aus **Figueiras Podres**, und
   **Genoveva de Jesus**, aus Cabeça Redonda; wohnhaft in Cabeça Redonda
 - väterliche Großeltern: **António Freire Bicho** und wahrscheinlich
   **Maria Christo**; die Lesung des Namens der Großmutter ist blass
@@ -104,7 +102,7 @@ confirmar` offen. Die drei Cumeeira-Taufen nennen sie bereits:
 | --- | --- |
 | António Duarte (Vater Manuels) | **Manoel Duarte** × **Joaquina de Jesus** |
 | Thereza Freire (Mutter Manuels) | **Manoel Silva** × **Maria Freire** |
-| António Freire Bicho (Vater Joaquinas) | **António Freire Bicho** × **Maria de Christo**, Figueira Podra |
+| António Freire Bicho (Vater Joaquinas) | **António Freire Bicho** × **Maria de Christo**, Figueiras Podres |
 | Maria Ignácia (Mutter Joaquinas) | **Manuel Francisco Dias** × **Joaquina Maria**, Cabeça Redonda |
 | Joaquim Freire Bicho (Vater Margaridas) | **António Freire Bicho** × **Maria Christo** |
 | Genoveva de Jesus (Mutter Margaridas) | **Manoel Francisco Dias** × **Joaquina Ignácia** |

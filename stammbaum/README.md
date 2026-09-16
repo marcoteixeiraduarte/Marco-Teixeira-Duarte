@@ -217,7 +217,7 @@ frühere Jahr 1972 war die Verwechslung mit dem Eheauflösungs-Vermerk).
 | Blatt | Quelle / Status |
 | --- | --- |
 | António Duarte × Thereza Freire | **passt** als Eltern Manuels (Taufe 1885, Heirat 1907) |
-| António Freire Bicho · ~1851 · Figueiras Podres | Name **passt** als Vater Joaquinas. `Figueiras Podres` bleibt am Ereignis; heute `Figueiras de S. João` (ein Ort). Die Taufen schreiben `Figueira Podra`. Jahr ~1851 offen |
+| António Freire Bicho · ~1851 · Figueiras Podres | Name **passt** als Vater Joaquinas. `Figueiras Podres` so schreiben; heute `Figueiras de S. João` (ein Ort). Jahr ~1851 offen |
 | Maria Ignácia | **passt** als Mutter Joaquinas (Taufe 1886, Heirat 1907) |
 | dieselben erneut als Eltern von José Freire Bicho | **nicht gesichert** (siehe oben) |
 | Joaquim Freire Bicho × Genoveva de Jesus | **passt** als Eltern Margaridas (Taufe 1897) |
@@ -231,7 +231,7 @@ Cumeeira-Taufen nennen diese Eltern bereits:
 | --- | --- |
 | Pais de António por confirmar | **Manoel Duarte** × **Joaquina de Jesus** (Taufe Manuel 1885) |
 | Pais de Thereza por confirmar | **Manoel Silva** × **Maria Freire** (Taufe Manuel 1885) |
-| Pais de António FB por confirmar | **António Freire Bicho** × **Maria de Christo**, Figueira Podra (Taufe Joaquina 1886) |
+| Pais de António FB por confirmar | **António Freire Bicho** × **Maria de Christo**, Figueiras Podres (Taufe Joaquina 1886) |
 | Pais de Maria Ignácia por confirmar | **Manuel Francisco Dias** × **Joaquina Maria**, Cabeça Redonda (Taufe Joaquina 1886) |
 | Mesmos pais (irmãos) bei José Freire Bicho | **streichen**; Eltern über Heirat 1922 separat, nicht still mit Margaridas Eltern gleichsetzen |
 | Pais de Joaquim por confirmar | **António Freire Bicho** × **Maria Christo** (Taufe Margarida 1897) |
@@ -252,7 +252,7 @@ Identität.
 | `Pragosa` bei José Mendes 1914, Palmira 1912 | diese Einträge hier nicht geprüft | erst Quelle, dann Form |
 | `Pragosa` bei Maria Célia 1959 | Zivilstand | heutige Form möglich |
 | `Pragosa` als Weiler der Reis-Linie 1896/1903 | Sterbeakten: `Pragoza` | Quellenform `Pragoza` |
-| `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); **so schreiben**. Andere Taufen auch `Figueira Podra`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
+| `Figueiras Podres` | historischer Name (**so schreiben**: Podres, nicht Podre); heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` |
 | `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
 | `Carrasqueiras`, `Cabeça Redonda` | Taufe Manuel 1885 (Cumeeira-Buch); Joaquina 1886 Cabeça Redonda | Weiler passen; Carrasqueiras der Paten João 1879 ist kirchlich **Chão de Couce**, nicht stillschweigend mit Duarte 1885 gleichsetzen |

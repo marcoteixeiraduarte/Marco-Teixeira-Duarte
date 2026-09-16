@@ -18,7 +18,7 @@
 
 ### Transkript, soweit sicher
 
-> N.º 40. Aos dois dias do mez de dezembro do anno de mil e oito centos e oitenta e cinco […] baptizei […] Manoel […] nascido aos dezanove dias do mez de Novembro […] pelas oito horas da manhã no lugar das Carrasqueiras […] filho legitimo de Antonio Duarte e de Thereza Freire […] neta paterna de Manoel Duarte e de Joaquina de Jesus [Figueira Podre / Figueiras Podres] […] materna de Manoel [Dias?] e de Maria Freire […] padrinhos José dos Santos e sua mulher Joaquina Freire.
+> N.º 40. Aos dois dias do mez de dezembro do anno de mil e oito centos e oitenta e cinco […] baptizei […] Manoel […] nascido aos dezanove dias do mez de Novembro […] pelas oito horas da manhã no lugar das Carrasqueiras […] filho legitimo de Antonio Duarte e de Thereza Freire […] neta paterna de Manoel Duarte e de Joaquina de Jesus [Figueiras Podres] […] materna de Manoel [Dias?] e de Maria Freire […] padrinhos José dos Santos e sua mulher Joaquina Freire.
 
 ### Offene Lesungen auf demselben Scan
 

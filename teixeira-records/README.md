@@ -38,7 +38,7 @@ derselbe Fleck: Figueiras de S. João.
 Mutter und beide Großelternpaare bleiben in Cabeça Redonda bzw.
 Figueiras Podres. Die frühere Lesung `Sarrazina` / São Cosme war
 eine Verlesung derselben Zeile (Umbruch `Carras-` / `queiras`;
-Wasserzeichen `Chão de Couce`). **Maria Forte**, nicht Fonte.
+Wasserzeichen **Chão** de Couce — **Chão, nicht São**. **Maria Forte**, nicht Fonte.
 
 Den Weiler Carrasqueiras der Paten **nicht** mit der Geburt Manuel
 Duarte 1885 (Taufe Cumeeira) zu einer Familie machen. Geografie und

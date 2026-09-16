@@ -57,24 +57,21 @@ Die Taufen von 1878 und 1880 schreiben `concelho d'Anciao`. Die heutige
 Form `Ansião` gehört ins Ortsregister, nicht auf die Karte dieser
 Einträge.
 
-### FIGUEIRA PODRA / Figueiras Podres / Figueiras de S. João
+### FIGUEIRAS PODRES / Figueiras de S. João
 
-**Ein Ort**, keine zwei Siedlungen. Historischer Name
-`Figueiras Podres`; heute `Figueiras de S. João` (INE-Locality
-Ansião; OSM-Knoten `Figueiras de São João` und
-`Figueiras Podres de São João` am selben Fleck, PLZ 3240-706).
-Nachbar von Cabeça Redonda, an der Grenze Cumeeira (Penela) /
-Ansião.
+**Ein Ort**, keine zwei Siedlungen. **So schreiben: `Figueiras Podres`.**
+Nicht `Figueira Podra`, nicht `Podre`, nicht `Figueira` ohne **-s**.
+Heute `Figueiras de S. João` (INE-Locality Ansião; OSM-Knoten
+`Figueiras de São João` und `Figueiras Podres de São João` am
+selben Fleck, PLZ 3240-706). Nachbar von Cabeça Redonda, an der
+Grenze Cumeeira (Penela) / Ansião.
 
-| Form | Rolle | Maßgebliche Quelle |
-| --- | --- | --- |
-| `Figueiras Podres` | historischer Ortsname; **so schreiben**; Taufe João 1879 N.º 42 | bleibt **am Ereignis** |
-| `Figueira Podra` | andere Taufen (Joaquina 1886, Margarida 1897) | dasselbe Wortende, derselbe Ort |
-| `Figueiras de S. João` | heutige Zuordnung | Ortsregister, nicht statt der historischen Form auf die Karte |
+| Form | Rolle |
+| --- | --- |
+| `Figueiras Podres` | historischer Name; **am Ereignis und auf der Karte so** |
+| `Figueiras de S. João` | heutige Zuordnung; Ortsregister, nicht statt der historischen Form |
 
-**Podres**, nicht **Podre**. Das -s gehört zum Ortsnamen (plural). `Podre`
-ist nur die Wörterbuchform des Adjektivs. `Figueira` (singular) und
-`Figueiras` (plural) stehen nebeneinander; das ist derselbe Ort.
+**Podres**, nicht **Podre**. Das -s gehört zum Ortsnamen.
 
 Nicht zusammenwerfen mit **Ferraria de S. João** (Weiler der Pfarrei
 Cumeeira) und nicht mit **Venda das Figueiras** (ebenfalls Cumeeira).
@@ -104,7 +101,7 @@ zusammengezogen.
 
 Die frühere Lesung der Patenzeile als `Sarrazina` / São Cosme war
 eine Verlesung: Zeilenumbruch `Carras-` / `queiras`; unter dem
-AUC-Wasserzeichen `Chão de Couce` (Chão≈São, Couce≈Cosme).
+AUC-Wasserzeichen **Chão** de Couce — **Chão, nicht São**.
 
 OSM-Weiler **Carrasqueiras**: 39.932 N, 8.409 W, Estrada Principal,
 Kreis Ansião, PLZ 3240-706. Rund **500 m** westlich von Cabeça

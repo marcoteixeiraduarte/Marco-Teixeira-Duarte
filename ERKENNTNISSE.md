@@ -60,7 +60,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | José Freire Bicho ~1894, „Mesmos pais (irmãos)“ | **streichen**. Eltern über Heirat 1922 separat belegt; nicht mit Margaridas Eltern gleichsetzen. Geburt weiter offen |
 | Margarida Blatt `* 24.07.1897 · Santa Eufémia` | ersetzen durch `* 27.06.1897 · Cabeça Redonda` |
 | Manuel † | Blatt und Averbamento **30.09.1962 · Ansião** — frühere Lesung 1964 war Regression |
-| Figueiras Podres | **ein** Ort (mit **-s**); **so schreiben**; heute Figueiras de S. João; andere Taufen auch `Figueira Podra` |
+| Figueiras Podres | **ein** Ort; **so schreiben**; heute Figueiras de S. João |
 | Carrasqueiras der Paten João 1879 | Pfarrei **Chão de Couce**; nicht mit Duarte `* 1885 Carrasqueiras` gleichsetzen |
 | Joaquina Maria / Silvéria / Ignácia (ältere Frau) | nicht zu einer Person zusammenführen |
 | Lesung mütterlicher Großvater Therezas | Manoel Dias / Freire / Silva – offen |
