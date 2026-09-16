@@ -118,6 +118,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
 8. João Teixeira **(Forte)**: Weiler **Cabeça Redonda**; Taufname João; Vater `Custodio`, natürlich **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana natürlich Cabeça Redonda; Paten **Carrasqueiras / Chão de Couce**
+8a. `Pais de Maria José por confirmar` → **Francisco José dos Santos** × **Maria Thereza**; Heirat João × Maria José offen (1900–1912, Ansião/Cumeeira/Chão de Couce)
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
