@@ -66,9 +66,11 @@ Die Ecke erklärt, warum das so ist:
 Die **Mendes** und **Barbeiro** bleiben in **Pragoza** / Valle de
 Todos. In der Pfarrei Torre stehen bei Taufen und Heiraten die
 kleinen Weiler: `Pragoza`, `Valle de Todos`, `Rua d'Além`, `São Jorge`,
-`Castello`, `Barreira`. `Castello` hier ist Vale de Todos; Barreira
-liegt gleich daneben. Nicht das Castelo von Avelar. Die anderen
-Kirchen des Rings nennen solche Weiler **selten bis gar nicht**.
+`Castello`, `Barreira`, **Lagoa**, **Cancela**. Das sind die Namen,
+die im Gedächtnis bleiben (*ich gehe zur Lagoa, zur Cancela*).
+`Castello` hier ist Vale de Todos; Barreira liegt gleich daneben.
+Nicht das Castelo von Avelar. Die anderen Kirchen des Rings nennen
+solche Weiler **selten bis gar nicht**.
 
 Deshalb: eine Teixeira-Heirat in Ansião, Chão de Couce oder Cumeeira
 nennt oft nur die Pfarrei, nicht Cabeça Redonda oder Carrasqueiras.

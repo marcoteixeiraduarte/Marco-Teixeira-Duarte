@@ -91,6 +91,24 @@ Die Heiraten 1774 im Buch Avelar (`Castello` am Rand) gehören zu
 **Barreira** hier nicht an Thereza Freire (Cumeeira, Lesung offen)
 hängen. Namensvetter.
 
+### WEILER UND GÄRTEN (Vale de Todos)
+
+**Auftraggeber:** Die kleinen Bezeichnungen — Weiler, Gärten, Flecken —
+bleiben im Gedächtnis. Man sagte: *ich gehe zur Lagoa*, *zur Cancela*,
+nicht die Civil-Freguesia 2013. Deshalb schreibt Torre sie auch in
+die Heiraten.
+
+| Name | Karte / Akt | Gewissheit |
+| --- | --- | --- |
+| **Lagoa** | OSM Rua da Lagoa, Vale de Todos, 39.963 N, 8.422 W; CartTop **017164** `R LAGOA` | sicher als Ort im Weiler |
+| **Alto da Lagoa** | OSM Rua do Alto da Lagoa, Torre de Vale de Todos, 39.959 N, 8.429 W; CartTop **035210** | sicher als Straße der Torre |
+| **Cancela** | mündlich neben Lagoa. OSM-nächste `Rua da Cancela`: Trás de Figueiró / **Alvorge**, 39.971 N, 8.438 W (~1,7 km). Andere: Poço dos Cães / Santiago da Guarda | mündlich im Gedächtnis; die Alvorge-Straße nur Nachbar, nicht dieselbe Cancela |
+| **Quelha** | CartTop **017164** `R QUELHA DE VALE DE TODOS`. Taufe Anna 1845: Großvater **João Dias da Quelha**, Valle de todos | sicher als Gasse; Personenanschluss der Quelha-Linie nur so weit der Akt reicht |
+| Castello, Barreira, Pragoza, Rua d'Além, São Jorge | siehe oben | sicher im Weilerkreis |
+
+`Lagoa` und `Cancela` nicht mit Lagoa da Ameixieira (Chão de Couce),
+Lagoa Parada (Santiago da Guarda) oder Pousaflores/Barreira tauschen.
+
 ### ANCIAO / Ansião
 
 Die Taufen von 1878 und 1880 schreiben `concelho d'Anciao`. Die heutige

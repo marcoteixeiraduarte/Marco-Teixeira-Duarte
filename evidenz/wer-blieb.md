@@ -96,6 +96,11 @@ Bemposta. Wer vor Luiz schon in Rua d'Além saß, bleibt **offen**.
 gleich nebeneinander (Auftraggeber; OSM Rua do Castelo hängt an
 Rua da Barreira). Nicht das Castelo von Avelar.
 
+Dieselben Leute orientieren sich an den **Gärten und Weilern**:
+*ich gehe zur Lagoa*, *zur Cancela*. Lagoa liegt kartiert in Vale
+de Todos. Cancela ist mündlich; die nächste OSM-Straße dieses Namens
+ist Trás de Figueiró / Alvorge, nicht still dieselbe.
+
 ## Die Ecke gegen Vale de Todos
 
 Teixeira und Freire: Männer aus **Figueiras Podres** zur Frau in
