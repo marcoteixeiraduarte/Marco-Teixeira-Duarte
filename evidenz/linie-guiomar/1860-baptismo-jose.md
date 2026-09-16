@@ -42,7 +42,8 @@ Großeltern:
 Patenzeile (gegenlesen): José Luiz, São Jorge; Maria.
 
 Rest des Jahresbands 1860 (m0003–m0007): kein zweites Kind
-dieses Paars. Band 1861 ebenfalls ohne Luiz × Delfina.
+dieses Paars. Band **1861** ebenfalls ohne; nächstes Kind
+[Manuel 1862](1862-baptismo-manuel.md).
 
 ## Was feststeht
 

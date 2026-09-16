@@ -34,6 +34,8 @@ Gegenlese 15.09.2026, Elternzeilen:
 | Delfina Maria | Mutter João; natürlich **lugar da Leiria, dieser Pfarrei Torre** | sicher (1874 + Heirat **10.11.1859**) |
 | `aqui recebidos` | Luiz × Delfina in **Torre** getraut | sicher: **10.11.1859** |
 | José | erstes Kind, * 31.05.1860, Taufe 25.06.1860, Lindoso | sicher |
+| Manuel | zweites Kind, Taufe 15.08.1862, Lindoso | sicher |
+| Maria | drittes Kind, * 04.05.1864, Taufe 22.05.1864, Lindoso | sicher |
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht das erste Kind | sicher als Formel |
 
@@ -183,11 +185,10 @@ des Kreises, dieselben Marker.
    [1859-casamento-luiz-delfina.md](1859-casamento-luiz-delfina.md).
    Quellenform des Bräutigams dort: `Luiz Dias`.
 
-4. **Torre Batismos** ab **1860** (nicht erst 1875): Geschwister Luiz ×
-   Delfina. **José * 31.05.1860** gefunden, Lindoso.
-   Blatt: [1860-baptismo-jose.md](1860-baptismo-jose.md).
-   João 1874 ist `primeiro deste nome`. 1861 ohne weiteres Kind dieses
-   Paars; 1862–1873 weiter.
+4. **Torre Batismos** ab **1860**: Geschwister Luiz × Delfina.
+   **José * 31.05.1860**, **Manuel 1862**, **Maria * 04.05.1864**,
+   alle Lindoso. Bände 1861/63/65 ohne. Fenster **1866–1873** offen,
+   dann João 1874.
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
    Lugar Leiria (1860 bestätigt). Fenster um 1831 und jünger. Eigenes
    Fenster, nicht mit Dias Guiomar vermischen. Geschwisterakt:
@@ -211,6 +212,12 @@ Weitere Treffer:
 - **25.06.1860** Torre: **José**, * 31.05., Luiz Dias × Delfina Maria,
   Wohnort **Lindoso**.
   [1860 José](1860-baptismo-jose.md).
+- **15.08.1862** Torre: **Manuel**, Luiz natural **Bemposta / Alvorge**,
+  Lindoso.
+  [1862 Manuel](1862-baptismo-manuel.md).
+- **22.05.1864** Torre: **Maria**, * 04.05., Lindoso.
+  [1864 Maria](1864-baptismo-maria.md).
+- Bände **1861, 1863, 1865** ohne weiteres Kind dieses Paars.
 - **16.02.1860** Torre: Geschwister Delfinas, Eltern José Gregorio † ×
   Nazareth Maria, Leiria.
   [1860 Heirat](1860-casamento-filho-jose-gregorio.md).
@@ -223,7 +230,7 @@ Luiz × Delfina in den Heirats-Jahresbänden 1860–1874 **nicht** —
 korrekt, die Heirat liegt **1859** im Sammelband.
 
 Als Nächstes: Taufe Luiz in Alvorge **vor 1845** (Fenster ~1829–1838);
-weitere Kinder 1862–1873; Sterbeakten Antonio Dias × Joaquina Maria
+weitere Kinder **1866–1873**; Sterbeakten Antonio Dias × Joaquina Maria
 (beide † vor 10.11.1859).
 
 Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
@@ -231,7 +238,7 @@ Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 | Pfarrei | Dias-Guiomar-Durchsicht |
 |---|---|
 | Alvorge | Band 1822–1852 lokal; Mai 1845 Cluster; Luiz-Taufe vor 1845 |
-| Torre | Taufe João 1874; **Heirat 10.11.1859**; **José 25.06.1860**; 1861 ohne weiteres Kind; Zivil 1915/1934/1958; Geschwister 1862–1873 offen |
+| Torre | Taufe João 1874; **Heirat 10.11.1859**; Kinder **José 1860 / Manuel 1862 / Maria 1864**; Bände 1861/63/65 ohne; Zivil 1915/1934/1958; Geschwister **1866–1873** offen |
 | Ansião-Stadt | offen |
 | Santiago da Guarda | offen |
 | Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur) |

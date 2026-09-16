@@ -36,7 +36,8 @@ Nós Portugueses (Bandliste, Ref. = FS-Film):
 Screenshot der **ganzen Doppelseite** reicht. Nicht zoomen und
 abschneiden.
 
-Drei Stellen, in dieser Reihenfolge:
+Drei Stellen zuerst (Heirat, José, Bemposta). Danach die
+Geschwister 1862 und 1864, dieselben Klicks, nur anderer Band.
 
 ## 1. Die Heirat
 
@@ -63,6 +64,26 @@ Gesucht in der Zeile: `Luiz Dias` / `Bemposta` / `Delfina Maria` /
 
 Der Namenszug `Joaquina` über dem Akt gehört zur **Vorakte**.
 Kindesname ist **José**, männlich.
+
+## 2b. Manuel, 1862
+
+| | |
+|---|---|
+| Pfarrei | Torre de Vale de Todos |
+| Band | Batismos **1862** |
+| Nós-Ref. | **271934** (9 Bilder) |
+| Stelle | **Bild 5** (`m0005`), linke Seite unten, N.º 10 |
+| Was | **Manuel**, Taufe 15.08.1862, Lindoso. Luiz hier natural **Bemposta / Alvorge**. |
+
+## 2c. Maria, 1864
+
+| | |
+|---|---|
+| Pfarrei | Torre de Vale de Todos |
+| Band | Batismos **1864** |
+| Nós-Ref. | **271936** (7 Bilder) |
+| Stelle | **Bild 4** (`m0004`), linke Seite, N.º 11 |
+| Was | **Maria**, * 04.05.1864, Taufe 22.05.1864, Lindoso. |
 
 ## 3. Alvorge, Rand Bemposta
 
