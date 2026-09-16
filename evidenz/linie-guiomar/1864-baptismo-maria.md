@@ -35,7 +35,9 @@ Ref. **271936**, Bild 4.
 | Luiz natural | **Alvorge** (Bemposta in den Geschwisterakten) | sicher Pfarrei |
 | Wohnort | **Lindos** | sicher |
 
-Bände **1861, 1863, 1865** ohne weiteres Kind dieses Paars.
-Nächstes Fenster: 1866–1873, dann João 1874.
+Bände **1861, 1863, 1865, 1866** ohne weiteres Kind dieses Paars.
+Nächstes Kind: **Antonio** * 16.03.1867, noch Lindos.
+[1867 Antonio](1867-baptismo-antonio.md). Danach 1868–1873 ohne,
+João 1874 Rua d'Além.
 
 Nicht mit Roza/Reis vermischen.

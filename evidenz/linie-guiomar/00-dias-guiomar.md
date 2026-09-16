@@ -36,6 +36,7 @@ Gegenlese 15.09.2026, Elternzeilen:
 | José | erstes Kind, * 31.05.1860, Taufe 25.06.1860, Lindos | sicher |
 | Manuel | zweites Kind, Taufe 15.08.1862, Lindos | sicher |
 | Maria | drittes Kind, * 04.05.1864, Taufe 22.05.1864, Lindos | sicher |
+| Antonio | viertes Kind, * 16.03.1867, Taufe 22.04.1867, Lindos | sicher |
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht das erste Kind | sicher als Formel |
 
@@ -104,7 +105,7 @@ Repo. Hier nur der Ort. Keine Artikelnummer, kein NIF.
 
 | Zeitpunkt | Quelle | Wohnort |
 |---|---|---|
-| 1859–1864 | Heirat und Taufen José/Manuel/Maria | Luiz × Delfina **lugar dos Lindos** (Torre; CartTop `R LINDOS`) |
+| 1859–1867 | Heirat und Taufen José/Manuel/Maria/Antonio | Luiz × Delfina **lugar dos Lindos** (Weiler, Torre; CartTop `R LINDOS`) |
 | 1860 | Taufe José | Nazareth Maria, viuva, ebenfalls Lindos |
 | 1874 | Taufe João, Scan | Luiz × Delfina **lugar da Rua d'Além** |
 | spätestens 1915 | Grundstücksakten, Auftraggeber | João und Maria Emília, **Barreira** |
@@ -199,8 +200,8 @@ des Kreises, dieselben Marker.
 
 4. **Torre Batismos** ab **1860**: Geschwister Luiz × Delfina.
    **José * 31.05.1860**, **Manuel 1862**, **Maria * 04.05.1864**,
-   alle Lindos. Bände 1861/63/65 ohne. Fenster **1866–1873** offen,
-   dann João 1874.
+   **Antonio * 16.03.1867**, alle Lindos. Bände 1861/63/65/66 und
+   **1868–1873** ohne. Dann João 1874, Rua d'Além.
 5. **Torre Batismos** Delfina: Eltern José Gregorio × Nazareth Maria,
    Lugar Lindos (1859/1874). Fenster um 1831 und jünger. Eigenes
    Fenster, nicht mit Dias Guiomar vermischen. Geschwisterakt:
@@ -229,7 +230,12 @@ Weitere Treffer:
   [1862 Manuel](1862-baptismo-manuel.md).
 - **22.05.1864** Torre: **Maria**, * 04.05., Lindos.
   [1864 Maria](1864-baptismo-maria.md).
-- Bände **1861, 1863, 1865** ohne weiteres Kind dieses Paars.
+- **22.04.1867** Torre: **Antonio**, * 16.03., Lindos. Vater hier
+  `Luiz Guiomar`; neto paterno **Antonio Dias Guiomar** × Joaquina
+  Maria, Bemposta. [1867 Antonio](1867-baptismo-antonio.md).
+- Bände **1861, 1863, 1865, 1866, 1868–1873** ohne weiteres Kind
+  dieses Paars. Lindos-Akten in diesen Jahren gehören anderen
+  Familien (Rodrigues, Dias Barbas, Dias Coelho, Ramos, …).
 - **16.02.1860** Torre: Geschwister Delfinas, Eltern José Gregorio † ×
   Nazareth Maria, Torre (Lugar gegenlesen, wahrscheinlich Lindos).
   [1860 Heirat](1860-casamento-filho-jose-gregorio.md).
@@ -242,15 +248,15 @@ Luiz × Delfina in den Heirats-Jahresbänden 1860–1874 **nicht** —
 korrekt, die Heirat liegt **1859** im Sammelband.
 
 Als Nächstes: Taufe Luiz in Alvorge **vor 1845** (Fenster ~1829–1838);
-weitere Kinder **1866–1873**; Sterbeakten Antonio Dias × Joaquina Maria
-(beide † vor 10.11.1859).
+Sterbeakten Antonio Dias × Joaquina Maria (beide † vor 10.11.1859);
+Taufe Delfina (Lindos/Torre, Fenster um 1831).
 
 Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 
 | Pfarrei | Dias-Guiomar-Durchsicht |
 |---|---|
 | Alvorge | Band 1822–1852 lokal; Mai 1845 Cluster; Luiz-Taufe vor 1845 |
-| Torre | Taufe João 1874; **Heirat 10.11.1859**; Kinder **José 1860 / Manuel 1862 / Maria 1864**; Bände 1861/63/65 ohne; Zivil 1915/1934/1958; Geschwister **1866–1873** offen |
+| Torre | Taufe João 1874; **Heirat 10.11.1859**; Kinder **José 1860 / Manuel 1862 / Maria 1864 / Antonio 1867**; Bände 1861/63/65/66 und **1868–1873** ohne dieses Paar; Zivil 1915/1934/1958 |
 | Ansião-Stadt | offen |
 | Santiago da Guarda | offen |
 | Lagarteira | offen (Taufe Maria 1882 ist Schwiegerspur) |
@@ -268,6 +274,7 @@ Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
   (Alvorge) tauschen.
 - Bemposta (Alvorge, Ansião) nicht mit Bemposta (Penamacor) tauschen.
 - Orada Ansião (`ans09` / `PANS09`) nicht mit Orada `srp08` tauschen.
-- Manuel Dias Guiomar auf Geni nicht als Sohn Luizes führen, bis ein Akt
-  ihn nennt.
+- Manuel Dias Guiomar auf Geni nicht mit den dortigen Jahren führen.
+  Der Kirchenbuch-Manuel ist die Taufe **1862**; Antonio die Taufe
+  **1867**. Geni-Daten (Delfina * 1902) bleiben falsch.
 - Barreira (Vale de Todos) nicht mit Barreira (Pousaflores) tauschen.

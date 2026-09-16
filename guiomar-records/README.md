@@ -92,26 +92,29 @@ Daraus:
 |---|---|---|
 | Delfina Maria * 1902 | Mutter des 1874 geborenen João | **1902 streichen.** Sie kann nicht 28 Jahre nach dem Sohn geboren sein. Geburtsdatum **offen** (vor 1874; eigene Taufe nicht geprüft) |
 | Luiz Dias Guiomar ~1835 | Vater 1874, Quellenform `Luiz Guiomar`; `Dias` steht beim Großvater | ~1835 ist nur eine Schätzung (etwa 39 Jahre bei João). Kein Taufakt hier. Schätzung darf bleiben oder leer, **kein** Quellendatum |
-| Antonio Dias Guiomar als **Kind** Luizes | **Vater** Luizes (`neto paterno`) | Generation **umdrehen**: Antonio × Joaquina Maria sind die Eltern Luizes, nicht seine Kinder |
-| Manuel Dias Guiomar als **Kind** Luizes | in dieser Taufe **nicht** genannt | **lösen**, bis ein eigener Akt ihn als Sohn belegt. João ist `primeiro deste nome`, weitere Kinder sind möglich, aber unbewiesen |
+| Antonio Dias Guiomar als **Kind** Luizes | Großvater ist `neto paterno`; **Sohn** Antonio * 16.03.1867 (Taufe 22.04.1867, Lindos) | Großvater nicht als Kind führen. Den Sohn **1867** hängen; Geni-Jahre streichen |
+| Manuel Dias Guiomar als **Kind** Luizes | Taufe **15.08.1862**, Lindos | den Sohn **1862** hängen; Geni-Jahre streichen. João bleibt `primeiro deste nome` |
 | Kind João fehlt oder sitzt falsch | der belegte Sohn | João * 22.04.1874 an Luiz × Delfina hängen |
 
 Nicht Luiz auf 1900 „korrigieren“, um die 62 Jahre zu schließen.
 Die 62 Jahre entstehen, weil Delfina eine Datierung aus dem
-20. Jahrhundert bekommen hat (typische Geni-Schätzung oder
-Personenverschmelzung). Antonio als Kind mit Spätdatum erzeugt
-den zweiten Alarm (Vater „zu alt“); in der Taufe 1874 ist er
-eine Generation **über** Luiz.
+20. Jahrhundert bekommen hat. Der Großvater Antonio bleibt eine
+Generation **über** Luiz. Der Sohn Antonio ist die Taufe **1867**,
+nicht ein Kind des 20. Jahrhunderts.
 
-Richtige Reihenfolge, nur diese Akte:
+Richtige Reihenfolge, Kirchenbuch:
 
 ```
 Antonio Dias Guiomar × Joaquina Maria
   Luiz Guiomar  ×  Delfina Maria
                    (ihre Eltern: José Gregorio × Nazareth Maria;
-                    sie natural lugar dos Lindos, Pfarrei Torre;
+                    sie natural lugar dos Lindos, Weiler der Pfarrei Torre;
                     José † vor 16.02.1860, Nazareth 1860 viuva in Torre)
-      João  * 22.04.1874  Rua d'Além
+      José     * 31.05.1860  Lindos
+      Manuel   Taufe 15.08.1862  Lindos
+      Maria    * 04.05.1864  Lindos
+      Antonio  * 16.03.1867  Lindos
+      João     * 22.04.1874  Rua d'Além
 ```
 
 **Dias Guiomar** als Compound ist der Suchanker im Umkreis

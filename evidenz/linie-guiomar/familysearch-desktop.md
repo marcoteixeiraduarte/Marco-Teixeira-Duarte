@@ -85,6 +85,19 @@ Kindesname ist **José**, männlich.
 | Stelle | **Bild 4** (`m0004`), linke Seite, N.º 11 |
 | Was | **Maria**, * 04.05.1864, Taufe 22.05.1864, Lindos. |
 
+## 2d. Antonio, 1867
+
+| | |
+|---|---|
+| Pfarrei | Torre de Vale de Todos |
+| Band | Batismos **1867** |
+| Nós-Ref. | **271939** (7 Bilder) |
+| Stelle | **Bild 3** (`m0003`) unten und **Bild 4** (`m0004`) oben, N.º 9 |
+| Was | **Antonio**, * 16.03.1867, Taufe 22.04.1867. Eltern **Luiz Guiomar** × **Delfina Maria**, Wohnort **Lindos**. Neto paterno **Antonio Dias Guiomar** × Joaquina Maria, Bemposta. |
+
+Bände 1866 und 1868–1873 ohne weiteres Kind dieses Paars. João 1874
+ist Ref. **271946**, Bild 7, dann Rua d'Além.
+
 ## 3. Alvorge, Rand Bemposta
 
 | | |

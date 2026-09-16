@@ -51,8 +51,9 @@ Beides quellengetreu lassen. `Dias` kommt vom Vater Antonio Dias;
 `Guiomar` vom Compound des Großvaters (Taufe João; Alvorge Mai 1845).
 
 Kinder in Torre, alle **Lindos**: **José** * 31.05.1860;
-**Manuel** Taufe 15.08.1862; **Maria** * 04.05.1864. Bände 1861,
-1863, 1865 ohne. João * 22.04.1874 ist `primeiro deste nome`.
+**Manuel** Taufe 15.08.1862; **Maria** * 04.05.1864; **Antonio**
+* 16.03.1867. Bände 1861, 1863, 1865, 1866 und 1868–1873 ohne.
+João * 22.04.1874 ist `primeiro deste nome`.
 
 Antonio Dias × Joaquina Maria sind **vor dem 10.11.1859** tot.
 Das begrenzt die Suche nach ihren Sterbeeinträgen (Alvorge Óbitos

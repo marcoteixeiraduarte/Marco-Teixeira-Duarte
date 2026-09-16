@@ -18,6 +18,7 @@ wurden. Coverage extra führen, sobald ein Band von vorn läuft.
 | PANS08/001/0005 m0005 | 8 | Taufe **25.06.1860** (* 31.05.) | **José** | Luiz Dias | Delfina Maria | Lindos | das Paar 1859/1874 | **sicher**; [1860 José](1860-baptismo-jose.md) |
 | PANS08/001/0007 m0005 | 10 | Taufe **15.08.1862** (* Juli) | **Manuel** | Luiz Dias | Delfina Maria | Lindos | Luiz natural Bemposta | **sicher**; [1862 Manuel](1862-baptismo-manuel.md) |
 | PANS08/001/0009 m0004 | 11 | Taufe **22.05.1864** (* 04.05.) | **Maria** | Luiz Dias | Delfina Maria | Lindos | dasselbe Paar | **sicher**; [1864 Maria](1864-baptismo-maria.md) |
+| PANS08/001/0012 m0003–m0004 | 9 | Taufe **22.04.1867** (* 16.03.) | **Antonio** | Luiz Guiomar | Delfina Maria | Lindos | neto paterno Antonio Dias Guiomar × Joaquina Maria, Bemposta | **sicher**; [1867 Antonio](1867-baptismo-antonio.md) |
 | PANS08/002/0004 m0003 | 1 | Heirat 16.02.1860 | Kind von José Gregorio × Nazareth Maria (29 J.) | [José Gregorio] Lesung | [Maria Jozepha] Lesung | Leiria (Eltern, Lesung) | Delfinas Geschwister | Cluster; [1860](1860-casamento-filho-jose-gregorio.md) |
 | PANS01/001/0004 m0180 | — | Taufe **24.05.1845** (* 15.) | [Kind, Name offen] | Antonio Dias | [Josepha/Joaquina] Maria | Bemposta | Dias Guiomar Großvater | Cluster, wahrsch. Geschwister Luizes; [1845](1845-baptismo-bemposta-dias-guiomar.md) |
 

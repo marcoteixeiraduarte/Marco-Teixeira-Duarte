@@ -94,6 +94,6 @@ am Kirchenort, Luiz kommt aus Bemposta/Alvorge über die Pfarreigrenze.
 ## Distanz, die den Akt erklärt
 
 Bemposta (Alvorge) → Igreja Torre ≈ 2 km. Luiz natural Bemposta,
-Delfina natural Lindos, Heirat in Torre, 1860–1864 wohnhaft Lindos,
+Delfina natural Lindos, Heirat in Torre, 1859–1867 wohnhaft Lindos,
 1874 Rua d'Além, später Barreira: alles dieselbe Pfarrei Torre nach
 der Heirat, plus die Herkunftspfarrerei Alvorge für Luiz.
