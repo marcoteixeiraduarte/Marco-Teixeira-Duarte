@@ -14,6 +14,7 @@ ein Akt ein ähnliches Wort schreibt.
 | **Bemposta** | ja, lugar | **Alvorge** (`PANS01`) | Alvorge, PLZ 3240-405 | OSM 39.976 N, 8.431 W; Akt 1874 `freguezia de Alvorge`; Auftraggeber |
 | **Ladeia** | ja | **Alvorge** (Quinta); historisch die ganze Grenzlandschaft | Alvorge, PLZ 3240-402 (Ruinen) | OSM/SIPA/CM Ansião, siehe unten |
 | **Lindos** | ja | **Torre de Vale de Todos** (`PANS08`) | Ansião / Vale de Todos und Torre, CartTop 017164 und 035210 | `R LINDOS`; Akten 1859/1860/1862/1864/1874 |
+| **Lindoso** | ja, **Norden** | eigene Freguesia Lindoso | Ponte da Barca, Distrikt Viana do Castelo | Wikipedia/OSM ~41.87 N, 8.20 W. Nicht diese Familie. |
 | **Rua d'Além** | ja | Torre | Vale de Todos 017164 | CartTop `R ALEM` |
 | **Barreira** | ja | Torre | Vale de Todos 017164 | CartTop `R BARREIRA`; Grundstücksakten |
 | Stadt **Leiria** | ja, aber anderer Ort | — | Distrikthauptstadt | nicht Delfinas Lugar |
@@ -56,17 +57,26 @@ Taufen: Alvorge (`PANS01`), oft Rand `Bemposta`.
 
 Nicht: Bemposta (Penamacor).
 
-## Lindos — nicht Lindoso, nicht Leiria
+## Lindos (Torre) und Lindoso (Norden)
 
-Die Heirat 1859 und die Taufe João 1874 schreiben
+Beide Namen gibt es. Es sind zwei Orte.
 
-`lugar dos Lindos`, dieser Pfarrei Torre.
+**Hier:** `lugar dos Lindos`, Pfarrei Torre. Heirat 1859 und Taufe
+João 1874 schreiben das so. Die Jahresbände 1860/1862/1864 setzen an
+den Rand **`Lindos.`** (1864 eindeutig; 1860 `Linde.`). CartTop
+`R LINDOS`. OSM: Rua dos Lindos, Torre de Vale de Todos, 3240-710,
+an der Rua Nossa Senhora da Graça.
 
-Die Jahresbände 1860/1862/1864 setzen an den Rand **`Lindos.`**
-(1864 eindeutig; 1860 `Linde.`). Frühere Lesung `Lindoso` /
-`lugar da Leiria` war die Stadt und der Minho-Ort — beides falsch.
+**Im Norden:** **Lindoso**, eigene Freguesia im Kreis **Ponte da
+Barca**, Distrikt Viana do Castelo (Alto Minho). Etwa 41.87 N,
+8.20 W; Castelo de Lindoso, PLZ 4980-451. Rund 200 km nördlich von
+Ansião. Eigene Pfarrei, andere Diözese. Nicht in den Ansião-Büchern.
 
-CartTop 2019:
+Nominatim `Lindoso Ansião` ist leer — in diesem Kreis gibt es nur
+**Lindos**. Die frühere Lesung `lugar da Leiria` war die Stadt;
+die Lesung `Lindoso` war der Ort im Norden. Beides nicht Delfina.
+
+CartTop 2019, dieser Kreis (nicht Ponte da Barca):
 
 | Form | ID | Lugar | Locality |
 |---|---|---|---|
@@ -78,9 +88,6 @@ CartTop 2019:
 OSM: Rua dos Lindos, Torre de Vale de Todos, 3240-710. Sie trifft
 auf die Rua Nossa Senhora da Graça (Matriz). Delfina ist natural
 am Kirchenort, Luiz kommt aus Bemposta/Alvorge über die Pfarreigrenze.
-
-Nicht tauschen mit **Lindoso** (Ponte da Barca / Minho). Nominatim
-`Lindoso Ansião` ist leer.
 
 ## Distanz, die den Akt erklärt
 
