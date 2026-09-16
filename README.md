@@ -139,6 +139,15 @@ Haushalte bleiben getrennt, bis ein Akt sie verbindet.
 | Joaquim Carvalho × Maria de Jesus | Cabeça Redonda | — |
 | João da Cruz (casado) und Tochter Maria da Conceição (solteira) | Carrasqueiras, Pfarrei **Chão de Couce** | dort |
 
+### DIE ECKE — Maxial / Cabeça Redonda / Carrasqueiras / Figueiras Podres
+
+Mündlich ein Fleck, vier Mündungen, Oliven über 1500 Jahre. Kirchlich
+stoßen **Cumeeira, Chão de Couce, Ansião und Torre** hier an.
+OSM: Maxial, Carrasqueiras, Cabeça Redonda, Figueiras Podres und
+Ribeira de Cima liegen alle in PLZ 3240-706, jeweils unter 1 km.
+Vale de Todos ~3,8 km. Blatt:
+[ecke-maxial](evidenz/linie-teixeira/ecke-maxial.md).
+
 ### ATANHA / ALVORGE
 
 | Quellenform | Maßgebliche Quelle |

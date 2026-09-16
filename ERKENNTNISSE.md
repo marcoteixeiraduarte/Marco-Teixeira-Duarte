@@ -89,6 +89,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
 | João Teixeira (Forte) | * 13.10.1879 Cabeça Redonda; Taufname João; Forte = Großmutter Maria Forte; Eltern Custodio Teixeira (Figueiras Podres, wohnhaft Cabeça Redonda) × Joana de Jesus (Cabeça Redonda); Paten Carrasqueiras / Chão de Couce | sicher | [teixeira](teixeira-records/README.md) |
+| Maria José dos Santos | ~1884, freguesia Ansião; Frau Joãos; Eltern **Francisco José dos Santos** × **Maria Thereza** (Akt 1913); Heirat offen | sicher als Eltern 1913; Taufe/Heirat offen | [maria-jose](evidenz/linie-teixeira/maria-jose-dos-santos.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |

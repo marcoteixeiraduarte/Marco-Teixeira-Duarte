@@ -48,9 +48,21 @@ Wasserzeichen **Chão** de Couce — **Chão, nicht São**. **Maria Forte**, nic
 
 Den Weiler Carrasqueiras der Paten **nicht** mit der Geburt Manuel
 Duarte 1885 (Taufe Cumeeira) zu einer Familie machen. Geografie und
-Abgrenzung: Ortsregister.
+Abgrenzung: Ortsregister und
+[evidenz/linie-teixeira/ecke-maxial.md](../evidenz/linie-teixeira/ecke-maxial.md).
 
-Quelle:
+## Frau und Schwiegereltern
+
+Frau: **Maria José dos Santos**, natürlich freguesia Ansião, 1913
+wohnhaft Ribeira de Cima mit João. Eltern (Zivilakt Sohn Manuel,
+10.09.1913): **Francisco José dos Santos** × **Maria Thereza**.
+
+Heirat João × Maria José: **offen** (Fenster 1900–1912; zuerst
+Ansião, dann Cumeeira, dann Chão de Couce).
+
+Blatt: [maria-jose-dos-santos.md](../evidenz/linie-teixeira/maria-jose-dos-santos.md).
+
+Quelle Taufe João:
 
 - `PT/AUC/PAR/PNL01/002/0024`,
   `PNL01-002-0024_m0015.jpg` und `PNL01-002-0024_m0016.jpg`,

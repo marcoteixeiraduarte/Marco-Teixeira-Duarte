@@ -27,13 +27,18 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 | [09.jpg](09.jpg) | 6,8 MB | Foto 9 |
 | [10.jpg](10.jpg) | 3,7 MB | Foto 10 (Deckblatt der Fotokopie) |
 
-Lebende und avós gehören nicht in diese Prüfung. Offene Blattkarten
-dieser Generation, sobald ein Akt festgelesen ist:
+Foto `01.jpg` ist für den Geburtsakt **Manuel Teixeira** (10.09.1913,
+Ribeira de Cima) gelesen: Eltern João Teixeira × Maria José dos Santos;
+Großeltern Custodio Teixeira × Joana de Jesus und **Francisco José dos
+Santos** × **Maria Thereza**. Fotos `02`–`09` bleiben offen.
+Foto `10` ist das Deckblatt.
 
-- Manuel Teixeira · * 10.09.1913 · Ribeira
+Offene Blattkarten dieser Generation, sobald ein Akt festgelesen ist:
+
+- Manuel Teixeira · * 10.09.1913 · Ribeira de Cima (Akt `01.jpg` gelesen)
 - Maria Emília Guiomar · * 21.08.1915 · Vale de Todos
 - José Mendes d'Ascensão · * 1914
 - Palmira Reis · * 24.04.1912
 
-und die noch offenen 3.º avós Joaquina Ramalha dos Reis und
-Maria José dos Santos.
+und die 3.º avó Joaquina Ramalha dos Reis. Maria José dos Santos:
+Eltern aus `01.jpg` bekannt, eigene Taufe und Heirat mit João offen.
