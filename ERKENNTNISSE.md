@@ -99,6 +99,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes, beide Pragoza | sicher | joaquina-reis-leal |
 
 Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
+**Auftraggeber: das stimmt.**
 
 ### Avelar – abgegrenzt
 
