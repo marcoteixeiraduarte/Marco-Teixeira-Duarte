@@ -1,4 +1,9 @@
-# João Teixeira – geprüfte Kirchenbuchfunde
+# João Teixeira (Forte) – geprüfte Kirchenbuchfunde
+
+Wir sprechen hier von **João Teixeira (Forte)** — Unterscheidung
+nach der väterlichen Großmutter **Maria Forte**. Der Taufakt N.º 42
+nennt nur **João**; `Forte` steht dort bei der Großmutter, nicht als
+Nachname des Kindes.
 
 Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
 Coimbra. Schreibweisen folgen dem Eintrag.

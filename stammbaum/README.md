@@ -33,9 +33,11 @@ suchen, nicht im Kirchenbuch:
 
 ### 3.º avós
 
-#### João Teixeira
+#### João Teixeira (Forte)
 
 Blatt: `João Teixeira · * 13.10.1879 · Cumeeira`.
+Unterscheidung **(Forte)** nach der Großmutter **Maria Forte**; im
+Taufakt nur **João**.
 
 Quelle, Taufe Nr. 42, 22.10.1879:
 
@@ -278,9 +280,9 @@ Identität.
    der Cumeeira-Taufen ersetzen (Tabelle oben).
 9. `Pais de José Maria por confirmar` durch **Joze Mendes Ferreira**
    ersetzen.
-10. João Teixeira: Ort **Cabeça Redonda**; Elternform `Custodio`;
-    Vater **Figueiras Podres**; Joana Cabeça Redonda; Paten
-    Carrasqueiras / Chão de Couce.
+10. João Teixeira **(Forte)**: Ort **Cabeça Redonda**; Taufname João;
+    Vater **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana Cabeça Redonda; Paten
+    Carrasqueiras / Chão de Couce. `Forte` = Großmutter Maria Forte.
 11. João Dias Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`.
 12. Maria Helena Guiomar: Taufname **Maria**, Ort **Valle do Pião**
     (LAR / Lagarteira); Mutter ohne erzwungenes `Contente`.

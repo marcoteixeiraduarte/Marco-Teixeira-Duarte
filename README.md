@@ -190,7 +190,7 @@ späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
 - [Narciza / Caetana / Maria da Piedade](narcisa-records/README.md)
 - [Duarte / Freire Bicho](duarte-freire-records/README.md)
 - [Joze Maria da Ascenção](jose-maria-records/README.md)
-- [João Teixeira](teixeira-records/README.md)
+- [João Teixeira (Forte)](teixeira-records/README.md)
 - [João / Maria (Guiomar)](guiomar-records/README.md)
 - [Manuel (Matta)](matta-records/README.md)
 
