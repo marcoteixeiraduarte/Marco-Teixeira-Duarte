@@ -4,6 +4,9 @@ Stand aus `master` (PR #2–#4), Archiv/Quellenformen (PR #6),
 Evidenz-Ledger (PR #7) und Avelar-Gegenlese (PR #5).
 Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 
+Scans durchforsten: [`archiv/NAMEN.md`](archiv/NAMEN.md) — jeder Name
+seinen Ordner.
+
 ## Gewissheit
 
 | Stufe | Bedeutung |
