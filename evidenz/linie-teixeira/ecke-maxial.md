@@ -20,10 +20,9 @@ Maxial, Figueiras Podres und Ribeira de Cima. Straße **EM 560**:
 Ansião – Maxial – Cabeça Redonda – Cumeeira.
 
 Vier kirchliche Pfarreien stoßen hier an: **Cumeeira**, **Chão de
-Couce**, **Ansião**, **Torre de Vale de Todos**. Deshalb wirkt die
-Ecke „sehr seltsam“ und kommt in den Akten oft vor: ein Haus kann
-Cumeeira taufen, Chão de Couce als Patenpfarrei nennen und 1913 in
-Ansião wohnen, ohne umzuziehen.
+Couce**, **Ansião**, **Torre de Vale de Todos**. **Die Teixeira waren
+umtriebig:** ein Haus kann Cumeeira taufen, Chão de Couce als
+Patenpfarrei nennen und 1913 in Ansião wohnen, ohne weit zu ziehen.
 
 ## Vier Mündungen
 

@@ -1,10 +1,9 @@
 # Suchkreis um Ansião — Heirat und Taufen
 
-Wir wissen **nicht** im Voraus, in welcher Kirche João Teixeira
-(Forte) und Maria José dos Santos geheiratet haben. Wir wissen auch
-**nicht**, wo Maria José getauft wurde. Die Ecke hat mehrere Pfarreien
-auf wenigen Kilometern. Die Suche bleibt der **Ring**, nicht eine
-einzige Kirche.
+**Die Teixeira waren umtriebig.** Naturalidade, Wohnort und Kirche
+müssen nicht dieselbe Pfarrei sein. Deshalb wissen wir **nicht** im
+Voraus, wo João Teixeira (Forte) und Maria José dos Santos geheiratet
+haben und wo Maria José getauft wurde. Die Suche bleibt der **Ring**.
 
 ## Was schon festliegt
 

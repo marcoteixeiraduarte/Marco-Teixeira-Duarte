@@ -5,6 +5,11 @@ nach der väterlichen Großmutter **Maria Forte**. Der Taufakt N.º 42
 nennt nur **João**; `Forte` steht dort bei der Großmutter, nicht als
 Nachname des Kindes.
 
+**Die Teixeira waren umtriebig:** Custodio aus Figueiras Podres,
+wohnhaft Cabeça Redonda; João 1879 Cumeeira, 1913 Ribeira de Cima
+(Ansião); Pate Joaquim Teixeira 1913 Figueiras Podres / Torre. Deshalb
+Heirat und Taufe Maria José im ganzen Ring suchen.
+
 Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
 Coimbra. Schreibweisen folgen dem Eintrag.
 
