@@ -9,6 +9,8 @@ Die Aktenordner (`*-records/`) behalten dieselben Bytes. Hier liegen
 dieselben Bilder unter sprechenden Namen, damit du sie der Reihe nach
 öffnen kannst.
 
+**Welcher Name in welchem Ordner:** [`NAMEN.md`](NAMEN.md).
+
 DigitArq-Dateien sind meist schon eine **Doppelseite**. Folgeseite nur
 dort, wo der Eintrag über die Bildgrenze läuft.
 

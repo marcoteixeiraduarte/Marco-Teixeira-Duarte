@@ -3,6 +3,10 @@
 **Zusammengeführte Erkenntnisse** (Archiv + Git + Evidenz):
 [`ERKENNTNISSE.md`](ERKENNTNISSE.md).
 
+**Name → Ordner → Scan** zum Durchforsten:
+[`archiv/NAMEN.md`](archiv/NAMEN.md). Zuerst `archiv/`, dieselben
+Pixel in `*-records/`.
+
 Personen- und Ortsnamen werden in der Schreibweise der jeweils
 maßgeblichen Primärquelle übernommen. Historische Schreibweisen werden
 nicht modernisiert oder normalisiert.
@@ -267,6 +271,8 @@ späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
 - [João Teixeira (Forte)](teixeira-records/README.md)
 - [João / Maria (Guiomar)](guiomar-records/README.md)
 - [Manuel (Matta)](matta-records/README.md)
+
+Zum Durchforsten der Scans: [`archiv/NAMEN.md`](archiv/NAMEN.md).
 
 ## Evidenz-Ledger
 

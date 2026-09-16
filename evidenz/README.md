@@ -41,6 +41,8 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-torre/joaquina-reis-leal.md` — Joaquina Reis / Ramalho / Leal, nicht glätten
 - `quellenregister.md` — alle versionierten Scans
 
+Zum Durchforsten (Name → Ordner): [`../archiv/NAMEN.md`](../archiv/NAMEN.md).
+
 ## Regel für neue Funde
 
 1. Scan-Pfad und Archivsignatur notieren.
