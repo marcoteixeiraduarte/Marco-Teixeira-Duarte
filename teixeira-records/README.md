@@ -29,11 +29,11 @@ Blatteltern **Custódio Teixeira** × **Joana de Jesus** **passen**
 `Sarrazina` / São Cosme steht **nur bei den Paten**. Vater, Mutter und
 beide Großelternpaare bleiben in Cabeça Redonda bzw. Figueira Podra.
 Die Pfarrei São Cosme ist unter den Nachbarpfarreien nicht gefunden.
-**Sarzedela** (heutige Freguesia Ansião, Nachbar von Figueiras de
-S. João) ist geografisch plausibel, an dieser Handschrift aber
-**nicht** gesichert: die sicherere Lesung bleibt `Sarrazina` /
-São Cosme; Sarzedela gehörte 1879 zur Pfarrei Ansião (Orago Nossa
-Senhora da Conceição). Der Suchradius für Custodio × Joana steigt
+**Sarzedela** / `Sarzdela` **gibt es** (CartTop 017053, ~3,5 km von
+Cabeça Redonda, Pfarrei Ansião, Kapelle São João Baptista). Als Lesung
+der Patenzeile **nicht** setzen: der Scan bricht `Sarra-` / `zina`;
+die Pfarrei im Akt ist São Cosme, nicht Ansião. Nicht mit **Sarzeda**
+(Pousaflores) tauschen. Der Suchradius für Custodio × Joana steigt
 dadurch nicht.
 
 Quelle:
