@@ -39,7 +39,7 @@ Gegenlese 15.09.2026, Elternzeilen:
 | Antonio | viertes Kind, * 16.03.1867, Taufe 22.04.1867, Lindos | sicher |
 | Rua d'Além | Wohnort 1874, Pfarrei Torre | sicher |
 | João `primeiro deste nome` | erster João dieses Paars, nicht das erste Kind | sicher als Formel |
-| Luis Dias Guiomar (Pass, 33 J., Santos) | Filiação Luiz Guiomar × Delfina Maria, natural Torre | wahrscheinlich Sohn; Taufe offen |
+| Luis Dias Guiomar (Pass, 33 J., Santos) | Filiação Luiz Guiomar × Delfina Maria, natural Torre | wahrscheinlich Sohn; Taufe offen. Nicht Manuel Teixeira *1913, nicht Manuel Duarte *1885 ([Passregister](../passregister-teixeira-duarte.md)) |
 
 Orte mit Karte und Pfarrei: [orte.md](orte.md). **Ladeia gibt es**
 (Quinta in Alvorge; Landschaft bis Torre). **Bemposta gehört zu

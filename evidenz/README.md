@@ -46,6 +46,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `linie-guiomar/` — Dias Guiomar (Bemposta/Alvorge × Torre); nicht Roza/Reis
+- `passregister-teixeira-duarte.md` — Manuel Teixeira und Manuel Duarte sind nicht der Pass Luis Dias Guiomar
 - `quellenregister.md` — alle versionierten Scans
 
 ## Regel für neue Funde

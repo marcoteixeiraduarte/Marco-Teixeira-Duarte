@@ -76,3 +76,12 @@ FamilySearch Torre nach João: Bände **1876** Ref. 271948,
 
 Nicht mit José Guiomar, Alvorge, Pass Braga 1909 (andere Person)
 vermischen. Nicht mit weiblichem Vornamen Guiomar in CEPESE.
+
+Nicht mit **Manuel Teixeira** (* 1913 Ribeirinho / Cumeeira, † 1973
+Angónia) und nicht mit **Manuel Duarte** (* 1885 Carrasqueiras /
+Cumeeira, † 1962 Ansião) vermischen. Beide sind andere Linien,
+andere Distrikte (Penela → Coimbra), andere Filiação. In CEPESE
+und im Leiria-Santos-Kontext **kein** identifizierter Treffer:
+[passregister-teixeira-duarte.md](../passregister-teixeira-duarte.md).
+Der Manuel der Taufe 1862 (Lindos) ist Sohn Luiz × Delfina, nicht
+Opa Fernandos Vater.

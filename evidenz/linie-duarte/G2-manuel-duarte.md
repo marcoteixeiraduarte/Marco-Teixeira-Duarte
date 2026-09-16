@@ -29,6 +29,14 @@
 | Heirats-Rand | 13. November 1907 mit Joaquina [Ignácia / Freire] | Heirat sicher, Zweitname im Rand offen |
 | Tod | 30. September **1962**, Ansião (Blatt und Averbamento) | sicher laut Blatt/Averbamento; Sterbeakt offen |
 
+## Pass / Brasilien
+
+CEPESE Penela ID 129026 (Manuel Duarte, 43, Santos, casado) hat
+Filiação **Joaquim Duarte × Maria de Jesus** — **ausgeschlossen**.
+Cumeeira / Carrasqueiras / Ansião in CEPESE leer. Das Leiria-Register
+von Luis Dias Guiomar (Torre, GCLRA) ist eine andere Serie.
+[passregister-teixeira-duarte.md](../passregister-teixeira-duarte.md).
+
 ## Anschluss vorwärts
 
 Heirat mit Joaquina Ignácia: [G2-heirat-1907](G2-heirat-1907.md).
