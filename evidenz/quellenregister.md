@@ -64,3 +64,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1741-ISA | Taufe Isabel, Caralinho; Manoel Mendes — Weilerform 1741, nicht Feio-Kind | `evidenz/scans/torre/1741-baptismo-isabel-caralinho-left.jpg` |
 | TVT-BAP-1720-ROS | Taufe Rosa, Carvalhinho, 7.12.1720 — Weilerform, Eltern nicht fest | `evidenz/scans/torre/1720-baptismo-rosa-carvalhinho-left.jpg` |
 | TVT-BAP-1741-MAR | Taufe Maria, Castello; avô Diogo Roiz dos Lindos | `evidenz/scans/torre/1741-baptismo-maria-castello-lindos-left.jpg` |
+| TVT-BAP-1767-JAC | Taufe Jaceta, Lindos, 19.06.1767 — Anfang `001/0002`, nicht Feio | `evidenz/scans/torre/1767-baptismo-jaceta-lindos-left.jpg` |
+| TVT-OBI-1705-PIN | Óbito Antonio Mendes, casal da Lagoa do Pinto, 16.12.1705 — nicht Lagoa do Pito | `evidenz/scans/torre/1705-obito-antonio-mendes-lagoa-do-pinto.jpg` |

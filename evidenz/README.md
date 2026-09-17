@@ -41,12 +41,13 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
   Melchior * **15.05.1775** Val de Todos; × Rozaria, Carvalhinho 1824;
   Generation **Antonio Rodrigues Feio × Maria Mendes**, Carvalhinho
 - `linie-guiomar/antonio-feio-carvalhinho.md` — neue Schicht 1700;
-  Zeitraum `001/0001` **1720–1767**, nicht nur 1740–1755
+  Zeitraum `001/0001` **1720–1767** plus `001/0002` ab 19.06.1767;
+  DigitArq `002/0001`/`002/0002` sind nicht die Heiratsbände
 - `linie-torre/passe-antonio-guiomar-1901.md` — Pass 1901 = Bruder
   Joãos, nicht der avô Antonio × Joaquina; José Maria 1902; Freixo /
   Lindos
 - `1700-1800.md` — nächster Abschnitt; Faden jetzt Antonio Rodrigues Feio
-  × Maria Mendes, Carvalhinho; Jahrkarte `001/0001` m0200–m0450
+  × Maria Mendes, Carvalhinho; `002/0002` = Taufen `001/0002`
 - `wer-blieb.md` — welche Familie wo sesshaft; Zuzug über Mann oder Frau
 - `suche-erweitert.md` — Jahre und Ringe weitermachen; Heirat Matta×Ramalha 1896 gefunden
 - `linie-torre/joaquina-reis-leal.md` — Joaquina Ramalha / Reis; Eltern José dos Reis × Maria Ramalha

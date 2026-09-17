@@ -183,7 +183,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 2 | Conservatória Ansião: `01` `03` `04` `06` `07` `08` gelesen; Geburt José Mendes N.º 320/1914 hier kein Foto |
 | 2a | **Heirat 21.08.1896** und **erste Palmyra * 8.06.1897**. Palmira * 24.04.1912 ist die späte. Zwei Reis-Häuser = **Brüder** (Sebastião 1871). Taufe Joaquina **1875–1880** (1872–74 leer); Heirat José × Ramalha **vor** Mai 1871 |
 | 2b | Heirat João Teixeira (Forte) × Maria José **1895–1913**; Taufe Maria José **1876–1894** — [suche-erweitert](evidenz/suche-erweitert.md) |
-| 2c | **Geburt Melchior * 15.05.1775** Val de Todos gefunden. Avós 1824 = **Antonia Maria** (nicht Victoria). Nächste: Heirat Melchior × Rozaria 1795–1812; Taufe Nicolau; Taufe des Onkels Belchior Feio ~1740–1755 in `001/0001`. [melchior-1775](evidenz/linie-guiomar/melchior-1775.md) |
+| 2c | **Geburt Melchior * 15.05.1775** Val de Todos. Avós 1824 = **Antonia Maria**. DigitArq `002/0001`=`003/0001`, `002/0002`=`001/0002`=`003/0002` — keine Online-Casamentos 1609–1811. Heirat Melchior × Rozaria **vor ~1810**; Kinder avô Feio `001/0001` **1720–1767** plus `001/0002` ab 19.06.1767. [antonio-feio-carvalhinho](evidenz/linie-guiomar/antonio-feio-carvalhinho.md) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |

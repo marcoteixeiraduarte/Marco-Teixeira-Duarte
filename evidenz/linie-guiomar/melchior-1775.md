@@ -103,5 +103,7 @@ Pate 1775 → Kinder * **~1720–1767**, nicht nur 1740–1755.
 Väterlich: **Manoel João Capateiro** × **Maria Mendes**, Val de Todos
 — andere Maria Mendes.
 
-Heirat Melchior × Rozaria weiter **1795–1812**, `PANS08/002/0002`.
+Heirat Melchior × Rozaria weiter **vor ~1810**. DigitArq `002/0002`
+ist derselbe Scan wie Taufen `001/0002` (ab 19.06.1767), kein
+Heiratsband.
 Taufe Nicolau weiter offen.

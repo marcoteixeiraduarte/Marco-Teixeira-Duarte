@@ -84,9 +84,11 @@ Diese avós der Theresa sind die nächste sichere Schicht:
 | **Manoel João Neto** × **Antonia Maria** (1775: **Caetana**) | Valle de Todos / Carvalhinho | sicher als avós 1824; Taufe Melchior 1775 |
 | **Manoel da Silva** × **Joanna Maria** | Pião (LAR) / Loureiros (Avelar) | sicher als avós 1824 |
 
-Heirat Melchior × Rozaria: vor Antonio (* wohl vor 1810). Nicht im
-Torre-Band 1812–1859 als erstes Fenster. Band **1719–1813**
-(`PANS08/002/0002`), grob **1795–1812**.
+Heirat Melchior × Rozaria: vor Antonio (* wohl vor 1810). DigitArq
+`002/0002` (Katalog 1719–1813) trägt **dieselben TIFFs** wie Taufen
+`001/0002` ab 19.06.1767 — kein Heiratsband. `002/0003` beginnt 1812
+und ist für dieses Paar zu spät. `casou` in `001/0002` falls der
+Taufband gemischt ist; sonst das physische Casamentos Dep.IV 29-A-70.
 
 Taufe Melchior: **gefunden** * 15.05.1775 / Taufe 20.05.1775,
 Val de Todos — [melchior-1775](melchior-1775.md).

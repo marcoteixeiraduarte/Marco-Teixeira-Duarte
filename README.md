@@ -121,6 +121,11 @@ die Heiraten.
 
 `Lagoa` und `Cancela` nicht mit Lagoa da Ameixieira (Chão de Couce),
 Lagoa Parada (Santiago da Guarda) oder Pousaflores/Barreira tauschen.
+**Lagoa do Pinto** 1705 (*casal da Lagoa do Pinto desta freg.*, Óbito
+Antonio Mendes, 16.12.1705, `PANS08/003/0001` `m0170`) ist ein
+Casal **dieser** Pfarrei Torre — **nicht** die Lagoa do Pito bei
+Lagarteira, **nicht** still = Rua da Lagoa. Crop:
+`evidenz/scans/torre/1705-obito-antonio-mendes-lagoa-do-pinto.jpg`.
 
 ### FREIXO (Torre de Vale de Todos)
 
@@ -150,8 +155,12 @@ São Jorge, Rua de Além, Rua da Lagoa, Rua Nossa Senhora da Graça
 Kirche 1741: avô **Diogo Roiz** `do lugar dos Lindos desta freg.`
 (Taufe Maria, Castello, 7. August 1741, `m0275` links). Crop:
 `evidenz/scans/torre/1741-baptismo-maria-castello-lindos-left.jpg`.
-Pass 1906: Francisco Jorge wohnhaft **Lindos**. Taufe Delfina:
-Lindos bleibt Suchort, nicht Lindoso.
+Kirche 1767: Taufe **Jaceta**, 19. Juni 1767, Rand **Lindos**
+(`PANS08/001/0002` `m0005`; Crop
+`evidenz/scans/torre/1767-baptismo-jaceta-lindos-left.jpg`) — Anfang
+des Taufbands 1767–1809, nicht Feio. Pass 1906: Francisco Jorge
+wohnhaft **Lindos**. Taufe Delfina: Lindos bleibt Suchort, nicht
+Lindoso.
 
 Freixo und Lindos nicht zu einem Fleck zusammenziehen. Der Pass
 1906 setzt Geburt Freixo, Wohnort Lindos — zwei Namen, ein

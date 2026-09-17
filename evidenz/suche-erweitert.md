@@ -50,13 +50,13 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Heirat Manuel × Joaquina | 26.08.1897 (Zivil 1912) | **gefunden: 21.08.1896** Torre N.º 2, Band **1896** (`PANS08/002/0038`). Band 1897 ganz leer für dieses Paar | siehe unten |
 | Taufe Luiz Guiomar | ~1829–1838 Bemposta | **1820–1850** Alvorge (Bemposta, Ateanha, Vila Nova); zur Not Avelar, Torre, Pousaflores | PANS01 Batismos 1822–1852 lokal `archiv/guiomar/alvorge-batismos-1822-1852/`; Band 1808–1822 |
 | Taufe Delfina Maria | Lindos / Torre | **1835–1860** Torre; zur Not Lagarteira, Ansião | PANS08 Batismos; Lindos = Weiler Torre, nicht Lindoso. Ortsregister: [README](../README.md) |
-| Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001` (nicht nur 1740–1755); Nachzügler `001/0002` | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
+| Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001`; Nachzügler `001/0002` ab **19.06.1767** (Anfang ohne Carvalhinho bis Dez. 1770) | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
 | Taufe **Antonio Rodrigues Feio** (avô) | Carvalhinho | **1700–1735** in `001/0001` `m0150–m0235` (1710–1738 datiert) | dasselbe |
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
 | Taufe Joaquina Ramalha | offen | **1872–1880** Torre / Pragoza (23 am 21.08.1896, nicht nur 1872–74); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
 | Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
 | Taufe Nicolau Feio | offen | **1810–1842** und Ende 1767–1809; 1822–28 ohne Nicolau | `PANS08/001/0003` / `0002` |
-| Heirat Melchior × Rozaria | offen | **gefunden als Paar 1824**; Trauung **1795–1812** Torre `002/0002` | [melchior-feio-1824](linie-guiomar/melchior-feio-1824.md) |
+| Heirat Melchior × Rozaria | offen | **gefunden als Paar 1824**; Trauung **vor ~1810** (Sohn Antonio schon Vater 1827). `002/0002` online = Taufen `001/0002`, nicht Casamentos | [melchior-feio-1824](linie-guiomar/melchior-feio-1824.md) |
 | Taufe Melchior Feio | offen | **gefunden: * 15.05.1775 / Taufe 20.05.1775** Val de Todos; Eltern Manoel João Neto × Antonia Maria Caetana | `PANS08/001/0002` m0070 |
 | Taufe Maria Helena (Contente) | Blatt * ca. 1852 | **1850–1854** Lagarteira, Valle do Pião; Eltern Jozé Contente × Helena Maria | `PANS05/001/0003`; 1852-Stichprobe ohne Treffer |
 
@@ -121,9 +121,11 @@ Victoria: A/V). Feio über die Mutter aus Carvalhinho.
    × Joaquina Maria.
 5. Taufe Delfina Maria **1835–1860** Torre; Kinder Luiz × Delfina
    **1881+** (1876–1880 leer).
-6. Heirat **Melchior × Rozaria**, Torre `PANS08/002/0002` **1795–1812**.
-   Taufe Melchior ist **gefunden** (* 15.05.1775). Onkel Belchior Feio
-   in `001/0001` **1720–1767**. Avô Antonio Feio selbst **1700–1735**.
+6. Heirat **Melchior × Rozaria**, **vor ~1810**. DigitArq `002/0002`
+   = Taufen `001/0002` (ab 19.06.1767), nicht Casamentos. Onkel
+   Belchior Feio in `001/0001` **1720–1767**. Avô Antonio Feio selbst
+   **1700–1735**. Heirat avô × Maria Mendes: `casou` in `001/0001`
+   ~1725–1755, nicht die katalogisierten `002/0001`/`002/0002`.
 7. Taufe der Kinder **Antonio Rodrigues Feio × Maria Mendes**,
    Carvalhinho 1720 / Caralinho 1741, dasselbe Buch. Isabel 1741 ist
    Mendes, nicht Feio. Rosa 1720: Weiler, Eltern nicht fest.

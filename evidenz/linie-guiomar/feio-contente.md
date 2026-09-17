@@ -124,10 +124,12 @@ Taufe **Melchior * 15.05.1775** gefunden (Val de Todos, Neto ×
 Antonia Maria Caetana). Feio über die Mutter aus Carvalhinho.
 [melchior-1775](melchior-1775.md).
 
-Heirat mit Rozaria grob **1795–1812**. Der **Onkel** Belchior
-Rodrigues Feio (erwachsen 1771) und das Paar **Antonio Rodrigues
-Feio × Maria Mendes** liegen in `001/0001`, Fenster **1720–1767**.
-Blatt: [antonio-feio-carvalhinho](antonio-feio-carvalhinho.md).
+Heirat mit Rozaria grob **vor ~1810** (Sohn Antonio schon Vater
+1827). DigitArq `PANS08/002/0002` sind **dieselben Dateien** wie
+Taufen `001/0002` (ab 19.06.1767), kein Heiratsband. Der **Onkel**
+Belchior Rodrigues Feio (erwachsen 1771) und das Paar **Antonio
+Rodrigues Feio × Maria Mendes** liegen in `001/0001`, Fenster
+**1720–1767**. Blatt: [antonio-feio-carvalhinho](antonio-feio-carvalhinho.md).
 Bücher:
 
 | Buch | Signatur | UUID |
@@ -135,13 +137,14 @@ Bücher:
 | Torre Taufen 1609–1767 | `PANS08/001/0001` | `b436bd6270f24b3ea4e0dad15de7fb0e` |
 | Torre Taufen 1767–1809 | `PANS08/001/0002` | `bdbd6125d6614dd986d2fb2ed5263b33` |
 | Torre Taufen 1810–1842 (Nicolau) | `PANS08/001/0003` | `6aa3bacfa07046a4b8d3fd47d1198480` |
-| Torre Heiraten 1719–1813 | `PANS08/002/0002` | `aa85e0999d3a43f894059033baa46f28` |
+| Torre Heiraten 1719–1813 (Katalog) | `PANS08/002/0002` | `aa85e0999d3a43f894059033baa46f28` — gleiche TIFFs wie `001/0002` |
 | Torre Heiraten 1812–1859 (lokal) | `PANS08/002/0003` | `6230184fe7b24cf380e3231f32271ea9` |
 
 Inventar aller frühen Bände: [1700-1800](../1700-1800.md). Nicht im
 Nebel von 1609 namenweise suchen. Faden: Joaquim 1853 → Melchior
 * 1775 → Antonio Rodrigues Feio × Maria Mendes (Carvalhinho),
-Zeitraum **1720–1767**.
+Zeitraum **1720–1767** in `001/0001`, Nachzügler `001/0002` ab
+19.06.1767. `002/0002` online ist dieser Taufband, kein Heiratsbuch.
 
 Pate 1853 **Joaquim Roiz Gato** nicht an die Narciza-Karte hängen,
 nur weil Gato im selben Akt steht.
