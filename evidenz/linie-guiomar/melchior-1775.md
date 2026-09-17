@@ -92,11 +92,16 @@ nicht an Maria Joaquina 1790.
 
 Mütterliche Großeltern liegen jetzt namentlich:
 
-**Antonio Rodrigues Feio** × **Maria Mendes**, Carvalhinho. Der
-Onkel Belchior ist 1771 schon erwachsen → dessen Taufe grob
-**1740–1755**, Band `PANS08/001/0001` (1609–1767).
+**Antonio Rodrigues Feio** × **Maria Mendes**, Carvalhinho. Blatt:
+[antonio-feio-carvalhinho](antonio-feio-carvalhinho.md).
 
-Väterlich: **Manoel João Capateiro** × **Maria Mendes**, Val de Todos.
+Onkel Belchior erwachsen 1771, Antonia Mutter 1771, Onkel Antonio
+Pate 1775 → Kinder * **~1720–1767**, nicht nur 1740–1755.
+`PANS08/001/0001` Jahrkarte: 1738 (`m0240`) bis 1767. Weiler 1741
+**Caralinho**. Isabel 1741 ist Mendes-Haus, nicht Feio.
+
+Väterlich: **Manoel João Capateiro** × **Maria Mendes**, Val de Todos
+— andere Maria Mendes.
 
 Heirat Melchior × Rozaria weiter **1795–1812**, `PANS08/002/0002`.
 Taufe Nicolau weiter offen.

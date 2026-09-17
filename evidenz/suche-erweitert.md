@@ -49,7 +49,8 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Taufe Maria José | ~1884 | **1876–1894** (Alter 29 im Sept 1913 kann unter-/überrunden) | PANS02 Batismos 1878–1889 lokal; dann 1876–77 und 1890–94; Ring 1 |
 | Heirat Manuel × Joaquina | 26.08.1897 (Zivil 1912) | **gefunden: 21.08.1896** Torre N.º 2, Band **1896** (`PANS08/002/0038`). Band 1897 ganz leer für dieses Paar | siehe unten |
 | Taufe Luiz Guiomar | ~1829–1838 Bemposta | **1820–1850** Alvorge (Bemposta, Ateanha, Vila Nova); zur Not Avelar, Torre, Pousaflores | PANS01 Batismos 1822–1852 lokal `archiv/guiomar/alvorge-batismos-1822-1852/`; Band 1808–1822 |
-| Taufe Delfina Maria | Lindos / Torre | **1835–1860** Torre; zur Not Lagarteira, Ansião | PANS08 Batismos; Lindos = Weiler Torre, nicht Lindoso |
+| Taufe Delfina Maria | Lindos / Torre | **1835–1860** Torre; zur Not Lagarteira, Ansião | PANS08 Batismos; Lindos = Weiler Torre, nicht Lindoso. Ortsregister: [README](../README.md) |
+| Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001` (nicht nur 1740–1755); Nachzügler `001/0002` | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
 | Taufe Joaquina Ramalha | offen | **1872–1880** Torre / Pragoza (23 am 21.08.1896, nicht nur 1872–74); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
 | Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
@@ -121,6 +122,9 @@ Victoria: A/V). Feio über die Mutter aus Carvalhinho.
    **1881+** (1876–1880 leer).
 6. Heirat **Melchior × Rozaria**, Torre `PANS08/002/0002` **1795–1812**.
    Taufe Melchior ist **gefunden** (* 15.05.1775). Onkel Belchior Feio
-   ~1740–1755 in `001/0001`.
+   in `001/0001` **1720–1767**, nicht nur 1740–1755.
+7. Taufe der Kinder **Antonio Rodrigues Feio × Maria Mendes**,
+   Carvalhinho / Caralinho, dasselbe Buch. Isabel 1741 ist Mendes,
+   nicht Feio.
 
 Leerjahr: nächstes Jahr **und** nächste Kirche, nicht abbrechen.

@@ -17,6 +17,8 @@ Blatt mit Transkript: [`evidenz/quellenregister.md`](../evidenz/quellenregister.
 | **Maria** (Pião) · Joaquim Rodrigues Feio · Maria Helena · Jozé Contente | [`guiomar/`](guiomar/) `1882-…` | dasselbe |
 | **Joaquim Rodrigues Feio** * 3.04.1853 Pragoza · Nicolao · Belchior Roiz Feio · Agueda Maria (nicht Blatt-Rosa) | [`guiomar/`](guiomar/) `1853-baptismo-joaquim-feio-…` | [feio-contente](../evidenz/linie-guiomar/feio-contente.md) |
 | **Melchior Rodrigues Feio** * 15.05.1775 Val de Todos · Manoel João Neto × Antonia Maria Caetana · Theresa 1824 · Rozaria · Carvalhinho | [`guiomar/`](guiomar/) `1775-baptismo-melchior-…` `1824-baptismo-theresa-…` | [melchior-1775](../evidenz/linie-guiomar/melchior-1775.md) · [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md) |
+| **Antonio Rodrigues Feio** × **Maria Mendes**, Carvalhinho · Onkel Belchior · Onkel Antonio · Antonia Maria Caetana | [`../evidenz/scans/torre/`](../evidenz/scans/torre/) `1741-baptismo-isabel-caralinho-…` (Weiler, nicht ihr Kind) | [antonio-feio-carvalhinho](../evidenz/linie-guiomar/antonio-feio-carvalhinho.md) |
+| **António Dias Guiomar** Pass 1901 · Bruder Joãos, nicht avô Antonio × Joaquina | Blog GCLRA `H-D/001/0018/00750` | [passe-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md) |
 | **Manuel Matta** · Anna de Jesus Matta | [`matta/`](matta/) | [matta-records](../matta-records/README.md) |
 | **Joze Maria da Ascenção** · Joze Mendes Ferreira (Ateanha) | [`jose-maria/`](jose-maria/) `1880-…` | [jose-maria-records](../jose-maria-records/README.md) |
 | **Anna** · Manoel Dias Barbeiro · João Dias da Quelha | [`jose-maria/`](jose-maria/) `1845-…` | dasselbe |
@@ -69,7 +71,8 @@ Erst anlegen, wenn ein Treffer festliegt.
 | Palmyra * 8.06.1897 | **gefunden**, erste Tochter; Palmira * 24.04.1912 ist die späte |
 | Geburt José Mendes N.º 320/1914 | Conservatória, hier kein Foto |
 | Taufe Luiz Guiomar | Alvorge / Bemposta **1820–1850** |
-| Taufe Delfina Maria | Torre **1835–1860**, Lindos = Weiler Torre |
+| Taufe Delfina Maria | Torre **1835–1860**, Lindos = Weiler Torre, nicht Lindoso |
+| Taufen Kinder Antonio Feio × Maria Mendes | Torre `001/0001` **1720–1767** (Caralinho); Heirat ~1725–1755 |
 | Taufe Roza Maria | Alvorge **1815–1840**, Vale Paio / Aljazede |
 
 Suchkreis: [evidenz/linie-teixeira/suchkreis.md](../evidenz/linie-teixeira/suchkreis.md).

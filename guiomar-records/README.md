@@ -27,6 +27,11 @@ nicht im Taufnamen des Kindes. Die Blatteltern **Luiz Dias Guiomar**
 × **Delfina Maria** **passen** der Richtung nach (Quellenform des
 Vaters: `Luiz Guiomar`).
 
+Pass **António Dias Guiomar**, 22.01.1901, 33 Jahre, Filiação Luís
+Guiomar / Delfina Maria: **Bruder** dieses João, benannt nach dem
+avô. Nicht der Großvater selbst. Blatt:
+[passe-antonio-guiomar-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+
 ### Randvermerke
 
 Spätere Hände an dieser Taufe nennen:

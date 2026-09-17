@@ -61,3 +61,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1824-THE-L | dieselbe Taufe, linke Seite | `evidenz/scans/torre/1824-baptismo-theresa-carvalhinho-left.jpg` |
 | TVT-BAP-1775-MEL | Taufe Melchior, * 15.05.1775 Val de Todos; Manoel João Neto × Antonia Maria Caetana | `guiomar-records/baptismos-1775/PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg` |
 | TVT-BAP-1775-MEL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1775-baptismo-melchior-neto-right.jpg` |
+| TVT-BAP-1741-ISA | Taufe Isabel, Caralinho; Manoel Mendes — Weilerform 1741, nicht Feio-Kind | `evidenz/scans/torre/1741-baptismo-isabel-caralinho-left.jpg` |
+| TVT-BAP-1741-MAR | Taufe Maria, Castello; avô Diogo Roiz dos Lindos | `evidenz/scans/torre/1741-baptismo-maria-castello-lindos-left.jpg` |

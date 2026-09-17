@@ -115,9 +115,47 @@ die Heiraten.
 | **Cancela** | mündlich neben Lagoa. OSM-nächste `Rua da Cancela`: Trás de Figueiró / **Alvorge**, 39.971 N, 8.438 W (~1,7 km). Andere: Poço dos Cães / Santiago da Guarda | mündlich im Gedächtnis; die Alvorge-Straße nur Nachbar, nicht dieselbe Cancela |
 | **Quelha** | CartTop **017164** `R QUELHA DE VALE DE TODOS`. Taufe Anna 1845: Großvater **João Dias da Quelha**, Valle de todos | sicher als Gasse; Personenanschluss der Quelha-Linie nur so weit der Akt reicht |
 | Castello, Barreira, Pragoza, Rua d'Além, São Jorge | siehe oben | sicher im Weilerkreis |
+| **Carvalhinho** / **Caralinho** | Kirche 1741 `Caralinho`; 1824 `Carvalhinho` dieser Pfarrei Torre. OSM-Punkt offen | sicher als Weiler der Pfarrei |
+| **Freixo** | eigener Weiler, siehe unten | sicher als Ort der Pfarrei Torre |
+| **Lindos** | eigener Weiler, siehe unten | sicher als Ort der Pfarrei Torre |
 
 `Lagoa` und `Cancela` nicht mit Lagoa da Ameixieira (Chão de Couce),
 Lagoa Parada (Santiago da Guarda) oder Pousaflores/Barreira tauschen.
+
+### FREIXO (Torre de Vale de Todos)
+
+Weiler der Pfarrei Torre, **nicht** die Rua do Freixo in
+**Pousaflores** (Lisboinha). CTT **3240-707**, freguesia Torre de
+Vale de Todos. Koordinaten der Postquellen ~39.959 N, 8.428 W
+bzw. ~39.954 N, 8.444 W — ungefähr westlich des Kernweilers.
+
+Kirche 1741: Rand **Freixo**, Taufe Maria, 9. Februar 1741
+(`PANS08/001/0001` `m0274` rechts). 1747 noch einmal João, 8. Oktober
+(`m0317`). Pass 1906: Francisco Jorge, natürlich **Freixo**, wohnhaft
+**Lindos**. Blatt:
+[passe-antonio-guiomar-1901](evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+
+Nicht mit dem Freixo-Baum neben der Kirche (freixo centenário) zu
+einem zweiten Ort machen — der Baum erklärt den Namen, nicht den
+Weiler.
+
+### LINDOS (Torre de Vale de Todos)
+
+Weiler der Pfarrei Torre, **nicht Lindoso** (Ponte da Barca /
+Peneda). OSM **Rua dos Lindos**, way 810319704, ~39.962 N, 8.424 W,
+PLZ **3240-710** (derselbe Kern wie Vale de Todos). Hängt an Rua de
+São Jorge, Rua de Além, Rua da Lagoa, Rua Nossa Senhora da Graça
+(EM 526). Kirche rund 700 m.
+
+Kirche 1741: avô **Diogo Roiz** `do lugar dos Lindos desta freg.`
+(Taufe Maria, Castello, 7. August 1741, `m0275` links). Crop:
+`evidenz/scans/torre/1741-baptismo-maria-castello-lindos-left.jpg`.
+Pass 1906: Francisco Jorge wohnhaft **Lindos**. Taufe Delfina:
+Lindos bleibt Suchort, nicht Lindoso.
+
+Freixo und Lindos nicht zu einem Fleck zusammenziehen. Der Pass
+1906 setzt Geburt Freixo, Wohnort Lindos — zwei Namen, ein
+Pfarrkind.
 
 ### ANCIAO / Ansião
 
@@ -139,7 +177,9 @@ Grenze Cumeeira (Penela) / Ansião.
 | `Figueiras Podres` | historischer Name; **am Ereignis und auf der Karte so** |
 | `Figueiras de S. João` | heutige Zuordnung; Ortsregister, nicht statt der historischen Form |
 
-**Podres**, nicht **Podre**. Das -s gehört zum Ortsnamen.
+**Podres**, nicht **Podre**. Das -s gehört zum Ortsnamen. Pass 1902
+(Maria Augusta Serra, Residência Figueiras Podres) schreibt die Form
+mit **-s** genauso.
 
 Nicht zusammenwerfen mit **Ferraria de S. João** (Weiler der Pfarrei
 Cumeeira) und nicht mit **Venda das Figueiras** (ebenfalls Cumeeira).

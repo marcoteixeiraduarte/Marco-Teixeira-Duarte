@@ -125,7 +125,10 @@ Antonia Maria Caetana). Feio über die Mutter aus Carvalhinho.
 [melchior-1775](melchior-1775.md).
 
 Heirat mit Rozaria grob **1795–1812**. Der **Onkel** Belchior
-Rodrigues Feio (erwachsen 1771) liegt in `001/0001`. Bücher:
+Rodrigues Feio (erwachsen 1771) und das Paar **Antonio Rodrigues
+Feio × Maria Mendes** liegen in `001/0001`, Fenster **1720–1767**.
+Blatt: [antonio-feio-carvalhinho](antonio-feio-carvalhinho.md).
+Bücher:
 
 | Buch | Signatur | UUID |
 | --- | --- | --- |
@@ -137,7 +140,8 @@ Rodrigues Feio (erwachsen 1771) liegt in `001/0001`. Bücher:
 
 Inventar aller frühen Bände: [1700-1800](../1700-1800.md). Nicht im
 Nebel von 1609 namenweise suchen. Faden: Joaquim 1853 → Melchior
-* 1775 → Antonio Rodrigues Feio × Maria Mendes (Carvalhinho).
+* 1775 → Antonio Rodrigues Feio × Maria Mendes (Carvalhinho),
+Zeitraum **1720–1767**.
 
 Pate 1853 **Joaquim Roiz Gato** nicht an die Narciza-Karte hängen,
 nur weil Gato im selben Akt steht.

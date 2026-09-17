@@ -119,6 +119,11 @@ Dieselben Leute orientieren sich an den **Gärten und Weilern**:
 de Todos. Cancela ist mündlich; die nächste OSM-Straße dieses Namens
 ist Trás de Figueiró / Alvorge, nicht still dieselbe.
 
+**Freixo** und **Lindos** sind zwei weitere Weiler **dieser** Pfarrei
+Torre (Kirche 1741; Pass 1906 Geburt Freixo / Wohnort Lindos). Nicht
+Lindoso, nicht Rua do Freixo in Pousaflores. Ortsregister:
+[README](../README.md).
+
 ## Die Ecke gegen Vale de Todos
 
 Teixeira und Freire: Männer aus **Figueiras Podres** zur Frau in

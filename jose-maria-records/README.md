@@ -33,6 +33,13 @@ Joze Maria da Ascenção
 
 nicht `José Maria d’Ascensão · Pragoza`.
 
+Pass **José Maria da Ascensão**, 12.05.1902, 22 Jahre, Filiação José
+Mendes Ferreiro / Ana da Piedade, natürlich Vale de Todos, wohnhaft
+**Pragosa**. Alter und Eltern **passen** zur Taufe 1880 (`Ferreiro`
+neben `Ferreira`). Wohnort 1902 Pragoza ist der Sitz nach der Heirat
+mit Maria da Piedade, nicht die Geburt. Blatt:
+[passe-antonio-guiomar-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+
 ### Randvermerk zum Tod
 
 Ein späterer Averbamento an dieser Taufe nennt den Tod **1948** und

@@ -85,6 +85,11 @@ der Weiler ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
 in Torre – **passt**. Heirat mit **Maria Helena** aus Lagarteira
 (Randvermerk; Tagesdatum nicht als einzige Form).
 
+Pass 1901 **António Dias Guiomar**, 33, Filiação Luís Guiomar /
+Delfina Maria: **Bruder** Joãos, nicht der avô Antonio × Joaquina.
+Zwei Namensträger. Blatt:
+[passe-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+
 #### Maria Helena Guiomar · * 25.02.1882 · Pião
 
 Quelle, Taufe Nr. 3, 5.3.1882, Lagarteira:
@@ -312,12 +317,14 @@ Identität.
     Vater **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana Cabeça Redonda; Paten
     Carrasqueiras / Chão de Couce. `Forte` = Großmutter Maria Forte.
 11. João Dias Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`.
+    Pass-António 1901 = Bruder, nicht avô Antonio × Joaquina.
 12. Maria Helena Guiomar / Feio Rodrigues: Taufname **Maria**, Ort
     **Valle do Pião** (LAR / Lagarteira); Mutter ohne erzwungenes
     `Contente`. Sippe des Vaters **Rodrigues Feio**. Joaquim *
     **3.04.1853** Pragoza. Belchior × **Agueda Maria**, nicht
     Blatt-Rosa. Melchior * **15.05.1775** Val de Todos; Mutter
-    **Antonia Maria Caetana**.
+    **Antonia Maria Caetana**. Avós maternos 1775: **Antonio
+    Rodrigues Feio × Maria Mendes**, Carvalhinho; Fenster 1720–1767.
 13. Anna: Taufname **Anna**, `* 15.06.1845 · Valle de todos`;
     `da Piedade` erst 1880.
 14. Manuel Matta: `* 26.07.1872 · São Jorge`; `Matta` bei der Mutter.
