@@ -112,8 +112,8 @@ Blatt `Joaquim Rodrigues Feio · * 3. Apr. 1853`. **Passt.**
 - geboren **3. April 1853**
 - Eltern: **Nicolao Rodrigues Feio** × **Maria de Jesus**, Pragoza
 - väterliche Großeltern: **Belchior Roiz Feio** × **Agueda Maria**,
-  Carvalhal — Blatt hängt an Belchior **Rosa Maria** (nicht
-  zusammenlegen)
+  Carvalhinho — Blatt hängt an Belchior **Rosa Maria**. Taufe 1824:
+  **Melchior** × **Rozaria Maria** (Rosa ≈ Rozaria wahrscheinlich)
 - mütterliche Großeltern: **Manoel Lourenço Lobo** × **Josefa Maria**,
   Castello
 - Randvermerk **25. April 1940** Torre: Tod **wahrscheinlich**
@@ -122,3 +122,16 @@ Quelle: `PT/ADLRA/PRQ/PANS08/001/0004`,
 `baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`;
 [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7).
 Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).
+
+## Theresa, Taufe 25. August 1824 (Torre) — Tür 1700–1800
+
+- Rand **Carvalhinho / Thereza**
+- * **19.08.1824**, Taufe 25.08.1824
+- Eltern **Melchior Rodrigues Feio** (Valle de Todos) × **Rozaria Maria**
+  (Loureiros, Pfarrei Avelar), wohnhaft Carvalhinho
+- avós paternos **Manoel João Neto** × **Victoria Maria**
+- avós maternos **Manoel da Silva** (Pião / Lagarteira) × **Joanna Maria**
+  (Loureiros)
+
+Quelle: `baptismos-1824/PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`.
+Blatt: [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md).

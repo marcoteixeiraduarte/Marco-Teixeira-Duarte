@@ -53,8 +53,9 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
 | Taufe Joaquina Ramalha | offen | **1872–1880** Torre / Pragoza (23 am 21.08.1896, nicht nur 1872–74); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
 | Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
-| Taufe Nicolau Feio | offen | **1810–1842** Torre; Eltern Belchior Roiz Feio × Agueda Maria | `PANS08/001/0003` |
-| Heirat Belchior × Agueda | offen | **1790–1830** Torre | `PANS08/002/0002` und Anfang `002/0003` |
+| Taufe Nicolau Feio | offen | **1810–1842** und Ende 1767–1809; 1822–28 ohne Nicolau | `PANS08/001/0003` / `0002` |
+| Heirat Melchior × Rozaria | offen | **gefunden als Paar 1824**; Trauung **1795–1812** Torre `002/0002` | [melchior-feio-1824](linie-guiomar/melchior-feio-1824.md) |
+| Taufe Melchior Feio | offen | **1770–1790** Valle de Todos | `PANS08/001/0002` |
 | Taufe Maria Helena (Contente) | Blatt * ca. 1852 | **1850–1854** Lagarteira, Valle do Pião; Eltern Jozé Contente × Helena Maria | `PANS05/001/0003`; 1852-Stichprobe ohne Treffer |
 
 Zivil ab April 1911: Conservatória Ansião (Kreis) und Conservatória

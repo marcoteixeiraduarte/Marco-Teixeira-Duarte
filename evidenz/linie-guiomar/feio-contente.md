@@ -57,7 +57,8 @@ schreiben.
 - Eltern: **Nicolao Rodrigues Feio** × **Maria de Jesus**, lugar da
   **Pragoza**, diese Pfarrei
 - väterliche Großeltern: **Belchior Roiz Feio** × **Agueda Maria**,
-  lugar de **Carvalhal**
+  lugar de **Carvalhinho** (Lesung zuerst Carvalhal; 1824/1827 schreiben
+  Carvalhinho)
 - mütterliche Großeltern: **Manoel Lourenço Lobo** × **Josefa Maria**,
   lugar do **Castello**
 - Paten: **Joaquim Roiz Gato** da Torre; **Joaquina Thereza**, viúva,
@@ -83,21 +84,20 @@ Quelle:
 ## Blatt Rosa Maria — Kirche Agueda Maria
 
 Das Blatt hängt an Belchior **Rosa Maria**. Die Taufe 1853 nennt
-**Agueda Maria**, Carvalhal.
+**Agueda Maria**, Carvalhinho.
 
-Nicht zusammenlegen. Rosa kann zweite Frau, Blattfehler oder anderer
-Belchior sein. Bis zu Belchiors eigener Heirat bleibt **Agueda** die
-Quellenfrau, **Rosa** Blatt.
+Taufe Theresa **1824**: **Melchior Rodrigues Feio** × **Rozaria Maria**,
+Carvalhinho. Rosa ≈ Rozaria **wahrscheinlich**. Agueda 1853 bleibt
+daneben. Blatt: [melchior-feio-1824](melchior-feio-1824.md).
 
 Manoel Lourenço Lobo × Josefa Maria, Castello, stehen auf dem Blatt
 nicht. Das sind die Eltern der **Maria de Jesus** (1853). Castello
 ohne andere Pfarrei: **wahrscheinlich** Castello von Vale de Todos
 (Barreira daneben), nicht Castelo von Avelar.
 
-**Carvalhal** hat Namensvettern (Ansião-Sitz; Santiago da Guarda;
-Kartenpunkt westlich von Vale de Todos). Der Akt sagt nur `lugar de
-Carvalhal`. Welche Pfarrei: **offen**. Nicht an Santiago oder an den
-Ansião-Sitz hängen.
+**Carvalhal** hat Namensvettern (Ansião-Sitz; Santiago da Guarda).
+1824/1827 steht **Carvalhinho dieser Pfarrei Torre**. Nicht an
+Santiago oder den Ansião-Sitz hängen.
 
 ## Maria Helena Contente * ca. 1852
 

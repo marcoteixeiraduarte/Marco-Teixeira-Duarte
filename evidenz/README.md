@@ -38,7 +38,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-teixeira/` — João Teixeira (Forte) 1879; Maria José dos Santos;
   Ecke Maxial; Suchkreis inkl. Avelar und Alvorge
 - `linie-guiomar/` — Feio / Contente / Guiomar; Joaquim * 3.04.1853;
-  Blatt Rosa Maria ≠ Kirche Agueda Maria
+  Melchior × Rozaria, Carvalhinho 1824 (Tür 1700–1800)
 - `1700-1800.md` — nächster Abschnitt; Bücher ab 1609; Faden über Belchior
 - `wer-blieb.md` — welche Familie wo sesshaft; Zuzug über Mann oder Frau
 - `suche-erweitert.md` — Jahre und Ringe weitermachen; Heirat Matta×Ramalha 1896 gefunden

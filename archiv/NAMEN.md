@@ -16,6 +16,7 @@ Blatt mit Transkript: [`evidenz/quellenregister.md`](../evidenz/quellenregister.
 | **João Dias Guiomar** · Luiz Guiomar (Bemposta) · Delfina | [`guiomar/`](guiomar/) `1874-…` | [guiomar-records](../guiomar-records/README.md) |
 | **Maria** (Pião) · Joaquim Rodrigues Feio · Maria Helena · Jozé Contente | [`guiomar/`](guiomar/) `1882-…` | dasselbe |
 | **Joaquim Rodrigues Feio** * 3.04.1853 Pragoza · Nicolao · Belchior Roiz Feio · Agueda Maria (nicht Blatt-Rosa) | [`guiomar/`](guiomar/) `1853-baptismo-joaquim-feio-…` | [feio-contente](../evidenz/linie-guiomar/feio-contente.md) |
+| **Melchior Rodrigues Feio** × **Rozaria Maria** · Theresa 1824 · Carvalhinho · Manoel João Neto | [`guiomar/`](guiomar/) `1824-baptismo-theresa-…` | [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md) |
 | **Manuel Matta** · Anna de Jesus Matta | [`matta/`](matta/) | [matta-records](../matta-records/README.md) |
 | **Joze Maria da Ascenção** · Joze Mendes Ferreira (Ateanha) | [`jose-maria/`](jose-maria/) `1880-…` | [jose-maria-records](../jose-maria-records/README.md) |
 | **Anna** · Manoel Dias Barbeiro · João Dias da Quelha | [`jose-maria/`](jose-maria/) `1845-…` | dasselbe |

@@ -57,3 +57,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1871-SEB-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg` |
 | TVT-BAP-1853-JOA | Taufe Joaquim Rodrigues Feio, * 3.04.1853 Pragoza | `guiomar-records/baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg` |
 | TVT-BAP-1853-JOA-R | dieselbe Taufe, rechte Seite (Joaquim) | `evidenz/scans/torre/1853-baptismo-joaquim-feio-right.jpg` |
+| TVT-BAP-1824-THE | Taufe Theresa, Carvalhinho; Eltern Melchior Rodrigues Feio × Rozaria Maria | `guiomar-records/baptismos-1824/PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg` |
+| TVT-BAP-1824-THE-L | dieselbe Taufe, linke Seite | `evidenz/scans/torre/1824-baptismo-theresa-carvalhinho-left.jpg` |
