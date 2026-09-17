@@ -51,3 +51,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | CON-NAS-1912-69 | Geburt Palmira Reis, Pragoza | `archiv/conservatoria-ansiao/08.jpg` |
 | TVT-CAS-1896-02 | Heirat Manuel Matta × Joaquina Ramalha, 21.08.1896 | `matta-records/casamento-1896/PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg` |
 | TVT-CAS-1896-02-L | dieselbe Heirat, nur linke Seite | `evidenz/scans/torre/1896-casamento-manuel-matta-joaquina-ramalha-left.jpg` |
+| TVT-BAP-1897-PAL | Taufe Palmyra, erste Tochter, 23.06.1897 Pragoza | `matta-records/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg` |
+| TVT-BAP-1897-PAL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1897-baptismo-palmyra-pragoza-right.jpg` |

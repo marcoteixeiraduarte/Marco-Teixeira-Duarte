@@ -64,3 +64,18 @@ Quelle:
 
 - `matta-records/casamento-1896/PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg`;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/70ca5cac730e44caade08834c666a216)
+
+## Palmyra, Taufe 23. Juni 1897 (Torre) — erste Tochter
+
+- * **8. Juni 1897**, 19 Uhr, **Pragoza**; Taufe 23.06.1897 N.º 9
+- **primeira** filha von Manuel Matta × **Joaquina Ramalha dos Reis**
+- avô paterno incógnito × Anna Matta; José dos Reis × Maria Ramalha
+- Die Palmira des Blattes (* 24.04.1912) ist **viel später** — fast
+  15 Jahre danach. Namenswiederholung: Tod der ersten Kandidat,
+  bis der Sterbeakt liegt.
+
+Quelle:
+
+- `matta-records/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg`
+  (rechte Buchseite);
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015)

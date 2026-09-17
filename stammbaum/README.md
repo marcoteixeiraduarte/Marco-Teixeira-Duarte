@@ -29,7 +29,7 @@ suchen, nicht im Kirchenbuch:
 | Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911; Fotokopien Conservatória Ansião in [archiv/conservatoria-ansiao/](../archiv/conservatoria-ansiao/README.md), noch nicht festgelesen |
 | Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911; dieselben Fotokopien, noch nicht festgelesen |
 | José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand: Heirat 19.04.1937 gelesen (`06.jpg`), wohnhaft **Pragoza**; eigene Geburt N.º 320/1914 hier kein Foto. `São Jorge` = Kapelle/lugar in Vale de Todos |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand: Geburt N.º 69 **passt** (`08.jpg`), * Pragoza, Mutter Joaquina Reis; Heirat 1937 beide Pragoza. `São Jorge` = Kapelle in Vale de Todos |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand: Geburt N.º 69 **passt** (`08.jpg`), * Pragoza, Mutter Joaquina Reis; Heirat 1937 beide Pragoza. **Viel später** als die erste **Palmyra * 8.06.1897** (Kirche, primeira filha). `São Jorge` = Kapelle in Vale de Todos |
 
 ### 3.º avós
 
@@ -163,6 +163,8 @@ Heirat **21.08.1896**, Torre, als **Joaquina Ramalha**. Eltern dort
 **José dos Reis** × **Maria Ramalha** — **sicher**. Blatt
 **Manuel Dias Ramalho** × **Angelica Maria Leal** ist **nicht**
 dieses Paar. Leal bleibt offen, weiter oben.
+Erste Tochter **Palmyra * 8.06.1897**. Die Blatt-Palmira * 24.04.1912
+ist **viel später**.
 [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md).
 
 ### 4.º avós (ramo materno)

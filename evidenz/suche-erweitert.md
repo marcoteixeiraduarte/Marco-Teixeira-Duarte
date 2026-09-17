@@ -51,7 +51,7 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Taufe Luiz Guiomar | ~1829–1838 Bemposta | **1820–1850** Alvorge (Bemposta, Ateanha, Vila Nova); zur Not Avelar, Torre, Pousaflores | PANS01 Batismos 1822–1852 lokal `archiv/guiomar/alvorge-batismos-1822-1852/`; Band 1808–1822 |
 | Taufe Delfina Maria | Lindos / Torre | **1835–1860** Torre; zur Not Lagarteira, Ansião | PANS08 Batismos; Lindos = Weiler Torre, nicht Lindoso |
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
-| Taufe Joaquina Ramalha | offen | **1872–1874** Torre / Pragoza (23 am 21.08.1896); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
+| Taufe Joaquina Ramalha | offen | **1872–1880** Torre / Pragoza (23 am 21.08.1896, nicht nur 1872–74); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
 
 Zivil ab April 1911: Conservatória Ansião (Kreis) und Conservatória
 Penela, nicht nur Kirchenbücher.
@@ -79,21 +79,26 @@ Bilder, zehn Heiraten) hat das Paar **nicht**. Band **1896**
 Joaquina Ramalha. Eltern sie: José dos Reis × Maria Ramalha.
 Leal nicht in diesem Akt.
 
+**Palmyra * 8.06.1897**, erste Tochter, Pragoza — zehn Monate nach
+der Heirat. Die Palmira des Blattes (* 24.04.1912) ist **viel später
+als gedacht**. Namenswiederholung: Tod der ersten Kandidat.
+
 Nebenfund: 1897 N.º 8 (16.11.) Antonio Justino × Maria, Rua d'Além,
 Sohn **Luiz** × **Delfina Maria** — **Kandidat** Bruder João Guiomar;
 Nachname des Vaters in diesem Akt noch nicht fest als Guiomar.
 
 ## Nächster Scan, der da sein muss
 
-1. Taufe **Joaquina**, Torre **1872–1874**, Pragoza, Eltern José dos
+1. Geschwister Palmyra/Palmira: Torre Batismos **1898–1911**; Sterbeakt
+   Palmyra 1897. Die 1912er ist die späte.
+2. Taufe **Joaquina**, Torre **1872–1880**, Pragoza, Eltern José dos
    Reis × Maria Ramalha (`PANS08` Batismos).
-2. PANS02 Batismos **1876–1894** auf **Maria** / **Maria José**, Eltern
+3. PANS02 Batismos **1876–1894** auf **Maria** / **Maria José**, Eltern
    Francisco José dos Santos × Maria Thereza; Heirat João × Maria José
-   **1895–1913** Ring 1 dann 2.
-3. Alvorge 1822–1852 Rand **Bemposta**: Luiz, Sohn Antonio Dias Guiomar
+   **1895–1913**, den **späten** Rand 1908–1913 nicht auslassen.
+4. Alvorge 1822–1852 Rand **Bemposta**: Luiz, Sohn Antonio Dias Guiomar
    × Joaquina Maria.
-4. Taufe Delfina Maria **1835–1860** Torre (Lindos = Weiler Torre).
-5. Casamentos João Teixeira (Forte) × Maria José: PANS02 1880–1899
-   (`PANS02/002/0006`, 404 Bilder) und 1900–1909; dann Ring 1.
+5. Taufe Delfina Maria **1835–1860** Torre; Kinder Luiz × Delfina
+   **1881+** (1876–1880 leer).
 
 Leerjahr: nächstes Jahr **und** nächste Kirche, nicht abbrechen.

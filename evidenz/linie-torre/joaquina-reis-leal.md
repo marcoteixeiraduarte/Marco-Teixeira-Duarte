@@ -111,5 +111,36 @@ Mutter Leal. Die Heirat 1896 schreibt die Frau **Joaquina Ramalha**
 Mutter dieser Joaquina. Wo Leal herkommt, bleibt offen (weiter oben,
 nicht diese Generation).
 
-Nächster Schritt: Taufe Joaquina, Torre **1872–1874**, Pragoza,
-Eltern José dos Reis × Maria Ramalha.
+## Palmyra 1897 — und Palmira 1912 viel später
+
+Auftraggeber: **viel später als gedacht.** Die Palmira des Blattes
+(* 24.04.1912, Heirat 1937) ist nicht das erste Kind.
+
+Erste Tochter, Torre N.º 9, 23. Juni 1897
+(`PT/ADLRA/PRQ/PANS08/001/0042`, `m0005`, rechte Seite):
+
+> baptizei solemnemente um individuo do sexo feminino a quem dei o nome
+> de **Palmyra**, e que nasceu no lugar da **Pragoza** … pelas sete
+> horas da tarde do dia **oito** do dito mez … filha legitima e
+> **primeira** deste … **Manuel Matta**, trabalhador, natural de
+> S. Jorge … e de **Joaquina Ramalha dos Reis**, … natural e moradora
+> do lugar da Pragoza
+
+| Feld | Wert | Gewissheit |
+| --- | --- | --- |
+| Kind | **Palmyra**, * 8.06.1897, 19 Uhr, Pragoza; Taufe 23.06.1897 | sicher |
+| Stellung | **primeira** filha dieses Paares | sicher |
+| Vater | Manuel Matta, São Jorge | sicher |
+| Mutter | **Joaquina Ramalha dos Reis**, Pragoza | sicher (Blattname so) |
+| avós | avô incógnito × Anna Matta; José dos Reis × Maria Ramalha | sicher genannt |
+| Paten | Manuel Avellar, Figueiras / Cumeeira, wohnhaft Lindos; Maria da Encarnação | sicher |
+| Palmira * 24.04.1912 | **späteres** Kind, fast 15 Jahre danach | sicher als zweite dieses Namens |
+| Ob 1897 vor 1912 starb | Namenswiederholung üblich nach Tod; Sterbeakt noch nicht gelesen | Kandidat |
+
+Scan: `archiv/matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg`.
+Geschwister 1898–1911 weiter in Torre suchen, nicht bei 1897
+abbrechen.
+
+Nächster Schritt: Taufe Joaquina, Torre **1872–1874** und **danach**
+bis ~1880, Pragoza, Eltern José dos Reis × Maria Ramalha. Sterbeakt
+Palmyra 1897, falls die 1912er den Namen wiederverwendet.
