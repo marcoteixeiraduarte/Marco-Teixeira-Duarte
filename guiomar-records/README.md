@@ -122,6 +122,25 @@ Bemposta (Alvorge) / Torre. Eigener Faden, nicht mit Roza/Alvorge
 (Reis) vermischen. Blatt:
 [`evidenz/linie-guiomar/00-dias-guiomar.md`](../evidenz/linie-guiomar/00-dias-guiomar.md).
 
+## Passfunde und Auswanderung — Abgleich 17.09.2026
+
+- **António Dias Guiomar**, Pass **22.01.1901**, 33 Jahre,
+  Eltern Luís Guiomar × Delfina Maria: wahrscheinlich der Sohn
+  **Antonio * 16.03.1867**.
+- **Manoel Dias Guiomar**, Pass **23.02.1886 [?]**, 23 Jahre,
+  Eltern Luis Dias Guiomar × Delfina Maria: wahrscheinlich der
+  **Manuel mit Taufe 15.08.1862**. Das Archiv markiert das Passdatum
+  als unsicher.
+- **Luiz und Antonio könnten beide ausgewandert sein**: Vermutung
+  des Nutzers vom 17.09.2026. Welcher Luiz gemeint ist (Vater oder
+  weiterer Sohn), bleibt offen. Eigene Luiz-Passspur weiterführen.
+
+Beide identifizierten Katalogeinträge nennen Santos als Ziel.
+Passoriginale und tatsächliche Ausreisen/Ankünfte sind noch offen.
+Die undatierte Luis-Passmeldung wird weder verworfen noch mit
+António verschmolzen. Vollständige Belege und Abgleich:
+[Passabgleich 1886/1901](../evidenz/linie-guiomar/passabgleich-1886-1901.md).
+
 ## Maria, Taufe 5. März 1882 (Lagarteira)
 
 - getauft **5. März 1882** in der parochial igreja de **São Domingos

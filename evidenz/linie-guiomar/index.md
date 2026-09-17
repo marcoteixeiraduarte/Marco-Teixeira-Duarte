@@ -1,6 +1,7 @@
 # Dias Guiomar — Marker-Liste
 
-Nur gelesene Akte. Kein Stammbaumschluss. Regel:
+Kirchenbuchlesungen und ausdrücklich als solche bezeichnete Katalogfunde.
+Katalogeintrag ist kein gelesenes Passoriginal. Regel:
 [00-dias-guiomar.md](00-dias-guiomar.md).
 
 Suche: **alle neun Pfarreien** des Kreises Ansião. Marker **Dias Guiomar**
@@ -21,7 +22,13 @@ wurden. Coverage extra führen, sobald ein Band von vorn läuft.
 | PANS08/001/0012 m0003–m0004 | 9 | Taufe **22.04.1867** (* 16.03.) | **Antonio** | Luiz Guiomar | Delfina Maria | Lindos | neto paterno Antonio Dias Guiomar × Joaquina Maria, Bemposta | **sicher**; [1867 Antonio](1867-baptismo-antonio.md) |
 | PANS08/002/0004 m0003 | 1 | Heirat 16.02.1860 | Kind von José Gregorio × Nazareth Maria (29 J.) | [José Gregorio] Lesung | [Maria Jozepha] Lesung | Leiria (Eltern, Lesung) | Delfinas Geschwister | Cluster; [1860](1860-casamento-filho-jose-gregorio.md) |
 | PANS01/001/0004 m0180 | — | Taufe **24.05.1845** (* 15.) | [Kind, Name offen] | Antonio Dias | [Josepha/Joaquina] Maria | Bemposta | Dias Guiomar Großvater | Cluster, wahrsch. Geschwister Luizes; [1845](1845-baptismo-bemposta-dias-guiomar.md) |
-| GCLRA Passregister (Portal) | — | Pass, Alter **33**, Ziel Santos | **Luis Dias Guiomar** | Luís Guiomar | Delfina Maria | Natural + Residenz Torre de Vale de Todos | Filiação = unser Paar | **wahrscheinlich** Sohn; Taufe nicht 1876–1880; [Passakt](passakt-luis-dias-guiomar.md), [1876–1880](1876-1880-torre-kein-luis.md) |
+| GCLRA/H-D/001/0018/00750 | Reg. 23 | Pass 22.01.1901, Alter 33 | António Dias Guiomar | Luís Guiomar | Delfina Maria | Torre de Vale de Todos / Ansião; kein Weiler genannt | Katalog gelesen 17.09.2026 | wahrscheinlich Antonio 1867; Original offen; [Abgleich](passabgleich-1886-1901.md) |
+| GCLRA/H-D/001/0006/000125 | Reg. 125 | Pass 23.02.1886 [?], Alter 23 | Manoel Dias Guiomar | Luis Dias Guiomar | Delfina Maria | Torre de Valle Todos / Ancião / Leiria; kein Weiler genannt | Katalog gelesen 17.09.2026 | wahrscheinlich Manuel 1862; Datum unsicher, Original offen; [Abgleich](passabgleich-1886-1901.md) |
+
+Die undatierte Luis-Passmeldung steht außerhalb der identifizierten
+Funde: [Quellenstatus](passakt-luis-dias-guiomar.md). Nutzervermutung
+17.09.2026: Luiz und Antonio könnten beide ausgewandert sein; welcher
+Luiz gemeint ist und die tatsächlichen Ausreisen bleiben offen.
 
 Zielpaar der Rückwärtssuche: **Antonio Dias × Joaquina Maria**,
 Bemposta / Alvorge — beide † vor 10.11.1859. Taufe und Heirat dieses

@@ -98,12 +98,17 @@ Kindesname ist **José**, männlich.
 Bände 1866 und 1868–1873 ohne weiteres Kind dieses Paars. João 1874
 ist Ref. **271946**, Bild 7, dann Rua d'Além.
 
-Passakt Luis Dias Guiomar (33 J., Santos): Bände **1876–1880**
-(Ref. 271948–271952) ohne dieses Paar; 1876 Bild **8** am Desktop
-gegenlesen (DigitArq blass). Nächstes Fenster **1881** Ref.
-**271953**, dann 1882–1885 (271954–271957).
+Bisherige Luis-Suche: Bände **1876–1880** (Ref. 271948–271952)
+ohne identifizierten Treffer; **1876 Bild 8 bleibt eine Leselücke**
+(DigitArq blass), am Desktop gegenlesen.
 [1876–1880](1876-1880-torre-kein-luis.md). Band **1875** (271947)
-ebenfalls ohne.
+im früheren Suchprotokoll ebenfalls ohne Treffer.
+
+**Nachtrag 17.09.2026:** Zuerst die identifizierten
+[Passfunde António 1901 / Manoel 1886](passabgleich-1886-1901.md)
+prüfen. Die eigene Luiz-Auswanderung bleibt offen. **1881** Ref.
+**271953**, danach 1882–1885 (271954–271957), bleiben mögliche
+Suchbestände; aus dem undatierten Luis-Hinweis folgt kein Vorrang.
 
 ## 3. Alvorge, Rand Bemposta
 
