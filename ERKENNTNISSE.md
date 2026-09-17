@@ -90,7 +90,8 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | João Teixeira | * 13.10.1879 Cabeça Redonda; Eltern Custodio Teixeira × Joana de Jesus | sicher | [teixeira](teixeira-records/README.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
 | Luiz Guiomar × Delfina Maria | Heirat **10.11.1859** Torre (`Luiz Dias`); Kinder **José 1860 / Manuel 1862 / Maria 1864 / Antonio 1867** (alle Lindos) und João 1874 (Rua d'Além); Großvater Antonio Dias Guiomar; Luiz natural Bemposta/Alvorge; Delfina natural lugar dos Lindos (Weiler, Torre). | sicher. Blatt: [1859](evidenz/linie-guiomar/1859-casamento-luiz-delfina.md); [1867 Antonio](evidenz/linie-guiomar/1867-baptismo-antonio.md); Orte: [orte.md](evidenz/linie-guiomar/orte.md) |
-| Luis Dias Guiomar, Pass, 33 J., Santos | Filiação Luís Guiomar × Delfina Maria, natural und wohnhaft Torre | wahrscheinlich Sohn dieses Paars, nicht von Antonio × Joaquina. Taufe offen (1876 ff.). [Passakt](evidenz/linie-guiomar/passakt-luis-dias-guiomar.md) |
+| António / Manoel Dias Guiomar, Pässe 1901 / 1886 [?] | ADLRA-Katalog nennt António am 22.01.1901, 33 J.; Manoel am unsicher datierten 23.02.1886, 23 J.; jeweils Guiomar × Delfina Maria, Torre, Ziel Santos | wahrscheinlich die Söhne Antonio 1867 / Manuel 1862; Passoriginale und tatsächliche Ausreisen offen. [Passabgleich](evidenz/linie-guiomar/passabgleich-1886-1901.md) |
+| Eigene Auswanderung Luiz und Antonio | Nutzervermutung 17.09.2026; Luiz kann Vater oder weiteren Sohn meinen | offen; undatierte Luis-Passmeldung gesondert erhalten. Kein begründetes Tauffenster 1881 ff. [Quellenstatus](evidenz/linie-guiomar/passakt-luis-dias-guiomar.md) |
 | João und Maria Emília, Barreira | **Barreira** (Grundstücksakten); Civil Lugar Vale de Todos | sicher | [guiomar](guiomar-records/README.md); [linie-guiomar](evidenz/linie-guiomar/00-dias-guiomar.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
@@ -119,7 +120,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
 8. João Teixeira: Weiler **Cabeça Redonda** (nicht nur Cumeeira); Vater `Custodio`
-9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`. Auf Geni: Delfina * 1902 streichen; Antonio Dias Guiomar ist **Vater** Luizes, nicht Kind; Manuel Dias Guiomar als Sohn lösen, bis ein Akt vorliegt. **Barreira** spätestens João und Maria Emília (Grundstücksakten)
+9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`. Auf Geni: Delfina * 1902 streichen; Großvater Antonio Dias Guiomar und Sohn Antonio * 16.03.1867 getrennt führen; Manuel ist als Taufkind 1862 belegt. Zuordnung der Geni-Profile gesondert prüfen; die alten Altersangaben nicht übernehmen. **Barreira** spätestens João und Maria Emília (Grundstücksakten)
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
 
@@ -165,7 +166,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
 | 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` — **nicht** mit Dias Guiomar / Bemposta vermischen |
-| 6b | **Dias Guiomar:** Heirat Luiz × Delfina **10.11.1859** liegt. Als Nächstes Taufe Luiz (Alvorge) und Geschwister João ab 1860. FamilySearch 1976101 schärfer, hier kein Viewer |
+| 6b | **Dias Guiomar:** Heirat Luiz × Delfina **10.11.1859** liegt. Kinder José 1860, Manuel 1862, Maria 1864, Antonio 1867 und João 1874 liegen. Als Nächstes Taufe Luiz (Alvorge), Passoriginale 1886/1901 und eigene Luiz-Auswanderungsspur; siehe [Passabgleich](evidenz/linie-guiomar/passabgleich-1886-1901.md) |
 | 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
 | 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 

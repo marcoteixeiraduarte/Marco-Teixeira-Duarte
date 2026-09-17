@@ -60,3 +60,10 @@ João 1874, Rua d'Além.
 Nicht mit Rodrigo Dias × Maria da Conceição (Lindos, Joaquim 1867)
 und nicht mit Dias Barbas / Dias Coelho / Ramos in Lindos
 vermischen.
+
+## Passabgleich 17.09.2026
+
+Der Katalogpass **António 1901** passt nach Name, Eltern, Pfarrei und
+Alter wahrscheinlich zu diesem Taufkind. Das Passoriginal ist noch
+nicht geprüft. Einzelheiten und Grenzen:
+[Passabgleich 1886/1901](passabgleich-1886-1901.md).

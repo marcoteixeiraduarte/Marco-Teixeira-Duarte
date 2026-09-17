@@ -4,7 +4,9 @@ Gesucht: Sohn **Luis** / **Luiz** des Paars von 1859/1874, wegen
 Passakt 33 Jahre, Filiação Luiz Guiomar × Delfina Maria, natural
 Torre. Blatt: [passakt-luis-dias-guiomar.md](passakt-luis-dias-guiomar.md).
 
-Ergebnis: in diesen fünf Jahresbänden **kein** Kind dieses Paars.
+Ergebnis des bisherigen Suchprotokolls: in den gelesenen Stellen
+**kein identifiziertes** Kind dieses Paars. **1876 m0008 bleibt
+wegen blasser Schrift offen**; kein lückenloser Ausschluss.
 Lindos, Rua d'Além und Barreira kommen vor — bei **anderen**
 Familien. Die nicht still mitziehen.
 
@@ -58,12 +60,17 @@ der Barreira bleiben die Grundstücksakten (Auftraggeber).
 
 ## Was das für den Pass bedeutet
 
-João 1874, danach in Torre bis einschließlich 1880 **kein** weiteres
-Kind Luiz × Delfina. Der Reisende Luis bleibt **wahrscheinlich Sohn**,
-Taufe weiter **offen**.
+**Nachtrag 17.09.2026:** Dieser Negativbefund datiert keinen
+undatierten Pass. Die Luis-Meldung hat weiterhin keine gesicherte
+Quellenidentität; kein weiterer Sohn ist daraus bewiesen.
 
-Nächstes Fenster: Torre **1881** `PANS08/001/0026`, FS-Ref. **271953**
-(13 Bilder), dann 1882–1885 (271954–271957), plus das **Passdatum**.
+Zuerst die identifizierten [Katalogpässe 1886/1901](passabgleich-1886-1901.md)
+gegen Manuel 1862 / Antonio 1867 prüfen. Die Nutzervermutung einer
+eigenen Luiz-Auswanderung bleibt eine getrennte Suchspur.
+
+Die früher vorgemerkten Bände **1881** `PANS08/001/0026`, FS **271953**
+(13 Bilder), und 1882–1885 (271954–271957) bleiben mögliche
+Suchbestände, haben ohne Passdatum aber keinen Vorrang.
 
 Nicht: den Luiz von São Jorge 1876 an den Pass hängen. Nicht:
 Delfina de Jesus (Quelhas, Rua d'Além 1877) mit Delfina Maria

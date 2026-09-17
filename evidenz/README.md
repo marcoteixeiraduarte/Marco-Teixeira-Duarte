@@ -8,6 +8,8 @@ Linien werden nicht vermischt.
 | Art | Bedeutung |
 |---|---|
 | Scan | Kirchenbuch, Zivilakt, Foto. Form und Datum von dort. |
+| Archivkatalog | Beschreibung einer Quelle; keine eigene Lesung des Originals. Katalogform und Datumsunsicherheit ausdrücklich erhalten. |
+| Nutzervermutung | Mit Datum und Wortlaut dokumentierte Vermutung; nicht als sicheres Auftraggeber-Wissen führen. |
 | Auftraggeber | was du sicher weißt. **Gilt.** |
 | Grundstücke | Caderneta, Matriz, Escritura beim Auftraggeber. Genealogisch nur Ort und Personen. **Nicht** ins Repo oder nach Geni: Artikelnummer, NIF, volle Anschrift, Flurnummer. |
 
@@ -46,12 +48,13 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `linie-guiomar/` — Dias Guiomar (Bemposta/Alvorge × Torre); nicht Roza/Reis
-- `passregister-teixeira-duarte.md` — Manuel Teixeira und Manuel Duarte sind nicht der Pass Luis Dias Guiomar
+- `linie-guiomar/passabgleich-1886-1901.md` — identifizierte Katalogpässe António/Manoel; eigene Luiz-Auswanderung offen
+- `passregister-teixeira-duarte.md` — getrennte Passsuche Manuel Teixeira / Manuel Duarte
 - `quellenregister.md` — alle versionierten Scans
 
 ## Regel für neue Funde
 
-1. Scan-Pfad und Archivsignatur notieren.
+1. Scan-Pfad und Archivsignatur notieren. Bei reinem Katalogfund: Direktlink, Signatur, Abrufdatum und Katalogauszug sichern; fehlenden Scan ausdrücklich nennen.
 2. Kurzes Transkript der Namens- und Datumszeilen.
 3. Erst danach in ein Personenblatt übernehmen.
 4. Widersprüche stehen lassen, nicht glätten.

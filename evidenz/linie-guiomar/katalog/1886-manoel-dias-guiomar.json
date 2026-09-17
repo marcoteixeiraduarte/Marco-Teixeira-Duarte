@@ -1,0 +1,93 @@
+{
+  "source_url": "https://digitarq.arquivos.pt/documentDetails/20ee3f744f5e411986cf510bd4c958cb",
+  "retrieval_url": "https://digitarq.arquivos.pt/api/docs/details/20ee3f744f5e411986cf510bd4c958cb",
+  "retrieved_on": "2026-09-17",
+  "source_type": "archive_catalogue_metadata",
+  "scope": "Selected fields copied without changing their values; not an original register transcription.",
+  "record": {
+    "id": "20ee3f744f5e411986cf510bd4c958cb",
+    "referenceCode": {
+      "id": "6fd20fbac00843489bfd28a0f84c6572",
+      "value": "PT/ADLRA/AC/GCLRA/H-D/001/0006/000125",
+      "class": "E42_Identifier"
+    },
+    "titles": [
+      {
+        "id": "d46e2d8aa6594f74b1d81bb1ad4c516a",
+        "value": "Passaporte de Manoel Dias Guiomar  \r\n  ",
+        "class": "E35_Title",
+        "type": {
+          "id": "fc9685f5b41144e3860bb0bd36b6ca70",
+          "value": "ATTRIBUTED",
+          "class": "E55_Type"
+        }
+      }
+    ],
+    "dateInitial": {
+      "id": "585fb4fb0fb7447488c05368cc325409",
+      "value": "1886-02-23",
+      "class": "E62_String",
+      "certainty": false
+    },
+    "dateFinal": {
+      "id": "f95c37a0c670410fa9508b0734eb4868",
+      "value": "1886-02-23",
+      "class": "E62_String",
+      "certainty": false
+    },
+    "description": {
+      "id": "333ecebca7054cdcb811363572f5969e",
+      "value": "Registo nº 125\r\nIdade: 23 anos\r\nFiliação: Luis Dias Guiomar / Delfina Maria\r\nNaturalidade: Torre de Valle Todos / Ancião / Leiria\r\nResidência: Torre de Valle Todos / Ancião / Leiria\r\nDestino: Cidade de Santos / Imperio do Brasil \r\nObservações: Não escreve",
+      "class": "E62_String"
+    },
+    "holder": {
+      "id": "031f90bd2be14ba1ab0f218dede15818",
+      "value": "Arquivo Distrital de Leiria",
+      "class": "E74_Group"
+    },
+    "parent": {
+      "id": "9de4c0ec54d54863a2a35a35aaf7af47",
+      "value": "PT/ADLRA/AC/GCLRA/H-D/001/0006",
+      "class": "E22_HumanMadeObject",
+      "descriptionLevel": {
+        "id": "8bb33fc3992c4884ade735014a62ca5a",
+        "value": "UI",
+        "class": "E55_Type"
+      },
+      "referenceCode": {
+        "id": "6b0b61c63283424883b868967f7fde36",
+        "value": "PT/ADLRA/AC/GCLRA/H-D/001/0006",
+        "class": "E42_Identifier"
+      },
+      "dateInitial": {
+        "id": "ec59523a80584f10ab8ce520588440fa",
+        "value": "1885-03-20",
+        "class": "E62_String"
+      },
+      "dateFinal": {
+        "id": "ac444a5521a04d199a4ef32fef9a1564",
+        "value": "1888-08-21",
+        "class": "E62_String"
+      },
+      "titles": [
+        {
+          "id": "212638e9020446ed98f872991a7f4eb9",
+          "value": "Livro de registo de passaportes nº 6",
+          "class": "E35_Title",
+          "type": {
+            "id": "18fff6a6cab24c2b811a878bae8b6167",
+            "value": "FORMAL",
+            "class": "E55_Type"
+          }
+        }
+      ]
+    },
+    "hasImages": false,
+    "hasRepresentations": false,
+    "hasPublishedRepresentations": false,
+    "relatedRepresentations": {
+      "total": 0,
+      "results": []
+    }
+  }
+}

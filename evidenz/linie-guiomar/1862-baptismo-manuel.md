@@ -42,3 +42,10 @@ quellengetreu.
 
 Nicht mit anderen Luiz/Delfina-Paaren auf denselben Blättern
 vermischen.
+
+## Passabgleich 17.09.2026
+
+Der Katalogpass **Manoel 1886** passt nach Name, Eltern, Pfarrei und
+Alter wahrscheinlich zu diesem Taufkind. Das Passoriginal ist noch
+nicht geprüft. Einzelheiten und Grenzen:
+[Passabgleich 1886/1901](passabgleich-1886-1901.md).

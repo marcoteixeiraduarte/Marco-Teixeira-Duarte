@@ -8,6 +8,15 @@ Pass-/Auswanderungsregistern wie **Luis Dias Guiomar**
 Linien nicht vermischen. Filiação und Ort entscheiden, nicht der
 Vorname Manuel.
 
+**Nachtrag 17.09.2026:** Der frühere Vergleich mit einem Pass
+«Luis Dias Guiomar» beruht auf einer undatierten Meldung ohne
+Direktbeleg. Identifiziert sind jetzt **António 1901** und
+**Manoel 1886 [?]**; darin heißt jeweils der Vater Luis/Luís.
+Die eigene Auswanderung eines Luiz bleibt eine Nutzervermutung.
+Die folgenden CEPESE- und Distrikt-Notizen dokumentieren den
+Suchstand vom 16.09.2026 und wurden hier nicht erneut geprüft.
+Aktueller [Passabgleich](linie-guiomar/passabgleich-1886-1901.md).
+
 ## Die zwei Personen (Blatt)
 
 | | Manuel Teixeira | Manuel Duarte |
@@ -18,10 +27,11 @@ Vorname Manuel.
 | Pfarrei der Herkunft | Cumeeira (Penela, Coimbra) | Cumeeira (Penela, Coimbra) |
 | Zivilstand | nach 1911; Conservatória-Fotos noch nicht festgelesen | Taufe 2.12.1885 Nr. 40; Heirat 13.11.1907 |
 
-Luis Dias Guiomar (Pass, 33, Santos) ist **natural + residência
+Die frühere Luis-Passmeldung nennt **natural + residência
 Torre de Vale de Todos / Ansião / Leiria**, Filiação Luís Guiomar ×
-Delfina Maria. Das ist die Guiomar-Linie, Governo Civil **Leiria**
-(`PT/ADLRA/AC/GCLRA/H-D/001`). Siehe
+Delfina Maria. Ihre Quellenidentität und Zuordnung bleiben offen.
+Die gesicherten Katalogfunde António/Manoel gehören zum Governo
+Civil **Leiria** (`PT/ADLRA/AC/GCLRA/H-D/001`). Siehe
 [passakt-luis-dias-guiomar.md](linie-guiomar/passakt-luis-dias-guiomar.md).
 
 Nicht tauschen mit **Manuel**, Taufe 15.08.1862, Lindos — Sohn von
@@ -54,7 +64,8 @@ Taufpfarrei allein:
 | Penela / Cumeeira | **Coimbra** | AUC `PT/AUC/ACD/GCC`; FamilySearch 1928596 (1835–1938) |
 | Ansião / Torre | **Leiria** | DigitArq `PT/ADLRA/AC/GCLRA/H-D/001` |
 
-Luis Dias Guiomar sitzt in **Leiria**, weil er Torre/Ansião angibt.
+Die Katalogpässe António 1901 und Manoel 1886 [?] liegen in **Leiria**;
+beide nennen Torre/Ansião als Wohnort.
 Cumeeira/Penela ist zuerst **Coimbra**.
 
 ## CEPESE (POST `n=1&v=1`, 16.09.2026)
@@ -116,7 +127,8 @@ Cumeeira/Carrasqueiras in CEPESE **kein Treffer**. Coimbra-Bücher
 
 ## Was das für das Leiria-Register heißt
 
-GCLRA/H-D/001 ist das Register von Luis Dias Guiomar. Es ist das
+GCLRA/H-D/001 ist die Serie der Pässe António 1901 und Manoel 1886 [?].
+Ein eigener Luis-Pass ist noch nicht identifiziert. Es ist das
 Governo Civil **Leiria** (Ansião/Torre). Manuel Teixeira * 1913
 Ribeirinho und Manuel Duarte * 1885 Cumeeira gehören dort nicht
 als Torre-Auswanderer dieser Generation. Ein späterer Wohnsitz
@@ -129,5 +141,7 @@ Bücher 1835–1929, Prozesse 1859–1938. Von dieser VM nicht geöffnet
 (Viewer wie zuvor 403). Erst dort Manuel Duarte um die Heirat 1907
 suchen, wenn die Spur weiter soll.
 
-DigitArq ADLRA war in dieser Sitzung per DNS nicht erreichbar.
-Kein erfundener Treffer aus dem Leiria-Band.
+Beim Suchlauf vom 16.09.2026 war DigitArq ADLRA per DNS nicht
+erreichbar. Am 17.09.2026 wurden die beiden Guiomar-Katalogeinträge
+direkt gelesen; daraus ergibt sich kein neuer Treffer für Manuel
+Teixeira oder Manuel Duarte.
