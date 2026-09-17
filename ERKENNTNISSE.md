@@ -95,7 +95,8 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | João Teixeira (Forte) | * 13.10.1879 Cabeça Redonda; Taufname João; Forte = Großmutter Maria Forte; Eltern Custodio Teixeira (Figueiras Podres, wohnhaft Cabeça Redonda) × Joana de Jesus (Cabeça Redonda); Paten Carrasqueiras / Chão de Couce | sicher | [teixeira](teixeira-records/README.md) |
 | Maria José dos Santos | ~1884, freguesia Ansião; Frau Joãos; Eltern **Francisco José dos Santos** × **Maria Thereza** (Akt 1913); Taufe **1876–1894** und Heirat **1895–1913** offen — Ring plus [suche-erweitert](evidenz/suche-erweitert.md) | sicher als Eltern 1913; Taufe/Heirat offen | [maria-jose](evidenz/linie-teixeira/maria-jose-dos-santos.md) |
 | João (Guiomar) | * 22.4.1874 Rua d'Além; Vater Luiz Guiomar | sicher | [guiomar](guiomar-records/README.md) |
-| Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena; **sie** geht zu João Guiomar nach Vale de Todos — nicht die Feio- oder Contente-Sippe | sicher | guiomar |
+| Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena; **sie** geht zu João Guiomar nach Vale de Todos — nicht die Feio- oder Contente-Sippe. Blatt `Maria Helena Feio Rodrigues`: Taufname Maria, Sippe Rodrigues Feio | sicher | guiomar |
+| Joaquim Rodrigues Feio | * 3.4.1853 Pragoza, Taufe 27.4.1853 Torre; Eltern Nicolao Rodrigues Feio × Maria de Jesus; avós Belchior Roiz Feio × **Agueda Maria** (Carvalhal) — Blatt `Rosa Maria` daneben; avós maternos Manoel Lourenço Lobo × Josefa Maria (Castello) | sicher | [feio-contente](evidenz/linie-guiomar/feio-contente.md) |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
 | Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](matta-records/README.md) |
@@ -105,6 +106,9 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
 **Auftraggeber: das stimmt.** Guiomar: Luiz aus Bemposta; neben ihm
 die Frau **Maria** aus Pião, nicht Contente/Feio als Linie.
+Mendes aus **Ateanha**, nicht aus Aljazede (Aljazede = Roza).
+Feio-Blatt 1853: Joaquim * 3.4.1853 **passt**; Belchior × Agueda,
+nicht Blatt-Rosa. 1700–1800: [Inventar](evidenz/1700-1800.md).
 Weiler und Gärten (Lagoa, Cancela, Castello, Barreira …) sind die
 Namen im Gedächtnis — deshalb schreibt Torre sie in die Akten.
 
@@ -132,8 +136,9 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 8. João Teixeira **(Forte)**: Weiler **Cabeça Redonda**; Taufname João; Vater `Custodio`, natürlich **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana natürlich Cabeça Redonda; Paten **Carrasqueiras / Chão de Couce**
 8a. `Pais de Maria José por confirmar` → **Francisco José dos Santos** × **Maria Thereza**; Heirat João × Maria José offen — Kirche unbekannt (Torre / Lagarteira / Ansião / Chão de Couce / Cumeeira / **Avelar** / **Alvorge**)
 8b. Joaquina: Zivil **Reis**, Pragoza; Heirat **21.08.1896** als **Joaquina Ramalha** × Manuel Matta; Eltern **José dos Reis** × **Maria Ramalha**. Erste Tochter **Palmyra * 8.06.1897**; Blatt-Palmira * 24.04.1912 **viel später**. Blatt Ramalho × Leal = **avós maternos** (Sebastião 1871), nicht die Eltern. José dos Reis **Bruder** des Manoel Pedro dos Reis
-9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
-10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
+9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`; † 08.01.1958 **passt**
+10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR); Blatt `Maria Helena Feio Rodrigues` — Sippe **Rodrigues Feio**, nicht in den Taufnamen
+10a. Joaquim Rodrigues Feio * **3.04.1853** Pragoza **passt**. Belchior × **Agueda Maria** (Carvalhal); Blatt `Rosa Maria` daneben. Avós maternos Manoel Lourenço Lobo × Josefa Maria (Castello)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
 
 ---
@@ -176,6 +181,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 2 | Conservatória Ansião: `01` `03` `04` `06` `07` `08` gelesen; Geburt José Mendes N.º 320/1914 hier kein Foto |
 | 2a | **Heirat 21.08.1896** und **erste Palmyra * 8.06.1897**. Palmira * 24.04.1912 ist die späte. Zwei Reis-Häuser = **Brüder** (Sebastião 1871). Taufe Joaquina **1875–1880** (1872–74 leer); Heirat José × Ramalha **vor** Mai 1871 |
 | 2b | Heirat João Teixeira (Forte) × Maria José **1895–1913**; Taufe Maria José **1876–1894** — [suche-erweitert](evidenz/suche-erweitert.md) |
+| 2c | **1700–1800:** Taufe Nicolau Feio (Torre 1810–1842); Heirat Belchior × Agueda; Taufe Maria Helena Contente Lagarteira 1850–1854. Blatt Rosa Maria nicht an Agueda hängen. [1700-1800](evidenz/1700-1800.md) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |

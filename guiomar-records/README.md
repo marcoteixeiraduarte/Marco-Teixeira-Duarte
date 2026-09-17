@@ -98,3 +98,27 @@ Quelle:
   `PT-ADLRA-PRQ-PANS05-001-0027_m0003.jpg` (Doppelseite; Eintrag
   Nr. 3 vollständig auf der rechten Buchseite, inkl. Randvermerk);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/2c7b220442234ab791fe60ff866e08f2)
+
+Auftraggeber: **Maria Helena Feio Rodrigues**. Quellenform der Sippe
+des Vaters **Rodrigues Feio**. Taufname bleibt **Maria**. Blattformen
+daneben.
+
+## Joaquim, Taufe 27. April 1853 (Torre)
+
+Blatt `Joaquim Rodrigues Feio · * 3. Apr. 1853`. **Passt.**
+
+- getauft **27. April 1853**, Nossa Senhora da Graça da Torre
+- Taufname am Rand: **Joaquim**
+- geboren **3. April 1853**
+- Eltern: **Nicolao Rodrigues Feio** × **Maria de Jesus**, Pragoza
+- väterliche Großeltern: **Belchior Roiz Feio** × **Agueda Maria**,
+  Carvalhal — Blatt hängt an Belchior **Rosa Maria** (nicht
+  zusammenlegen)
+- mütterliche Großeltern: **Manoel Lourenço Lobo** × **Josefa Maria**,
+  Castello
+- Randvermerk **25. April 1940** Torre: Tod **wahrscheinlich**
+
+Quelle: `PT/ADLRA/PRQ/PANS08/001/0004`,
+`baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`;
+[DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7).
+Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).

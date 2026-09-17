@@ -18,6 +18,15 @@ Ateanha, Aljazede und Vale Paio gehören zur **einen** Pfarrei
 [Alvorge, tombo ans01](https://tombo.pt/f/ans01), Orago Nossa Senhora da Conceição.
 Archiv: `PT/ADLRA/PRQ/PANS01`.
 
+Nachbarweiler, nicht derselbe Ort. OSM: **Ateanha** ~39.987 / −8.412
+(Kapelle São Martinho); **Aljazede** ~39.981 / −8.413 (Capela de
+Aljazede). Luftlinie etwa 700 m. Gemeinde Ansião führt beide als
+eigene aldeias típicas von Alvorge.
+
+**Mendes** kommen aus **Ateanha** (`Atanha`, Taufe Joze Maria 1880).
+**Roza** steht in den Akten als Vale Paio / Vallejazede / **Aljazede**.
+Nicht: Mendes aus Aljazede. Nicht: Roza aus Ateanha.
+
 Die Kapelle in Ateanha war früher Igreja Matriz von São Martinho.
 Eigene Kirchenbücher unter Ateanha gibt es bei tombo nicht.
 Einträge aus Ateanha stehen im **Alvorge-Band**, Rand oft `Ateanha`.

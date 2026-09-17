@@ -62,6 +62,7 @@ Leer lassen, bis du sie selbst gelesen hast.
 | --- | --- | --- |
 | [1874-baptismo-joao-PANS08-001-0019_m0007.jpg](guiomar/1874-baptismo-joao-PANS08-001-0019_m0007.jpg) | 1985×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/0891824574de4cadb67f50b56c8b0066) |
 | [1882-baptismo-maria-PANS05-001-0027_m0003.jpg](guiomar/1882-baptismo-maria-PANS05-001-0027_m0003.jpg) | 2695×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/2c7b220442234ab791fe60ff866e08f2) |
+| [1853-baptismo-joaquim-feio-PANS08-001-0004_m0050.jpg](guiomar/1853-baptismo-joaquim-feio-PANS08-001-0004_m0050.jpg) | 2519×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7) |
 
 ### Matta
 

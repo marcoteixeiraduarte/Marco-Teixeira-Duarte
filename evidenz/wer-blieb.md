@@ -27,8 +27,11 @@ der Pfarrei; Teixeira umtriebig.
 | **Ramalho** | Pragoza | Maria Ramalha, Frau des **José dos Reis** (Bruderhaus); Kind **Joaquina Ramalha**. Avós 1871: Manuel Ramalho × Angelica Maria | sicher (Taufe 1871) |
 
 **Dos Reis** ist in Pragoza stärker als Mendes. Mendes kommen aus
-Ateanha und setzen sich über die Frau (Barbeiro, dann Reis) in Torre
-fest. Barbeiro bleiben in der Pfarrei. Reis bleibt im **Weiler**.
+**Ateanha** (Pfarrei Alvorge) und setzen sich über die Frau
+(Barbeiro, dann Reis) in Torre fest. **Aljazede** ist nicht Mendes:
+das ist Rozas Seite (Vale Paio / Vallejazede / Aljazede). Dieselbe
+Pfarrei, Nachbarweiler (~700 m), **zwei Familien**. Barbeiro bleiben
+in der Pfarrei. Reis bleibt im **Weiler**.
 
 Zwei Reis-Häuser im selben Weiler, **nicht** ein José: Brüder
 **Manoel Pedro dos Reis** (Haus über Roza aus Alvorge, dann über die
@@ -92,7 +95,16 @@ Drei Schritte, nicht vermischen:
 
 Blatt `Maria Helena Contente` hängt den Großvater **Jozé Contente**
 an die Mutter — derselbe Fehlertyp wie `Narcisa Rodrigues Gato`.
-Im Taufakt 1882 heißt die Mutter nur **Maria Helena**.
+Im Taufakt 1882 heißt die Mutter nur **Maria Helena**. Auftraggeber:
+die Frau später **Maria Helena Feio Rodrigues**. Quellenform der
+Sippe **Rodrigues Feio** / **Roiz Feio**. Taufname **Maria**.
+`Rodrigues` nicht hinter Feio in den Taufakt 1882 schreiben.
+
+Joaquim * **3.04.1853**, Taufe 27.04.1853, Pragoza. Avós paternos
+**Belchior Roiz Feio** × **Agueda Maria** (Carvalhal) — Blatt
+`Rosa Maria` daneben, nicht zusammenlegen. Avós maternos
+**Manoel Lourenço Lobo** × **Josefa Maria** (Castello).
+Blatt: [feio-contente](linie-guiomar/feio-contente.md).
 
 Delfinas eigenes Herkunftsweiler (José Gregorio × Nazareth Maria)
 steht 1874 nicht ausgeschrieben. Kind * Rua d'Além; Luiz aus

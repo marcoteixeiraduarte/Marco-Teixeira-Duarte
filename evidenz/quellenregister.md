@@ -55,3 +55,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1897-PAL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1897-baptismo-palmyra-pragoza-right.jpg` |
 | TVT-BAP-1871-SEB | Taufe Sebastião, primeiro filho José dos Reis × Maria Ramalha, Pragoza 21.05.1871 | `matta-records/baptismos-1871/PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg` |
 | TVT-BAP-1871-SEB-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg` |
+| TVT-BAP-1853-JOA | Taufe Joaquim Rodrigues Feio, * 3.04.1853 Pragoza | `guiomar-records/baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg` |
+| TVT-BAP-1853-JOA-R | dieselbe Taufe, rechte Seite (Joaquim) | `evidenz/scans/torre/1853-baptismo-joaquim-feio-right.jpg` |

@@ -38,7 +38,9 @@ Manoel Pedro dos Reis × Roza und José dos Reis × Maria Ramalha,
 Eltern beider: Manoel Pedro × Joaquina Maria (Sebastião 1871).
 Nach dem Kaufmann José Pedro halten die **Töchter** Pragoza, die
 Männer ziehen zu (Matta aus São Jorge, Ascenção aus Valle de Todos).
-Mendes kommen aus Ateanha und folgen der Frau. Barbeiro bleiben in
+Mendes kommen aus **Ateanha** (nicht Aljazede) und folgen der Frau.
+Aljazede ist Rozas Weiler. Dieselbe Pfarrei Alvorge, Nachbarweiler,
+zwei Familien. Barbeiro bleiben in
 der Pfarrei (Pragoza / Valle de Todos). **Auftraggeber: das stimmt.**
 Blatt: [wer-blieb](evidenz/wer-blieb.md),
 [zwei Häuser](evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
@@ -243,8 +245,11 @@ freguezia de Lagarteira und Nossa Senhora da Graça da Torre de Vale
 de Todos).
 
 **Contente** sitzt in Pião. **Feio** kommt von der Estrada da Pragoza
-dorthin. Deren Tochter **Maria** geht allein zu Guiomar nach Vale de
-Todos. Blatt: [wer-blieb](evidenz/wer-blieb.md).
+dorthin (Joaquim * 3.04.1853 Pragoza; avós Belchior × **Agueda**,
+nicht Blatt-Rosa). Deren Tochter **Maria** (Blatt Maria Helena Feio
+Rodrigues) geht allein zu Guiomar nach Vale de Todos.
+Blatt: [wer-blieb](evidenz/wer-blieb.md),
+[feio-contente](evidenz/linie-guiomar/feio-contente.md).
 
 ## Archiv der Match-Scans
 

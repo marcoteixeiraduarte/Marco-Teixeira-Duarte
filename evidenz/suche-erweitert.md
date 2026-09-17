@@ -52,6 +52,10 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Taufe Delfina Maria | Lindos / Torre | **1835–1860** Torre; zur Not Lagarteira, Ansião | PANS08 Batismos; Lindos = Weiler Torre, nicht Lindoso |
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
 | Taufe Joaquina Ramalha | offen | **1872–1880** Torre / Pragoza (23 am 21.08.1896, nicht nur 1872–74); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
+| Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
+| Taufe Nicolau Feio | offen | **1810–1842** Torre; Eltern Belchior Roiz Feio × Agueda Maria | `PANS08/001/0003` |
+| Heirat Belchior × Agueda | offen | **1790–1830** Torre | `PANS08/002/0002` und Anfang `002/0003` |
+| Taufe Maria Helena (Contente) | Blatt * ca. 1852 | **1850–1854** Lagarteira, Valle do Pião; Eltern Jozé Contente × Helena Maria | `PANS05/001/0003`; 1852-Stichprobe ohne Treffer |
 
 Zivil ab April 1911: Conservatória Ansião (Kreis) und Conservatória
 Penela, nicht nur Kirchenbücher.
