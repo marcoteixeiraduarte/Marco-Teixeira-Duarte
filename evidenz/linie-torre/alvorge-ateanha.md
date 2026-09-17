@@ -2,7 +2,9 @@
 
 Das ist **Rozas Seite**, nicht Manoel Pedros Torre/Pragosa und nicht Gato/Avelar.
 
-Noch **kein** Personenanschluss. Ateanha steht in keinem unserer Scans.
+**Mendes** gehören nicht auf dieses Blatt. Joze Mendes Ferreira ist
+`natural da Atanha`, Pfarrei Alvorge (Taufe des Sohnes 1880). Ateanha
+steht in **keinem** Scan **Rozas**.
 
 ## Geografie
 
@@ -23,7 +25,8 @@ Nachbarweiler, nicht derselbe Ort. OSM: **Ateanha** ~39.987 / −8.412
 Aljazede). Luftlinie etwa 700 m. Gemeinde Ansião führt beide als
 eigene aldeias típicas von Alvorge.
 
-**Mendes** kommen aus **Ateanha** (`Atanha`, Taufe Joze Maria 1880).
+**Mendes** kommen aus **Ateanha** (`Atanha`, Taufe Joze Maria 1880;
+Pate Manuel Mendes Ferreira noch **wohnhaft Ateanha**).
 **Roza** steht in den Akten als Vale Paio / Vallejazede / **Aljazede**.
 Nicht: Mendes aus Aljazede. Nicht: Roza aus Ateanha.
 

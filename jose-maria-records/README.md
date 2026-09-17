@@ -14,6 +14,9 @@ Eintrag und werden nicht modernisiert.
 - Vater: **Joze Mendes Ferreira**, Arbeiter, natürlicher Herkunft
   `da Atanha`, Pfarrei **Alvorge**, dort getauft
 - Mutter: **Anna da Piedade**, häusliche Tätigkeit
+- Pate: **Manuel Mendes Ferreira**, ledig, Arbeiter, **morador no dito
+  lugar da Atanha** — Mendes-Haus sitzt noch in Ateanha
+- Patin: **Maria de Jesus Neta**, verheiratet, moradora Valle de Todos
 - Kirche: `Egreja Parochial de Nossa Senhora da Graça da Torre de
   Valle de Todos`, `concelho d'Anciao`, Bistum Coimbra
 
