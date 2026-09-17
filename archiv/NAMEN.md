@@ -20,7 +20,7 @@ Blatt mit Transkript: [`evidenz/quellenregister.md`](../evidenz/quellenregister.
 | **Anna** · Manoel Dias Barbeiro · João Dias da Quelha | [`jose-maria/`](jose-maria/) `1845-…` | dasselbe |
 | **Narciza** / Narcisa da Conceição · **Caetana** · João Gato · Manoel Sol | [`narcisa/`](narcisa/) | [narcisa-records](../narcisa-records/README.md) |
 | **José Pedro dos Reis** · Manoel Pedro dos Reis · Roza Maria (Alvorge) · Maria da Piedade | [`narcisa/`](narcisa/) plus [`../evidenz/scans/torre/`](../evidenz/scans/torre/) (Taufe 1854) | [jose-pedro](../evidenz/linie-torre/jose-pedro-dos-reis.md) |
-| **Joaquina Reis** · **Palmyra 1897** · **Palmira 1912** · Manuel Matta | [`matta/`](matta/) `1896-casamento-…` `1897-baptismo-…` plus [`conservatoria-ansiao/`](conservatoria-ansiao/) `08` `09` `06` `05` | [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md) |
+| **Joaquina Reis** · **Sebastião 1871** · **Palmyra 1897** · **Palmira 1912** · Manuel Matta | [`matta/`](matta/) `1871-baptismo-sebastiao-…` `1896-casamento-…` `1897-baptismo-…` plus [`conservatoria-ansiao/`](conservatoria-ansiao/) `08` `09` `06` `05` | [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md) · [zwei Häuser](../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md) |
 | **José Mendes Ascenção** × Palmira (Heirat 1937, beide Pragoza) | [`conservatoria-ansiao/`](conservatoria-ansiao/) `06` `05` | dasselbe |
 | **Maria Emília Guiomar** · Tod João Guiomar 1958 · Heirat 1937 Teixeira×Guiomar | [`conservatoria-ansiao/`](conservatoria-ansiao/) `04` `07` `03` `02` | [guiomar-records](../guiomar-records/README.md) |
 | **Manuel Teixeira** * 10.09.1913 Ribeira de Cima · Maria José dos Santos · Francisco José dos Santos × Maria Thereza | [`conservatoria-ansiao/`](conservatoria-ansiao/) `01` | [maria-jose](../evidenz/linie-teixeira/maria-jose-dos-santos.md) |
@@ -63,7 +63,7 @@ Erst anlegen, wenn ein Treffer festliegt.
 | Heirat João Teixeira (Forte) × Maria José | Ring 1–3, **1895–1913**; Zivil ab Apr 1911 Ansião **und** Penela. Blatt: [suche-erweitert](../evidenz/suche-erweitert.md) |
 | Taufe Maria José dos Santos | Eltern Francisco José dos Santos × Maria Thereza; **1876–1894**, zuerst PANS02 |
 | Heirat Manuel Matta × Joaquina Ramalha | **gefunden:** Torre **21.08.1896** N.º 2 — [`matta/`](matta/) `1896-casamento-…` |
-| Taufe Joaquina | Torre Pragoza, Eltern José dos Reis × Maria Ramalha, **1872–1880** |
+| Taufe Joaquina | Torre Pragoza, Eltern José dos Reis × Maria Ramalha, **1875–1880** (1872–74 leer). Bruder **Sebastião * 7.05.1871** gefunden |
 | Palmyra * 8.06.1897 | **gefunden**, erste Tochter; Palmira * 24.04.1912 ist die späte |
 | Geburt José Mendes N.º 320/1914 | Conservatória, hier kein Foto |
 | Taufe Luiz Guiomar | Alvorge / Bemposta **1820–1850** |

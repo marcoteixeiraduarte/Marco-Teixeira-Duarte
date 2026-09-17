@@ -79,3 +79,21 @@ Quelle:
 - `matta-records/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg`
   (rechte Buchseite);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015)
+
+## Sebastião, Taufe 21. Mai 1871 (Torre) — erster Sohn José × Maria Ramalha
+
+- * **7. Mai 1871**, 7 Uhr, **Pragoza**; Taufe 21.05.1871 N.º 7
+- **primeiro** filho von **José dos Reis** × **Maria Ramalha**
+- neto paterno **Manuel Pedro dos Reis** × **Joaquina Maria**
+  (dieselben Eltern wie Manoel Pedro dos Reis — die zwei Häuser sind
+  Brüderhäuser)
+- neto materno **Manuel Ramalho** × **Angelica Maria**
+- Paten: Joaquim Ramalho, solteiro; Angelica Maria, viúva
+
+Blatt: [zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
+
+Quelle:
+
+- `matta-records/baptismos-1871/PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg`
+  (rechte Buchseite);
+  [DigitArq](https://digitarq.arquivos.pt/documentDetails/1728f8a2d54c411fa0065d1eb8c9fa6a)

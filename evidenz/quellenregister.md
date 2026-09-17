@@ -53,3 +53,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-CAS-1896-02-L | dieselbe Heirat, nur linke Seite | `evidenz/scans/torre/1896-casamento-manuel-matta-joaquina-ramalha-left.jpg` |
 | TVT-BAP-1897-PAL | Taufe Palmyra, erste Tochter, 23.06.1897 Pragoza | `matta-records/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg` |
 | TVT-BAP-1897-PAL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1897-baptismo-palmyra-pragoza-right.jpg` |
+| TVT-BAP-1871-SEB | Taufe Sebastião, primeiro filho José dos Reis × Maria Ramalha, Pragoza 21.05.1871 | `matta-records/baptismos-1871/PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg` |
+| TVT-BAP-1871-SEB-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg` |

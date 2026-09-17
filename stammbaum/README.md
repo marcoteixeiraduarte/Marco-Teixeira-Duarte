@@ -162,7 +162,10 @@ zu ihr). Kind **Palmira Reis** — Reis von der Mutter.
 Heirat **21.08.1896**, Torre, als **Joaquina Ramalha**. Eltern dort
 **José dos Reis** × **Maria Ramalha** — **sicher**. Blatt
 **Manuel Dias Ramalho** × **Angelica Maria Leal** ist **nicht**
-dieses Paar. Leal bleibt offen, weiter oben.
+dieses Paar: 1871 dieselben Vornamen als **avós maternos** des
+ersten Sohnes **Sebastião * 7.05.1871**. José dos Reis ist
+**Bruder** des Manoel Pedro dos Reis (Haus José Pedro). Zwei Häuser:
+[zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 Erste Tochter **Palmyra * 8.06.1897**. Die Blatt-Palmira * 24.04.1912
 ist **viel später**.
 [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md).
@@ -180,7 +183,7 @@ ist **viel später**.
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
-| Manuel Dias Ramalho × Angelica Maria Leal | Blatt; **nicht** die Eltern der Heirat 1896. Kirche: **José dos Reis** × **Maria Ramalha**. Leal weiter oben offen |
+| Manuel Dias Ramalho × Angelica Maria Leal | Blatt; **nicht** die Eltern der Heirat 1896. Kirche: **José dos Reis** × **Maria Ramalha**. 1871: **Manuel Ramalho** × **Angelica Maria** = avós maternos (Sebastião). `Dias` / `Leal` nicht in 1871 |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
 **Rosa Maria**. Das entspricht dem Sterbeakt 1903 (`Manuel Pedro dos

@@ -83,6 +83,12 @@ Leal nicht in diesem Akt.
 der Heirat. Die Palmira des Blattes (* 24.04.1912) ist **viel später
 als gedacht**. Namenswiederholung: Tod der ersten Kandidat.
 
+**Sebastião * 7.05.1871**, primeiro filho von José dos Reis × Maria
+Ramalha, Pragoza. Neto paterno Manuel Pedro dos Reis × Joaquina Maria
+— dieselben Eltern wie Manoel Pedro dos Reis. Die zwei Häuser sind
+**Brüderhäuser**.
+[zwei-reis-haeuser-pragoza](linie-torre/zwei-reis-haeuser-pragoza.md).
+
 Nebenfund: 1897 N.º 8 (16.11.) Antonio Justino × Maria, Rua d'Além,
 Sohn **Luiz** × **Delfina Maria** — **Kandidat** Bruder João Guiomar;
 Nachname des Vaters in diesem Akt noch nicht fest als Guiomar.
@@ -92,7 +98,10 @@ Nachname des Vaters in diesem Akt noch nicht fest als Guiomar.
 1. Geschwister Palmyra/Palmira: Torre Batismos **1898–1911**; Sterbeakt
    Palmyra 1897. Die 1912er ist die späte.
 2. Taufe **Joaquina**, Torre **1872–1880**, Pragoza, Eltern José dos
-   Reis × Maria Ramalha (`PANS08` Batismos).
+   Reis × Maria Ramalha (`PANS08` Batismos). **1872–1874 leer** für
+   sie. Erster Bruder **Sebastião * 7.05.1871** gefunden — deshalb
+   Heirat der Eltern **vor** Mai 1871. Zwei Häuser:
+   [zwei-reis-haeuser-pragoza](linie-torre/zwei-reis-haeuser-pragoza.md).
 3. PANS02 Batismos **1876–1894** auf **Maria** / **Maria José**, Eltern
    Francisco José dos Santos × Maria Thereza; Heirat João × Maria José
    **1895–1913**, den **späten** Rand 1908–1913 nicht auslassen.

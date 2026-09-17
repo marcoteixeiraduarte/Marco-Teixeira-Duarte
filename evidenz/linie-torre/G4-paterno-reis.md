@@ -149,10 +149,21 @@ Das ist übliche Aufrundung, kein zweiter José.
 Ob die Eltern 1903 noch lebten (`já falecido` ja/nein), ist auf diesem
 Blatt noch nicht festgehalten.
 
+## Bruder in Pragoza — zweites Reis-Haus
+
+Dieselben Eltern **Manoel Pedro × Joaquina Maria** stehen 1871 als
+avós paternos des **Sebastião**, erster Sohn von **José dos Reis** ×
+**Maria Ramalha**, Pragoza. José dos Reis ist damit **Bruder** dieses
+Manoel Pedro dos Reis. Zwei Häuser, ein Elternpaar:
+[zwei-reis-haeuser-pragoza](zwei-reis-haeuser-pragoza.md).
+
+Die Paare nicht auf ein José legen.
+
 ## Nächster Rückwärtsschritt
 
 1. Taufe Roza Maria in Alvorge (`PANS01`), Rand Vale Paio / Aljazede / Ateanha.
 2. Taufe Manoel Pedro dos Reis in Torre, Pragosa.
-3. Sterbeeinträge beider (Torre 1878–1911 oder Alvorge).
+3. Taufe José dos Reis (Bruder; Band 0003/0004, Pragosa).
+4. Sterbeeinträge beider (Torre 1878–1911 oder Alvorge).
 
 Kein Avelar- und kein Gato-Eintrag an dieses Paar hängen.

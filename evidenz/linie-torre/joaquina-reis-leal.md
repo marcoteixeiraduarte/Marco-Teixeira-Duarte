@@ -70,13 +70,19 @@ Heirat 1896 und erste Lesung `neta materna` 1912 **passen:**
 | Vater **José dos Reis**, Pragoza | sicher (Heirat 1896); 1912 bereits tot |
 | Mutter **Maria Ramalha** | sicher (Heirat 1896) |
 | **Angelica Maria Leal** als Mutter Joaquinas | **nicht** in 1896, **nicht** festgelesen in 1912 |
-| Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** | Blatt; **nicht** die Eltern dieser Heirat |
+| Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** | Blatt; **nicht** die Eltern dieser Heirat. 1871: dieselben Vornamen als **avós maternos** Sebastiãos (`Manuel Ramalho` × `Angelica Maria`). `Dias` / `Leal` nicht in 1871 |
 
 `José dos Reis` × `Maria Ramalha` ist **nicht** dasselbe Paar wie
 **José Pedro dos Reis** × Narciza. Narciza heiratet 1878; Joaquina
 ist 23 im August 1896 (* etwa 1872–1873) mit Mutter **Ramalha**.
-Zwei Reis-Häuser in Pragoza bleiben getrennt. Taufe Joaquinas:
-Torre, Pragoza, **etwa 1872–1874**.
+Zwei Reis-Häuser in Pragoza bleiben getrennt — und sind **Brüderhäuser**:
+José dos Reis und Manoel Pedro dos Reis (Vater José Pedros) haben
+dieselben Eltern **Manuel Pedro dos Reis × Joaquina Maria**.
+Beleg: erster Sohn **Sebastião * 7.05.1871**, Pragoza.
+Blatt: [zwei-reis-haeuser-pragoza](zwei-reis-haeuser-pragoza.md).
+
+Taufe Joaquinas: nach diesem primeiro-Kind, Torre Pragoza **1872–1880**.
+1872, 1873 und 1874 in Torre gelesen: sie steht dort nicht.
 
 ## Heirat 1937 — beide in Pragoza
 
@@ -108,8 +114,10 @@ und ob Leal über die Frau kam.
 Mutter Leal. Die Heirat 1896 schreibt die Frau **Joaquina Ramalha**
 (Vater Reis, Mutter Ramalha). Zivil 1912/1937 siegt **Reis**.
 **Leal** steht auf dem Blatt als Angelica Maria Leal — **nicht** als
-Mutter dieser Joaquina. Wo Leal herkommt, bleibt offen (weiter oben,
-nicht diese Generation).
+Mutter dieser Joaquina. 1871 ist Angelica Maria die **Großmutter
+mütterlich** (und Patin, Witwe). Wo `Leal` und `Dias` herkommen,
+bleibt offen (diese Generation nicht; die Großeltern-Namen im Akt
+sind nur Ramalho / Angelica Maria).
 
 ## Palmyra 1897 — und Palmira 1912 viel später
 
@@ -141,6 +149,6 @@ Scan: `archiv/matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg`.
 Geschwister 1898–1911 weiter in Torre suchen, nicht bei 1897
 abbrechen.
 
-Nächster Schritt: Taufe Joaquina, Torre **1872–1874** und **danach**
-bis ~1880, Pragoza, Eltern José dos Reis × Maria Ramalha. Sterbeakt
+Nächster Schritt: Taufe Joaquina nach dem primeiro-Bruder Sebastião
+(7.05.1871), Torre **1875–1880** (1872–1874 leer). Sterbeakt
 Palmyra 1897, falls die 1912er den Namen wiederverwendet.

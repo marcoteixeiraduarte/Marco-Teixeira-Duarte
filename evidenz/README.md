@@ -40,6 +40,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `wer-blieb.md` — welche Familie wo sesshaft; Zuzug über Mann oder Frau
 - `suche-erweitert.md` — Jahre und Ringe weitermachen; Heirat Matta×Ramalha 1896 gefunden
 - `linie-torre/joaquina-reis-leal.md` — Joaquina Ramalha / Reis; Eltern José dos Reis × Maria Ramalha
+- `linie-torre/zwei-reis-haeuser-pragoza.md` — zwei Reis-Häuser, Brüder über Manoel Pedro × Joaquina Maria; Sebastião 1871
 - `quellenregister.md` — alle versionierten Scans
 
 Zum Durchforsten (Name → Ordner): [`../archiv/NAMEN.md`](../archiv/NAMEN.md).

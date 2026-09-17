@@ -33,11 +33,15 @@ Torre de Valle de Todos (heute Torre de Vale de Todos), Kreis Ansião.
 Die frühere einheitliche Blattform `Pragosa` war eine Normalisierung.
 Sie wird nicht mehr über alle Einträge gelegt.
 
-**Dos Reis** sitzen hier am festesten: nach dem Kaufmann José Pedro
-halten die **Töchter** Pragoza, die Männer ziehen zu (Matta aus São
-Jorge, Ascenção aus Valle de Todos). Mendes kommen aus Ateanha und
-folgen der Frau. Barbeiro bleiben in der Pfarrei (Pragoza / Valle de
-Todos). **Auftraggeber: das stimmt.** Blatt: [wer-blieb](evidenz/wer-blieb.md).
+**Dos Reis** sitzen hier am festesten — **zwei Häuser**, Brüder:
+Manoel Pedro dos Reis × Roza und José dos Reis × Maria Ramalha,
+Eltern beider: Manoel Pedro × Joaquina Maria (Sebastião 1871).
+Nach dem Kaufmann José Pedro halten die **Töchter** Pragoza, die
+Männer ziehen zu (Matta aus São Jorge, Ascenção aus Valle de Todos).
+Mendes kommen aus Ateanha und folgen der Frau. Barbeiro bleiben in
+der Pfarrei (Pragoza / Valle de Todos). **Auftraggeber: das stimmt.**
+Blatt: [wer-blieb](evidenz/wer-blieb.md),
+[zwei Häuser](evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 
 In Torre stehen die kleinen Weiler **sogar bei Heiraten** (`Pragoza`,
 `Valle de Todos`, `Rua d'Além`). In Ansião, Chão de Couce, Cumeeira
