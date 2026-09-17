@@ -115,7 +115,7 @@ die Heiraten.
 | **Cancela** | mündlich neben Lagoa. OSM-nächste `Rua da Cancela`: Trás de Figueiró / **Alvorge**, 39.971 N, 8.438 W (~1,7 km). Andere: Poço dos Cães / Santiago da Guarda | mündlich im Gedächtnis; die Alvorge-Straße nur Nachbar, nicht dieselbe Cancela |
 | **Quelha** | CartTop **017164** `R QUELHA DE VALE DE TODOS`. Taufe Anna 1845: Großvater **João Dias da Quelha**, Valle de todos | sicher als Gasse; Personenanschluss der Quelha-Linie nur so weit der Akt reicht |
 | Castello, Barreira, Pragoza, Rua d'Além, São Jorge | siehe oben | sicher im Weilerkreis |
-| **Carvalhinho** / **Caralinho** | Kirche 1741 `Caralinho`; 1824 `Carvalhinho` dieser Pfarrei Torre. OSM-Punkt offen | sicher als Weiler der Pfarrei |
+| **Carvalhinho** / **Caralinho** | Kirche **1720** `Carvalhinho` (`m0196`); **1741** `Caralinho`; 1824 `Carvalhinho`. OSM-Punkt offen | sicher als Weiler der Pfarrei |
 | **Freixo** | eigener Weiler, siehe unten | sicher als Ort der Pfarrei Torre |
 | **Lindos** | eigener Weiler, siehe unten | sicher als Ort der Pfarrei Torre |
 

@@ -35,10 +35,17 @@ Nicht ihre Taufen. Nur aus späteren Akten, nicht zusammenlegen.
 
 Eigene Taufen dieser drei: **offen**.
 
-## Zeitraum — erweitert, nicht nur 1740–1755
+## Zeitraum — erweitert bis 1675 / 1700 / 1720
 
-Belchior ist 1771 erwachsen → * grob 1740–1755 war die **erste**
-Tür. Das ist zu eng.
+Belchior erwachsen 1771 → * grob 1740–1755 war die **erste** Tür.
+Zu eng. Der Band ist jetzt datiert zurück bis **1675**.
+
+| Wer | Fenster | Dateien `001/0001` |
+| --- | --- | --- |
+| Onkel Belchior / Antonia / Onkel Antonio | * **~1720–1755** | `m0195–m0390` |
+| Kinder insgesamt | **~1720–1767** | `m0195–m0450`; Nachzügler `001/0002` |
+| avô Antonio Feio selbst | * **~1700–1735** | `m0150–m0235` (1710–1738) |
+| Heirat des Paares | **~1725–1755** | Casamentos; vor 1719 → `002/0001` |
 
 | Wer | 1771/1775 schon | * grob | Heirat der Eltern grob |
 | --- | --- | --- | --- |
@@ -61,12 +68,22 @@ Heirat Antonio Feio × Maria Mendes: **offen**. Wenn vor 1719 →
 `002/0001`. Wenn 1719–1755 → echter Heiratsquire, nicht die
 mislabeled `002/0002`.
 
-## Jahrkarte `001/0001` (erweiterter Schnitt m0200–m0450)
+## Jahrkarte `001/0001` (1675–1767)
 
 450 Dateien, Katalog 1609–1767. Der späte Teil ist dichter.
 
 | Datei | Gelesenes Datum | Rand / Ort |
 | --- | --- | --- |
+| `m0080` | 18. Januar **1675** | Figueiras Podres; Patin *casal do Caralh[inho?]* |
+| `m0100` | 18. November **1683** | Figueiras Podres desta freguesia |
+| `m0120` | 15. Juni **1688** | Casal … |
+| `m0140` | 26. Juli **1690er** | Valle de Todos |
+| `m0160` | 13. August **1710** | Casal de São João / Maria |
+| `m0170` | 6. März **1712** | **Freixo** / Bernarda |
+| `m0190` | 22. Januar **1718** | Figueiras Podres / Paula |
+| `m0195` | 23. Mai **1720** | **Carvalhal** / Manoel — nicht still = Carvalhinho |
+| `m0196` | 7. Dezember **1720** | **Carvalhinho** / Rosa |
+| `m0197` | 28. März **1721** | Valle de Todos |
 | `m0240` | 28. Januar **1738** | Torre |
 | `m0274` | 8. Februar **1741** | **Caralinho** / Isabel |
 | `m0275` | 7. August **1741** | Castello; avô **Lindos** |
@@ -78,9 +95,13 @@ mislabeled `002/0002`.
 | `m0448` | Ende des Bandes (~1766/67) | Patin **Caralhinho**; Valle de Todos / Isabel |
 | `m0450` | Schluss / andere Hand | Katalogende **1767** |
 
+**Carvalhinho** steht 1720 so (`m0196`). 1741 schreibt dieselbe Pfarrei
+**Caralinho**. **Carvalhal** 1720 (`m0195`) daneben lassen, bis ein
+Akt sie gleichsetzt.
+
 Kinder des Feio-Hauses: **1740–1755 bleibt drin**, dazu **1720–1740**
-(`m0200–m0273`) und **1755–1767** (`m0360–m0450`). Nicht abbrechen,
-wenn 1740–1755 leer ist.
+(`m0195–m0273`) und **1755–1767** (`m0360–m0450`). Taufe des avô:
+**1700–1735** (`m0150–m0235`). Nicht abbrechen, wenn 1740–1755 leer ist.
 
 ## Häuser in Caralinho 1740–1747 (nicht Feio, nicht mergen)
 
@@ -90,6 +111,7 @@ Generation. Die anderen Häuser bleiben daneben.
 
 | Kind | Datum | Datei | Eltern | Haus |
 | --- | --- | --- | --- | --- |
+| **Rosa** | Taufe 7.12.**1720** | `m0196` unten | Eltern in dieser Hand nicht festgelesen | Weiler **Carvalhinho** 1720 sicher; nicht als Feio-Kind nehmen |
 | **Joachim** | Taufe 30.10.**1740** | `m0272` links | **João Dias** × **Maria**, Caralinho | Dias; avós maternos Luis Mendes × Maria Roiz, Caralinho |
 | **Isabel** | * 28.01.1741 / tauf 08.02.**1741** | `m0274` links | **Manoel Mendes** × Frau, Caralinho | Mendes; avós Antonio Mendes × Antonia Mendes |
 | **Gregorio** | Taufe 20.08. (~**1746/47**) | `m0316` links | **Manoel Roiz** × **Helena Mendes**, Caralinho | Roiz × Mendes; nicht Feio |
@@ -118,6 +140,8 @@ Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0001`, `m0274`, linke Seite
 - Crop: `evidenz/scans/torre/1741-baptismo-isabel-caralinho-left.jpg`
+- 1720 dieselbe Form **Carvalhinho**: `evidenz/scans/torre/1720-baptismo-rosa-carvalhinho-left.jpg`
+  (`m0196`, Rosa, 7. Dezember 1720)
 - DigitArq: [b436bd6270f24b3ea4e0dad15de7fb0e](https://digitarq.arquivos.pt/documentDetails/b436bd6270f24b3ea4e0dad15de7fb0e)
 
 Das ist das **Mendes-Haus** in Carvalhinho, 1741. **Maria Mendes**
@@ -132,7 +156,7 @@ offen; die Kirche reicht.
 
 | Akt | Wer | Warum nicht |
 | --- | --- | --- |
-| Joachim 1740 Caralinho | João Dias × Maria | Dias-Haus |
+| Rosa 1720 Carvalhinho | Eltern nicht festgelesen | Weiler 1720; nicht als Feio-Kind |
 | Isabel 1741 Caralinho | Manoel Mendes × Frau, Caralinho | Mendes-Haus; Eltern nicht Antonio Feio × Maria Mendes |
 | Gregorio ~1747 Caralinho | Manoel Roiz × Helena Mendes | Roiz × Mendes, nicht Feio |
 | Caetana 1740 Freixo | Leandro × Anna das Neves | Freixo; Namensvetterin Caetana |
