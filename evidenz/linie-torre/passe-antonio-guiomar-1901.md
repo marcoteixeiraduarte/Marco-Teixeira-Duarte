@@ -13,7 +13,9 @@ bis das Blatt `PT/ADLRA/AC/GCLRA/H-D/…` selbst liegt. Die Logik
 gegen die Taufe 1874 bleibt, sobald die Filiação stimmt.
 
 Blog: [Coysas e Loysas, 4.10.2015](https://quintaisisa.blogspot.com/2015/10/igreja-de-torre-vale-de-todos-mais-bela.html)
-(22 Torre-Pässe mit Filiação).
+(Torre-Pässe mit Filiação; Quelle dort: Arquivo Distrital de Leiria,
+pedidos de passaportes). DigitArq-Bild zu `00750` in diesem Schnitt
+nicht geholt.
 
 ## Pass António, 22. Januar 1901
 
@@ -27,6 +29,16 @@ Blog: [Coysas e Loysas, 4.10.2015](https://quintaisisa.blogspot.com/2015/10/igre
 | Naturalidade | Torre de Vale de Todos / Ansião | wahrscheinlich |
 | Residência | Torre de Vale de Todos / Ansião | wahrscheinlich |
 | Destino | Santos / Brasil | wahrscheinlich |
+
+Blog, wörtlich:
+
+> Passaporte de António Dias Guiomar
+> Código de referência PT/ADLRA/AC/GCLRA/H-D/001/0018/00750
+> 1901-01-22
+> Idade: 33 anos Filiação: Luís Guiomar / Delfina Maria
+> Naturalidade: Torre de Vale de Todos / Ansião
+> Residência: Torre de Vale de Todos / Ansião
+> Destino: Santos / Brasil
 
 Taufe João, 10. Mai 1874, Rua d'Além: Eltern **Luiz Guiomar** ×
 **Delfina Maria**; avós paternos **Antonio Dias Guiomar** ×
@@ -102,19 +114,44 @@ Ortsregister. Nicht mit **Lindoso** und nicht mit **Rua do Freixo**
 
 ## Weitere Torre-Pässe (nicht mergen, nur das Netz)
 
-Dieselbe Blogliste, 22 Einträge. Nur so weit der Name schon ein
-Haus hat:
+Dieselbe Blogliste. Quelhas steht dort zweimal; Luciano Ramos hat
+zwei Pedidos. Häuser nur anbinden, wo schon ein Akt sitzt.
 
-| Pass | Filiação (Blog) | Anker | Gewissheit |
+Mit Anker:
+
+| Pass (Blog) | Filiação (Blog) | Anker | Gewissheit |
 | --- | --- | --- | --- |
-| José Maria da Ascensão, 1902 | José Mendes Ferreiro / Ana da Piedade | Taufe 1880 | wahrscheinlich dieselbe Person |
-| Casimiro Rodrigues Gato, 1902 | Francisco Rodrigues Gato / Joaquina de Jesus | Gato-Sippe Torre; nicht Narciza-Karte | Kandidat Sippe |
-| Francisco Rodrigues Gato, 1895 | Rodrigues Gato / Caetana do Sol | Caetana / Sol-Haus | Kandidat |
-| Francisco Rodrigues Gato Júnior, 1903 | João Gato / Caetana Maria | Heirat 1837 João Gato × Caetana | Kandidat Sohn |
-| José Augusto, 1901; Matias Dias, 1903 | José Dias Barbeiro / Maria Caetana | Barbeiro-Haus Pragoza (avós Anna 1845) | Kandidat |
+| José Maria da Ascensão, 12.05.1902, 22, Res. **Pragosa** | José Mendes Ferreiro / Ana da Piedade | Taufe Joze Maria 6.05.1880 | wahrscheinlich dieselbe Person |
+| Casimiro Rodrigues Gato, 12.05.1902, 28 | Francisco Rodrigues Gato / Joaquina de Jesus | Gato-Sippe Torre; nicht Narciza-Karte | Kandidat Sippe |
+| Francisco Rodrigues Gato, 04.11.1895, 40 | Rodrigues Gato / Caetana do Sol | Caetana / Sol-Haus | Kandidat |
+| Francisco Rodrigues Gato Júnior, 27.08.1903, 49 | João Gato / Caetana Maria | Heirat 1837 João Gato × Caetana | Kandidat Sohn |
+| José Augusto, 11.02.1901, 29; Matias Dias, 07.09.1903, 34 | José Dias Barbeiro / Maria Caetana (Matias: Blog **Maia** Caetana) | Barbeiro-Haus (avós Anna 1845) | Kandidat |
+| Maria Augusta Serra, 07.01.1902, 29, Res. **Figueiras Podres** | Luís Rodrigues **Guto** / Teresa Maria | Ortsform mit -s 1902; `Guto` nicht still = Gato | Ort sicher so geschrieben; Person offen |
+| Francisco Jorge, 16.08.1906, 35 | José Jorge / Antónia Maria | Nat. **Freixo**, Res. **Lindos** | zwei Weiler; kein Personenanschluss |
+
+Ohne Anker — stehen lassen, nicht suchen um sie an Guiomar/Reis/Feio
+zu hängen:
+
+| Pass (Blog) | Datum | Filiação (Blog) | Ort (Blog) |
+| --- | --- | --- | --- |
+| Manuel dos Santos, 72, `H-D/001/0018/00647` | 28.11.1900 | Manuel dos Santos / Maria do Carmo | Torre |
+| Maria Rosa, 29, n.º 53 | 06.03.1906 | Manuel José das Neves / Maria da Conceição | Res. **Atianha** / Alvorge — Ortsform **Kandidat** Ateanha, nicht Mendes-Haus |
+| Justino Nazaré, 37 (Frau Maria Augusta 29, Kinder Álvaro 5, Maria Laurinda 2 Monate) | 03.10.1901 | Manuel Gregório / Maria Josefa | Torre |
+| Abílio Santiago, 22 | 18.11.1902 | José de Santiago / Maria de Jesus | Torre |
+| José Ramos, 30 | 23.12.1903 | Luís Ramos / Maria de Jesus Parola | Torre |
+| Luciano Ramos, 31 dann 34 (zwei Pedidos) | 04.02.1901; 12.04.1904 | Luís Ramos / Maria de Jesus (2.º: **Parala**) | Torre; 2.º Destino Rio |
+| José Rodrigues Quelhas, 21, `H-D/001/0025/000534` | 12.12.1908 | Romão Rodrigues Quelhas / Maria de Jesus | Vale de Todos |
+| José Rodrigues Conceição, 30 | 21.12.1908 | Francisco Rodrigues Gato / Emília da Conceição | Torre; Gato im Vater, nicht Narciza |
+| Manuel Maria dos Santos, 23 | 27.03.1906 | António Maria dos Santos / Emília Jesus Ribeiro | Torre |
+| Bento de São Tiago, 21 | 01.04.1905 | José de São Tiago / Maria de Jesus | Torre |
+| José das Neves, 25 | 27.10.1904 | Manuel José das Neves / Maria da Conceição | Torre (Geschwister-Kandidat zu Maria Rosa 1906) |
+| Arménio Ramalho, 17 | 28.03.1913 | Maria do Carmo, casada com Raimundo Chebim | Torre; `Ramalho` nicht still = Maria Ramalha 1896 |
+| Manuel Fazenda, Alter nicht genannt | 28.12.1912 | Manuel Fazenda / Florinda de Jesus | Vale Todos |
 
 Gato-Pässe nicht still an Narciza hängen, nur weil Gato im selben
-Weilerkreis steht. Barbeiro bleibt Barbeiro.
+Weilerkreis steht. Barbeiro bleibt Barbeiro. `Guto` bleibt `Guto`.
+`Atianha` nicht mit Ateanha der Mendes-Taufe 1880 gleichsetzen, bis
+ein Akt die Form trägt. `Ramalho` 1913 nicht an Joaquina Ramalha.
 
 ## Nächste Tür
 
