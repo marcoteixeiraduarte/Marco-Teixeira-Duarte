@@ -82,6 +82,26 @@ Kinder des Feio-Hauses: **1740–1755 bleibt drin**, dazu **1720–1740**
 (`m0200–m0273`) und **1755–1767** (`m0360–m0450`). Nicht abbrechen,
 wenn 1740–1755 leer ist.
 
+## Häuser in Caralinho 1740–1747 (nicht Feio, nicht mergen)
+
+Der Weiler hat in diesen Jahren **mehrere** Paare. Nur Eltern
+**Antonio Rodrigues Feio** × **Maria Mendes** gehören zu dieser
+Generation. Die anderen Häuser bleiben daneben.
+
+| Kind | Datum | Datei | Eltern | Haus |
+| --- | --- | --- | --- | --- |
+| **Joachim** | Taufe 30.10.**1740** | `m0272` links | **João Dias** × **Maria**, Caralinho | Dias; avós maternos Luis Mendes × Maria Roiz, Caralinho |
+| **Isabel** | * 28.01.1741 / tauf 08.02.**1741** | `m0274` links | **Manoel Mendes** × Frau, Caralinho | Mendes; avós Antonio Mendes × Antonia Mendes |
+| **Gregorio** | Taufe 20.08. (~**1746/47**) | `m0316` links | **Manoel Roiz** × **Helena Mendes**, Caralinho | Roiz × Mendes; nicht Feio |
+
+Pate **Antonio Roiz** do lugar do **Carvalhinho**, Taufe Antonio,
+Valle de Todos, `m0273` (1741): **Kandidat** für den avô dieser
+Generation (sitzt im Weiler, Vorname passt). `Feio` steht in diesem
+Akt nicht. Nicht festlegen.
+
+**Caetana**, Freixo, 2.11.1740 (`m0271` unten): Leandro × Anna das
+Neves. **Nicht** Antonia Maria Caetana (die ist Carvalhinho / Neto).
+
 ## Carvalhinho = Caralinho (1741)
 
 Taufe **Isabel**, 8. Februar 1741, `m0274` links.
@@ -112,7 +132,10 @@ offen; die Kirche reicht.
 
 | Akt | Wer | Warum nicht |
 | --- | --- | --- |
+| Joachim 1740 Caralinho | João Dias × Maria | Dias-Haus |
 | Isabel 1741 Caralinho | Manoel Mendes × Frau, Caralinho | Mendes-Haus; Eltern nicht Antonio Feio × Maria Mendes |
+| Gregorio ~1747 Caralinho | Manoel Roiz × Helena Mendes | Roiz × Mendes, nicht Feio |
+| Caetana 1740 Freixo | Leandro × Anna das Neves | Freixo; Namensvetterin Caetana |
 | Maria 1741 Freixo | João Luiz × Anna, Freixo | anderer Weiler |
 | Maria 1741 Castello | Luiz, Castello; avô Diogo Roiz **dos Lindos** | Castello / Lindos, nicht Carvalhinho |
 | João 1747 Freixo | Freixo; avós Mendes von Figueiras Podres | Freixo, nicht Feio |
@@ -123,10 +146,11 @@ offen; die Kirche reicht.
 
 ## Nächste Tür
 
-1. Alle Ränder **Caralinho / Caralhinho / Carvalhinho** in
-   `m0200–m0450` zu Ende lesen — Elternzeile Antonio Roiz Feio ×
-   Maria Mendes.
-2. Dieselben Eltern in `001/0002` (1767–1771), falls ein Nachzügler.
-3. Heirat des Paares, echter Casamentos-Quire, **~1725–1755**.
-4. Väterlich parallel: **Manoel João Capateiro** × **Maria Mendes**,
+1. In den noch nicht gelesenen Caralinho-Rändern (`m0320–m0450` und
+   `m0200–m0271`) die Elternzeile **Antonio Roiz Feio × Maria Mendes**.
+2. Kindnamen **Belchior / Antonia / Antonio** mit `Feio` im Fließtext,
+   auch wenn der Rand nicht Caralinho ist.
+3. Pate Antonio Roiz 1741 (`m0273`) gegen spätere Feio-Akte halten.
+4. Heirat des Paares, echter Casamentos-Quire, **~1725–1755**.
+5. Väterlich parallel: **Manoel João Capateiro** × **Maria Mendes**,
    Val de Todos — andere Maria Mendes, nicht die von Carvalhinho.
