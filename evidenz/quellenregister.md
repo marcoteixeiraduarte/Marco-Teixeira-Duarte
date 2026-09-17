@@ -59,3 +59,5 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1853-JOA-R | dieselbe Taufe, rechte Seite (Joaquim) | `evidenz/scans/torre/1853-baptismo-joaquim-feio-right.jpg` |
 | TVT-BAP-1824-THE | Taufe Theresa, Carvalhinho; Eltern Melchior Rodrigues Feio × Rozaria Maria | `guiomar-records/baptismos-1824/PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg` |
 | TVT-BAP-1824-THE-L | dieselbe Taufe, linke Seite | `evidenz/scans/torre/1824-baptismo-theresa-carvalhinho-left.jpg` |
+| TVT-BAP-1775-MEL | Taufe Melchior, * 15.05.1775 Val de Todos; Manoel João Neto × Antonia Maria Caetana | `guiomar-records/baptismos-1775/PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg` |
+| TVT-BAP-1775-MEL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1775-baptismo-melchior-neto-right.jpg` |

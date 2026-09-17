@@ -120,8 +120,12 @@ Lagarteira / Pfarrei des Carvalhal. Offen.
 
 ## 1700–1800 — nächster Abschnitt
 
-Belchior ist die Tür. Fenster seiner Taufe grob **1760–1800**, Heirat
-mit Agueda grob **1790–1830**. Bücher:
+Taufe **Melchior * 15.05.1775** gefunden (Val de Todos, Neto ×
+Antonia Maria Caetana). Feio über die Mutter aus Carvalhinho.
+[melchior-1775](melchior-1775.md).
+
+Heirat mit Rozaria grob **1795–1812**. Der **Onkel** Belchior
+Rodrigues Feio (erwachsen 1771) liegt in `001/0001`. Bücher:
 
 | Buch | Signatur | UUID |
 | --- | --- | --- |
@@ -132,8 +136,8 @@ mit Agueda grob **1790–1830**. Bücher:
 | Torre Heiraten 1812–1859 (lokal) | `PANS08/002/0003` | `6230184fe7b24cf380e3231f32271ea9` |
 
 Inventar aller frühen Bände: [1700-1800](../1700-1800.md). Nicht im
-Nebel von 1609 namenweise suchen. Faden: Joaquim 1853 → Nicolau →
-Belchior × Agueda.
+Nebel von 1609 namenweise suchen. Faden: Joaquim 1853 → Melchior
+* 1775 → Antonio Rodrigues Feio × Maria Mendes (Carvalhinho).
 
 Pate 1853 **Joaquim Roiz Gato** nicht an die Narciza-Karte hängen,
 nur weil Gato im selben Akt steht.

@@ -55,7 +55,7 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
 | Taufe Nicolau Feio | offen | **1810–1842** und Ende 1767–1809; 1822–28 ohne Nicolau | `PANS08/001/0003` / `0002` |
 | Heirat Melchior × Rozaria | offen | **gefunden als Paar 1824**; Trauung **1795–1812** Torre `002/0002` | [melchior-feio-1824](linie-guiomar/melchior-feio-1824.md) |
-| Taufe Melchior Feio | offen | **1770–1790** Valle de Todos | `PANS08/001/0002` |
+| Taufe Melchior Feio | offen | **gefunden: * 15.05.1775 / Taufe 20.05.1775** Val de Todos; Eltern Manoel João Neto × Antonia Maria Caetana | `PANS08/001/0002` m0070 |
 | Taufe Maria Helena (Contente) | Blatt * ca. 1852 | **1850–1854** Lagarteira, Valle do Pião; Eltern Jozé Contente × Helena Maria | `PANS05/001/0003`; 1852-Stichprobe ohne Treffer |
 
 Zivil ab April 1911: Conservatória Ansião (Kreis) und Conservatória
@@ -98,6 +98,11 @@ Nebenfund: 1897 N.º 8 (16.11.) Antonio Justino × Maria, Rua d'Além,
 Sohn **Luiz** × **Delfina Maria** — **Kandidat** Bruder João Guiomar;
 Nachname des Vaters in diesem Akt noch nicht fest als Guiomar.
 
+**Melchior * 15.05.1775**, Taufe 20.05.1775, Val de Todos. Eltern
+Manoel João Neto × **Antonia Maria Caetana** (1824 avó nicht
+Victoria: A/V). Feio über die Mutter aus Carvalhinho.
+[melchior-1775](linie-guiomar/melchior-1775.md).
+
 ## Nächster Scan, der da sein muss
 
 1. Geschwister Palmyra/Palmira: Torre Batismos **1898–1911**; Sterbeakt
@@ -114,5 +119,8 @@ Nachname des Vaters in diesem Akt noch nicht fest als Guiomar.
    × Joaquina Maria.
 5. Taufe Delfina Maria **1835–1860** Torre; Kinder Luiz × Delfina
    **1881+** (1876–1880 leer).
+6. Heirat **Melchior × Rozaria**, Torre `PANS08/002/0002` **1795–1812**.
+   Taufe Melchior ist **gefunden** (* 15.05.1775). Onkel Belchior Feio
+   ~1740–1755 in `001/0001`.
 
 Leerjahr: nächstes Jahr **und** nächste Kirche, nicht abbrechen.

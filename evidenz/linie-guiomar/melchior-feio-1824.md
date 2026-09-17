@@ -20,8 +20,9 @@ ist: **Kandidat**, bis seine Taufe liegt.
 - Mutter: **Rozaria Maria**, natürlich **lugar dos Loureiros**,
   Pfarrei **Avelar**; das Paar wohnhaft **Carvalhinho** dieser Pfarrei
 - väterliche Großeltern: **Manoel João Neto**, natürlich Valle de
-  Todos, × **Victoria Maria**, natürlich Carvalhinho; wohnhaft Valle
-  de Todos
+  Todos, × **Antonia Maria**, natürlich Carvalhinho; wohnhaft Valle
+  de Todos. Frühere Lesung *Victoria Maria* war A/V; der Akt schreibt
+  **Antonia Maria**. Geburt des Vaters: [melchior-1775](melchior-1775.md)
 - mütterliche Großeltern: **Manoel da Silva**, natürlich **Pião**,
   Pfarrei Lagarteira, × **Joanna Maria**, natürlich Loureiros
 - Paten: Manoel Duarte und seine Schwester Maria, Casal de São João
@@ -80,15 +81,15 @@ Diese avós der Theresa sind die nächste sichere Schicht:
 
 | Paar | Orte | Gewissheit |
 | --- | --- | --- |
-| **Manoel João Neto** × **Victoria Maria** | Valle de Todos / Carvalhinho | sicher als avós 1824 |
+| **Manoel João Neto** × **Antonia Maria** (1775: **Caetana**) | Valle de Todos / Carvalhinho | sicher als avós 1824; Taufe Melchior 1775 |
 | **Manoel da Silva** × **Joanna Maria** | Pião (LAR) / Loureiros (Avelar) | sicher als avós 1824 |
 
 Heirat Melchior × Rozaria: vor Antonio (* wohl vor 1810). Nicht im
 Torre-Band 1812–1859 als erstes Fenster. Band **1719–1813**
 (`PANS08/002/0002`), grob **1795–1812**.
 
-Taufe Melchior: Valle de Todos, grob **1770–1790** —
-`PANS08/001/0002` (1767–1809).
+Taufe Melchior: **gefunden** * 15.05.1775 / Taufe 20.05.1775,
+Val de Todos — [melchior-1775](melchior-1775.md).
 
 Taufe Nicolao: weiter 1810–1842 und Ende 1767–1809. 1822–1828 in
 `001/0003` ohne Kind Melchior × Rozaria/Agueda namens Nicolau

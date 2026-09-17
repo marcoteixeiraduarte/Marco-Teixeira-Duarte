@@ -129,9 +129,25 @@ Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).
 - * **19.08.1824**, Taufe 25.08.1824
 - Eltern **Melchior Rodrigues Feio** (Valle de Todos) × **Rozaria Maria**
   (Loureiros, Pfarrei Avelar), wohnhaft Carvalhinho
-- avós paternos **Manoel João Neto** × **Victoria Maria**
+- avós paternos **Manoel João Neto** × **Antonia Maria** (nicht
+  Victoria: A/V-Lesefehler)
 - avós maternos **Manoel da Silva** (Pião / Lagarteira) × **Joanna Maria**
   (Loureiros)
 
 Quelle: `baptismos-1824/PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`.
 Blatt: [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md).
+
+## Melchior, Taufe 20. Mai 1775 (Torre) — Geburt
+
+Blatt-Vorfahr **Melchior / Belchior Rodrigues Feio**. **Passt.**
+
+- Rand **Val de Todos / Melchior**
+- * **15.05.1775**, Taufe **20.05.1775**
+- Eltern **Manoel João Neto** × **Antonia Maria Caetana**, Val de Todos
+- avós paternos **Manoel João Capateiro** × **Maria Mendes**
+- avós maternos **Antonio Rodrigues Feio** × **Maria Mendes**,
+  **Carvalhinho** — daher der Doppelnname Rodrigues Feio
+- Pate: Antonio Rodrigues Feio, tio, Carvalhinho
+
+Quelle: `baptismos-1775/PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg`.
+Blatt: [melchior-1775](../evidenz/linie-guiomar/melchior-1775.md).
