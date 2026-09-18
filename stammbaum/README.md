@@ -17,6 +17,50 @@ Status:
 
 ## Ramo materno
 
+Blatt-Ansicht (fünf Spalten, 4.º avós → pais). Luiz × Delfina stehen
+als 4.º avós — **haben wir**, nicht noch einmal suchen. Avós und pais
+liegen beim Auftraggeber, nicht in dieser Prüfung.
+
+```
+4.º avós                    3.º avós                 bisavós
+Custódio Teixeira           João Teixeira            Manuel Teixeira
+Joana de Jesus              Maria José dos Santos    Maria Emília Guiomar
+Pais de Maria José por confirmar
+Luiz Dias Guiomar           João Dias Guiomar
+Delfina Maria               Maria Helena Guiomar
+Joaquim Rodrigues Feio
+Maria Helena Contente
+Pais de José Maria por confirmar
+Anna da Piedade             José Maria d'Ascensão    José Mendes d'Ascensão
+José Pedro dos Reis         Maria da Piedade dos Reis
+Narcisa Rodrigues Gato
+Pai Incógnito               Manuel Matta             Palmira Reis
+Anna de Jesus Matta         Joaquina Ramalha dos Reis
+Manuel Dias Ramalho
+Angelica Maria Leal
+```
+
+Was die Akte an denselben Kästchen setzt (Blattform daneben, nicht
+glätten):
+
+| Blatt-Kästchen | Akte | Gewissheit |
+| --- | --- | --- |
+| Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João 1874. Quellenform `Luiz Guiomar`. `Dias` 1874 beim avô Antonio | sicher |
+| Pais de Maria José por confirmar | **Francisco José dos Santos** × **Maria Thereza** (Zivil 1913) | sicher als Eltern; Taufe/Heirat offen |
+| Pais de José Maria por confirmar | Vater **Joze Mendes Ferreira** (Taufe 1880); avós paternos **João Mendes Ferreira** × **Maria Ramos** | sicher im Taufakt; Blatt-Platzhalter ersetzen |
+| Anna da Piedade * 15.06.1845 | Taufname **Anna**, Valle de todos; `da Piedade` erst 1880 | Datum **passt**; † 1922 nicht in jener Taufe |
+| José Maria * 25.04.1880 · Pragosa | * **Valle de Todos**, nicht Pragoza | sicher |
+| João Teixeira * Cumeeira | Weiler **Cabeça Redonda**; Pfarrei Cumeeira | sicher |
+| João Dias Guiomar * 1874 · Vale de Todos | * **22.04.1874 · Rua d'Além** | sicher |
+| Maria Helena Guiomar * Pião | Taufname **Maria**, Valle do Pião / Lagarteira; Mutter ohne `Contente` | sicher |
+| Narcisa Rodrigues Gato | **Narciza** / Narcisa da Conceição; Gato = Vater | sicher |
+| Manuel Dias Ramalho × Angelica Maria Leal | **nicht** Eltern Joaquinas. Kirche 1896: **José dos Reis** × **Maria Ramalha**. 1871 dieselben Vornamen = avós maternos Sebastião | sicher |
+| Pai Incógnito × Anna de Jesus Matta | **passen** (Manuel * 26.07.1872, filho natural) | sicher |
+
+Nächste Schicht **über** Luiz × Delfina (nicht auf diesem Blatt):
+**Antonio Dias Guiomar × Joaquina Maria**, avós paternos 1874.
+[antonio-dias-guiomar-joaquina](../evidenz/linie-torre/antonio-dias-guiomar-joaquina.md).
+
 ### bisavós (Geburten 1912–1915)
 
 Ab April 1911 gilt der zivile Registerzwang. Diese vier Karten liegen
@@ -328,3 +372,8 @@ Identität.
 13. Anna: Taufname **Anna**, `* 15.06.1845 · Valle de todos`;
     `da Piedade` erst 1880.
 14. Manuel Matta: `* 26.07.1872 · São Jorge`; `Matta` bei der Mutter.
+15. `Pais de Maria José por confirmar` → **Francisco José dos Santos**
+    × **Maria Thereza**.
+16. Blatt-Eltern Joaquinas **Manuel Dias Ramalho × Angelica Maria Leal**
+    → Kirche **José dos Reis × Maria Ramalha**; Ramalho × Leal eine
+    Generation höher (avós 1871).
