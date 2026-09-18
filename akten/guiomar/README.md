@@ -1,9 +1,47 @@
-# João / Maria (Guiomar) – geprüfte Kirchenbuchfunde
+# Guiomar / Feio / Contente
 
-Ordner `akten/guiomar/` · Guiomar / Feio / Contente. Durchblättern: `archiv/guiomar/`.
+Ordner `akten/guiomar/` · **eine Person = ein Ordner** mit Scan.
+Durchblättern unter sprechendem Namen: `archiv/guiomar/`.
+Gegenlese jeder Akte: **offen**.
 
-Schreibweisen folgen dem jeweiligen Eintrag und werden nicht
-modernisiert.
+Luiz × Delfina **haben wir**. Pass-António 1901 = Bruder, nicht avô.
+
+Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
+nicht in dieser Prüfung.
+
+| Person | Rolle | Scan | Gegenlese |
+| --- | --- | --- | --- |
+| [João (Dias) Guiomar](joao-guiomar-1874/README.md) | 3.º avô, ramo materno | eigene Akte | offen |
+| [Luiz Guiomar](luiz-guiomar/README.md) | 4.º avô; natürlich Bemposta / Alvorge | genannt im Akt | offen |
+| [Delfina Maria](delfina-maria/README.md) | 4.º avó | genannt im Akt | offen |
+| [Antonio Dias Guiomar](antonio-dias-guiomar/README.md) | 5.º avô; avô paterno João 1874 | genannt im Akt | offen |
+| [Joaquina Maria (avó Guiomar 1874)](joaquina-maria-guiomar/README.md) | 5.º avó; Frau Antonio Dias Guiomar | genannt im Akt | offen |
+| [José Gregorio](jose-gregorio/README.md) | 5.º avô; avô materno João 1874 | genannt im Akt | offen |
+| [Nazareth Maria](nazareth-maria/README.md) | 5.º avó; avó materna João 1874 | genannt im Akt | offen |
+| [Maria (Pião / Helena Guiomar)](maria-piao/README.md) | 3.º avó, ramo materno | eigene Akte | offen |
+| [Joaquim Rodrigues Feio](joaquim-feio/README.md) | 4.º avô; sapateiro, Estrada da Pragoza → Pião | eigene Akte | offen |
+| [Maria Helena (Contente)](maria-helena-contente/README.md) | 4.º avó; Valle do Pião | genannt im Akt | offen |
+| [Nicolao Rodrigues Feio](nicolao-rodrigues-feio/README.md) | 5.º avô; Pragoza 1853 | genannt im Akt | offen |
+| [Maria de Jesus (Pragoza, Feio)](maria-de-jesus-pragoza/README.md) | 5.º avó; Frau Nicolao Feio | genannt im Akt | offen |
+| [Melchior / Belchior Rodrigues Feio](melchior-feio-1775/README.md) | avô des Joaquim Feio; * 15.05.1775 Val de Todos | eigene Akte | offen |
+| [Theresa (Carvalhinho, 1824)](theresa-carvalhinho/README.md) | Tochter Melchior × Rozaria; Schwester des Nicolao (wahrscheinlich) | eigene Akte | offen |
+| [Rozaria Maria](rozaria-maria/README.md) | Frau Melchior Feio; natürlich Loureiros / Avelar | genannt im Akt | offen |
+| [Agueda Maria](agueda-maria/README.md) | avó paterna Joaquim 1853 (neben Belchior Roiz Feio) | genannt im Akt | offen |
+| [Manoel João Neto](manoel-joao-neto/README.md) | Vater Melchior 1775; Val de Todos | genannt im Akt | offen |
+| [Antonia Maria Caetana](antonia-maria-caetana/README.md) | Mutter Melchior 1775 | genannt im Akt | offen |
+| [Antonio Rodrigues Feio](antonio-rodrigues-feio/README.md) | avô materno Melchior; Carvalhinho; Pate/tio 1775 | genannt im Akt | offen |
+| [Maria Mendes (Carvalhinho, Feio)](maria-mendes-carvalhinho/README.md) | avó materna Melchior; Frau Antonio Rodrigues Feio | genannt im Akt | offen |
+| [Manoel João Capateiro](manoel-joao-capateiro/README.md) | avô paterno Melchior 1775 | genannt im Akt | offen |
+| [Maria Mendes (Capateiro / Neto)](maria-mendes-neto/README.md) | avó paterna Melchior 1775; Frau Manoel João Capateiro | genannt im Akt | offen |
+| [Jozé Contente](joze-contente/README.md) | 5.º avô; Pião / Lagarteira | genannt im Akt | offen |
+| [Helena Maria](helena-maria/README.md) | 5.º avó; Frau Jozé Contente | genannt im Akt | offen |
+| [Manoel Lourenço Lobo](manoel-lourenco-lobo/README.md) | avô materno Joaquim Feio 1853; Castello | genannt im Akt | offen |
+| [Josefa Maria (Castello)](josefa-maria-castello/README.md) | avó materna Joaquim Feio 1853 | genannt im Akt | offen |
+| [Maria Emília Guiomar](maria-emilia-guiomar/README.md) | bisavó, ramo materno | Zivil Conservatória | offen |
+
+---
+
+## Bisheriges Transkript (Linienblatt)
 
 ## João, Taufe 10. Mai 1874 (Torre)
 
@@ -126,7 +164,7 @@ Blatt `Joaquim Rodrigues Feio · * 3. Apr. 1853`. **Passt.**
 - Randvermerk **25. April 1940** Torre: Tod **wahrscheinlich**
 
 Quelle: `PT/ADLRA/PRQ/PANS08/001/0004`,
-`baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`;
+`joaquim-feio/1853-baptismo-PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`;
 [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7).
 Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).
 
@@ -141,7 +179,7 @@ Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).
 - avós maternos **Manoel da Silva** (Pião / Lagarteira) × **Joanna Maria**
   (Loureiros)
 
-Quelle: `baptismos-1824/PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`.
+Quelle: `theresa-carvalhinho/1824-baptismo-PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`.
 Blatt: [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md).
 
 ## Melchior, Taufe 20. Mai 1775 (Torre) — Geburt
@@ -156,5 +194,5 @@ Blatt-Vorfahr **Melchior / Belchior Rodrigues Feio**. **Passt.**
   **Carvalhinho** — daher der Doppelnname Rodrigues Feio
 - Pate: Antonio Rodrigues Feio, tio, Carvalhinho
 
-Quelle: `baptismos-1775/PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg`.
+Quelle: `melchior-feio-1775/1775-baptismo-PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg`.
 Blatt: [melchior-1775](../evidenz/linie-guiomar/melchior-1775.md).

@@ -1,24 +1,31 @@
-# João Teixeira (Forte) – geprüfte Kirchenbuchfunde
+# Teixeira (Forte) — Cumeeira 1879, nicht Duarte
 
-Ordner `akten/teixeira/` · Signatur-Scans. Durchblättern: `archiv/teixeira/`.
+Ordner `akten/teixeira/` · **eine Person = ein Ordner** mit Scan.
+Durchblättern unter sprechendem Namen: `archiv/teixeira/`.
+Gegenlese jeder Akte: **offen**.
 
-Wir sprechen hier von **João Teixeira (Forte)** — Unterscheidung
-nach der väterlichen Großmutter **Maria Forte**. Der Taufakt N.º 42
-nennt nur **João**; `Forte` steht dort bei der Großmutter, nicht als
-Nachname des Kindes.
+Nicht mit Duarte-Carrasqueiras mischen. Paten 1879 Chão de Couce bleiben Paten.
 
-**Die Teixeira waren umtriebig:** Custodio aus Figueiras Podres,
-wohnhaft Cabeça Redonda; João 1879 Cumeeira, 1913 Ribeira de Cima
-(Ansião); Pate Joaquim Teixeira 1913 Figueiras Podres / Torre. Deshalb
-Heirat und Taufe Maria José im ganzen Ring suchen. **Nicht** wie
-Mendes/Barbeiro in Pragoza: Torre nennt die kleinen Weiler **sogar
-bei Heiraten**; die anderen Kirchen tun das selten bis gar nicht.
+Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
+nicht in dieser Prüfung.
 
-Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
-Coimbra. Schreibweisen folgen dem Eintrag.
+| Person | Rolle | Scan | Gegenlese |
+| --- | --- | --- | --- |
+| [João Teixeira (Forte)](joao-teixeira-forte/README.md) | 3.º avô, ramo materno | eigene Akte | offen |
+| [Custodio Teixeira](custodio-teixeira/README.md) | 4.º avô; Vater João 1879 | genannt im Akt | offen |
+| [Joana de Jesus](joana-de-jesus/README.md) | 4.º avó; Mutter João 1879 | genannt im Akt | offen |
+| [Jozé Simão Teixeira](joze-simao-teixeira/README.md) | 5.º avô; Figueiras Podres | genannt im Akt | offen |
+| [Maria Forte](maria-forte/README.md) | 5.º avó; Namensgeberin João Teixeira (Forte) | genannt im Akt | offen |
+| [Joaquim Carvalho](joaquim-carvalho/README.md) | 5.º avô; Cabeça Redonda | genannt im Akt | offen |
+| [Maria de Jesus (Cabeça Redonda)](maria-de-jesus-cabeca-redonda/README.md) | 5.º avó; Frau Joaquim Carvalho | genannt im Akt | offen |
+| [Maria José dos Santos](maria-jose-dos-santos/README.md) | 3.º avó; Frau João Teixeira (Forte) | Zivil Conservatória | offen |
+| [Francisco José dos Santos](francisco-jose-dos-santos/README.md) | 4.º avô; Vater Maria José (Akte 1913) | Zivil Conservatória | offen |
+| [Maria Thereza](maria-thereza/README.md) | 4.º avó; Mutter Maria José | Zivil Conservatória | offen |
+| [Manuel Teixeira (* 1913)](manuel-teixeira-1913/README.md) | bisavô, ramo materno | Zivil Conservatória | offen |
 
-Prüfblatt mit Transkript:
-[`evidenz/linie-teixeira/1879-joao.md`](../evidenz/linie-teixeira/1879-joao.md).
+---
+
+## Bisheriges Transkript (Linienblatt)
 
 ## Taufe, Eintrag Nr. 42
 

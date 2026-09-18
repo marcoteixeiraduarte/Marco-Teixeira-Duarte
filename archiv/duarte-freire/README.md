@@ -5,4 +5,5 @@ Heirat 1907.
 
 Nicht mit João Teixeira (Forte) mischen.
 
-Akte: [`akten/duarte-freire/`](../../akten/duarte-freire/README.md).
+Personenakten: [`akten/duarte-freire/`](../../akten/duarte-freire/README.md)
+(Manuel Duarte, Joaquina Ignácia, Margarida — je ein Ordner).

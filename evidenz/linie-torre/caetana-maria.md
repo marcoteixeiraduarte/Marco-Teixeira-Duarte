@@ -17,7 +17,7 @@ Taufname und Sterbename sind **Caetana**, nicht Catarina.
 ## Quelle Taufe
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/001/0003`
-- Scan: `akten/narcisa/baptismos-1810-1842/PT-ADLRA-PRQ-PANS08-001-0003_m0020.jpg`
+- Scan: `akten/narcisa/caetana-maria/1815-baptismo-PT-ADLRA-PRQ-PANS08-001-0003_m0020.jpg`
 - rechte Seite, fol. 19
 - [DigitArq](https://digitarq.arquivos.pt/documentDetails/6aa3bacfa07046a4b8d3fd47d1198480)
 
@@ -39,7 +39,7 @@ Er ist der Vater der **Maria Joaquina**.
 
 ## Quelle Heirat
 
-- Scan: `akten/narcisa/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0053.jpg`
+- Scan: `akten/narcisa/caetana-maria/1837-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0053.jpg`
 - linke Seite
 
 ### Transkript
@@ -54,8 +54,8 @@ Diese Heirat nennt ihn José. Die Abweichung bleibt stehen.
 
 ## Quelle Tod
 
-- `akten/narcisa/obitos-1878-1911/1891/PT_ADLRA_PRQ_PANS08_003_0035_m0002.jpg`
-- `akten/narcisa/obitos-1878-1911/1891/PT_ADLRA_PRQ_PANS08_003_0035_m0003.jpg`
+- `akten/narcisa/caetana-maria/1891-obito-PT_ADLRA_PRQ_PANS08_003_0035_m0002.jpg`
+- `akten/narcisa/caetana-maria/1891-obito-PT_ADLRA_PRQ_PANS08_003_0035_m0003.jpg`
 - Akt Nr. 2
 
 ### Transkript

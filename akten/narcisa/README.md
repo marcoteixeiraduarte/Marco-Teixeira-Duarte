@@ -1,16 +1,31 @@
-# Narciza/Caetana – geprüfte Kirchenbuchfunde
+# Narciza / Reis / Gato
 
-Ordner `akten/narcisa/` · Narciza / Reis / Gato. Durchblättern: `archiv/narcisa/`.
+Ordner `akten/narcisa/` · **eine Person = ein Ordner** mit Scan.
+Durchblättern unter sprechendem Namen: `archiv/narcisa/`.
+Gegenlese jeder Akte: **offen**.
 
-Prüfbare Einzelblätter mit Scanpfad und Transkript:
-[`evidenz/linie-torre/`](../evidenz/linie-torre/narciza.md).
-Diese Spur bleibt von der Duarte-Linie getrennt; siehe
-[`ERKENNTNISSE.md`](../ERKENNTNISSE.md).
+Avelar 1774 abgrenzen, nicht Sol. Zwei Reis-Häuser nicht mischen.
 
-Originalscans aus Nossa Senhora da Graça, Torre de Vale de Todos,
-Kreis Ansião, Distrikt Leiria. Personen- und Ortsnamen stehen in der
-Schreibweise der jeweils maßgeblichen Primärquelle. Historische Formen
-werden nicht modernisiert oder über Einträge hinweg normalisiert.
+Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
+nicht in dieser Prüfung.
+
+| Person | Rolle | Scan | Gegenlese |
+| --- | --- | --- | --- |
+| [Narciza / Narcisa da Conceição](narciza/README.md) | 4.º avó; Torre / später Pragoza | eigene Akte | offen |
+| [José Pedro dos Reis](jose-pedro-dos-reis/README.md) | 4.º avô; Kaufmann, Pragoza | eigene Akte | offen |
+| [Maria da Piedade](maria-da-piedade/README.md) | 3.º avó, ramo materno | eigene Akte | offen |
+| [Caetana Maria](caetana-maria/README.md) | 5.º avó; Mutter Narciza | eigene Akte | offen |
+| [João Rodrigues Gato](joao-rodrigues-gato/README.md) | 5.º avô; São Jorge (Kapelle Vale de Todos) | eigene Akte | offen |
+| [Manoel Joaquim Sol](manoel-joaquim-sol/README.md) | Vater Caetana; 1837 bereits verstorben | genannt im Akt | offen |
+| [Maria Joaquina (Sol)](maria-joaquina-sol/README.md) | Mutter Caetana | genannt im Akt | offen |
+| [José (Kind, † 1896)](jose-filho-1896/README.md) | Sohn José Pedro × Narciza; drei Monate alt | eigene Akte | offen |
+| [Manoel Pedro dos Reis](manoel-pedro-dos-reis/README.md) | 5.º avô; Vater José Pedro; Pragosa | eigene Akte | offen |
+| [Roza Maria](roza-maria/README.md) | 5.º avó; Alvorge (Vale Paio / Vallejazede / Aljazede) | eigene Akte | offen |
+| [Avelar 1774 — abgrenzen, nicht Sol](_abgrenzen-avelar/README.md) | Kandidatenblatt; nicht still = Caetanas Großeltern | abgrenzen | offen |
+
+---
+
+## Bisheriges Transkript (Linienblatt)
 
 ## Gesicherte Stammbaumdaten
 
@@ -165,7 +180,7 @@ genau dieses Paares.
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS03/002/0003`,
-  `akten/narcisa/casamento-avos-avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg`
+  `akten/narcisa/_abgrenzen-avelar/1774-casamento-PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg`
   bzw. `evidenz/scans/avelar/…_m0013.jpg`, rechte Seite, oberer Eintrag;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/0d2b8ecec0884bd88ed2070aa6b46241)
 

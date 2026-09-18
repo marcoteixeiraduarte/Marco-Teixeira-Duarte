@@ -48,7 +48,7 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Heirat João Teixeira (Forte) × Maria José | 1900–1912 | **1895–1913** Kirche; ab Apr 1911 Zivil **Ansião und Penela** | PANS02 Casamentos 1895–1911; PNL01 Casamentos; Conservatória |
 | Taufe Maria José | ~1884 | **1876–1894** (Alter 29 im Sept 1913 kann unter-/überrunden) | PANS02 Batismos 1878–1889 lokal; dann 1876–77 und 1890–94; Ring 1 |
 | Heirat Manuel × Joaquina | 26.08.1897 (Zivil 1912) | **gefunden: 21.08.1896** Torre N.º 2, Band **1896** (`PANS08/002/0038`). Band 1897 ganz leer für dieses Paar | siehe unten |
-| Luiz Guiomar × Delfina Maria | — | **haben wir:** Taufe João 1874; Pass-António 1901. Nicht noch einmal suchen | [akten/guiomar](../akten/guiomar/README.md) · [passe-1901](linie-torre/passe-antonio-guiomar-1901.md) |
+| Luiz Guiomar × Delfina Maria | — | **haben wir:** Taufe João 1874; Pass-António 1901. Nicht noch einmal suchen | [Luiz](../akten/guiomar/luiz-guiomar/README.md) · [passe-1901](linie-torre/passe-antonio-guiomar-1901.md) |
 | Avô **Antonio Dias Guiomar × Joaquina Maria** | nur avós-Zeile 1874 | eigene Akte, zuerst Alvorge / Bemposta (Luiz natürlich dort) | [antonio-dias-guiomar-joaquina](linie-torre/antonio-dias-guiomar-joaquina.md) |
 | Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001`; Nachzügler `001/0002` ab **19.06.1767** (Anfang ohne Carvalhinho bis Dez. 1770) | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
 | Taufe **Antonio Rodrigues Feio** (avô) | Carvalhinho | **1700–1735** in `001/0001` `m0150–m0235` (1710–1738 datiert) | dasselbe |

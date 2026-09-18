@@ -6,4 +6,5 @@ Theresa 1824, Melchior 1775).
 Rohbande liegen in [`suche/`](../../suche/README.md)
 (`torre-taufen-rohbande/`, `alvorge-taufen-1822-1852/`) — nicht hier.
 
-Luiz × Delfina haben wir. Akte: [`akten/guiomar/`](../../akten/guiomar/README.md).
+Luiz × Delfina haben wir. Personenakten: [`akten/guiomar/`](../../akten/guiomar/README.md)
+(João 1874, Maria Pião, Joaquim Feio, Melchior, Theresa — je ein Ordner).

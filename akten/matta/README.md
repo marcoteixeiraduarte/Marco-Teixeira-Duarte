@@ -1,8 +1,32 @@
-# Manuel (Matta) – geprüfte Kirchenbuchfunde
+# Matta / Ramalha
 
-Ordner `akten/matta/` · Matta / Ramalha. Durchblättern: `archiv/matta/`.
+Ordner `akten/matta/` · **eine Person = ein Ordner** mit Scan.
+Durchblättern unter sprechendem Namen: `archiv/matta/`.
+Gegenlese jeder Akte: **offen**.
 
-Schreibweisen folgen dem Eintrag.
+Palmyra 1897 ≠ Palmira 1912. José dos Reis (Ramalha) ≠ José Pedro dos Reis.
+
+Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
+nicht in dieser Prüfung.
+
+| Person | Rolle | Scan | Gegenlese |
+| --- | --- | --- | --- |
+| [Manuel Matta](manuel-matta/README.md) | 3.º avô, ramo materno | eigene Akte | offen |
+| [Joaquina Ramalha / Reis](joaquina-ramalha/README.md) | 3.º avó; Pragoza | eigene Akte | offen |
+| [Palmyra (* 1897, erste Tochter)](palmyra-1897/README.md) | primeira filha Manuel × Joaquina Ramalha — nicht die Blatt-Palmira 1912 | eigene Akte | offen |
+| [Palmira Reis (* 1912)](palmira-reis-1912/README.md) | bisavó, ramo materno | Zivil Conservatória | offen |
+| [Sebastião (* 1871)](sebastiao-1871/README.md) | primeiro filho José dos Reis × Maria Ramalha; Bruder Joaquinas | eigene Akte | offen |
+| [Anna de Jesus Matta](anna-de-jesus-matta/README.md) | 4.º avó; São Jorge; Mutter Manuel (pai incógnito) | genannt im Akt | offen |
+| [José dos Reis (Pragoza, Ramalha-Haus)](jose-dos-reis-pragoza/README.md) | 4.º avô Joaquinas; nicht José Pedro dos Reis (Kaufmann, anderes Haus) | genannt im Akt | offen |
+| [Maria Ramalha](maria-ramalha/README.md) | 4.º avó Joaquinas | genannt im Akt | offen |
+| [Antonio Rodrigues Avelheiro](antonio-rodrigues-avelheiro/README.md) | 5.º avô; avô Manuel Matta 1872 | genannt im Akt | offen |
+| [Thereza de Jesus](thereza-de-jesus-matta/README.md) | 5.º avó; avó Manuel Matta 1872 | genannt im Akt | offen |
+| [Manuel Ramalho](manuel-ramalho/README.md) | avô materno Sebastião 1871; Blatt setzt ihn als 4.º Joaquinas — eine Generation zu hoch | genannt im Akt | offen |
+| [Angelica Maria](angelica-maria/README.md) | avó materna Sebastião 1871; Patin 1871 | genannt im Akt | offen |
+
+---
+
+## Bisheriges Transkript (Linienblatt)
 
 ## Taufe, 1. August 1872
 
@@ -64,7 +88,7 @@ nicht darin. Blatt: [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-le
 
 Quelle:
 
-- `akten/matta/casamento-1896/PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg`;
+- `akten/matta/manuel-matta/1896-casamento-PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg`;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/70ca5cac730e44caade08834c666a216)
 
 ## Palmyra, Taufe 23. Juni 1897 (Torre) — erste Tochter
@@ -78,7 +102,7 @@ Quelle:
 
 Quelle:
 
-- `akten/matta/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg`
+- `akten/matta/palmyra-1897/1897-baptismo-PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg`
   (rechte Buchseite);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015)
 
@@ -96,6 +120,6 @@ Blatt: [zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-prag
 
 Quelle:
 
-- `akten/matta/baptismos-1871/PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg`
+- `akten/matta/sebastiao-1871/1871-baptismo-PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg`
   (rechte Buchseite);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/1728f8a2d54c411fa0065d1eb8c9fa6a)

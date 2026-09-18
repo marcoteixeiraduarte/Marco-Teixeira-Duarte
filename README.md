@@ -4,15 +4,15 @@
 [`ERKENNTNISSE.md`](ERKENNTNISSE.md).
 
 **Name → Ordner → Scan** zum Durchforsten:
-[`archiv/NAMEN.md`](archiv/NAMEN.md). Zuerst `archiv/`, dieselben
-Pixel in [`akten/`](akten/README.md).
+[`archiv/NAMEN.md`](archiv/NAMEN.md). Personenakten zum späteren
+Gegenlesen: [`akten/`](akten/README.md).
 
 ## Ordner
 
 | Ordner | Was darin liegt |
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechendem Namen. Zum Durchblättern. |
-| [`akten/`](akten/README.md) | Dieselben Pixel, Dateiname = Archivsignatur. Transkript daneben. |
+| [`akten/`](akten/README.md) | **Eine Person = ein Ordner** mit Scan und Gegenlese. |
 | [`evidenz/`](evidenz/README.md) | Personenblätter, Gewissheit, versionierte Crops |
 | [`stammbaum/`](stammbaum/README.md) | Blatt 09.09.2026 gegen die Akte |
 | [`suche/`](suche/README.md) | Rohbande und offene Suchen — **nicht** im Git |
@@ -336,6 +336,8 @@ späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
 öffentlich 1500 oder 2048 px Höhe.
 
 ## Geprüfte Personenakten
+
+Jede Person hat einen Ordner in [`akten/`](akten/README.md) (Gegenlese offen):
 
 - [Narciza / Caetana / Maria da Piedade](akten/narcisa/README.md)
 - [Duarte / Freire Bicho](akten/duarte-freire/README.md)

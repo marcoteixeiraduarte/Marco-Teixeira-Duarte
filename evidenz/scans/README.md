@@ -1,7 +1,8 @@
 # Versionierte Crops
 
-Nur Ausschnitte, die ein Blatt zitiert. Volle Doppelseiten stehen in
-[`archiv/`](../../archiv/README.md) und [`akten/`](../../akten/README.md).
+Nur Ausschnitte, die ein Blatt zitiert. Volle Doppelseiten stehen in den **Personenakten**
+[`akten/<linie>/<person>/`](../../akten/README.md) und unter
+sprechendem Namen in [`archiv/`](../../archiv/README.md).
 
 | Ordner | Pfarrei |
 | --- | --- |

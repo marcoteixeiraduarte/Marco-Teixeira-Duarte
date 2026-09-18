@@ -33,7 +33,7 @@ ist: **Kandidat**, bis seine Taufe liegt.
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0003`, `m0061`, linke Seite, Eintrag 16
-- `akten/guiomar/baptismos-1824/PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`
+- `akten/guiomar/theresa-carvalhinho/1824-baptismo-PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`
 - Crop: `evidenz/scans/torre/1824-baptismo-theresa-carvalhinho-left.jpg`
 - DigitArq: [6aa3bacfa07046a4b8d3fd47d1198480](https://digitarq.arquivos.pt/documentDetails/6aa3bacfa07046a4b8d3fd47d1198480)
 

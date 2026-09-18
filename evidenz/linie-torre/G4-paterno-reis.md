@@ -38,7 +38,7 @@ Seite, nicht Herkunft. Blatt: [alvorge-ateanha](alvorge-ateanha.md).
 ## Quelle 1 — eigene Heirat (Nachtrag)
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/002/0003`
-- Volle Doppelseite: `akten/narcisa/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
+- Volle Doppelseite: `akten/narcisa/manoel-pedro-dos-reis/1851-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
 - Versioniert: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
 - Nachtrag allein: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0080_reis-nachtrag.jpg`
 - Rechte Seite, unterer Eintrag. Die Seite selbst trägt Einträge von 1858/1859
@@ -79,7 +79,7 @@ Scan. Nicht mit einem anderen Joaquim vertauschen.
 
 ## Quelle 2 — Heirat des Sohnes, 8. Mai 1878
 
-- Scan: `akten/narcisa/casamento/1878/PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
+- Scan: `akten/narcisa/narciza/1878-casamento-PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
 - Akt Nr. 9, rechte Seite
 
 ### Transkript (Eltern des Bräutigams)
@@ -138,7 +138,7 @@ Das ist übliche Aufrundung, kein zweiter José.
 
 ## Quelle 4 — Tod des Sohnes, 2. Oktober 1903
 
-- Scan: `akten/narcisa/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
+- Scan: `akten/narcisa/jose-pedro-dos-reis/1903-obito-PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
 - Akt Nr. 10
 
 ### Transkript (Eltern)

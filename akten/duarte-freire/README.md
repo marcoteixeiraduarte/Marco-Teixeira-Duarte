@@ -1,13 +1,38 @@
-# Duarte/Freire Bicho – geprüfte Kirchenbuchfunde
+# Duarte / Freire Bicho — ramo paterno
 
-Ordner `akten/duarte-freire/` · Ramo paterno. Durchblättern: `archiv/duarte-freire/`.
+Ordner `akten/duarte-freire/` · **eine Person = ein Ordner** mit Scan.
+Durchblättern unter sprechendem Namen: `archiv/duarte-freire/`.
+Gegenlese jeder Akte: **offen**.
 
-Prüfbare Einzelblätter mit Scanpfad und Transkript:
-[`evidenz/linie-duarte/`](../evidenz/linie-duarte/G2-heirat-1907.md).
+Nicht mit João Teixeira (Forte) oder Carrasqueiras der Paten 1879 zusammenwerfen.
 
-Originalscans aus São Sebastião da Cumeeira, Kreis Penela, Distrikt
-Coimbra. Schreibweisen und Ortsnamen werden nach den jeweiligen Einträgen
-wiedergegeben.
+Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
+nicht in dieser Prüfung.
+
+| Person | Rolle | Scan | Gegenlese |
+| --- | --- | --- | --- |
+| [Manuel Duarte](manuel-duarte/README.md) | bisavô, ramo paterno | eigene Akte | offen |
+| [Joaquina Ignácia](joaquina-ignacia/README.md) | bisavó, ramo paterno | eigene Akte | offen |
+| [Margarida](margarida/README.md) | andere Freire-Bicho-Karte (nicht still = Joaquina 1886) | eigene Akte | offen |
+| [António Duarte](antonio-duarte/README.md) | Vater Manuel 1885; Carrasqueiras | genannt im Akt | offen |
+| [Thereza Freire](thereza-freire/README.md) | Mutter Manuel 1885 | genannt im Akt | offen |
+| [António Freire Bicho (Vater Joaquina 1886)](antonio-freire-bicho/README.md) | Vater Joaquina Ignácia; Figueiras Podres | genannt im Akt | offen |
+| [Maria Ignácia](maria-ignacia/README.md) | Mutter Joaquina 1886; Cabeça Redonda | genannt im Akt | offen |
+| [Joaquim Freire Bicho](joaquim-freire-bicho/README.md) | Vater Margarida 1897; Figueiras Podres | genannt im Akt | offen |
+| [Genoveva de Jesus](genoveva-de-jesus/README.md) | Mutter Margarida 1897; Cabeça Redonda | genannt im Akt | offen |
+| [Manoel Duarte (avô 1885)](manoel-duarte-avos/README.md) | avô paterno Manuel 1885 | genannt im Akt | offen |
+| [Joaquina de Jesus (Duarte)](joaquina-de-jesus/README.md) | avó paterna Manuel 1885 | genannt im Akt | offen |
+| [Manoel Silva](manoel-silva/README.md) | avô materno Manuel 1885 | genannt im Akt | offen |
+| [Maria Freire](maria-freire/README.md) | avó materna Manuel 1885 | genannt im Akt | offen |
+| [António Freire Bicho (avô, Figueiras Podres)](antonio-freire-bicho-avos/README.md) | avô paterno Joaquina 1886 | genannt im Akt | offen |
+| [Maria de Christo](maria-de-christo/README.md) | avó paterna Joaquina 1886 | genannt im Akt | offen |
+| [Manuel Francisco Dias](manuel-francisco-dias/README.md) | avô materno Joaquina 1886; Pate 1886 | genannt im Akt | offen |
+| [Joaquina Maria (Cabeça Redonda, 1886 avó)](joaquina-maria-cabeca-redonda/README.md) | avó materna Joaquina 1886 | genannt im Akt | offen |
+| [Joaquina Silvéria](joaquina-silveria/README.md) | Ehefrau/Patin Manuel Francisco Dias 1886 | genannt im Akt | offen |
+
+---
+
+## Bisheriges Transkript (Linienblatt)
 
 ## Manuel Duarte
 

@@ -32,7 +32,7 @@ Elternblatt: [G4-paterno-reis](G4-paterno-reis.md).
 ## Quelle Heirat
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/002/0022`
-- Scan: `akten/narcisa/casamento/1878/PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
+- Scan: `akten/narcisa/narciza/1878-casamento-PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
 - Akt Nr. 9, Rand: Pragosa e Torre / José Pedro dos Reis e Narciza da Conceição
 
 ### Transkript
@@ -60,7 +60,7 @@ ist durch die Taufe 1854 unabhängig davon sicher.
 ## Quelle Tod
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/003/0047`
-- Scan: `akten/narcisa/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
+- Scan: `akten/narcisa/jose-pedro-dos-reis/1903-obito-PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
 - Akt Nr. 10, Rand: Fragosa / Jozé Pedro dos Reis
 
 ### Transkript

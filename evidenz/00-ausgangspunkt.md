@@ -8,7 +8,7 @@ Gesamtüberblick Archiv + Git: [`../ERKENNTNISSE.md`](../ERKENNTNISSE.md).
 |---|---|---|---|
 | Bräutigam | Manuel / Manoel Duarte | sicher | [G2-heirat-1907](linie-duarte/G2-heirat-1907.md) |
 | Braut | Joaquina Ignácia | sicher | dasselbe Blatt |
-| Heirat | 13. November 1907, São Sebastião da Cumeeira | sicher | `akten/duarte-freire/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0015.jpg` |
+| Heirat | 13. November 1907, São Sebastião da Cumeeira | sicher | `akten/duarte-freire/manuel-duarte/1907-casamento-PT-AUC-PAR-PNL01-003-0051_m0015.jpg` |
 | Sein Geburt | 19. November 1885, Carrasqueiras | sicher | [G2-manuel-duarte](linie-duarte/G2-manuel-duarte.md) |
 | Ihr Geburt | 7. Februar 1886, Cabeça Redonda | sicher | [G2-joaquina-ignacia](linie-duarte/G2-joaquina-ignacia.md) |
 

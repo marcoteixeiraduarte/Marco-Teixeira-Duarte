@@ -5,4 +5,5 @@ Sebastião 1871 (zwei Reis-Häuser).
 
 Nicht still an José Pedro × Narciza hängen.
 
-Akte: [`akten/matta/`](../../akten/matta/README.md).
+Personenakten: [`akten/matta/`](../../akten/matta/README.md)
+(Manuel, Joaquina Ramalha, Sebastião, beide Palmiras — je ein Ordner).

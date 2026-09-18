@@ -1,10 +1,32 @@
-# Joze Maria da Ascenção – geprüfte Kirchenbuchfunde
+# Joze Maria da Ascenção / Barbeiro
 
-Ordner `akten/jose-maria/` · Ascenção / Barbeiro. Durchblättern: `archiv/jose-maria/`.
+Ordner `akten/jose-maria/` · **eine Person = ein Ordner** mit Scan.
+Durchblättern unter sprechendem Namen: `archiv/jose-maria/`.
+Gegenlese jeder Akte: **offen**.
 
-Originalscan aus Nossa Senhora da Graça, Torre de Valle de Todos,
-Kreis Ansião, Distrikt Leiria. Schreibweisen folgen dem maßgeblichen
-Eintrag und werden nicht modernisiert.
+Ateanha ≠ Aljazede. Geburt Joze Maria = Valle de Todos, nicht Pragoza.
+
+Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
+nicht in dieser Prüfung.
+
+| Person | Rolle | Scan | Gegenlese |
+| --- | --- | --- | --- |
+| [Joze Maria da Ascenção](joze-maria-da-ascencao/README.md) | 3.º avô, ramo materno | eigene Akte | offen |
+| [Anna (da Piedade)](anna-1845/README.md) | 4.º avó; Valle de todos | eigene Akte | offen |
+| [Joze Mendes Ferreira](joze-mendes-ferreira/README.md) | 4.º avô; natürlich Atanha / Alvorge | genannt im Akt | offen |
+| [João Mendes Ferreira](joao-mendes-ferreira/README.md) | 5.º avô; Ateanha | genannt im Akt | offen |
+| [Maria Ramos](maria-ramos/README.md) | 5.º avó; Frau João Mendes Ferreira | genannt im Akt | offen |
+| [Manoel Dias Barbeiro](manoel-dias-barbeiro/README.md) | 5.º avô; Valle de todos / avós Pragoza | genannt im Akt | offen |
+| [Joaquina Maria Neta](joaquina-maria-neta/README.md) | 5.º avó; Frau Manoel Dias Barbeiro | genannt im Akt | offen |
+| [João Dias Barbeiro](joao-dias-barbeiro/README.md) | avô paterno Anna 1845; Pragoza | genannt im Akt | offen |
+| [Maria Thereza (Barbeiro, Pragoza)](maria-thereza-barbeiro/README.md) | avó paterna Anna 1845 | genannt im Akt | offen |
+| [João Dias da Quelha](joao-dias-da-quelha/README.md) | avô materno Anna 1845; Valle de todos | genannt im Akt | offen |
+| [Maria Joaquina (Quelha)](maria-joaquina-quelha/README.md) | avó materna Anna 1845 | genannt im Akt | offen |
+| [José Mendes d'Ascensão (* 1914)](jose-mendes-ascencao/README.md) | bisavô, ramo materno | Zivil Conservatória | offen |
+
+---
+
+## Bisheriges Transkript (Linienblatt)
 
 ## Taufe, Eintrag Nr. 5
 

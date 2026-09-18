@@ -8,7 +8,9 @@ Eine Schicht darüber, aus derselben Taufe 1874: die **avós
 paternos**. Wie Antonio Feio × Maria Mendes 1775 — genannt, eigene
 Akte noch nicht.
 
-Blatt darunter: [akten/guiomar](../../akten/guiomar/README.md),
+Blatt darunter: [João 1874](../../akten/guiomar/joao-guiomar-1874/README.md),
+[Luiz](../../akten/guiomar/luiz-guiomar/README.md),
+[Antonio Dias](../../akten/guiomar/antonio-dias-guiomar/README.md).
 [passe-1901](passe-antonio-guiomar-1901.md).
 
 ## Luiz × Delfina (haben wir)
