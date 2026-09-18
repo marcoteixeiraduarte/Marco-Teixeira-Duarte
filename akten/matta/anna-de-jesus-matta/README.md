@@ -15,8 +15,25 @@ Kein eigener Akt. `Matta` steht 1872 bei ihr, nicht als Taufname des Sohnes. Gro
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
+
+![Taufe Sohn Manuel 1872 — Fundstellen](1872-taufe-sohn-manuel-PT-ADLRA-PRQ-PANS08-001-0017_m0007-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn Manuel 1872</summary>
 
 ![Taufe Sohn Manuel 1872](1872-taufe-sohn-manuel-PT-ADLRA-PRQ-PANS08-001-0017_m0007.jpg)
 
+</details>
+
+
+![Taufe, Folgeseite — Fundstellen](1872-taufe-sohn-manuel-PT-ADLRA-PRQ-PANS08-001-0017_m0008-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe, Folgeseite</summary>
+
 ![Taufe, Folgeseite](1872-taufe-sohn-manuel-PT-ADLRA-PRQ-PANS08-001-0017_m0008.jpg)
+
+</details>

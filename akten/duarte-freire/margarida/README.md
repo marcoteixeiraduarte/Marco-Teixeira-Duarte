@@ -15,6 +15,16 @@ Eigene Taufe. Heirat 28.10.1922 × José Freire Bicho — seine Geburt offen. Ni
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 
+![Taufe 27.06.1897 — Fundstellen](1897-baptismo-PT-AUC-PAR-PNL01-002-0042_m0019-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe 27.06.1897</summary>
+
 ![Taufe 27.06.1897](1897-baptismo-PT-AUC-PAR-PNL01-002-0042_m0019.jpg)
+
+</details>

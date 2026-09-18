@@ -17,9 +17,20 @@ Ausführlich: [G4-paterno-reis](../../../evidenz/linie-torre/G4-paterno-reis.md)
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 
+![Heirat 23.03.1851 — Fundstellen](1851-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0080-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Heirat 23.03.1851</summary>
+
 ![Heirat 23.03.1851](1851-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg)
+
+</details>
+
 
 Siehe auch:
 

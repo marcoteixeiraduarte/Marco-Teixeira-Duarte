@@ -17,6 +17,16 @@ Ausführlich: [feio-contente](../../../evidenz/linie-guiomar/feio-contente.md).
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 
+![Taufe Tochter Maria 1882 — Fundstellen](1882-taufe-tochter-maria-PT-ADLRA-PRQ-PANS05-001-0027_m0003-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Tochter Maria 1882</summary>
+
 ![Taufe Tochter Maria 1882](1882-taufe-tochter-maria-PT-ADLRA-PRQ-PANS05-001-0027_m0003.jpg)
+
+</details>

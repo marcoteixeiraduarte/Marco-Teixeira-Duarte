@@ -17,11 +17,29 @@ Ausführlich: [melchior-1775](../../../evidenz/linie-guiomar/melchior-1775.md).
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
+
+![Taufe 20.05.1775 — Fundstellen](1775-baptismo-PT-ADLRA-PRQ-PANS08-001-0002_m0070-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe 20.05.1775</summary>
 
 ![Taufe 20.05.1775](1775-baptismo-PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg)
 
+</details>
+
+
+![Taufe Tochter Theresa 1824 — Fundstellen](1824-taufe-tochter-theresa-PT-ADLRA-PRQ-PANS08-001-0003_m0061-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Tochter Theresa 1824</summary>
+
 ![Taufe Tochter Theresa 1824](1824-taufe-tochter-theresa-PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg)
+
+</details>
+
 
 Siehe auch:
 

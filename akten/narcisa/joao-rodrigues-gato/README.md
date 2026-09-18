@@ -17,10 +17,34 @@ Ausführlich: [caetana-maria](../../../evidenz/linie-torre/caetana-maria.md).
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
+
+![Heirat 16.11.1837 — Fundstellen](1837-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0053-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Heirat 16.11.1837</summary>
 
 ![Heirat 16.11.1837](1837-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0053.jpg)
 
+</details>
+
+
+![Taufe Tochter Narciza m0070 — Fundstellen](1856-taufe-tochter-narciza-PT-ADLRA-PRQ-PANS08-001-0004_m0070-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Tochter Narciza m0070</summary>
+
 ![Taufe Tochter Narciza m0070](1856-taufe-tochter-narciza-PT-ADLRA-PRQ-PANS08-001-0004_m0070.jpg)
 
+</details>
+
+
+![Taufe Tochter Narciza page_0070 — Fundstellen](1856-taufe-tochter-narciza-PT-ADLRA-PRQ-PANS08-001-0004_page_0070-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Tochter Narciza page_0070</summary>
+
 ![Taufe Tochter Narciza page_0070](1856-taufe-tochter-narciza-PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg)
+
+</details>

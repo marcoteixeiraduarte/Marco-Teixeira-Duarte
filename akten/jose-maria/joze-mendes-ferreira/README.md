@@ -15,6 +15,16 @@ Kein eigener Akt. Mendes-Haus sitzt in Ateanha. Pate 1880 Manuel Mendes Ferreira
 
 ## Scan
 
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 
+![Taufe Sohn Joze Maria 1880 — Fundstellen](1880-taufe-sohn-joze-maria-PT-ADLRA-PRQ-PANS08-001-0025_m0004-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn Joze Maria 1880</summary>
+
 ![Taufe Sohn Joze Maria 1880](1880-taufe-sohn-joze-maria-PT-ADLRA-PRQ-PANS08-001-0025_m0004.jpg)
+
+</details>

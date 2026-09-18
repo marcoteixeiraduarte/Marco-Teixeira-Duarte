@@ -3,7 +3,12 @@
 Damit ihr **später wirklich nochmals alle durchgehen** könnt:
 jede geprüfte Person (bisavós und ältere) hat einen Ordner.
 Darin liegt der Scan — eigene Taufe/Heirat/Tod, oder der Akt,
-der sie nennt. **Gegenlese: offen**, bis ihr die Handschrift gehalten habt.
+der sie nennt. Auf den Kirchenbuch-JPEGs liegen **durchsichtige
+farbige Flächen** über den Fundstellen (wie bei FamilySearch);
+der unveränderte Scan bleibt darunter zur Gegenlese. Conservatória-
+Fotos und Weiler-Crops sind nicht markiert.
+
+**Gegenlese: offen**, bis ihr die Handschrift gehalten habt.
 
 Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire
 de Jesus) gehören dem Auftraggeber, nicht in diese Prüfung.
