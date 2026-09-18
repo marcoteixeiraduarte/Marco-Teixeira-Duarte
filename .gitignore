@@ -3,6 +3,7 @@ akten/**
 !akten/**/
 !akten/**/*.md
 !akten/**/*.jpg
+!akten/_markierungen/*.py
 
 stammbaum/*
 !stammbaum/README.md
