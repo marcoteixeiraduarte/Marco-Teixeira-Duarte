@@ -134,27 +134,21 @@ Margaridas Tauf-Randvermerk belegt ihre Heirat am **28. Oktober 1922** mit
 einem **José Freire Bicho**, Zivilstandsakt Nr. 94 in Cumeeira. Er enthält
 weder Josés Geburtsdatum noch Angaben zu seinen Eltern.
 
-Bei der bisherigen Durchsicht der Taufjahrgänge **1893, 1894 und 1895** von
-Cumeeira sowie des Jahrgangs **1894** von São Domingos da Lagarteira wurde
-kein José als Sohn von António Freire Bicho und Maria Ignácia gefunden. Da
-für diese Negativsuche noch keine Band-Signaturen, geprüften Bildbereiche,
-Angaben zu möglichen Bestandslücken oder Einzelnachweise im Repository
-dokumentiert sind, ist dies ein vorläufiger Forschungsbefund und kein
-Ausschlussbeweis.
+**Zwei Suchen, nicht vermischen** (Kanon Auftraggeber): Casamentos 1922
+Nr. 94 ist die **Heirat**, nicht die Geburt des Opa. Der Opa ist **um
+1922** geboren (Geburten um 1922). Der Bräutigam José Freire Bicho war
+1922 erwachsen: Taufen/Geburten **1857–1907** (15–65 Jahre). Blatt-`~1894`
+ist nur eine Hypothese in diesem Fenster.
 
-Den bisherigen, noch nicht mit einer Einzelquelle belegten Suchnotizen
-zufolge wurde 1894 in Lagarteira ein José gefunden, der am 28. Januar in
-Lagarteira de Baixo als unehelicher Sohn der Maria de Jesus geboren wurde;
-ein Randvermerk soll einen Tod um 1957 nennen. Bis Signatur und Scan ergänzt
-sind, bleibt dies ein unbestätigter Arbeitshinweis. Die abweichende Mutter und
-das mutmaßliche Todesjahr sprechen gegen diesen José als Margaridas Ehemann.
+Die bisherige Durchsicht nur **1893–1895** Cumeeira und **1894**
+Lagarteira folgt jener Hypothese und ist kein Ausschluss für 1857–1907.
+Kein José als Sohn von António Freire Bicho × Maria Ignácia ist dort
+dokumentiert belegt (keine Band-Signaturen, Bildbereiche oder Lücken
+im Repository). Der Lagarteira-José * 28.01.1894, Sohn der Maria de
+Jesus, bleibt unbestätigter Arbeitshinweis.
 
-Das bisherige Geburtsjahr **1894** und die vermuteten Eltern dürfen daher
-nicht als gesichert in den Stammbaum übernommen werden. Vorrangig zu prüfen
-ist der zivile Heiratseintrag Nr. 94 von 1922 im **Arquivo da Universidade
-de Coimbra**, Fonds Conservatória do Registo Civil de Penela
-(`PT/AUC/RCV/PNL`): Band Casamentos **1922**, ergänzend Processos de
-casamento **Cx. 7** (1921–1922) und **Cx. 8** (1922–1923). Inventar:
-[tombo.pt/m/pnl](https://tombo.pt/m/pnl). Danach ggf. Nachbarpfarreien.
+`~1894` und die vermuteten Eltern dürfen nicht als Fakt in den Stammbaum.
+Scan des Heiratsakts Nr. 94 liegt hier **nicht**. Siehe
+[`evidenz/linie-duarte/AUC-coimbra-jose-freire-bicho.md`](../evidenz/linie-duarte/AUC-coimbra-jose-freire-bicho.md).
 Für jede Negativsuche Band, Bildbereich, mögliche Lücken, Prüfdatum und
 Ergebnis protokollieren.

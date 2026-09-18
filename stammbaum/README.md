@@ -169,6 +169,12 @@ nebeneinander (siehe Narciza-Akten).
 Die avós José Duarte und Maria Freire de Jesus liegen beim
 Auftraggeber. Hier nur bisavós und älter.
 
+Kanon Auftraggeber: der **Opa** ist **um 1922** geboren. Blatt-José
+Duarte `~21.12.1926` ist eine andere, ungeprüfte Form — nicht glätten,
+kein Zivilakt. **Penela Casamentos 1922 Nr. 94** ist die Heirat
+José Freire Bicho × Margarida, nicht diese Geburt. Opa nicht in
+Geburten 1857–1907 suchen.
+
 ### bisavós
 
 #### Manuel Duarte
@@ -192,11 +198,11 @@ zulässig.
 Blatt: `~1894 · Cabeça Redonda`, Eltern **António Freire Bicho** ×
 **Maria Ignácia** (`Mesmos pais (irmãos)`).
 
-`Mesmos pais (irmãos)` **streichen**. Die Eltern sind über die Heirat
-mit Margarida am **28.10.1922** separat belegt und dürfen nicht still
-mit Margaridas Eltern gleichgesetzt werden. Geburt und Ort `~1894`
-bleiben offen, bis der Zivilakt (AUC RCV Penela Nr. 94) bzw. die Taufe
-geprüft ist.
+`Mesmos pais (irmãos)` **streichen**. Die Heirat mit Margarida am
+**28.10.1922** (Zivilakt Nr. 94) belegt die **Ehe**, nicht die Geburt
+des Opa. Eltern dürfen nicht still mit Margaridas Eltern gleichgesetzt
+werden. `~1894` ist nur Hypothese im Fenster **1857–1907** (15–65 Jahre
+1922). Ohne gelesenen Akt weder Jahr noch Eltern setzen.
 
 #### Margarida de Jesus
 

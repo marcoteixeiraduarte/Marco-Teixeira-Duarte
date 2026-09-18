@@ -103,7 +103,10 @@
 2 PLAC Ansião
 2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
 3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Tilde auf dem Blatt.
+3 CONT Zivilakt dieses Ereignisses geprüft. Tilde auf dem Blatt. Auftraggeber:
+3 CONT Opa um 1922 geboren — nicht mit Blatt-~21.12.1926 zu einem Datum glätten
+3 CONT und nicht mit Penela Casamentos 1922 Nr. 94 (Heirat José Freire Bicho
+3 CONT × Margarida) verwechseln. Suchfenster: Geburten um 1922, nicht 1857–1907.
 2 SOUR @S1@
 1 DEAT
 2 DATE 16 APR 2005
@@ -430,10 +433,11 @@
 1 NAME José /Freire Bicho/
 1 SEX M
 1 NOTE Blatt ~1894 Cabeça Redonda NICHT als Tatsache übernommen. Heirat
-2 CONT 28.10.1922 mit Margarida ist durch deren Tauf-Randvermerk belegt
-2 CONT (Zivilakt Nr. 94 Cumeeira/Penela). Eltern NICHT an António Freire Bicho
-2 CONT × Maria Ignácia gehängt (Blatt-Mesmos pais/irmãos gestrichen). Nächster
-2 CONT Schritt: AUC RCV Penela Casamentos 1922 Nr. 94.
+2 CONT 28.10.1922 mit Margarida = Zivilakt Nr. 94 Cumeeira/Penela: das ist die
+2 CONT Ehe, nicht die Geburt des Opa. Bräutigam 1922: Suchfenster Geburten
+2 CONT 1857–1907 (15–65 Jahre). ~1894 nur Hypothese in diesem Fenster. Eltern
+2 CONT NICHT an António Freire Bicho × Maria Ignácia gehängt. Scan des Akts
+2 CONT 94 liegt nicht im Repository.
 1 NOTE Keine FAMC. Geburt und Abstammung offen.
 1 FAMS @F5@
 0 @I43@ INDI
@@ -1033,7 +1037,8 @@
 2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
 2 NOTE Akt Nr. 9. Beide 21, ledig, Landwirtschaft. PT/AUC/PAR/PNL01/003/0051.
 3 CONT Kind José Duarte (I5) nur Blatt, nicht im Kirchenbuch dieser Heirat.
-1 NOTE Heirat kirchenbuchsicher. Kindschaft José Duarte *~1926 nur Blatt.
+1 NOTE Heirat kirchenbuchsicher. Kindschaft José Duarte nur Blatt (Blatt
+2 CONT ~1926; Auftraggeber: Opa um 1922; kein Zivilakt, nicht glätten).
 0 @F5@ FAM
 1 HUSB @I42@
 1 WIFE @I43@
@@ -1041,8 +1046,10 @@
 1 MARR
 2 DATE 28 OCT 1922
 2 PLAC Cumeeira, Penela
-2 NOTE Randvermerk an Margaridas Taufe: Zivilakt Nr. 94. Eltern des Bräutigams
-3 CONT im Vermerk nicht genannt. Kindschaft Maria Freire de Jesus nur Blatt.
+2 NOTE Randvermerk an Margaridas Taufe: Zivilakt Nr. 94. Das ist die Heirat,
+3 CONT nicht die Geburt des Opa (Auftraggeber: Opa um 1922). Eltern des
+3 CONT Bräutigams im Vermerk nicht genannt. Kindschaft Maria Freire de Jesus
+3 CONT nur Blatt.
 1 NOTE José Freire Bicho hat keine FAMC.
 0 @F6@ FAM
 1 HUSB @I20@

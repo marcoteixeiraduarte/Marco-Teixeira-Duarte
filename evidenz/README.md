@@ -33,7 +33,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 ## Ordner
 
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
-- `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
+- `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — zwei Suchen: Heirat 1922 Nr. 94 (Bräutigam 1857–1907) ≠ Geburt des Opa (um 1922)
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `quellenregister.md` — alle versionierten Scans
 
