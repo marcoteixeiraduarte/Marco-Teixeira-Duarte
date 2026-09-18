@@ -38,7 +38,7 @@ Seite, nicht Herkunft. Blatt: [alvorge-ateanha](alvorge-ateanha.md).
 ## Quelle 1 — eigene Heirat (Nachtrag)
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/002/0003`
-- Volle Doppelseite: `narcisa-records/casamento-pais/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
+- Volle Doppelseite: `akten/narcisa/manoel-pedro-dos-reis/1851-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
 - Versioniert: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0080.jpg`
 - Nachtrag allein: `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-002-0003_m0080_reis-nachtrag.jpg`
 - Rechte Seite, unterer Eintrag. Die Seite selbst trägt Einträge von 1858/1859
@@ -79,7 +79,7 @@ Scan. Nicht mit einem anderen Joaquim vertauschen.
 
 ## Quelle 2 — Heirat des Sohnes, 8. Mai 1878
 
-- Scan: `narcisa-records/casamento/1878/PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
+- Scan: `akten/narcisa/narciza/1878-casamento-PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
 - Akt Nr. 9, rechte Seite
 
 ### Transkript (Eltern des Bräutigams)
@@ -122,6 +122,10 @@ Paten:
 > José Louro […] Castello, pelo qual tocou Manoel Caetano Respicio
 > madrinha Maria Joaquina, viuva, lugar de Villanova de Alvorge
 
+`Castello` in diesem **Torre**-Akt: **wahrscheinlich** Castello von
+Vale de Todos (Barreira liegt gleich daneben). Nicht still mit dem
+Castelo der Pfarrei Avelar (1774) gleichsetzen.
+
 Priester: João Gomes Freire da Silva.
 
 Der Nachname des mütterlichen Großvaters bleibt **offen** (Heirat 1851:
@@ -134,7 +138,7 @@ Das ist übliche Aufrundung, kein zweiter José.
 
 ## Quelle 4 — Tod des Sohnes, 2. Oktober 1903
 
-- Scan: `narcisa-records/obitos-1878-1911/1903/PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
+- Scan: `akten/narcisa/jose-pedro-dos-reis/1903-obito-PT-ADLRA-PRQ-PANS08-003-0047_m0007.jpg`
 - Akt Nr. 10
 
 ### Transkript (Eltern)
@@ -145,10 +149,21 @@ Das ist übliche Aufrundung, kein zweiter José.
 Ob die Eltern 1903 noch lebten (`já falecido` ja/nein), ist auf diesem
 Blatt noch nicht festgehalten.
 
+## Bruder in Pragoza — zweites Reis-Haus
+
+Dieselben Eltern **Manoel Pedro × Joaquina Maria** stehen 1871 als
+avós paternos des **Sebastião**, erster Sohn von **José dos Reis** ×
+**Maria Ramalha**, Pragoza. José dos Reis ist damit **Bruder** dieses
+Manoel Pedro dos Reis. Zwei Häuser, ein Elternpaar:
+[zwei-reis-haeuser-pragoza](zwei-reis-haeuser-pragoza.md).
+
+Die Paare nicht auf ein José legen.
+
 ## Nächster Rückwärtsschritt
 
 1. Taufe Roza Maria in Alvorge (`PANS01`), Rand Vale Paio / Aljazede / Ateanha.
 2. Taufe Manoel Pedro dos Reis in Torre, Pragosa.
-3. Sterbeeinträge beider (Torre 1878–1911 oder Alvorge).
+3. Taufe José dos Reis (Bruder; Band 0003/0004, Pragosa).
+4. Sterbeeinträge beider (Torre 1878–1911 oder Alvorge).
 
 Kein Avelar- und kein Gato-Eintrag an dieses Paar hängen.

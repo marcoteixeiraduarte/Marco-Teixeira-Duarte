@@ -14,7 +14,7 @@ Quelle: [caetana-maria](caetana-maria.md), Scan `…PANS08-001-0003_m0020.jpg`.
 
 ## Avelar-Taufen desselben Namenspaares
 
-Lokal vorhanden, noch nicht versioniert: `avelar-records/baptismos-1773-1802/`.
+Lokal vorhanden, noch nicht versioniert: `suche/avelar-rohbande/baptismos-1773-1802/`.
 
 | Scan | Kind | Datum | Eltern | Gewissheit für unsere Linie |
 |---|---|---|---|---|
@@ -41,7 +41,9 @@ dieselbe Frau ist wie Joaquina da Affonseca.
 ## Offen auf derselben Heiratsseite
 
 Oben auf `m0013`, **7. Februar 1774**: **Alexandre × Joaquina**, Castelo.
-Das ist nicht Antonio Simões. Eltern noch nicht sicher. Nicht mit Rapoula gleichsetzen.
+Das ist nicht Antonio Simões. Eltern noch nicht sicher. Nicht mit Rapoula
+gleichsetzen. **Nicht** Castello von Vale de Todos (dort liegt Barreira
+gleich daneben, Pfarrei Torre).
 
 ## Nächster Rückwärtsschritt in Avelar
 
