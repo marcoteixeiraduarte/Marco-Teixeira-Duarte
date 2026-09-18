@@ -57,6 +57,71 @@ glätten):
 | Manuel Dias Ramalho × Angelica Maria Leal | **nicht** Eltern Joaquinas. Kirche 1896: **José dos Reis** × **Maria Ramalha**. 1871 dieselben Vornamen = avós maternos Sebastião | sicher |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Manuel * 26.07.1872, filho natural) | sicher |
 
+## Geburt / Tod — was aufs Blatt kann
+
+Die leeren Datumsfelder. Nur was in der Akte steht. Schätzjahre und
+Blatt-only nicht als sicher eintragen. Offene Kästchen bleiben leer.
+
+Luiz × Delfina **haben wir** als Paar — hier fehlen nur **ihre**
+eigene Geburt und ihr Tod.
+
+### 4.º avós (ramo materno)
+
+| Kästchen | Geburt | Tod | Gewissheit |
+| --- | --- | --- | --- |
+| Custódio Teixeira | offen | offen | nur als Vater 1879; eigene Taufe/óbito nicht gelesen |
+| Joana de Jesus | offen | offen | nur als Mutter 1879 |
+| Francisco José dos Santos | offen | offen | nur als avô 1913 |
+| Maria Thereza | offen | offen | nur als avó 1913 |
+| Luiz Guiomar | offen (natürlich Bemposta) | offen | Paar **haben wir**; eigene Taufe/óbito nicht |
+| Delfina Maria | offen | offen | dasselbe |
+| Joaquim Rodrigues Feio | 03.04.1853 · Pragoza | 25.04.1940 · Torre | Geburt **sicher** (Taufe 27.04.1853). Tod Randvermerk an jener Taufe, Zivilakt nicht daneben — **wahrscheinlich** |
+| Maria Helena Contente | offen (Blatt ca. 1852) | offen | 1882 nur **Maria Helena**, Valle do Pião; Taufe 1850–54 nicht isoliert |
+| Joze Mendes Ferreira | offen (natürlich Atanha / Alvorge) | offen | nur als Vater 1880 |
+| Anna | 15.06.1845 · Valle de todos | Blatt 1922 | Geburt **sicher** (Taufe 14.07.1845, Taufname **Anna**). Tod 1922 nicht in jener Taufe |
+| José Pedro dos Reis | 24.11.1854 · Pragoza / Fragosa | 02.10.1903 · Grenze Pião / Lagarteira | beides **sicher** (Taufe 19.12.1854; óbito N.º 10, 8 Uhr) |
+| Narciza / Narcisa da Conceição | 19.10.1856 · Torre (Monat wahrsch.) | offen | Tag 19. **sicher**. Monat: **wahrscheinlich** Oktober (`mez passado` zum 6.11.); September ist ältere Lesung, nicht einzige Form. 02.10.1903 noch Ehefrau; eigener óbito Torre bis März 1911 nicht gefunden |
+| Pai Incógnito | — | — | ungenannt |
+| Anna de Jesus Matta | offen | tot vor 27.04.1912 | 1912 bereits tot (Palmira); kein Tagesdatum |
+| José dos Reis × Maria Ramalha | offen | er tot vor 27.04.1912; sie offen | **diese** sind Joaquinas Eltern 1896, nicht Ramalho × Leal. Kein eigenes Geburts-/Sterbedatum |
+| Manuel Ramalho × Angelica Maria | offen | sie 1871 viúva (Patin) | avós maternos 1871, eine Generation höher. `Dias` / `Leal` nicht in 1871 |
+
+So auf die leeren 4.º-Kästchen, die eine Akte haben:
+
+```
+Joaquim Rodrigues Feio     * 03.04.1853 · Pragoza     † 25.04.1940 · Torre
+José Pedro dos Reis        * 24.11.1854 · Pragoza     † 02.10.1903 · Pião/Lagarteira
+Anna                       * 15.06.1845 · Valle de todos
+Narciza                    * 19.10.1856 · Torre       (Monat wahrscheinlich)
+```
+
+`† 25.04.1940` bei Joaquim nur mit der Gewissheit **wahrscheinlich**.
+Narcizas Monat nicht als September festnageln.
+
+### 3.º avós (ramo materno)
+
+| Kästchen | Geburt | Tod | Gewissheit |
+| --- | --- | --- | --- |
+| João Teixeira (Forte) | 13.10.1879 · Cabeça Redonda | offen | Geburt **sicher** (Taufe 22.10.1879). Blatt `Cumeeira` = Pfarrei |
+| Maria José dos Santos | ca. 1884 (29 am 10.09.1913) | offen | Alter **sicher** im Zivilakt; Taufe und Tod offen |
+| João Dias Guiomar | 22.04.1874 · Rua d'Além | 08.01.1958 · Vale de Todos | beides **sicher** (Taufe; Conservatória `07.jpg`) |
+| Maria (Helena Guiomar) | 25.02.1882 · Valle do Pião | offen | Geburt **sicher** (Taufe 05.03.1882 Lagarteira). Taufname **Maria** |
+| Joze Maria da Ascenção | 25.04.1880 · Valle de Todos | Mai 1948 · Alvorge | Geburt **sicher**. Todesmonat **sicher** im Rand der Frau (Zivil N.º 72); Tag mehrdeutig (3./13./30.05.). Blatt `30.07.1948` widerspricht dem Monat — Juli nicht setzen |
+| Maria da Piedade | 15.09.1878 · Pragoza | Blatt 16.01.1952 | Geburt **sicher**. Tod nicht gegen Zivilakt; auf derselben Taufseite ein Vermerk 16./17.11.1952, Zuordnung ungeklärt |
+| Manuel Matta | 26.07.1872 · São Jorge | Blatt 15.02.1946 | Geburt **sicher**. Rand: Tod am 15., Nachtrag 14.07.1946 Ansião N.º 126. Monat Februar **Blatt**, Richtung |
+| Joaquina Ramalha / Reis | ca. 1872–73 · Pragoza | offen | 23 am 21.08.1896 **sicher**. Taufe 1872–74 leer, 1875–80 offen |
+
+### bisavós — Datenstand
+
+| Kästchen | Geburt | Tod | Gewissheit |
+| --- | --- | --- | --- |
+| Manuel Teixeira | 10.09.1913 · Ribeira de Cima | Blatt 05.06.1973 · Angónia | Geburt Zivil `01.jpg` gelesen. Tod Blatt, hier nicht gegen Sterbeakt |
+| Maria Emília Guiomar | 21.08.1915 · Vale de Todos | Blatt 22.04.1973 · Coimbra | Geburt Zivil `04.jpg` gelesen. Tod Blatt |
+| José Mendes d'Ascensão | 1914 · Pragoza (N.º 320, kein Foto) | Blatt 15.11.1996 · São Jorge | Heirat 19.04.1937 gelesen. Eigene Geburt und Tod hier nicht gegen Akt |
+| Palmira Reis | 24.04.1912 · Pragoza | 16.12.1999 · Torre | Geburt Zivil `08.jpg` **sicher**. Tod Averbamento derselben Seite (Assento 165/1999) **sicher** |
+
+Avós und pais: Auftraggeber, nicht diese Prüfung.
+
 Nächste Schicht **über** Luiz × Delfina (nicht auf diesem Blatt):
 **Antonio Dias Guiomar × Joaquina Maria**, avós paternos 1874.
 [antonio-dias-guiomar-joaquina](../evidenz/linie-torre/antonio-dias-guiomar-joaquina.md).
@@ -322,6 +387,20 @@ Quellenformen. Ob Joaquim und der jüngere António Freire Bicho Brüder
 sind, bleibt eine Möglichkeit aus denselben Großelternpaaren, keine
 Identität.
 
+### Geburt / Tod (ramo paterno)
+
+| Kästchen | Geburt | Tod | Gewissheit |
+| --- | --- | --- | --- |
+| Manuel Duarte | 19.11.1885 · Carrasqueiras | 30.09.1962 · Ansião | Geburt **sicher**. Tod Blatt = Averbamento 1907; Sterbeakt selbst nicht geprüft |
+| Joaquina Ignácia | 07.02.1886 · Cabeça Redonda | offen | Geburt **sicher** (Taufe nur `Joaquina`) |
+| José Freire Bicho | Blatt ca. 1894 · Cabeça Redonda | offen | ca. 1894 **offen**, bis AUC RCV Penela Nr. 94 / Taufe |
+| Margarida | 27.06.1897 · Cabeça Redonda | 29.11.1979 | Geburt **sicher** (nicht Blatt `24.07.1897` / Santa Eufémia). Tod Randvermerk |
+| António Duarte × Thereza Freire | offen | offen | nur als Eltern 1885/1907 |
+| António Freire Bicho | Blatt ca. 1851 · Figueiras Podres | offen | Jahr ca. 1851 **offen** |
+| Maria Ignácia | offen | offen | nur als Mutter 1886/1907 |
+| Joaquim Freire Bicho × Genoveva de Jesus | offen | offen | nur als Eltern 1897 |
+| 4.º-Platzhalter (Manoel Duarte, Manoel Silva, …) | offen | offen | Namen aus den Cumeeira-Taufen; eigene Geburt/Tod nicht gelesen |
+
 ## Ortsnamen auf dem Blatt
 
 | Blatt | Quelle | Maßnahme |
@@ -377,3 +456,12 @@ Identität.
 16. Blatt-Eltern Joaquinas **Manuel Dias Ramalho × Angelica Maria Leal**
     → Kirche **José dos Reis × Maria Ramalha**; Ramalho × Leal eine
     Generation höher (avós 1871).
+17. Leere 4.º-Daten, die eine Akte haben: Joaquim * **03.04.1853**
+    Pragoza, † **25.04.1940** Torre (**wahrscheinlich**);
+    José Pedro * **24.11.1854** Pragoza, † **02.10.1903** Pião/Lagarteira;
+    Narciza * **19.10.1856** Torre (**Monat wahrscheinlich**).
+    Custódio, Joana, Luiz, Delfina, Maria Helena Contente, Francisco
+    José, Maria Thereza, Joze Mendes: Geburt/Tod **leer lassen**.
+18. José Maria † **Mai 1948 · Alvorge**, nicht Blatt-Juli.
+    Maria da Piedade † 16.01.1952 und Manuel Matta † 15.02.1946
+    bleiben Blatt, bis der Zivilakt liegt.
