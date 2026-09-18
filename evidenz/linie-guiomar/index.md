@@ -41,3 +41,10 @@ beim Auftraggeber. Civil: Lugar Vale de Todos. Luiz 1874 Rua d'Além.
 
 Torre **1876–1880** ohne weiteres Kind Luiz × Delfina:
 [1876–1880](1876-1880-torre-kein-luis.md).
+
+## STOP / Retract
+
+| Blatt | Inhalt |
+|---|---|
+| [STOP-aufwaerts-vor-1859.md](STOP-aufwaerts-vor-1859.md) | Kern 1859+1874 sicher; **kein** Antonio *1789 (ALV m0478) ohne Gegenlese; Aufwärts einfrieren |
+| [RETRACTED-1860-06-27-kein-luiz-guiomar.md](RETRACTED-1860-06-27-kein-luiz-guiomar.md) | 27.06.1860 ist Antonio Freire × Maria Mendes, nicht Luiz Guiomar |

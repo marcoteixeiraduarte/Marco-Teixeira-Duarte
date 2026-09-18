@@ -1,6 +1,14 @@
 # Torre 10.11.1859 — Luiz Dias × Delfina Maria
 
 Das ist die Heirat aus der Taufe João 1874 (`aqui recebidos`).
+**A-P4 Kern:** geschlossen mit [Taufe João 1874](../../guiomar-records/README.md).
+
+Rand/Cluster: **Rua d'Além** (Wohn-/Randkontext); Naturalidade der Braut
+im Fließtext: **lugar dos Lindos**. Namensform des Bräutigams hier
+**Luiz Dias** (1874: `Luiz Guiomar`; später: `Luiz Dias Guiomar`).
+
+Aufwärts: [STOP](STOP-aufwaerts-vor-1859.md). Falsche Heirat 27.06.1860:
+[RETRACTED](RETRACTED-1860-06-27-kein-luiz-guiomar.md).
 
 Quelle: Torre Casamentos 1812–1859, `PANS08/002/0003`, Bild `m0082`,
 linke Seite, oberer Akt. Folgeseite beginnt 30.11.1859, anderes Paar.

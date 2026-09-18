@@ -48,6 +48,9 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `linie-guiomar/` — Dias Guiomar (Bemposta/Alvorge × Torre); nicht Roza/Reis
+- `linie-guiomar/1859-casamento-luiz-delfina.md` — Heirat Luiz Dias × Delfina, 10.11.1859
+- `linie-guiomar/STOP-aufwaerts-vor-1859.md` — Aufwärts vor 1859/1874 eingefroren
+- `linie-guiomar/RETRACTED-1860-06-27-kein-luiz-guiomar.md` — falsche Heirat 27.06.1860 zurückgezogen
 - `linie-guiomar/passabgleich-1886-1901.md` — identifizierte Katalogpässe António/Manoel; eigene Luiz-Auswanderung offen
 - `passregister-teixeira-duarte.md` — getrennte Passsuche Manuel Teixeira / Manuel Duarte
 - `quellenregister.md` — alle versionierten Scans

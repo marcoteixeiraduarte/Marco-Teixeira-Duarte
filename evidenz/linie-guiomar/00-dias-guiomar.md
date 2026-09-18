@@ -1,9 +1,18 @@
 # Dias Guiomar — Suche im Umkreis Bemposta / Torre
 
 Das Compound **Dias Guiomar** ist der Anker. Es steht 1874 beim
-Großvater **Antonio Dias Guiomar**, nicht im Taufnamen João. Luiz
-heißt in derselben Akte `Luiz Guiomar`. Blattform `Luiz Dias Guiomar`
-übernimmt das `Dias` vom Vater.
+Großvater **Antonio Dias Guiomar**, nicht im Taufnamen João.
+
+Namensformen Luizes (quellengetreu, nicht glätten):
+
+| Quelle | Form |
+|---|---|
+| Heirat 10.11.1859 | **Luiz Dias** |
+| Taufe João 10.05.1874 | **Luiz Guiomar** |
+| Später (Óbito/Blatt) | **Luiz Dias Guiomar** |
+
+`Dias` kommt vom Großvater **Antonio Dias Guiomar**; die Blattform
+hängt es an Luiz.
 
 Weiblicher Vorname **Guiomar** (häufig) ist **nicht** diese Linie.
 
@@ -266,13 +275,20 @@ Weitere Treffer:
 Luiz × Delfina in den Heirats-Jahresbänden 1860–1874 **nicht** —
 korrekt, die Heirat liegt **1859** im Sammelband.
 
-Als Nächstes: Taufe Luiz (Vater) in Alvorge **vor 1845** (Fenster
-~1829–1838); Sterbeakten Antonio Dias × Joaquina Maria (beide † vor
-10.11.1859); Taufe Delfina (Lindos/Torre, Fenster um 1831).
-Für die Auswanderungsspur: Passoriginale **António 1901** und
-**Manoel 1886 [?]** prüfen; eigene Luiz-Spur separat suchen.
-Eine Taufe Luis ab 1881 ist nicht aus einem undatierten Pass
-ableitbar. Blatt: [Passabgleich](passabgleich-1886-1901.md).
+**STOP aufwärts:** Generation über dem gesicherten Paar 1859/1874
+nicht kanonisieren, bis Primärquellen händisch gegenlesen sind —
+insbesondere **kein** Antonio *1789 aus ALV m0478.
+Blatt: [STOP-aufwaerts-vor-1859.md](STOP-aufwaerts-vor-1859.md).
+
+**RETRACTED:** angebliche Heirat 27.06.1860 Luiz Guiomar — tatsächlich
+Antonio Freire × Maria Mendes.
+Blatt: [RETRACTED-1860-06-27-kein-luiz-guiomar.md](RETRACTED-1860-06-27-kein-luiz-guiomar.md).
+
+Als Nächstes (unter STOP): Taufe Luiz in Alvorge nur als Suche;
+Sterbeakten Antonio Dias × Joaquina Maria († vor 10.11.1859); Taufe
+Delfina (Lindos/Torre). Passoriginale **António 1901** und
+**Manoel 1886 [?]**; eigene Luiz-Auswanderungsspur.
+Blatt: [Passabgleich](passabgleich-1886-1901.md).
 
 Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 
@@ -290,6 +306,10 @@ Coverage nach Pfarrei (Dias Guiomar, nicht andere Linien):
 
 ## Bewusst nicht
 
+- ALV m0478 / Antonio *1789 nicht als Urgroßvater kanonisieren
+  ([STOP](STOP-aufwaerts-vor-1859.md)).
+- 27.06.1860 nicht als Heirat Luiz Guiomar führen
+  ([RETRACTED](RETRACTED-1860-06-27-kein-luiz-guiomar.md)).
 - Roza Maria / Joaquim × Florencia nicht an Antonio Dias Guiomar hängen.
 - Gato/Affonseca in Avelar, Santos in Ansião/Santiago, Duarte in Cumeeira
   nicht still mitziehen, nur weil dieselbe Pfarrei durchsucht wird.

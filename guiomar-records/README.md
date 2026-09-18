@@ -3,6 +3,9 @@
 Schreibweisen folgen dem jeweiligen Eintrag und werden nicht
 modernisiert.
 
+Ledger: [`evidenz/linie-guiomar/`](../evidenz/linie-guiomar/index.md)
+(Heirat **10.11.1859**, STOP Aufwärts, Retract 27.06.1860).
+
 ## João, Taufe 10. Mai 1874 (Torre)
 
 - getauft **10. Mai 1874** in der Egreja Parochial de Nossa Senhora da

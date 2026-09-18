@@ -34,6 +34,8 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1860-JOSE | José, Sohn Luiz Dias × Delfina Maria, 25.06.1860 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0005_m0005.jpg` |
 | TVT-BAP-1862-MAN | Manuel, Sohn Luiz Dias × Delfina Maria, 15.08.1862 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0007_m0005.jpg` |
 | TVT-BAP-1864-MAR | Maria, Tochter Luiz Dias × Delfina Maria, 22.05.1864 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0009_m0004.jpg` |
-| ALV-BAP-1845-BEM | Bemposta, Antonio Dias, neto Dias Guiomar, 24.05.1845 | `evidenz/scans/alvorge/PT-ADLRA-PRQ-PANS01-001-0004_m0180.jpg` |
+| TVT-BAP-1867-ANT | Antonio, Sohn Luiz Guiomar × Delfina Maria, 22.04.1867 | `evidenz/scans/torre/PT-ADLRA-PRQ-PANS08-001-0012_m0003.jpg` (+ `m0004`) |
+| TVT-BAP-1874-JOAO | João, Sohn Luiz Guiomar × Delfina Maria, 10.05.1874 | `guiomar-records/baptismos-1874/PT-ADLRA-PRQ-PANS08-001-0019_m0007.jpg` |
+| ALV-BAP-1845-BEM | Bemposta, Antonio Dias, neto Dias Guiomar, 24.05.1845 (Cluster; nicht Aufwärts-Kanon) | `evidenz/scans/alvorge/PT-ADLRA-PRQ-PANS01-001-0004_m0180.jpg` |
 | AVL-BAP-1781-THEO | Taufe Theodora Maria | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANSO3-001-0003_m0028.jpg` |
 | AVL-CAS-1774-13 | Zwei Heiraten: Alexandre×Joaquina und Antonio Simões×Maria Joaquina | `evidenz/scans/avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg` (Kopie: `narcisa-records/casamento-avos-avelar/`) |
