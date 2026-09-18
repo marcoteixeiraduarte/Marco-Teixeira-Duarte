@@ -48,7 +48,7 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Heirat João Teixeira (Forte) × Maria José | 1900–1912 | **1895–1913** Kirche; ab Apr 1911 Zivil **Ansião und Penela** | PANS02 Casamentos 1895–1911; PNL01 Casamentos; Conservatória |
 | Taufe Maria José | ~1884 | **1876–1894** (Alter 29 im Sept 1913 kann unter-/überrunden) | PANS02 Batismos 1878–1889 lokal; dann 1876–77 und 1890–94; Ring 1 |
 | Heirat Manuel × Joaquina | 26.08.1897 (Zivil 1912) | **gefunden: 21.08.1896** Torre N.º 2, Band **1896** (`PANS08/002/0038`). Band 1897 ganz leer für dieses Paar | siehe unten |
-| Luiz Guiomar × Delfina Maria | — | **haben wir:** Taufe João 1874; Pass-António 1901. Nicht noch einmal suchen | [guiomar-records](../guiomar-records/README.md) · [passe-1901](linie-torre/passe-antonio-guiomar-1901.md) |
+| Luiz Guiomar × Delfina Maria | — | **haben wir:** Taufe João 1874; Pass-António 1901. Nicht noch einmal suchen | [akten/guiomar](../akten/guiomar/README.md) · [passe-1901](linie-torre/passe-antonio-guiomar-1901.md) |
 | Avô **Antonio Dias Guiomar × Joaquina Maria** | nur avós-Zeile 1874 | eigene Akte, zuerst Alvorge / Bemposta (Luiz natürlich dort) | [antonio-dias-guiomar-joaquina](linie-torre/antonio-dias-guiomar-joaquina.md) |
 | Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001`; Nachzügler `001/0002` ab **19.06.1767** (Anfang ohne Carvalhinho bis Dez. 1770) | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
 | Taufe **Antonio Rodrigues Feio** (avô) | Carvalhinho | **1700–1735** in `001/0001` `m0150–m0235` (1710–1738 datiert) | dasselbe |
@@ -67,16 +67,16 @@ Penela, nicht nur Kirchenbücher.
 
 | Ordner | Inhalt |
 | --- | --- |
-| `ansiao-records/baptismos-1878-1883/` | Maria José, Marker Santos × Thereza |
-| `ansiao-records/baptismos-1884-1889/` | dasselbe |
-| `ansiao-records/casamentos-1880-1899/` | João × Maria José, falls Ansião; Manuel × Joaquina war **Torre 1896**, nicht hier |
-| `ansiao-records/casamentos-1900-1909/` | João × Maria José |
-| `archiv/guiomar/alvorge-batismos-1822-1852/` | avô-Paar Antonio × Joaquina (Luiz als Sohn); Roza Maria. Luiz × Delfina nicht noch einmal |
-| `archiv/guiomar/batismos-torre/` | Kinder Luiz × Delfina (António ~1866–70); nicht Luiz selbst (der ist Alvorge) |
-| `archiv/guiomar/casamentos-torre/` | Rohbände 1896–1898 lokal (nicht Git); Match 1896 in `archiv/matta/` |
+| `suche/ansiao-maria-jose/baptismos-1878-1883/` | Maria José, Marker Santos × Thereza |
+| `suche/ansiao-maria-jose/baptismos-1884-1889/` | dasselbe |
+| `suche/ansiao-maria-jose/casamentos-1880-1899/` | João × Maria José, falls Ansião; Manuel × Joaquina war **Torre 1896**, nicht hier |
+| `suche/ansiao-maria-jose/casamentos-1900-1909/` | João × Maria José |
+| `suche/alvorge-taufen-1822-1852/` | avô-Paar Antonio × Joaquina (Luiz als Sohn); Roza Maria. Luiz × Delfina nicht noch einmal |
+| `suche/torre-taufen-rohbande/` | Kinder Luiz × Delfina (António ~1866–70); nicht Luiz selbst (der ist Alvorge) |
+| `suche/torre-heiraten-rohbande/` | Rohbände 1896–1898 lokal (nicht Git); Match 1896 in `archiv/matta/` |
 
 Diese Rohbände nicht in Git, bis ein Treffer festliegt. Treffer dann
-wie bisher: `archiv/<name>/` plus `*-records/`.
+wie bisher: `archiv/<name>/` plus `akten/<name>/`.
 
 ## Gefunden, weil die Jahre weitergingen
 

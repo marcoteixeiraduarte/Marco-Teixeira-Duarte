@@ -21,9 +21,10 @@ seinen Ordner.
 | Ort | Inhalt |
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechenden Namen; Conservatória-Fotokopien |
+| [`akten/`](akten/README.md) | Personenakten mit Signatur und DigitArq/AUC-Links |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter mit Transkript und Gewissheit |
 | [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter |
-| `*-records/` | Personenakten mit Signatur und DigitArq/AUC-Links |
+| [`suche/`](suche/README.md) | Rohbande, nicht versioniert |
 | [`README.md`](README.md) | Ortsregister und Arbeitsregeln |
 
 ---
@@ -48,7 +49,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
-| Manuel Duarte | * 19.11.1885 Carrasqueiras; Taufe 2.12.1885 | sicher | [duarte](duarte-freire-records/README.md) |
+| Manuel Duarte | * 19.11.1885 Carrasqueiras; Taufe 2.12.1885 | sicher | [duarte](akten/duarte-freire/README.md) |
 | Joaquina | * 7.2.1886 Cabeça Redonda; Taufe nur `Joaquina`; Heirat `Joaquina Ignácia` | sicher | dasselbe |
 | Eltern Manuel | António Duarte × Thereza Freire | sicher | Taufe + Heirat |
 | Eltern Joaquina | António Freire Bicho × Maria Ignácia | sicher | Taufe + Heirat |
@@ -76,9 +77,9 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
-| Narciza | Taufe 6.11.1856 Torre; Heirat 8.5.1878 als Narcisa da Conceição × José Pedro dos Reis | sicher | [narcisa](narcisa-records/README.md) |
+| Narciza | Taufe 6.11.1856 Torre; Heirat 8.5.1878 als Narcisa da Conceição × José Pedro dos Reis | sicher | [narcisa](akten/narcisa/README.md) |
 | Geburt Narciza | Zeremonie 6.11.; Geburt „19. des Vormonats“ → Sept. vs. Okt. | offen (Lesung `mez passado`) | [narciza.md](evidenz/linie-torre/narciza.md) |
-| Maria da Piedade | * 15.9.1878 Pragoza; Eltern José Pedro × Narciza | sicher | narcisa + [jose-maria](jose-maria-records/README.md) |
+| Maria da Piedade | * 15.9.1878 Pragoza; Eltern José Pedro × Narciza | sicher | narcisa + [jose-maria](akten/jose-maria/README.md) |
 | José Pedro dos Reis | * 24.11.1854 Pragosa; Taufe 19.12.1854; Heirat 1878; † 2.10.1903 Grenze Pião/Lagarteira | sicher | [jose-pedro](evidenz/linie-torre/jose-pedro-dos-reis.md) |
 | 4. Grad **paterno** | Manoel Pedro dos Reis × Roza Maria; Heirat 23.3.1851 Torre | sicher als Eltern José Pedros (Taufe 1854) | [G4-paterno-reis](evidenz/linie-torre/G4-paterno-reis.md) |
 | Zwei Reis-Häuser Pragoza | **Brüder:** Manoel Pedro dos Reis (Haus B) und **José dos Reis** (Haus A, × Maria Ramalha). Gemeinsame Eltern Manoel Pedro × Joaquina Maria. Beleg Sebastião * 7.05.1871 | sicher (Taufe 1871) | [zwei-reis-haeuser](evidenz/linie-torre/zwei-reis-haeuser-pragoza.md) |
@@ -92,16 +93,16 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
-| João Teixeira (Forte) | * 13.10.1879 Cabeça Redonda; Taufname João; Forte = Großmutter Maria Forte; Eltern Custodio Teixeira (Figueiras Podres, wohnhaft Cabeça Redonda) × Joana de Jesus (Cabeça Redonda); Paten Carrasqueiras / Chão de Couce | sicher | [teixeira](teixeira-records/README.md) |
+| João Teixeira (Forte) | * 13.10.1879 Cabeça Redonda; Taufname João; Forte = Großmutter Maria Forte; Eltern Custodio Teixeira (Figueiras Podres, wohnhaft Cabeça Redonda) × Joana de Jesus (Cabeça Redonda); Paten Carrasqueiras / Chão de Couce | sicher | [teixeira](akten/teixeira/README.md) |
 | Maria José dos Santos | ~1884, freguesia Ansião; Frau Joãos; Eltern **Francisco José dos Santos** × **Maria Thereza** (Akt 1913); Taufe **1876–1894** und Heirat **1895–1913** offen — Ring plus [suche-erweitert](evidenz/suche-erweitert.md) | sicher als Eltern 1913; Taufe/Heirat offen | [maria-jose](evidenz/linie-teixeira/maria-jose-dos-santos.md) |
-| João (Guiomar) | * 22.4.1874 Rua d'Além; Eltern **Luiz Guiomar × Delfina Maria** (haben wir). Pass-António 1901 = **Bruder**, nicht avô. Avós 1874 **Antonio Dias Guiomar × Joaquina Maria** | sicher (Taufe); Pass **wahrscheinlich** | [guiomar](guiomar-records/README.md) · [passe-1901](evidenz/linie-torre/passe-antonio-guiomar-1901.md) · [avós](evidenz/linie-torre/antonio-dias-guiomar-joaquina.md) |
+| João (Guiomar) | * 22.4.1874 Rua d'Além; Eltern **Luiz Guiomar × Delfina Maria** (haben wir). Pass-António 1901 = **Bruder**, nicht avô. Avós 1874 **Antonio Dias Guiomar × Joaquina Maria** | sicher (Taufe); Pass **wahrscheinlich** | [guiomar](akten/guiomar/README.md) · [passe-1901](evidenz/linie-torre/passe-antonio-guiomar-1901.md) · [avós](evidenz/linie-torre/antonio-dias-guiomar-joaquina.md) |
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena; **sie** geht zu João Guiomar nach Vale de Todos — nicht die Feio- oder Contente-Sippe. Blatt `Maria Helena Feio Rodrigues`: Taufname Maria, Sippe Rodrigues Feio | sicher | guiomar |
 | Joaquim Rodrigues Feio | * 3.4.1853 Pragoza, Taufe 27.4.1853 Torre; Eltern Nicolao Rodrigues Feio × Maria de Jesus; avós Belchior Roiz Feio × **Agueda Maria** (Carvalhal) — Blatt `Rosa Maria` daneben; avós maternos Manoel Lourenço Lobo × Josefa Maria (Castello). Schicht darüber: **Antonio Rodrigues Feio × Maria Mendes**, Carvalhinho; Fenster **1720–1767** | sicher 1853/1775; Taufen der avós-Kinder offen | [feio-contente](evidenz/linie-guiomar/feio-contente.md) · [antonio-feio](evidenz/linie-guiomar/antonio-feio-carvalhinho.md) |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira. Pass 1902, 22, wohnhaft Pragosa, Eltern Ferreiro / Ana da Piedade — **wahrscheinlich** dieselbe Person | sicher Taufe; Pass wahrscheinlich | jose-maria · [passe-1901](evidenz/linie-torre/passe-antonio-guiomar-1901.md) |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
-| Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](matta-records/README.md) |
+| Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](akten/matta/README.md) |
 | Joaquina Reis | natürlich Pragoza; Heirat **21.08.1896** × Manuel Matta als **Joaquina Ramalha**; Eltern **José dos Reis** × **Maria Ramalha**; Onkel = Manoel Pedro dos Reis (Brüderhäuser); Blatt Ramalho × Leal = **avós maternos** (Sebastião 1871), nicht die Eltern | sicher (Kirche 1896 + Taufe 1871) | [joaquina-reis-leal](evidenz/linie-torre/joaquina-reis-leal.md) |
-| Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes — **viel später** als die erste **Palmyra * 8.6.1897** (primeira filha, Pragoza) | sicher beide Akte; 1897-Tod Kandidat | joaquina-reis-leal / [matta](matta-records/README.md) |
+| Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes — **viel später** als die erste **Palmyra * 8.6.1897** (primeira filha, Pragoza) | sicher beide Akte; 1897-Tod Kandidat | joaquina-reis-leal / [matta](akten/matta/README.md) |
 
 Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
 **Auftraggeber: das stimmt.** Guiomar: Luiz aus Bemposta; neben ihm

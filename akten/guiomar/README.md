@@ -1,5 +1,7 @@
 # João / Maria (Guiomar) – geprüfte Kirchenbuchfunde
 
+Ordner `akten/guiomar/` · Guiomar / Feio / Contente. Durchblättern: `archiv/guiomar/`.
+
 Schreibweisen folgen dem jeweiligen Eintrag und werden nicht
 modernisiert.
 

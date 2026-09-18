@@ -47,14 +47,14 @@ Bücher zuerst:
 - Batismos Alvorge **1822–1852** — `PT/ADLRA/PRQ/PANS01/001/0004`, 244 Bilder.
   DigitArq: `4b820d7bb81e4910a88430792e576518`
 
-Lokale Kopien (nicht im Git): `alvorge-records/baptismos-1822-1852/`.
+Lokale Kopien (nicht im Git): `suche/alvorge-taufen-1822-1852/`.
 Probe: Seite 30 = Januar 1826, Seite 50 = Februar 1828.
 
 ## Ausgeschlossen
 
 **Roza**, Taufe 22. Januar 1826, geboren 14. Januar, Rand Vale Galego / Valgalego.
 Eltern **Francisco José Giraldes × Thereza Maria**. Nicht Joaquim × Florencia.
-Scan: `alvorge-records/baptismos-1822-1852/PT-ADLRA-PRQ-PANS01-001-0004_m0030.jpg`.
+Scan: `suche/alvorge-taufen-1822-1852/PT-ADLRA-PRQ-PANS01-001-0004_m0030.jpg`.
 
 Ateanha kommt in diesem Band vor (z. B. Seite 20). Noch kein Anschluss an Roza.
 

@@ -5,7 +5,21 @@
 
 **Name → Ordner → Scan** zum Durchforsten:
 [`archiv/NAMEN.md`](archiv/NAMEN.md). Zuerst `archiv/`, dieselben
-Pixel in `*-records/`.
+Pixel in [`akten/`](akten/README.md).
+
+## Ordner
+
+| Ordner | Was darin liegt |
+| --- | --- |
+| [`archiv/`](archiv/README.md) | Match-Scans unter sprechendem Namen. Zum Durchblättern. |
+| [`akten/`](akten/README.md) | Dieselben Pixel, Dateiname = Archivsignatur. Transkript daneben. |
+| [`evidenz/`](evidenz/README.md) | Personenblätter, Gewissheit, versionierte Crops |
+| [`stammbaum/`](stammbaum/README.md) | Blatt 09.09.2026 gegen die Akte |
+| [`suche/`](suche/README.md) | Rohbande und offene Suchen — **nicht** im Git |
+| `index.html` | Website-Beispiel (NovaSite), nicht der Stammbaum |
+
+Linien nicht mischen: Duarte/Freire bleibt in `akten/duarte-freire` und
+`archiv/duarte-freire`. Torre/Reis/Guiomar/Teixeira bleiben getrennt.
 
 Personen- und Ortsnamen werden in der Schreibweise der jeweils
 maßgeblichen Primärquelle übernommen. Historische Schreibweisen werden
@@ -323,12 +337,12 @@ späteren Cumeeira-Bände erreichen ca. 3950×5200. DigitArq liefert
 
 ## Geprüfte Personenakten
 
-- [Narciza / Caetana / Maria da Piedade](narcisa-records/README.md)
-- [Duarte / Freire Bicho](duarte-freire-records/README.md)
-- [Joze Maria da Ascenção](jose-maria-records/README.md)
-- [João Teixeira (Forte)](teixeira-records/README.md)
-- [João / Maria (Guiomar)](guiomar-records/README.md)
-- [Manuel (Matta)](matta-records/README.md)
+- [Narciza / Caetana / Maria da Piedade](akten/narcisa/README.md)
+- [Duarte / Freire Bicho](akten/duarte-freire/README.md)
+- [Joze Maria da Ascenção](akten/jose-maria/README.md)
+- [João Teixeira (Forte)](akten/teixeira/README.md)
+- [João / Maria (Guiomar)](akten/guiomar/README.md)
+- [Manuel (Matta)](akten/matta/README.md)
 
 Zum Durchforsten der Scans: [`archiv/NAMEN.md`](archiv/NAMEN.md).
 

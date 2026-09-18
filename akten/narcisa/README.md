@@ -1,5 +1,7 @@
 # Narciza/Caetana – geprüfte Kirchenbuchfunde
 
+Ordner `akten/narcisa/` · Narciza / Reis / Gato. Durchblättern: `archiv/narcisa/`.
+
 Prüfbare Einzelblätter mit Scanpfad und Transkript:
 [`evidenz/linie-torre/`](../evidenz/linie-torre/narciza.md).
 Diese Spur bleibt von der Duarte-Linie getrennt; siehe
@@ -163,7 +165,7 @@ genau dieses Paares.
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS03/002/0003`,
-  `narcisa-records/casamento-avos-avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg`
+  `akten/narcisa/casamento-avos-avelar/PT-ADLRA-PRQ-PANS03-002-0003_m0013.jpg`
   bzw. `evidenz/scans/avelar/…_m0013.jpg`, rechte Seite, oberer Eintrag;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/0d2b8ecec0884bd88ed2070aa6b46241)
 

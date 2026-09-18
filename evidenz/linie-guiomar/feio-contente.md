@@ -77,7 +77,7 @@ danebengelegt. Gewissheit: **wahrscheinlich** als Todestag.
 Quelle:
 
 - `PT/ADLRA/PRQ/PANS08/001/0004`, `m0050`, rechte Seite
-- `guiomar-records/baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`
+- `akten/guiomar/baptismos-1853/PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`
 - Crop: `evidenz/scans/torre/1853-baptismo-joaquim-feio-right.jpg`
 - DigitArq: [156d7cb1382b42d89e362d0f4f3699a7](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)
 

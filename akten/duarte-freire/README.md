@@ -1,5 +1,7 @@
 # Duarte/Freire Bicho – geprüfte Kirchenbuchfunde
 
+Ordner `akten/duarte-freire/` · Ramo paterno. Durchblättern: `archiv/duarte-freire/`.
+
 Prüfbare Einzelblätter mit Scanpfad und Transkript:
 [`evidenz/linie-duarte/`](../evidenz/linie-duarte/G2-heirat-1907.md).
 

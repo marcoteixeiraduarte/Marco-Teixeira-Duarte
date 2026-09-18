@@ -1,7 +1,7 @@
 # Pass António Dias Guiomar 1901 — nicht der avô
 
 Governo Civil de Leiria, Passregister. Abgleich mit der Taufe
-João 1874 (`guiomar-records/`). Der António Dias Guiomar aus dem
+João 1874 (`akten/guiomar/`). Der António Dias Guiomar aus dem
 Pass von **1901** ist **nicht** der avô **Antonio Dias Guiomar** ×
 **Joaquina Maria**.
 
@@ -43,7 +43,7 @@ Blog, wörtlich:
 Taufe João, 10. Mai 1874, Rua d'Além: Eltern **Luiz Guiomar** ×
 **Delfina Maria**; avós paternos **Antonio Dias Guiomar** ×
 **Joaquina Maria**. Blatt:
-[guiomar-records](../../guiomar-records/README.md).
+[akten/guiomar](../../akten/guiomar/README.md).
 
 | 1901 Pass | 1874 Taufe João | Gewissheit |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ Die Schicht darüber: [antonio-dias-guiomar-joaquina](antonio-dias-guiomar-joaqu
 
 Taufe **Joze Maria da Ascenção**, * **25.04.1880**, Valle de Todos;
 Eltern **Joze Mendes Ferreira** × **Anna da Piedade**. Blatt:
-[jose-maria-records](../../jose-maria-records/README.md).
+[akten/jose-maria](../../akten/jose-maria/README.md).
 
 | 1902 Pass | 1880 Taufe | Gewissheit |
 | --- | --- | --- |

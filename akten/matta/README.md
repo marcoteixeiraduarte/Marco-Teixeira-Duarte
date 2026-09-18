@@ -1,5 +1,7 @@
 # Manuel (Matta) – geprüfte Kirchenbuchfunde
 
+Ordner `akten/matta/` · Matta / Ramalha. Durchblättern: `archiv/matta/`.
+
 Schreibweisen folgen dem Eintrag.
 
 ## Taufe, 1. August 1872
@@ -62,7 +64,7 @@ nicht darin. Blatt: [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-le
 
 Quelle:
 
-- `matta-records/casamento-1896/PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg`;
+- `akten/matta/casamento-1896/PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg`;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/70ca5cac730e44caade08834c666a216)
 
 ## Palmyra, Taufe 23. Juni 1897 (Torre) — erste Tochter
@@ -76,7 +78,7 @@ Quelle:
 
 Quelle:
 
-- `matta-records/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg`
+- `akten/matta/baptismos-1897/PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg`
   (rechte Buchseite);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015)
 
@@ -94,6 +96,6 @@ Blatt: [zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-prag
 
 Quelle:
 
-- `matta-records/baptismos-1871/PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg`
+- `akten/matta/baptismos-1871/PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg`
   (rechte Buchseite);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/1728f8a2d54c411fa0065d1eb8c9fa6a)

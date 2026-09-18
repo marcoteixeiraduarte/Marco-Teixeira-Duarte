@@ -14,7 +14,7 @@ Quelle: [caetana-maria](caetana-maria.md), Scan `…PANS08-001-0003_m0020.jpg`.
 
 ## Avelar-Taufen desselben Namenspaares
 
-Lokal vorhanden, noch nicht versioniert: `avelar-records/baptismos-1773-1802/`.
+Lokal vorhanden, noch nicht versioniert: `suche/avelar-rohbande/baptismos-1773-1802/`.
 
 | Scan | Kind | Datum | Eltern | Gewissheit für unsere Linie |
 |---|---|---|---|---|

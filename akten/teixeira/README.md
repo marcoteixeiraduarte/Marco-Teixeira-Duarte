@@ -1,5 +1,7 @@
 # João Teixeira (Forte) – geprüfte Kirchenbuchfunde
 
+Ordner `akten/teixeira/` · Signatur-Scans. Durchblättern: `archiv/teixeira/`.
+
 Wir sprechen hier von **João Teixeira (Forte)** — Unterscheidung
 nach der väterlichen Großmutter **Maria Forte**. Der Taufakt N.º 42
 nennt nur **João**; `Forte` steht dort bei der Großmutter, nicht als

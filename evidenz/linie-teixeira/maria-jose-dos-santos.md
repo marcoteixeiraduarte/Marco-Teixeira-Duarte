@@ -64,7 +64,7 @@ das untypisch — dort bleiben Mendes/Barbeiro in **Pragoza**.
 Nicht mit der Heirat des Sohnes 1937 verwechseln.
 
 Lokal liegen bisher nur die ersten Blätter von PANS02 1900–1909
-(`ansiao-records/casamentos-1900-1909/`, Einband). Kein Treffer dort.
+(`suche/ansiao-maria-jose/casamentos-1900-1909/`, Einband). Kein Treffer dort.
 
 ## Wohnort in der Ecke
 

@@ -1,5 +1,7 @@
 # Joze Maria da Ascenção – geprüfte Kirchenbuchfunde
 
+Ordner `akten/jose-maria/` · Ascenção / Barbeiro. Durchblättern: `archiv/jose-maria/`.
+
 Originalscan aus Nossa Senhora da Graça, Torre de Valle de Todos,
 Kreis Ansião, Distrikt Leiria. Schreibweisen folgen dem maßgeblichen
 Eintrag und werden nicht modernisiert.
@@ -68,7 +70,7 @@ Quelle:
   `PT-ADLRA-PRQ-PANS08-001-0025_m0004.jpg`, Eintrag Nr. 5;
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/a2212ccc406846d7b57855b9a0236c7c)
 
-Die Taufe der Ehefrau: [Narciza-Akten, Maria da Piedade](../narcisa-records/README.md#tochter-maria-da-piedade).
+Die Taufe der Ehefrau: [Narciza-Akten, Maria da Piedade](../narcisa/README.md#tochter-maria-da-piedade).
 
 ## Mutter: Anna, Taufe 14. Juli 1845
 

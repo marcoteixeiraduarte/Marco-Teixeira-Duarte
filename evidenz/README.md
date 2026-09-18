@@ -32,29 +32,21 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 
 ## Ordner
 
+- [`../akten/`](../akten/README.md) — Signatur-Scans mit Transkript
+- [`../archiv/`](../archiv/README.md) — dieselben Pixel, sprechende Namen
+- [`../suche/`](../suche/README.md) — Rohbande, nicht im Git
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
-- `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
+- `linie-torre/` — Narciza, Caetana, Reis, Guiomar-avós, Pass 1901
 - `linie-teixeira/` — João Teixeira (Forte) 1879; Maria José dos Santos;
   Ecke Maxial; Suchkreis inkl. Avelar und Alvorge
-- `linie-guiomar/` — Feio / Contente / Guiomar; Joaquim * 3.04.1853;
-  Melchior * **15.05.1775** Val de Todos; × Rozaria, Carvalhinho 1824;
-  Generation **Antonio Rodrigues Feio × Maria Mendes**, Carvalhinho
-- `linie-guiomar/antonio-feio-carvalhinho.md` — neue Schicht 1700;
-  Zeitraum `001/0001` **1720–1767** plus `001/0002` ab 19.06.1767;
-  DigitArq `002/0001`/`002/0002` sind nicht die Heiratsbände
-- `linie-torre/passe-antonio-guiomar-1901.md` — Pass 1901 = Bruder
-  Joãos, nicht der avô Antonio × Joaquina; José Maria 1902; Freixo /
-  Lindos
-- `linie-torre/antonio-dias-guiomar-joaquina.md` — avós 1874; Luiz ×
-  Delfina haben wir, nicht noch einmal suchen
-- `1700-1800.md` — nächster Abschnitt; Faden jetzt Antonio Rodrigues Feio
-  × Maria Mendes, Carvalhinho; `002/0002` = Taufen `001/0002`
-- `wer-blieb.md` — welche Familie wo sesshaft; Zuzug über Mann oder Frau
-- `suche-erweitert.md` — Jahre und Ringe weitermachen; Heirat Matta×Ramalha 1896 gefunden
-- `linie-torre/joaquina-reis-leal.md` — Joaquina Ramalha / Reis; Eltern José dos Reis × Maria Ramalha
-- `linie-torre/zwei-reis-haeuser-pragoza.md` — zwei Reis-Häuser, Brüder über Manoel Pedro × Joaquina Maria; Sebastião 1871
+- `linie-guiomar/` — Feio / Contente; Joaquim * 3.04.1853;
+  Melchior * **15.05.1775**; Antonio Feio × Maria Mendes, Carvalhinho
+- `1700-1800.md` — nächster Abschnitt Feio 1700
+- `wer-blieb.md` — welche Familie wo sesshaft
+- `suche-erweitert.md` — Jahre und Ringe
 - `quellenregister.md` — alle versionierten Scans
+- `scans/` — Crops zu den Blättern
 
 Zum Durchforsten (Name → Ordner): [`../archiv/NAMEN.md`](../archiv/NAMEN.md).
 

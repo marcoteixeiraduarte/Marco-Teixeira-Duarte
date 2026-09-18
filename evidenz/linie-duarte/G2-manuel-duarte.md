@@ -13,7 +13,7 @@
 ## Quelle Taufe
 
 - Archiv: `PT/AUC/PAR/PNL01/002/0030`
-- Scan: `duarte-freire-records/cumeeira/1885/PNL01-002-0030_m0017.jpg`
+- Scan: `akten/duarte-freire/cumeeira/1885/PNL01-002-0030_m0017.jpg`
 - [AUC](https://pesquisa.auc.uc.pt/details?id=43231)
 
 ### Transkript, soweit sicher
