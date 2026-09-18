@@ -8,8 +8,8 @@ Getrennte Spur. Nicht an die Duarte-Urgroßeltern gehängt.
 |---|---|---|
 | Taufname | Narciza / Naviza | sicher als diese Person, s/z in der Hand mehrdeutig |
 | Heiratsname | Narcisa da Conceição | sicher |
-| Geburt | 19. des Vormonats zur Zeremonie vom 6. November 1856 | wahrscheinlich 19. Oktober 1856 |
-| Frühere Angabe | 19. September 1856 | offen, widerspricht „mez passado“ zu November |
+| Geburt | 19. September 1856 | sicher (Scan: „nascida aos dezenove dias de mez de Setembro do dito anno“) |
+| Nottaufe | zu Hause, in Lebensgefahr, vor der Zeremonie | sicher |
 | Zeremonie | 6. November 1856, Torre | sicher |
 | Eltern | João Rodrigues Gatto × Caetana Maria | sicher; das ist der 4. Grad **materno** |
 | Heirat | 8. Mai 1878, Torre, Akt Nr. 9 | sicher |
@@ -28,13 +28,17 @@ Linke Seite, unterer Eintrag, Rand:
 
 > Torre […] Narciza / Naviza
 
-Beginn:
+Beginn (links, Schluss der Datumszeile rechts):
 
 > Aos seis dias do mez de Novembro de mil oito centos e cincoenta e seis […]
+> […] as Cerimonias do Baptismo e puz os Santos Oleos a Naviza nascida aos dezenove dias de
+> mez de Setembro do dito anno, aquelle já havia sido baptizada em casa em perigo de morte
+> […] filha legitima de João Rodrigues Gatto e de Caetana Maria do lugar de São Jorge, digo,
+> do lugar da Torre, neta paterna de Jose Rodrigues Gatto e de Margarida Thereza do lugar
+> de São Jorge, e materna de Manoel Joaquim Sol e de Maria Joaquina deste dito lugar da Torre.
 
-Rechte Seite, Fortsetzung der Eltern:
-
-> João Rodrigues Gatto e Caetana Maria […] do lugar da Torre […] paterno de Jose Rodrigues Gatto e Margarida Theresa […] do lugar de São Jorge […] materno de Manoel Joaquim Sol e Maria Joaquina […] do lugar da Torre.
+Die ältere Hypothese „19. des Vormonats / mez passado → Oktober“ ist gegen diesen
+Wortlaut nicht haltbar. Der Monat steht ausgeschrieben als **Setembro**.
 
 ## Quelle Heirat
 
