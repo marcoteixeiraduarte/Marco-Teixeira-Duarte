@@ -61,7 +61,8 @@ Bemposta gesucht wird.
 Passregister nennen **Eltern**, nie den Ehepartner. Für
 **Joaquina Maria** (Frau des avô Antonio Dias Guiomar) bringt 1901
 nichts. Die Ehe bleibt allein durch die Großelternzeile 1874 belegt.
-Taufe Luiz in Alvorge / Bemposta weiter offen.
+**Luiz Guiomar × Delfina Maria** haben wir (1874 und dieser Pass).
+Die Schicht darüber: [antonio-dias-guiomar-joaquina](antonio-dias-guiomar-joaquina.md).
 
 ## José Maria da Ascensão, Pass 12. Mai 1902
 
@@ -155,10 +156,12 @@ ein Akt die Form trägt. `Ramalho` 1913 nicht an Joaquina Ramalha.
 
 ## Nächste Tür
 
+Luiz × Delfina nicht noch einmal suchen.
+
 1. DigitArq-Scan `GCLRA/H-D/001/0018/00750` (Pass António) — Filiação
    festlesen.
 2. Taufe des Bruders António, Luiz × Delfina, Torre **~1866–1870**.
-3. Taufe Luiz, Alvorge / Bemposta, avós Antonio Dias Guiomar ×
-   Joaquina Maria — das bleibt die Tür zum **avô**.
+3. Avô-Paar **Antonio Dias Guiomar × Joaquina Maria** (1874 genannt):
+   eigene Akte, zuerst Alvorge / Bemposta.
 4. Freixo und Lindos: Ortsregister, nicht Personenanschluss über den
    Pass Jorge.

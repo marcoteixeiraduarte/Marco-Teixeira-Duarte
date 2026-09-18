@@ -46,6 +46,8 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-torre/passe-antonio-guiomar-1901.md` — Pass 1901 = Bruder
   Joãos, nicht der avô Antonio × Joaquina; José Maria 1902; Freixo /
   Lindos
+- `linie-torre/antonio-dias-guiomar-joaquina.md` — avós 1874; Luiz ×
+  Delfina haben wir, nicht noch einmal suchen
 - `1700-1800.md` — nächster Abschnitt; Faden jetzt Antonio Rodrigues Feio
   × Maria Mendes, Carvalhinho; `002/0002` = Taufen `001/0002`
 - `wer-blieb.md` — welche Familie wo sesshaft; Zuzug über Mann oder Frau

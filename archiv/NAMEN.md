@@ -13,7 +13,9 @@ Blatt mit Transkript: [`evidenz/quellenregister.md`](../evidenz/quellenregister.
 | Name (Suche) | Ordner zum Durchblättern | Akte |
 | --- | --- | --- |
 | **João Teixeira (Forte)** · Custodio · Joana de Jesus · Maria Forte · Joaquim Carvalho · Maria da Conceição (Carrasqueiras) | [`teixeira/`](teixeira/) | [teixeira-records](../teixeira-records/README.md) |
-| **João Dias Guiomar** · Luiz Guiomar (Bemposta) · Delfina | [`guiomar/`](guiomar/) `1874-…` | [guiomar-records](../guiomar-records/README.md) |
+| **João Dias Guiomar** · * 22.04.1874 Rua d'Além | [`guiomar/`](guiomar/) `1874-…` | [guiomar-records](../guiomar-records/README.md) |
+| **Luiz Guiomar × Delfina Maria** · João 1874 · Pass-António 1901 Bruder — **haben wir** | [`guiomar/`](guiomar/) `1874-…` | [guiomar-records](../guiomar-records/README.md) · [passe-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md) |
+| **Antonio Dias Guiomar × Joaquina Maria** · avós 1874 | — | [antonio-dias-guiomar-joaquina](../evidenz/linie-torre/antonio-dias-guiomar-joaquina.md) |
 | **Maria** (Pião) · Joaquim Rodrigues Feio · Maria Helena · Jozé Contente | [`guiomar/`](guiomar/) `1882-…` | dasselbe |
 | **Joaquim Rodrigues Feio** * 3.04.1853 Pragoza · Nicolao · Belchior Roiz Feio · Agueda Maria (nicht Blatt-Rosa) | [`guiomar/`](guiomar/) `1853-baptismo-joaquim-feio-…` | [feio-contente](../evidenz/linie-guiomar/feio-contente.md) |
 | **Melchior Rodrigues Feio** * 15.05.1775 Val de Todos · Manoel João Neto × Antonia Maria Caetana · Theresa 1824 · Rozaria · Carvalhinho | [`guiomar/`](guiomar/) `1775-baptismo-melchior-…` `1824-baptismo-theresa-…` | [melchior-1775](../evidenz/linie-guiomar/melchior-1775.md) · [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md) |
@@ -70,8 +72,8 @@ Erst anlegen, wenn ein Treffer festliegt.
 | Taufe Joaquina | Torre Pragoza, Eltern José dos Reis × Maria Ramalha, **1875–1880** (1872–74 leer). Bruder **Sebastião * 7.05.1871** gefunden |
 | Palmyra * 8.06.1897 | **gefunden**, erste Tochter; Palmira * 24.04.1912 ist die späte |
 | Geburt José Mendes N.º 320/1914 | Conservatória, hier kein Foto |
-| Taufe Luiz Guiomar | Alvorge / Bemposta **1820–1850** |
-| Taufe Delfina Maria | Torre **1835–1860**, Lindos = Weiler Torre, nicht Lindoso |
+| Luiz Guiomar × Delfina Maria | **haben wir** (João 1874; Pass 1901). Nicht noch einmal suchen |
+| Antonio Dias Guiomar × Joaquina Maria | avós 1874; eigene Akte zuerst Alvorge / Bemposta |
 | Taufen Kinder Antonio Feio × Maria Mendes | Torre `001/0001` **1720–1767** (Caralinho); Heirat ~1725–1755 |
 | Taufe Roza Maria | Alvorge **1815–1840**, Vale Paio / Aljazede |
 
