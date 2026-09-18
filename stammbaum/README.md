@@ -4,6 +4,10 @@ Gegenlese des Stammbaumblatts (Zürich, 08.09.2026, Marco Teixeira
 Duarte) gegen die geprüften Kirchenbucheinträge. Historische
 Schreibweisen werden nicht modernisiert.
 
+Bereinigte GEDCOM zum GitHub-Stand (nur geneaologische Fakten;
+Blattfehler nicht übernommen; Ungewisses in NOTE):
+[teixeira-duarte.ged](teixeira-duarte.ged).
+
 **Arbeitsumfang:** Lebende und die Großeltern (avós) sind vom
 Auftraggeber selbst belegt und gehören nicht in diese Prüfung. Hier
 werden nur **bisavós und ältere** Karten gehalten.

@@ -19,7 +19,7 @@ Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechenden Namen; Conservatória-Fotokopien |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter mit Transkript und Gewissheit |
-| [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter |
+| [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter; bereinigte GEDCOM [`stammbaum/teixeira-duarte.ged`](stammbaum/teixeira-duarte.ged) |
 | `*-records/` | Personenakten mit Signatur und DigitArq/AUC-Links |
 | [`README.md`](README.md) | Ortsregister und Arbeitsregeln |
 
@@ -73,7 +73,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
 | Narciza | Taufe 6.11.1856 Torre; Heirat 8.5.1878 als Narcisa da Conceição × José Pedro dos Reis | sicher | [narcisa](narcisa-records/README.md) |
-| Geburt Narciza | Zeremonie 6.11.; Geburt „19. des Vormonats“ → Sept. vs. Okt. | offen (Lesung `mez passado`) | [narciza.md](evidenz/linie-torre/narciza.md) |
+| Geburt Narciza | * 19.9.1856 (Scan: Setembro); Nottaufe zu Hause; Zeremonie 6.11.1856 | sicher | [narciza.md](evidenz/linie-torre/narciza.md) |
 | Maria da Piedade | * 15.9.1878 Pragoza; Eltern José Pedro × Narciza | sicher | narcisa + [jose-maria](jose-maria-records/README.md) |
 | José Pedro dos Reis | * 24.11.1854 Pragosa; Taufe 19.12.1854; Heirat 1878; † 2.10.1903 Grenze Pião/Lagarteira | sicher | [jose-pedro](evidenz/linie-torre/jose-pedro-dos-reis.md) |
 | 4. Grad **paterno** | Manoel Pedro dos Reis × Roza Maria; Heirat 23.3.1851 Torre | sicher als Eltern José Pedros (Taufe 1854) | [G4-paterno-reis](evidenz/linie-torre/G4-paterno-reis.md) |
@@ -160,10 +160,9 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | 2 | Conservatória Ansião: zehn Fotos in [`archiv/conservatoria-ansiao/`](archiv/conservatoria-ansiao/README.md) händisch lesen (bisavós *1912–1915) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
-| 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
-| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
-| 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
+| 5 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
+| 6 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
+| 7 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 
 ---
 
