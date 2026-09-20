@@ -27,7 +27,7 @@ Blatt mit Transkript: [`evidenz/quellenregister.md`](../evidenz/quellenregister.
 | **Anna** · Manoel Dias Barbeiro · João Dias da Quelha | [`jose-maria/`](jose-maria/) | [Anna 1845](../akten/jose-maria/anna-1845/README.md) |
 | **Narciza** / Narcisa da Conceição · **Caetana** · João Gato · Manoel Sol | [`narcisa/`](narcisa/) | [Narciza](../akten/narcisa/narciza/README.md) · [Caetana](../akten/narcisa/caetana-maria/README.md) |
 | **José Pedro dos Reis** · Manoel Pedro dos Reis · Roza Maria (Alvorge) · Maria da Piedade | [`narcisa/`](narcisa/) | [José Pedro](../akten/narcisa/jose-pedro-dos-reis/README.md) · [Manoel Pedro](../akten/narcisa/manoel-pedro-dos-reis/README.md) · [Maria da Piedade](../akten/narcisa/maria-da-piedade/README.md) |
-| **Joaquina Reis** · **Sebastião 1871** · **Palmyra 1897** · **Palmira 1912** · Manuel Matta | [`matta/`](matta/) plus [`conservatoria-ansiao/`](conservatoria-ansiao/) | [Joaquina](../akten/matta/joaquina-ramalha/README.md) · [Sebastião](../akten/matta/sebastiao-1871/README.md) · [Palmyra 1897](../akten/matta/palmyra-1897/README.md) · [Palmira 1912](../akten/matta/palmira-reis-1912/README.md) |
+| **Joaquina Reis** · **Maria da Graça 1864** · **Sebastião 1871** · **Palmyra 1897** · **Palmira 1912** · Manuel Matta | [`matta/`](matta/) plus [`conservatoria-ansiao/`](conservatoria-ansiao/) | [Maria da Graça 1864](../akten/matta/maria-da-graca-1864/README.md) · [Joaquina](../akten/matta/joaquina-ramalha/README.md) · [Sebastião](../akten/matta/sebastiao-1871/README.md) · [Palmyra 1897](../akten/matta/palmyra-1897/README.md) · [Palmira 1912](../akten/matta/palmira-reis-1912/README.md) |
 | **José Mendes Ascenção** × Palmira (Heirat 1937, beide Pragoza) | [`conservatoria-ansiao/`](conservatoria-ansiao/) `06` `05` | [José Mendes 1914](../akten/jose-maria/jose-mendes-ascencao/README.md) |
 | **Maria Emília Guiomar** · Tod João Guiomar 1958 · Heirat 1937 Teixeira×Guiomar | [`conservatoria-ansiao/`](conservatoria-ansiao/) `04` `07` `03` `02` | [Maria Emília](../akten/guiomar/maria-emilia-guiomar/README.md) |
 | **Manuel Teixeira** * 10.09.1913 Ribeira de Cima · Maria José dos Santos · Francisco José dos Santos × Maria Thereza | [`conservatoria-ansiao/`](conservatoria-ansiao/) `01` | [Manuel 1913](../akten/teixeira/manuel-teixeira-1913/README.md) · [Maria José](../akten/teixeira/maria-jose-dos-santos/README.md) |
@@ -69,13 +69,13 @@ wenn **ihr eigener** Tauf-/Heirats-/Sterbeakt festliegt.
 | Name | Wonach suchen | Ordner jetzt |
 | --- | --- | --- |
 | Heirat João Teixeira (Forte) × Maria José | Ring 1–3, **1895–1913**; Zivil ab Apr 1911 Ansião **und** Penela | [Maria José](../akten/teixeira/maria-jose-dos-santos/README.md) |
-| Taufe Maria José dos Santos | Eltern Francisco José × Maria Thereza; **1876–1894**, zuerst PANS02 | dasselbe |
-| Taufe Joaquina Ramalha | Torre Pragoza, José dos Reis × Maria Ramalha, **1875–1880** | [Joaquina](../akten/matta/joaquina-ramalha/README.md) · Bruder [Sebastião](../akten/matta/sebastiao-1871/README.md) |
+| Taufe Maria José dos Santos | Eltern Francisco José × Maria Thereza; **1876–1894**, zuerst PANS02 (1883 lokal fehlend; 1884 ohne Treffer) | dasselbe |
+| Taufe Joaquina Ramalha | **1872–1880 Torre leer.** Heirat der Eltern **16.11.1863** gefunden | [Joaquina](../akten/matta/joaquina-ramalha/README.md) |
 | Geburt José Mendes N.º 320/1914 | Conservatória, hier kein Foto | [José Mendes](../akten/jose-maria/jose-mendes-ascencao/README.md) |
-| Luiz Guiomar × Delfina Maria | **haben wir** als Paar (João 1874). Eigene Taufe/Trauung offen. Nicht noch einmal das Paar suchen | [Luiz](../akten/guiomar/luiz-guiomar/README.md) · [Delfina](../akten/guiomar/delfina-maria/README.md) |
-| Antonio Dias Guiomar × Joaquina Maria | eigene Akte zuerst Alvorge / Bemposta | [Antonio](../akten/guiomar/antonio-dias-guiomar/README.md) |
+| Luiz Guiomar × Delfina Maria | **haben wir.** Kinder António 1867, Anna 1869, João 1874. Eigene Taufe Luiz/Delfina offen | [Luiz](../akten/guiomar/luiz-guiomar/README.md) · [Antonio 1867](../akten/guiomar/antonio-guiomar-1867/README.md) |
+| Antonio Dias Guiomar × Joaquina Maria | eigene Akte zuerst Alvorge / **Bemposta** (1867 so) | [Antonio](../akten/guiomar/antonio-dias-guiomar/README.md) |
 | Taufen Kinder Antonio Feio × Maria Mendes | Torre `001/0001` **1720–1767**; Heirat ~1725–1755 | [Antonio Feio](../akten/guiomar/antonio-rodrigues-feio/README.md) |
-| Taufe Roza Maria | Alvorge **1815–1840**, Vale Paio / Aljazede | [Roza](../akten/narcisa/roza-maria/README.md) |
+| Taufe Roza Maria | Alvorge **1815–1840**; Band 1822–52 beginnt 22.05.1822 — April 1822 nicht darin | [Roza](../akten/narcisa/roza-maria/README.md) |
 
 Suchkreis: [evidenz/linie-teixeira/suchkreis.md](../evidenz/linie-teixeira/suchkreis.md).
 Jahre und Ringe: [evidenz/suche-erweitert.md](../evidenz/suche-erweitert.md).

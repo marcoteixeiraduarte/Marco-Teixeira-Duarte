@@ -15,6 +15,7 @@ nicht in dieser Prüfung.
 | [Joaquina Ramalha / Reis](joaquina-ramalha/README.md) | 3.º avó; Pragoza | eigene Akte | offen |
 | [Palmyra (* 1897, erste Tochter)](palmyra-1897/README.md) | primeira filha Manuel × Joaquina Ramalha — nicht die Blatt-Palmira 1912 | eigene Akte | offen |
 | [Palmira Reis (* 1912)](palmira-reis-1912/README.md) | bisavó, ramo materno | Zivil Conservatória | offen |
+| [Maria da Graça (* 1864)](maria-da-graca-1864/README.md) | erste gelesene Tochter José dos Reis × Maria Ramalha; vor José 1866 | eigene Akte | offen |
 | [Sebastião (* 1871)](sebastiao-1871/README.md) | primeiro filho José dos Reis × Maria Ramalha; Bruder Joaquinas | eigene Akte | offen |
 | [Anna de Jesus Matta](anna-de-jesus-matta/README.md) | 4.º avó; São Jorge; Mutter Manuel (pai incógnito) | genannt im Akt | offen |
 | [José dos Reis (Pragoza, Ramalha-Haus)](jose-dos-reis-pragoza/README.md) | 4.º avô Joaquinas; nicht José Pedro dos Reis (Kaufmann, anderes Haus) | genannt im Akt | offen |

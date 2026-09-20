@@ -63,10 +63,30 @@ Alvorge (Bemposta), nicht namenweise Torre 1609.
 Eigene Taufe Luiz / eigene Taufe Delfina sind **Datierung**, nicht
 die Suche nach dem Paar Luiz × Delfina.
 
+## Kinder Luiz × Delfina (nicht das Paar suchen)
+
+| Kind | Akt | Gewissheit |
+| --- | --- | --- |
+| **Antonio** | * 20.04.1867 / ~ 22.04.1867, **Lindeo** N.º 9 | sicher |
+| **Anna** | ~ 08.08.1869, **São Jorge** N.º 11, primeira deste nome | sicher |
+| **João** | * 22.04.1874, Rua d'Além | sicher |
+
+Avós 1867/1869: Antonio Dias Guiomar × Joaquina Maria, **Bemposta**;
+José Gregorio, defunto × **Benedita Maria**, viúva, Lindeo.
+Avós 1874: dieselben väterlich; mütterlich **Nazareth Maria**.
+Nicht glätten.
+
+Alvorge `PANS01/001/0004` `m0105`, 02.10.1835, Bemposta: Kind
+**Joaquina**, Eltern **J. Dias × Maria Joaquina**, avô paterno
+**Antonio Dias Guiomar** — Gegenlese 1864-Fenster: Datum und Bemposta
+**sicher**; Eltern J. Dias × M.ª Joaq.ª **wahrscheinlich**; avô
+Guiomar und Kindname **Kandidat**. Nicht Geschwister Luiz.
+Eigene Taufe Luiz 1834–1836 in diesem Band **nicht** gefunden.
+Lesung: [suche-1864-1865-alvorge-1835](suche-1864-1865-alvorge-1835.md).
+
 ## Nächste Tür
 
-1. Eigene Akte **Antonio Dias Guiomar × Joaquina Maria** (Heirat,
-   Óbitos, Geschwister Luiz) — zuerst Alvorge / Bemposta.
-2. Taufe des Enkels António, Luiz × Delfina, Torre **~1866–1870**.
-3. DigitArq-Scan Pass `GCLRA/H-D/001/0018/00750`.
-4. Nicht zurück: Luiz × Delfina als Paar. Das steht.
+1. Eigene Akte **Antonio Dias Guiomar × Joaquina Maria** — Alvorge /
+   Bemposta (jetzt mit Wohnort 1867).
+2. DigitArq-Scan Pass `GCLRA/H-D/001/0018/00750`.
+3. Nicht zurück: Luiz × Delfina als Paar; nicht António 1867.

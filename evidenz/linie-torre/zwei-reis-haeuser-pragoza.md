@@ -50,8 +50,13 @@ Manoel Pedro × Joaquina Maria, Pragosa
  ├── Manoel Pedro dos Reis × Roza Maria     Haus B
  │      └── José Pedro * 24.11.1854 × Narciza
  └── José dos Reis × Maria Ramalha          Haus A
-        ├── Sebastião * 7.05.1871  (primeiro)
-        └── Joaquina ~1872–73 × Manuel Matta
+        ∞ 16.11.1863 (er 28, Pragoza; sie 21, Castello)
+        ├── Maria da Graça * 30.05.1864 Pragoza  (primeira do nome; ~ 10.07.1864 N.º 14)
+        ├── José * ~04.02.1866 Pragoza   (primeiro deste nome)
+        ├── Maria  ~ 13.03.1867 Pragoza  (Geburt Gegenlese; nicht die 1864er)
+        ├── Sebastião * 7.05.1871        (Akt: primeiro filho — daneben schon José 1866)
+        ├── José * 18.09.1875 Pragoza    (segundo deste nome)
+        └── Joaquina ~1872–73 × Manuel Matta  (Taufe 1872–80 nicht in Torre)
 ```
 
 **José dos Reis** und **Manoel Pedro dos Reis** sind **Brüder**.
@@ -83,12 +88,15 @@ Patin Angelica Maria, Witwe: dieselbe Frau wie die Großmutter mütterlich.
 | Torre Casamentos **1871–1874** | kein José dos Reis × Maria Ramalha (Sebastião ist 1871 schon primeiro → Heirat **vor** 7.05.1871) |
 | Torre Casamentos **1868** | gelesen, dieses Paar nicht erkannt (Handschrift blass) |
 | Torre Batismos **1872, 1873, 1874** | **keine** Joaquina des Paares José dos Reis × Maria Ramalha in Pragoza |
+| Torre Batismos **1864** | **Maria da Graça** N.º 14, * 30.05.1864 / ~ 10.07.1864, Pragoza — **sicher** Kind dieses Paares. Keine Joaquina. Andere Pragoza-José (N.º 8, 10) andere Eltern | 
+| Torre Batismos **1865** | **kein** Kind dieses Paares. N.º 13 Portela: Maria Ramalha nur **Patin** (Kind Manoel Duarte × Joaquina Maria) | 
 | Torre Batismos **1871** | Sebastião N.º 7 **gefunden**; danach in diesem Jahr keine Joaquina Pragoza |
 
-Heirat José × Maria Ramalha: Torre **1860–1867** und der Band
-1812–1859 nach 1851, zur Not Alvorge (Ramalho-Seite). Taufe Joaquina:
-nach dem primeiro-Kind 1871 weiterhin **1872–1880**, trotz der drei
-Leerjahre 1872–74 — sie **muss** da sein (23 am 21.08.1896).
+Heirat **gefunden: 16.11.1863**, Torre N.º 5,
+`PANS08/002/0007` `m0004`. Scan:
+`akten/matta/jose-dos-reis-pragoza/1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004.jpg`.
+Taufe Joaquina: **1872–1880 leer** (1875–80 jetzt gelesen). Nächste
+Tür nicht das Alter verbiegen.
 
 Scan: `archiv/matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg`.
 Ausschnitt: `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg`.
