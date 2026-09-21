@@ -1,68 +1,124 @@
-# Pass António Dias Guiomar 1901 — nicht der avô
+# Pässe António 1901 / Manoel 1886 — Katalog geprüft, Originale offen
 
-Governo Civil de Leiria, Passregister. Abgleich mit der Taufe
-João 1874 (`akten/guiomar/`). Der António Dias Guiomar aus dem
-Pass von **1901** ist **nicht** der avô **Antonio Dias Guiomar** ×
-**Joaquina Maria**.
+Stand: **21.09.2026**. Die in PR #14 zunächst nur aus einer
+Blog-Transkription übernommenen Passangaben wurden in PR #15 am
+17.09.2026 direkt im öffentlichen **ADLRA-Katalog** gegengeprüft.
+Damit sind Titel, Signatur und Katalogfelder unmittelbar belegt.
+Die historischen Passseiten selbst sind weiterhin **nicht gelesen**.
 
-Zwei Namensträger in aufeinanderfolgenden Generationen.
+Katalogmetadatum, Originalregister, Personenabgleich und tatsächliche
+Reise bleiben getrennte Belegebenen.
 
-Quelle der Passzeilen: Blog-Transkription der GCLRA-Bände (ADLRA),
-nicht der Originalscan. Deshalb die Passfelder **wahrscheinlich**,
-bis das Blatt `PT/ADLRA/AC/GCLRA/H-D/…` selbst liegt. Die Logik
-gegen die Taufe 1874 bleibt, sobald die Filiação stimmt.
+## António Dias Guiomar — 22. Januar 1901
 
-Blog: [Coysas e Loysas, 4.10.2015](https://quintaisisa.blogspot.com/2015/10/igreja-de-torre-vale-de-todos-mais-bela.html)
-(Torre-Pässe mit Filiação; Quelle dort: Arquivo Distrital de Leiria,
-pedidos de passaportes). DigitArq-Bild zu `00750` in diesem Schnitt
-nicht geholt.
+| Feld | Direkt geprüfte Katalogangabe |
+| --- | --- |
+| Titel | Passaporte de António Dias Guiomar |
+| Signatur | `PT/ADLRA/AC/GCLRA/H-D/001/0018/00750` |
+| Registo | 23 |
+| Datum | **22.01.1901**; im Katalog als sicher markiert |
+| Alter | **33 Jahre** |
+| Filiação | **Luís Guiomar** / **Delfina Maria** |
+| Naturalidade | Torre de Vale de Todos / Ansião |
+| Residência | Torre de Vale de Todos / Ansião |
+| Destino | Santos / Brasil |
 
-## Pass António, 22. Januar 1901
+[ADLRA-Katalog](https://digitarq.arquivos.pt/documentDetails/c0069b093c6f41dc8408820d5c3e2c9d)
+· [gesicherter Katalogauszug](katalog/1901-antonio-dias-guiomar.json)
 
-| Feld | Transkription | Gewissheit |
-| --- | --- | --- |
-| Signatur | `PT/ADLRA/AC/GCLRA/H-D/001/0018/00750` | wahrscheinlich (Blog) |
-| Datum | **1901-01-22** | wahrscheinlich |
-| Name | **António Dias Guiomar** | wahrscheinlich |
-| Alter | **33** → * um 1867/68 | wahrscheinlich |
-| Filiação | **Luís Guiomar** / **Delfina Maria** | wahrscheinlich |
-| Naturalidade | Torre de Vale de Todos / Ansião | wahrscheinlich |
-| Residência | Torre de Vale de Todos / Ansião | wahrscheinlich |
-| Destino | Santos / Brasil | wahrscheinlich |
+`00750` ist Teil der Signatur; die Registo-Nummer ist **23**.
+Der Einzeldatensatz enthält keine veröffentlichte digitale
+Repräsentation. Er ist eine Archivbeschreibung, kein Transkript
+des Passoriginals.
 
-Blog, wörtlich:
+### Abgleich mit Antonio, geboren 16.03.1867
 
-> Passaporte de António Dias Guiomar
-> Código de referência PT/ADLRA/AC/GCLRA/H-D/001/0018/00750
-> 1901-01-22
-> Idade: 33 anos Filiação: Luís Guiomar / Delfina Maria
-> Naturalidade: Torre de Vale de Todos / Ansião
-> Residência: Torre de Vale de Todos / Ansião
-> Destino: Santos / Brasil
+Die in PR #15 gegengelesene Taufe
+`PT/ADLRA/PRQ/PANS08/001/0012`, Bilder `m0003` / `m0004`,
+nennt **Antonio**, geboren **16.03.1867**, getauft **22.04.1867**,
+Eltern **Luiz Guiomar × Delfina Maria**, wohnhaft **Lindos**.
+Großeltern väterlicherseits:
+**Antonio Dias Guiomar × Joaquina Maria**.
 
-Taufe João, 10. Mai 1874, Rua d'Além: Eltern **Luiz Guiomar** ×
-**Delfina Maria**; avós paternos **Antonio Dias Guiomar** ×
-**Joaquina Maria**. Blatt:
-[João 1874](../../akten/guiomar/joao-guiomar-1874/README.md).
+Am 22.01.1901 war dieses Taufkind 33 Jahre alt. Vorname, Alter,
+beide Elternnamen und Pfarrei passen. Der Katalog nennt aber keinen
+Weiler, keine Großeltern und kein vollständiges Geburtsdatum.
 
-| 1901 Pass | 1874 Taufe João | Gewissheit |
-| --- | --- | --- |
-| Filiação Luís Guiomar / Delfina Maria | dieselben als **Eltern** | sicher dieselbe Paarzeile, sobald die Pass-Filiação stimmt |
-| Alter 33 im Jan. 1901 | João * **22.04.1874** (dann 26) | Pass-António **älterer Bruder**, nicht der Täufling |
-| Name António Dias Guiomar | avô **Antonio Dias Guiomar** | Namenswiederholung: der Sohn trägt den Namen des Großvaters |
-| `Dias` im Passnamen | `Dias` 1874 beim **avô**, nicht im Taufnamen João | passt zum Muster der Sippe |
+**Zuordnung: wahrscheinlich dieselbe Person, nicht abschließend
+bewiesen.** Der Reisende darf deshalb noch nicht endgültig mit dem
+Taufkind verschmolzen werden. Sicher ausgeschlossen ist nur die
+Verwechslung mit dem gleichnamigen Großvater, der 1859 bereits als
+verstorben bezeichnet wird.
 
-Der Pass-António ist damit ein Sohn Luiz × Delfina und **Bruder**
-des João. Er ist **nicht** der Großvater, nach dem in Alvorge /
-Bemposta gesucht wird.
+## Manoel Dias Guiomar — 23. Februar 1886 [?]
 
-## Was der Pass für Joaquina Maria nicht leistet
+| Feld | Direkt geprüfte Katalogangabe |
+| --- | --- |
+| Titel | Passaporte de Manoel Dias Guiomar |
+| Signatur | `PT/ADLRA/AC/GCLRA/H-D/001/0006/000125` |
+| Registo | 125 |
+| Datum | **23.02.1886**; Anfangs- und Enddatum im Katalog als **unsicher** markiert |
+| Alter | **23 Jahre** |
+| Filiação | **Luis Dias Guiomar** / **Delfina Maria** |
+| Naturalidade | Torre de Valle Todos / Ancião / Leiria |
+| Residência | Torre de Valle Todos / Ancião / Leiria |
+| Destino | Cidade de Santos / Imperio do Brasil |
+| Bemerkung | Não escreve |
 
-Passregister nennen **Eltern**, nie den Ehepartner. Für
-**Joaquina Maria** (Frau des avô Antonio Dias Guiomar) bringt 1901
-nichts. Die Ehe bleibt allein durch die Großelternzeile 1874 belegt.
-**Luiz Guiomar × Delfina Maria** haben wir (1874 und dieser Pass).
-Die Schicht darüber: [antonio-dias-guiomar-joaquina](antonio-dias-guiomar-joaquina.md).
+[ADLRA-Katalog](https://digitarq.arquivos.pt/documentDetails/20ee3f744f5e411986cf510bd4c958cb)
+· [gesicherter Katalogauszug](katalog/1886-manoel-dias-guiomar.json)
+
+Die Katalogformen `Manoel`, `Luis`, `Valle Todos` und `Ancião`
+werden nicht still modernisiert. Auch hier fehlt das Passoriginal.
+
+Die in PR #15 gegengelesene Taufe
+`PT/ADLRA/PRQ/PANS08/001/0007`, Bild `m0005`, nennt
+**Manuel**, geboren im Juli 1862 (Tag `[17/20]`), getauft
+**15.08.1862**, Eltern **Luiz Dias × Delfina Maria**, wohnhaft
+**Lindos**. Bei zutreffendem Passdatum war dieses Taufkind
+23 Jahre alt. Name, Eltern, Pfarrei und Alter passen.
+
+**Zuordnung: wahrscheinlich dieselbe Person.** Das unsichere
+Katalogdatum und der ungelesene Originalpass verhindern eine
+endgültige Identifizierung. Manoel bleibt als eigener Fund sichtbar
+und darf nicht hinter António verschwinden.
+
+## Luiz-Auswanderung bleibt offen
+
+Die Vermutung, dass **Luiz und António** ausgewandert seien, bleibt
+als Suchhinweis erhalten, aber nicht als Tatsache. In den beiden
+direkt geprüften Katalogeinträgen ist Luís/Luis jeweils **Vater des
+Reisenden**, nicht selbst der Reisende.
+
+Eine früher überlieferte, undatierte Meldung zu einem Reisenden
+`Luis Dias Guiomar` bleibt quellen- und personenoffen. Sie wird
+weder still in António umbenannt noch als zusätzlicher Sohn
+festgeschrieben.
+
+| Aussage | Status |
+| --- | --- |
+| ADLRA-Katalogeintrag António 1901 | direkt geprüft |
+| Anschluss an Antonio * 16.03.1867 | wahrscheinlich |
+| ADLRA-Katalogeintrag Manoel 1886 [?] | direkt geprüft; Datum unsicher |
+| Anschluss an Manuel * Juli 1862 | wahrscheinlich |
+| Eigener Pass / eigene Auswanderung Luiz | offen |
+| Tatsächliche Ausreise oder Ankunft der Genannten | offen |
+
+Ein Passdatensatz mit Ziel Santos belegt zunächst die Ausstellung
+bzw. Registrierung und das angegebene Ziel. Er belegt für sich
+allein weder die tatsächliche Abreise noch die Ankunft oder eine
+dauerhafte Auswanderung.
+
+Nächste Belege: Passoriginale Band 18, Registo 23 und Band 6,
+Registo 125 gegenlesen; Luiz als getrennte Personenspur suchen;
+anschließend Passagier-, Einwanderungs- oder Aufenthaltsbelege
+prüfen.
+
+---
+
+Die folgenden weiteren Torre-Pässe stammen weiterhin aus der
+Blog-Transkription und bleiben bis zur direkten Katalog- oder
+Originalprüfung **wahrscheinlich**.
 
 ## José Maria da Ascensão, Pass 12. Mai 1902
 
