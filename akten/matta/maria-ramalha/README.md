@@ -34,7 +34,8 @@ kein Fund; Kontrast zum Prüfen.
 Palmira jetzt nicht. Joaquinas Geschwister nicht noch einmal suchen;
 deren **Paten** (José / Joaquim Ramalho) sind der Hebel.
 
-[ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
+**Prüfen:** [ramalha-pruefung](../../../evidenz/linie-torre/ramalha-pruefung.md).
+Lesung: [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 
 ## Scan
 

@@ -1,5 +1,7 @@
 # Ramalha / Ateanha — zum Gegenlesen
 
+**Nur die Scans, eine Seite:** [ramalha-pruefung](ramalha-pruefung.md).
+
 Auftraggeber: **Ramalha ist Ateanha** (`glaub ich`) — bleibt
 **Kandidat**. Geschwister Joaquinas **haben wir**; neu suchen
 nur, wenn die Herkunft leer bleibt. Dann helfen die **Paten**

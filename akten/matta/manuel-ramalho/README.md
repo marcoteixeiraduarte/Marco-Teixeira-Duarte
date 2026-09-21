@@ -25,7 +25,8 @@ Alvorge 10.06.1841: **Manoel Ramalho** Pate bei einem Mendes-Kind in
 
 Palmira jetzt nicht. Geschwister Joaquinas nicht noch einmal suchen.
 
-Ausführlich: [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
+**Prüfen:** [ramalha-pruefung](../../../evidenz/linie-torre/ramalha-pruefung.md)
+(Scans + Frage). Lesung: [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 
 ## Scan
 
