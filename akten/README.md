@@ -87,6 +87,12 @@ Alle **offen**. Abhaken, wenn der Scan gelesen ist.
 | [José Mendes d'Ascensão (* 1914)](jose-maria/jose-mendes-ascencao/README.md) | jose-maria | offen |
 | [Manuel Matta](matta/manuel-matta/README.md) | matta | offen |
 | [Joaquina Ramalha / Reis](matta/joaquina-ramalha/README.md) | matta | offen |
+| [Maria da Graça (* 1864)](matta/maria-da-graca-1864/README.md) | matta | offen |
+| [José primeiro (* 1866)](matta/jose-1866/README.md) | matta | offen |
+| [Maria (* 1867)](matta/maria-1867/README.md) | matta | offen |
+| [José segundo (* 1875)](matta/jose-1875/README.md) | matta | offen |
+| [António Guiomar (* 1867)](guiomar/antonio-guiomar-1867/README.md) | guiomar | offen |
+| [Anna Guiomar (* 1869)](guiomar/anna-guiomar-1869/README.md) | guiomar | offen |
 | [Palmyra (* 1897, erste Tochter)](matta/palmyra-1897/README.md) | matta | offen |
 | [Palmira Reis (* 1912)](matta/palmira-reis-1912/README.md) | matta | offen |
 | [Sebastião (* 1871)](matta/sebastiao-1871/README.md) | matta | offen |

@@ -4,13 +4,13 @@
 
 | | |
 | --- | --- |
-| Quellenname | Nazareth Maria |
-| Rolle | 5.º avó; avó materna João 1874 |
+| Quellenname | Nazareth Maria (1874); **Benedita Maria** (1867 und 1869, viúva, Lindeo) |
+| Rolle | 5.º avó; Frau José Gregorio |
 | * | offen |
-| † | offen |
-| Gewissheit | sicher genannt 1874 |
+| † | 1867 bereits Witwe |
+| Gewissheit | 1874 Nazareth **sicher** genannt. 1867/69 Benedita **sicher** genannt. Dieselbe Frau **offen** — nicht zusammenziehen. |
 
-Kein eigener Akt.
+Kein eigener Akt. Formen nebeneinander.
 
 ## Scan
 

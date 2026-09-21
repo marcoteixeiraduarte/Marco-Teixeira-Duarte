@@ -53,6 +53,13 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-CAS-1896-02-L | dieselbe Heirat, nur linke Seite | `evidenz/scans/torre/1896-casamento-manuel-matta-joaquina-ramalha-left.jpg` |
 | TVT-BAP-1897-PAL | Taufe Palmyra, erste Tochter, 23.06.1897 Pragoza | `akten/matta/palmyra-1897/1897-baptismo-PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg` |
 | TVT-BAP-1897-PAL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1897-baptismo-palmyra-pragoza-right.jpg` |
+| TVT-CAS-1863-05 | Heirat José dos Reis × Maria Ramalha, 16.11.1863 | `akten/matta/jose-dos-reis-pragoza/1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004.jpg` |
+| TVT-BAP-1864-14 | Taufe Maria da Graça, * 30.05.1864 Pragoza | `akten/matta/maria-da-graca-1864/1864-baptismo-PT-ADLRA-PRQ-PANS08-001-0009_m0004.jpg` |
+| TVT-BAP-1866-02 | Taufe José primeiro, ~ 06.02.1866 Pragoza | `akten/matta/jose-1866/1866-baptismo-PT-ADLRA-PRQ-PANS08-001-0011_m0002.jpg` |
+| TVT-BAP-1867-08 | Taufe Maria, ~ 13.03.1867 Pragoza (nicht Joaquina) | `akten/matta/maria-1867/1867-baptismo-PT-ADLRA-PRQ-PANS08-001-0012_m0003.jpg` |
+| TVT-BAP-1867-09 | Taufe António Guiomar, * 20.04.1867 Lindeo | `akten/guiomar/antonio-guiomar-1867/1867-baptismo-PT-ADLRA-PRQ-PANS08-001-0012_m0003.jpg` |
+| TVT-BAP-1869-11 | Taufe Anna Guiomar, ~ 08.08.1869 São Jorge | `akten/guiomar/anna-guiomar-1869/1869-baptismo-PT-ADLRA-PRQ-PANS08-001-0014_m0004.jpg` |
+| TVT-BAP-1875-13 | Taufe José segundo, * 18.09.1875 Pragoza | `akten/matta/jose-1875/1875-baptismo-PT-ADLRA-PRQ-PANS08-001-0020_m0007.jpg` |
 | TVT-BAP-1871-SEB | Taufe Sebastião, primeiro filho José dos Reis × Maria Ramalha, Pragoza 21.05.1871 | `akten/matta/sebastiao-1871/1871-baptismo-PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg` |
 | TVT-BAP-1871-SEB-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg` |
 | TVT-BAP-1853-JOA | Taufe Joaquim Rodrigues Feio, * 3.04.1853 Pragoza | `akten/guiomar/joaquim-feio/1853-baptismo-PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg` |

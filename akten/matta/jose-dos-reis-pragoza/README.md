@@ -11,7 +11,7 @@
 | Eltern / genannt mit | Manoel Pedro dos Reis × Joaquina Maria |
 | Gewissheit | Heirat 16.11.1863 **sicher**; Vater der Kinder 1866–1896 sicher |
 
-Eigene Heirat hier. Die zwei Reis-Häuser nicht mischen. Kinder gelesen: **Maria da Graça * 30.05.1864** (primeira do nome); José 1866 (primeiro); Maria 1867; Sebastião 1871 (primeiro nach dem Wortlaut 1871 — daneben schon José 1866); José 1875 (segundo deste nome). **Joaquina 1875–80 nicht** in Torre. 1864–1865 ganz gelesen.
+Eigene Heirat hier. Die zwei Reis-Häuser nicht mischen. Kinder gelesen: **Maria da Graça * 30.05.1864** (primeira do nome); José 1866 (primeiro); Maria 1867; Sebastião 1871 (primeiro nach dem Wortlaut 1871 — daneben schon José 1866); José 1875 (segundo deste nome). Tochter **Joaquina * 15.06.1873** — **Blatt, haben wir**; nicht suchen. 1864–1865 ganz gelesen.
 
 Ausführlich: [zwei Reis-Häuser](../../../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 
@@ -23,13 +23,40 @@ Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die g
 
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 
+![Heirat 16.11.1863 — Fundstellen](1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Heirat 16.11.1863</summary>
+
 ![Heirat 16.11.1863](1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004.jpg)
+
+</details>
+
+
+![Taufe Tochter Maria da Graça 10.07.1864 — Fundstellen](../maria-da-graca-1864/1864-baptismo-PT-ADLRA-PRQ-PANS08-001-0009_m0004-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Tochter Maria da Graça 10.07.1864</summary>
 
 ![Taufe Tochter Maria da Graça 10.07.1864](../maria-da-graca-1864/1864-baptismo-PT-ADLRA-PRQ-PANS08-001-0009_m0004.jpg)
 
+</details>
+
+
+![Taufe Sohn José 06.02.1866 — Fundstellen](1866-taufe-sohn-jose-PT-ADLRA-PRQ-PANS08-001-0011_m0002-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn José 06.02.1866</summary>
+
 ![Taufe Sohn José 06.02.1866](1866-taufe-sohn-jose-PT-ADLRA-PRQ-PANS08-001-0011_m0002.jpg)
 
+</details>
+
+
+![Taufe Sohn José 1875 — Fundstellen](1875-taufe-sohn-jose-PT-ADLRA-PRQ-PANS08-001-0020_m0007-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn José 1875</summary>
+
 ![Taufe Sohn José 1875](1875-taufe-sohn-jose-PT-ADLRA-PRQ-PANS08-001-0020_m0007.jpg)
+
+</details>
 
 ![Taufe Sohn Sebastião 1871 — Fundstellen](1871-taufe-sohn-sebastiao-PT-ADLRA-PRQ-PANS08-001-0016_m0005-markiert.jpg)
 

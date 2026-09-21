@@ -101,7 +101,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira. Pass 1902, 22, wohnhaft Pragosa, Eltern Ferreiro / Ana da Piedade — **wahrscheinlich** dieselbe Person | sicher Taufe; Pass wahrscheinlich | jose-maria · [passe-1901](evidenz/linie-torre/passe-antonio-guiomar-1901.md) |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
 | Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](akten/matta/README.md) |
-| Joaquina Reis | natürlich Pragoza; Heirat **21.08.1896** × Manuel Matta als **Joaquina Ramalha**; Eltern **José dos Reis** × **Maria Ramalha**; Onkel = Manoel Pedro dos Reis (Brüderhäuser); Blatt Ramalho × Leal = **avós maternos** (Sebastião 1871), nicht die Eltern | sicher (Kirche 1896 + Taufe 1871) | [joaquina-reis-leal](evidenz/linie-torre/joaquina-reis-leal.md) |
+| Joaquina Reis | * **15.06.1873** Pragosa (**Blatt, haben wir**); Heirat **21.08.1896** × Manuel Matta als **Joaquina Ramalha**; Eltern **José dos Reis** × **Maria Ramalha**; Onkel = Manoel Pedro dos Reis (Brüderhäuser); Blatt Ramalho × Leal = **avós maternos** (Sebastião 1871), nicht die Eltern | Geburt Blatt; Kirche 1896 + Taufe 1871 sicher | [joaquina-reis-leal](evidenz/linie-torre/joaquina-reis-leal.md) |
 | Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes — **viel später** als die erste **Palmyra * 8.6.1897** (primeira filha, Pragoza) | sicher beide Akte; 1897-Tod Kandidat | joaquina-reis-leal / [matta](akten/matta/README.md) |
 
 Wer blieb wo, Zuzug über Mann oder Frau: [wer-blieb](evidenz/wer-blieb.md).
@@ -138,7 +138,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
 8. João Teixeira **(Forte)**: Weiler **Cabeça Redonda**; Taufname João; Vater `Custodio`, natürlich **Figueiras Podres**, wohnhaft Cabeça Redonda; Joana natürlich Cabeça Redonda; Paten **Carrasqueiras / Chão de Couce**
 8a. `Pais de Maria José por confirmar` → **Francisco José dos Santos** × **Maria Thereza**; Heirat João × Maria José offen — Kirche unbekannt (Torre / Lagarteira / Ansião / Chão de Couce / Cumeeira / **Avelar** / **Alvorge**)
-8b. Joaquina: Zivil **Reis**, Pragoza; Heirat **21.08.1896** als **Joaquina Ramalha** × Manuel Matta; Eltern **José dos Reis** × **Maria Ramalha**. Erste Tochter **Palmyra * 8.06.1897**; Blatt-Palmira * 24.04.1912 **viel später**. Blatt Ramalho × Leal = **avós maternos** (Sebastião 1871), nicht die Eltern. José dos Reis **Bruder** des Manoel Pedro dos Reis
+8b. Joaquina * **15.06.1873** Pragosa (**Blatt, haben wir**). Zivil **Reis**, Pragoza; Heirat **21.08.1896** als **Joaquina Ramalha** × Manuel Matta; Eltern **José dos Reis** × **Maria Ramalha**. Erste Tochter **Palmyra * 8.06.1897**; Blatt-Palmira * 24.04.1912 **viel später**. Blatt Ramalho × Leal = **avós maternos** (Sebastião 1871), nicht die Eltern. José dos Reis **Bruder** des Manoel Pedro dos Reis
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Eltern **Luiz Guiomar × Delfina Maria** (haben wir); † 08.01.1958 **passt**. Pass-António 1901 = Bruder, nicht avô. Nächste Schicht: avós **Antonio Dias Guiomar × Joaquina Maria**
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR); Blatt `Maria Helena Feio Rodrigues` — Sippe **Rodrigues Feio**, nicht in den Taufnamen
 10a. Joaquim Rodrigues Feio * **3.04.1853** Pragoza **passt**. Belchior × **Agueda Maria** (Carvalhal); Blatt `Rosa Maria` daneben. Avós maternos Manoel Lourenço Lobo × Josefa Maria (Castello). Schicht **Antonio Rodrigues Feio × Maria Mendes**, Carvalhinho; `001/0001` **1720–1767**
@@ -182,7 +182,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | --- | --- |
 | 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
 | 2 | Conservatória Ansião: `01` `03` `04` `06` `07` `08` gelesen; Geburt José Mendes N.º 320/1914 hier kein Foto |
-| 2a | **Heirat 21.08.1896** und **erste Palmyra * 8.06.1897**. Palmira * 24.04.1912 ist die späte. Zwei Reis-Häuser = **Brüder** (Sebastião 1871). Taufe Joaquina **1875–1880** (1872–74 leer); Heirat José × Ramalha **vor** Mai 1871 |
+| 2a | **Heirat 21.08.1896** und **erste Palmyra * 8.06.1897**. Palmira * 24.04.1912 ist die späte. Zwei Reis-Häuser = **Brüder** (Sebastião 1871). Joaquina * **15.06.1873** Blatt — **haben wir**, nicht suchen. Heirat der Eltern **16.11.1863** |
 | 2b | Heirat João Teixeira (Forte) × Maria José **1895–1913**; Taufe Maria José **1876–1894** — [suche-erweitert](evidenz/suche-erweitert.md) |
 | 2c | **Geburt Melchior * 15.05.1775** Val de Todos. Avós 1824 = **Antonia Maria**. DigitArq `002/0001`=`003/0001`, `002/0002`=`001/0002`=`003/0002` — keine Online-Casamentos 1609–1811. Heirat Melchior × Rozaria **vor ~1810**; Kinder avô Feio `001/0001` **1720–1767** plus `001/0002` ab 19.06.1767. [antonio-feio-carvalhinho](evidenz/linie-guiomar/antonio-feio-carvalhinho.md) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |

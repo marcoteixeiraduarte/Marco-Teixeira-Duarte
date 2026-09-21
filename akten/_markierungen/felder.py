@@ -276,6 +276,69 @@ FELDER = {
         {"kind": "paten", "label": "Zeuge José dos Santos, Carrasqueiras, Pfarrei Ansião", "box": [0.22, 0.32, 0.55, 0.10]},
         {"kind": "hinweis", "label": "N.º 10 = andere Heirat", "box": [0.14, 0.70, 0.70, 0.12]},
     ],
+    # Heirat José dos Reis × Maria Ramalha 16.11.1863 — linke Seite N.º 5
+    "PANS08-002-0007_m0004": [
+        {"kind": "entry", "label": "N.º 5, 16.11.1863", "box": [0.02, 0.32, 0.46, 0.60]},
+        {"kind": "name", "label": "José dos Reis × Maria Ramalha", "box": [0.03, 0.38, 0.12, 0.12]},
+        {"kind": "date", "label": "16.11.1863", "box": [0.16, 0.34, 0.30, 0.08]},
+        {"kind": "parents", "label": "Manoel Pedro dos Reis × Joaquina Maria", "box": [0.16, 0.48, 0.30, 0.08]},
+        {"kind": "parents", "label": "Manoel Ramalho × Angelica Maria", "box": [0.16, 0.58, 0.30, 0.08]},
+        {"kind": "place", "label": "Pragoza / Castello", "box": [0.16, 0.42, 0.30, 0.06]},
+        {"kind": "hinweis", "label": "rechte Seite = späterer Vermerk, nicht diese Heirat", "box": [0.52, 0.08, 0.44, 0.30]},
+    ],
+    # José primeiro 1866 — rechte Seite, mittlerer Eintrag N.º 2
+    "PANS08-001-0011_m0002": [
+        {"kind": "entry", "label": "N.º 2 José, primeiro deste nome", "box": [0.50, 0.32, 0.48, 0.30]},
+        {"kind": "place", "label": "Pragoza", "box": [0.50, 0.33, 0.12, 0.08]},
+        {"kind": "date", "label": "~ 06.02.1866", "box": [0.62, 0.34, 0.34, 0.08]},
+        {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.46, 0.34, 0.08]},
+        {"kind": "hinweis", "label": "N.º 1 darüber / N.º 3 darunter = andere Häuser", "box": [0.50, 0.04, 0.48, 0.26]},
+    ],
+    # 1867 rechte Seite: oben Maria N.º 8 (Reis), unten Antonio N.º 9 (Guiomar)
+    "PANS08-001-0012_m0003": [
+        {"kind": "entry", "label": "N.º 8 Maria — Haus Reis × Ramalha", "box": [0.50, 0.04, 0.48, 0.42]},
+        {"kind": "name", "label": "Maria", "box": [0.50, 0.06, 0.12, 0.08]},
+        {"kind": "place", "label": "Pragoza", "box": [0.50, 0.14, 0.12, 0.06]},
+        {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.22, 0.34, 0.10]},
+        {"kind": "entry", "label": "N.º 9 Antonio — Haus Luiz × Delfina", "box": [0.50, 0.48, 0.48, 0.50]},
+        {"kind": "name", "label": "Antonio, primeiro deste nome", "box": [0.50, 0.50, 0.14, 0.10]},
+        {"kind": "place", "label": "Lindeo", "box": [0.50, 0.60, 0.14, 0.08]},
+        {"kind": "date", "label": "* 20.04.1867  ~ 22.04.", "box": [0.64, 0.52, 0.32, 0.10]},
+        {"kind": "parents", "label": "Luiz Guiomar × Delfina Maria", "box": [0.64, 0.68, 0.32, 0.10]},
+    ],
+    # Antonio 1867 Avós — linke Seite oben
+    "PANS08-001-0012_m0004": [
+        {"kind": "entry", "label": "Schluss N.º 9 Antonio", "box": [0.02, 0.02, 0.48, 0.22]},
+        {"kind": "avos", "label": "Antonio Dias Guiomar × Joaquina Maria, Bemposta", "box": [0.14, 0.04, 0.34, 0.08]},
+        {"kind": "avos", "label": "José Gregorio defunto × Benedita Maria, Lindeo", "box": [0.14, 0.12, 0.34, 0.08]},
+        {"kind": "hinweis", "label": "rechte Seite = andere Taufen", "box": [0.52, 0.10, 0.44, 0.30]},
+    ],
+    # Anna 1869 — linke Seite unten, São Jorge
+    "PANS08-001-0014_m0004": [
+        {"kind": "entry", "label": "N.º 11 Anna, primeira deste nome", "box": [0.02, 0.52, 0.46, 0.46]},
+        {"kind": "place", "label": "São Jorge", "box": [0.03, 0.54, 0.12, 0.08]},
+        {"kind": "date", "label": "~ 08.08.1869", "box": [0.16, 0.56, 0.30, 0.08]},
+        {"kind": "parents", "label": "Luiz Guiomar × Delfina Maria", "box": [0.16, 0.70, 0.30, 0.08]},
+        {"kind": "avos", "label": "Antonio Dias × Joaquina; José Gregorio × Benedita", "box": [0.16, 0.80, 0.30, 0.10]},
+        {"kind": "hinweis", "label": "Eintrag darüber = anderes Haus", "box": [0.02, 0.08, 0.46, 0.38]},
+    ],
+    # José segundo 1875 — rechte Seite N.º 13
+    "PANS08-001-0020_m0007": [
+        {"kind": "entry", "label": "N.º 13 José, segundo deste nome", "box": [0.50, 0.12, 0.48, 0.52]},
+        {"kind": "place", "label": "Pragoza", "box": [0.50, 0.14, 0.12, 0.08]},
+        {"kind": "date", "label": "* 18.09.1875  ~ 31.11. (so der Priester)", "box": [0.62, 0.16, 0.34, 0.10]},
+        {"kind": "parents", "label": "José dos Reis × Maria Ramalha, nat. Castello", "box": [0.62, 0.32, 0.34, 0.10]},
+        {"kind": "avos", "label": "Manuel Pedro dos Reis × Joaquina Maria", "box": [0.62, 0.44, 0.34, 0.08]},
+        {"kind": "hinweis", "label": "N.º 14 darunter = anderes Kind", "box": [0.50, 0.68, 0.48, 0.28]},
+    ],
+    # Maria da Graça 1864 — rechte Seite unten N.º 14
+    "PANS08-001-0009_m0004": [
+        {"kind": "entry", "label": "N.º 14 Maria da Graça, primeira do nome", "box": [0.50, 0.52, 0.48, 0.46]},
+        {"kind": "place", "label": "Pragoza", "box": [0.50, 0.54, 0.12, 0.08]},
+        {"kind": "date", "label": "* 30.05.1864  ~ 10.07.", "box": [0.62, 0.56, 0.34, 0.08]},
+        {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.70, 0.34, 0.10]},
+        {"kind": "hinweis", "label": "Einträge darüber = andere Häuser (Lindos / Santo Romão)", "box": [0.50, 0.04, 0.48, 0.44]},
+    ],
     # Margarida 1897 N.º 21
     "PNL01-002-0042_m0019": [
         {"kind": "entry", "label": "N.º 21 Margarida", "box": [0.18, 0.22, 0.78, 0.50]},

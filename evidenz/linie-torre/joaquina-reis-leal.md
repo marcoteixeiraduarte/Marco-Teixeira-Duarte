@@ -74,15 +74,15 @@ Heirat 1896 und erste Lesung `neta materna` 1912 **passen:**
 
 `José dos Reis` × `Maria Ramalha` ist **nicht** dasselbe Paar wie
 **José Pedro dos Reis** × Narciza. Narciza heiratet 1878; Joaquina
-ist 23 im August 1896 (* etwa 1872–1873) mit Mutter **Ramalha**.
+ist 23 im August 1896 (* **15.06.1873** Blatt) mit Mutter **Ramalha**.
 Zwei Reis-Häuser in Pragoza bleiben getrennt — und sind **Brüderhäuser**:
 José dos Reis und Manoel Pedro dos Reis (Vater José Pedros) haben
 dieselben Eltern **Manuel Pedro dos Reis × Joaquina Maria**.
 Beleg: erster Sohn **Sebastião * 7.05.1871**, Pragoza.
 Blatt: [zwei-reis-haeuser-pragoza](zwei-reis-haeuser-pragoza.md).
 
-Taufe Joaquinas: nach diesem primeiro-Kind, Torre Pragoza **1872–1880**.
-1872, 1873 und 1874 in Torre gelesen: sie steht dort nicht.
+Joaquina * **15.06.1873** Pragosa — **Blatt, haben wir**. Nicht
+noch einmal suchen. Torre 1873 ohne diesen Kirchenakt gelesen.
 
 ## Heirat 1937 — beide in Pragoza
 
@@ -149,6 +149,6 @@ Scan: `archiv/matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg`.
 Geschwister 1898–1911 weiter in Torre suchen, nicht bei 1897
 abbrechen.
 
-Nächster Schritt: Taufe Joaquina nach dem primeiro-Bruder Sebastião
-(7.05.1871), Torre **1875–1880** (1872–1874 leer). Sterbeakt
-Palmyra 1897, falls die 1912er den Namen wiederverwendet.
+Joaquinas Geburt nicht weiter suchen. Nächster Schritt: Sterbeakt
+Palmyra 1897, falls die 1912er den Namen wiederverwendet. Geschwister
+1898–1911.

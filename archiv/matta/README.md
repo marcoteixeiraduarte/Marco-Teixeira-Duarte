@@ -1,7 +1,8 @@
 # Archiv — Matta / Ramalha / Sebastião
 
-Manuel 1872 São Jorge; Heirat 1896 Joaquina Ramalha; Palmyra 1897;
-Sebastião 1871 (zwei Reis-Häuser).
+Heirat José × Maria Ramalha 1863; Maria da Graça 1864; José 1866;
+Maria 1867; Sebastião 1871; José 1875; Manuel 1872; Heirat 1896;
+Palmyra 1897. Joaquina * 15.06.1873 Blatt — haben wir.
 
 Nicht still an José Pedro × Narciza hängen.
 

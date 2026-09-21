@@ -6,12 +6,12 @@
 | --- | --- |
 | Quellenname | Delfina Maria |
 | Rolle | 4.º avó |
-| * | Blatt Lindos; ∞ Blatt 10.11.1859 — eigene Taufe offen |
+| * | Blatt Lindos; 1867/1869 wohnhaft Lindeo dann São Jorge |
 | † | offen |
-| Eltern / genannt mit | José Gregorio × Nazareth Maria (genannt 1874) |
-| Gewissheit | Paar mit Luiz **sicher**; Lindos auf dem Blatt, nicht in der Taufe 1874 |
+| Eltern / genannt mit | 1867/1869: José Gregorio, defunto × **Benedita Maria**, viúva, Lindeo. 1874: × **Nazareth Maria**. Nicht glätten. |
+| Gewissheit | Paar mit Luiz **sicher** |
 
-Kein eigener Akt. **Haben wir** als Paar. Nicht noch einmal suchen.
+Kein eigener Akt. **Haben wir** als Paar. Nicht noch einmal suchen. Kinder: António 1867 Lindeo; Anna 1869 São Jorge; João 1874 Rua d'Além.
 
 Ausführlich: [avós 1874](../../../evidenz/linie-torre/antonio-dias-guiomar-joaquina.md).
 
@@ -28,5 +28,32 @@ Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 <details><summary>Scan ohne Markierung — Taufe Sohn João 1874</summary>
 
 ![Taufe Sohn João 1874](1874-taufe-sohn-joao-PT-ADLRA-PRQ-PANS08-001-0019_m0007.jpg)
+
+</details>
+
+
+![Taufe Sohn António 1867 — Fundstellen](1867-taufe-sohn-antonio-PT-ADLRA-PRQ-PANS08-001-0012_m0003-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn António 1867</summary>
+
+![Taufe Sohn António 1867](1867-taufe-sohn-antonio-PT-ADLRA-PRQ-PANS08-001-0012_m0003.jpg)
+
+</details>
+
+
+![Fortsetzung Avós António 1867 — Fundstellen](1867-taufe-sohn-antonio-PT-ADLRA-PRQ-PANS08-001-0012_m0004-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Fortsetzung Avós António 1867</summary>
+
+![Fortsetzung Avós António 1867](1867-taufe-sohn-antonio-PT-ADLRA-PRQ-PANS08-001-0012_m0004.jpg)
+
+</details>
+
+
+![Taufe Tochter Anna 1869 — Fundstellen](1869-taufe-tochter-anna-PT-ADLRA-PRQ-PANS08-001-0014_m0004-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Tochter Anna 1869</summary>
+
+![Taufe Tochter Anna 1869](1869-taufe-tochter-anna-PT-ADLRA-PRQ-PANS08-001-0014_m0004.jpg)
 
 </details>

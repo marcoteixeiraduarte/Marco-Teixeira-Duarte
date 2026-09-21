@@ -160,8 +160,11 @@ Luiz × Delfina nicht noch einmal suchen.
 
 1. DigitArq-Scan `GCLRA/H-D/001/0018/00750` (Pass António) — Filiação
    festlesen.
-2. Taufe des Bruders António, Luiz × Delfina, Torre **~1866–1870**.
-3. Avô-Paar **Antonio Dias Guiomar × Joaquina Maria** (1874 genannt):
-   eigene Akte, zuerst Alvorge / Bemposta.
+2. **Taufe gefunden:** Antonio, * **20.04.1867** / ~ 22.04.1867,
+   **Lindeo**, N.º 9. Luiz Guiomar × Delfina Maria, primeiro deste
+   nome. Akte: [antonio-guiomar-1867](../../akten/guiomar/antonio-guiomar-1867/README.md).
+   Schwester **Anna** ~ 08.08.1869 São Jorge.
+3. Avô-Paar **Antonio Dias Guiomar × Joaquina Maria**: 1867 wohnhaft
+   **Bemposta**. Eigene Akte weiter Alvorge.
 4. Freixo und Lindos: Ortsregister, nicht Personenanschluss über den
    Pass Jorge.

@@ -6,12 +6,12 @@
 | --- | --- |
 | Quellenname | Joaquina Ramalha (1896); Joaquina Reis (1912) |
 | Rolle | 3.º avó; Pragoza |
-| * | Blatt 15.06.1873 · Pragosa; 23 Jahre am 21.08.1896. Taufe 1872–74 leer, 1875–80 offen |
+| * | **15.06.1873** · Pragosa — **Blatt, haben wir** |
 | † | offen |
 | Eltern / genannt mit | José dos Reis × Maria Ramalha |
-| Gewissheit | Heirat und Eltern 1896 sicher; Taufe offen. Leal steht 1896 nicht. |
+| Gewissheit | Geburt **Blatt** (Auftraggeber). Heirat und Eltern 1896 **sicher**. Leal steht 1896 nicht. |
 
-Heirat physisch auch bei Manuel. Blatt setzt Ramalho × Leal eine Generation zu hoch (avós Sebastião 1871).
+Geburt nicht noch einmal suchen. Torre 1873 ohne diesen Eintrag gelesen — das ändert das Datum nicht. Heirat physisch auch bei Manuel. Blatt setzt Ramalho × Leal eine Generation zu hoch (avós Sebastião 1871).
 
 Ausführlich: [joaquina-reis-leal](../../../evidenz/linie-torre/joaquina-reis-leal.md).
 

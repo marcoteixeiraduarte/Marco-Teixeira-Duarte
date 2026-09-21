@@ -70,7 +70,7 @@ wenn **ihr eigener** Tauf-/Heirats-/Sterbeakt festliegt.
 | --- | --- | --- |
 | Heirat João Teixeira (Forte) × Maria José | Ring 1–3, **1895–1913**; Zivil ab Apr 1911 Ansião **und** Penela | [Maria José](../akten/teixeira/maria-jose-dos-santos/README.md) |
 | Taufe Maria José dos Santos | Eltern Francisco José × Maria Thereza; **1876–1894**, zuerst PANS02 (1883 lokal fehlend; 1884 ohne Treffer) | dasselbe |
-| Taufe Joaquina Ramalha | **1872–1880 Torre leer.** Heirat der Eltern **16.11.1863** gefunden | [Joaquina](../akten/matta/joaquina-ramalha/README.md) |
+| Joaquina Ramalha * **15.06.1873** | **haben wir** (Blatt). Nicht suchen. Heirat der Eltern **16.11.1863** | [Joaquina](../akten/matta/joaquina-ramalha/README.md) |
 | Geburt José Mendes N.º 320/1914 | Conservatória, hier kein Foto | [José Mendes](../akten/jose-maria/jose-mendes-ascencao/README.md) |
 | Luiz Guiomar × Delfina Maria | **haben wir.** Kinder António 1867, Anna 1869, João 1874. Eigene Taufe Luiz/Delfina offen | [Luiz](../akten/guiomar/luiz-guiomar/README.md) · [Antonio 1867](../akten/guiomar/antonio-guiomar-1867/README.md) |
 | Antonio Dias Guiomar × Joaquina Maria | eigene Akte zuerst Alvorge / **Bemposta** (1867 so) | [Antonio](../akten/guiomar/antonio-dias-guiomar/README.md) |

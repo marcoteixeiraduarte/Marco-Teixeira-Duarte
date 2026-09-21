@@ -19,8 +19,17 @@ Lesung 1864–1865: [suche-1864-1865-alvorge-1835](../../../evidenz/linie-torre/
 
 ## Scan
 
-Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
+Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die ganze Seite). Darunter der unveränderte Scan zur Gegenlese.
+
+🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
+
+![Taufe 10.07.1864 — Fundstellen](1864-baptismo-PT-ADLRA-PRQ-PANS08-001-0009_m0004-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe 10.07.1864</summary>
 
 ![Taufe 10.07.1864](1864-baptismo-PT-ADLRA-PRQ-PANS08-001-0009_m0004.jpg)
+
+</details>
+
 
 Ausschnitt rechte Seite: `evidenz/scans/torre/1864-baptismo-maria-da-graca-pragoza-right.jpg`.

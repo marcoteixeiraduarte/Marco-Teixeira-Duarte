@@ -10,7 +10,7 @@ Der Anschluss liegt bei den **Eltern** des Manoel Pedro dos Reis.
 
 | Haus | Paar in Pragoza | Kind, das uns angeht | Gewissheit |
 | --- | --- | --- | --- |
-| **A** | **José dos Reis** × **Maria Ramalha** | Joaquina Ramalha dos Reis, * etwa 1872–73, Heirat 21.08.1896 × Manuel Matta | sicher als Paar (Heirat 1896) |
+| **A** | **José dos Reis** × **Maria Ramalha** | Joaquina Ramalha dos Reis, * **15.06.1873** Pragosa (Blatt), Heirat 21.08.1896 × Manuel Matta | Geburt Blatt; Paar 1896 sicher |
 | **B** | **José Pedro dos Reis** × Narciza da Conceição | Maria da Piedade * 15.09.1878; José Pedro * 24.11.1854 | sicher |
 
 Joaquina und Maria da Piedade sind **keine** Schwestern. Narciza heiratet
@@ -56,7 +56,7 @@ Manoel Pedro × Joaquina Maria, Pragosa
         ├── Maria  ~ 13.03.1867 Pragoza  (Geburt Gegenlese; nicht die 1864er)
         ├── Sebastião * 7.05.1871        (Akt: primeiro filho — daneben schon José 1866)
         ├── José * 18.09.1875 Pragoza    (segundo deste nome)
-        └── Joaquina ~1872–73 × Manuel Matta  (Taufe 1872–80 nicht in Torre)
+        └── Joaquina * 15.06.1873 Pragosa (Blatt) × Manuel Matta
 ```
 
 **José dos Reis** und **Manoel Pedro dos Reis** sind **Brüder**.
@@ -95,8 +95,8 @@ Patin Angelica Maria, Witwe: dieselbe Frau wie die Großmutter mütterlich.
 Heirat **gefunden: 16.11.1863**, Torre N.º 5,
 `PANS08/002/0007` `m0004`. Scan:
 `akten/matta/jose-dos-reis-pragoza/1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004.jpg`.
-Taufe Joaquina: **1872–1880 leer** (1875–80 jetzt gelesen). Nächste
-Tür nicht das Alter verbiegen.
+Joaquina * **15.06.1873** — **Blatt, haben wir**. Torre 1873 ohne
+diesen Eintrag. Nicht weiter suchen.
 
 Scan: `archiv/matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg`.
 Ausschnitt: `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg`.

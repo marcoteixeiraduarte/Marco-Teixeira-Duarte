@@ -48,12 +48,12 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Heirat João Teixeira (Forte) × Maria José | 1900–1912 | **1895–1913** Kirche; ab Apr 1911 Zivil **Ansião und Penela** | PANS02 Casamentos 1895–1911; PNL01 Casamentos; Conservatória |
 | Taufe Maria José | ~1884 | **1876–1894** (Alter 29 im Sept 1913 kann unter-/überrunden) | PANS02 Batismos 1878–1889 lokal; dann 1876–77 und 1890–94; Ring 1 |
 | Heirat Manuel × Joaquina | 26.08.1897 (Zivil 1912) | **gefunden: 21.08.1896** Torre N.º 2, Band **1896** (`PANS08/002/0038`). Band 1897 ganz leer für dieses Paar | siehe unten |
-| Luiz Guiomar × Delfina Maria | — | **haben wir:** Taufe João 1874; Pass-António 1901. Nicht noch einmal suchen | [Luiz](../akten/guiomar/luiz-guiomar/README.md) · [passe-1901](linie-torre/passe-antonio-guiomar-1901.md) |
+| Luiz Guiomar × Delfina Maria | — | **haben wir.** Kinder: António * **20.04.1867** Lindeo; Anna ~ **08.08.1869** São Jorge; João * 22.04.1874. Nicht das Paar suchen | [Antonio 1867](../akten/guiomar/antonio-guiomar-1867/README.md) · [passe-1901](linie-torre/passe-antonio-guiomar-1901.md) |
 | Avô **Antonio Dias Guiomar × Joaquina Maria** | nur avós-Zeile 1874 | eigene Akte, zuerst Alvorge / Bemposta (Luiz natürlich dort) | [antonio-dias-guiomar-joaquina](linie-torre/antonio-dias-guiomar-joaquina.md) |
 | Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001`; Nachzügler `001/0002` ab **19.06.1767** (Anfang ohne Carvalhinho bis Dez. 1770) | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
 | Taufe **Antonio Rodrigues Feio** (avô) | Carvalhinho | **1700–1735** in `001/0001` `m0150–m0235` (1710–1738 datiert) | dasselbe |
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
-| Taufe Joaquina Ramalha | offen | **1872–1880** Torre / Pragoza (23 am 21.08.1896, nicht nur 1872–74); Eltern José dos Reis × Maria Ramalha | PANS08 Batismos |
+| Joaquina Ramalha * **15.06.1873** Pragosa | Blatt | **haben wir.** Nicht suchen. Torre 1873 ohne diesen Eintrag. Eltern-Heirat **16.11.1863**; Geschwister gelesen | — |
 | Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
 | Taufe Nicolau Feio | offen | **1810–1842** und Ende 1767–1809; 1822–28 ohne Nicolau | `PANS08/001/0003` / `0002` |
 | Heirat Melchior × Rozaria | offen | **gefunden als Paar 1824**; Trauung **vor ~1810** (Sohn Antonio schon Vater 1827). `002/0002` online = Taufen `001/0002`, nicht Casamentos | [melchior-feio-1824](linie-guiomar/melchior-feio-1824.md) |
@@ -109,19 +109,17 @@ Victoria: A/V). Feio über die Mutter aus Carvalhinho.
 
 1. Geschwister Palmyra/Palmira: Torre Batismos **1898–1911**; Sterbeakt
    Palmyra 1897. Die 1912er ist die späte.
-2. Taufe **Joaquina**, Torre **1872–1880**, Pragoza, Eltern José dos
-   Reis × Maria Ramalha (`PANS08` Batismos). **1872–1874 leer** für
-   sie. Erster Bruder **Sebastião * 7.05.1871** gefunden — deshalb
-   Heirat der Eltern **vor** Mai 1871. Zwei Häuser:
-   [zwei-reis-haeuser-pragoza](linie-torre/zwei-reis-haeuser-pragoza.md).
+2. Joaquina Ramalha * **15.06.1873** — **haben wir** (Blatt). Nicht
+   weiter suchen.
 3. PANS02 Batismos **1876–1894** auf **Maria** / **Maria José**, Eltern
    Francisco José dos Santos × Maria Thereza; Heirat João × Maria José
-   **1895–1913**, den **späten** Rand 1908–1913 nicht auslassen.
-4. **Antonio Dias Guiomar × Joaquina Maria** (avós 1874): eigene
-   Akte, zuerst Alvorge / Bemposta. Luiz × Delfina haben wir.
-5. Kinder Luiz × Delfina **1881+** (1876–1880 leer); Taufe António
-   ~1866–1870. Delfinas Eltern **José Gregorio × Nazareth Maria**
-   bleiben ihr Haus, nicht Joaquina.
+   **1895–1913**. Lokal: 1883-Taufen fehlen; 1884 ohne Treffer.
+4. **Antonio Dias Guiomar × Joaquina Maria**: eigene Taufe/Heirat
+   weiter Alvorge / Bemposta. 1867 nennt sie wohnhaft **Bemposta**.
+   Alvorge 1835: Kandidat-Enkelin Joaquina (Handschrift Gegenlese).
+5. Kinder Luiz × Delfina **1881+**. **António * 20.04.1867 Lindeo**
+   und **Anna ~ 08.08.1869 São Jorge** gefunden. 1874 avó **Nazareth**
+   vs 1867/69 **Benedita** — nicht glätten.
 6. Heirat **Melchior × Rozaria**, **vor ~1810**. DigitArq `002/0002`
    = Taufen `001/0002` (ab 19.06.1767), nicht Casamentos. Onkel
    Belchior Feio in `001/0001` **1720–1767**. Avô Antonio Feio selbst

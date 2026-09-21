@@ -69,7 +69,7 @@ glätten.
 | Narcisa * 19.09.1856 · Vale de Todos | Tag 19. sicher; Monat **wahrscheinlich Oktober** | September Blatt |
 | José Maria * Pragosa · † 30.07.1948 | * **Valle de Todos**; † **Mai 1948 · Alvorge** | Juli nicht setzen |
 | Maria da Piedade * Vale de Todos | * **Pragoza** | Datum **passt** |
-| Joaquina Ramalha * 15.06.1873 · Pragosa | 23 am 21.08.1896; Taufe 1872–74 leer | Datum **Blatt**; Taufe 1875–80 offen |
+| Joaquina Ramalha * 15.06.1873 · Pragosa | 23 am 21.08.1896 **passt** | Datum **Blatt — haben wir**. Nicht noch einmal suchen. Torre 1873 ohne Kirchenakt, Datum bleibt |
 | Manuel Dias Ramalho × Angelica Maria Leal als 4.º Joaquinas (Cas. 1877) | Kirche 1896: **José dos Reis** × **Maria Ramalha**. 1871 Ramalho × Angelica = avós maternos Sebastião | eine Generation höher |
 | Manuel Teixeira * Ribeira do Açor | Zivil `01.jpg`: **Ribeira de Cima**, freguesia Ansião | Weiler der Akte |
 | Maria Helena Rodrigues Feio | Taufname **Maria**; Sippe des Vaters Rodrigues Feio | Blattname daneben |
@@ -130,7 +130,7 @@ Narcizas Monat nicht als September festnageln.
 | Joze Maria da Ascenção | 25.04.1880 · Valle de Todos | Mai 1948 · Alvorge | Geburt **sicher**. Todesmonat **sicher** im Rand der Frau (Zivil N.º 72); Tag mehrdeutig (3./13./30.05.). Blatt `30.07.1948` widerspricht dem Monat — Juli nicht setzen |
 | Maria da Piedade | 15.09.1878 · Pragoza | Blatt 16.01.1952 | Geburt **sicher**. Tod nicht gegen Zivilakt; auf derselben Taufseite ein Vermerk 16./17.11.1952, Zuordnung ungeklärt |
 | Manuel Matta | 26.07.1872 · São Jorge | Blatt 15.02.1946 | Geburt **sicher**. Rand: Tod am 15., Nachtrag 14.07.1946 Ansião N.º 126. Monat Februar **Blatt**, Richtung |
-| Joaquina Ramalha / Reis | ca. 1872–73 · Pragoza | offen | 23 am 21.08.1896 **sicher**. Taufe 1872–74 leer, 1875–80 offen |
+| Joaquina Ramalha / Reis | **15.06.1873** · Pragosa | Blatt | **haben wir.** 23 am 21.08.1896 **passt**. Kirchenakt Torre 1873 nicht gefunden — Datum nicht anzweifeln |
 
 ### bisavós — Datenstand
 

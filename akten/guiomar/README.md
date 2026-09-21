@@ -12,6 +12,8 @@ nicht in dieser Prüfung.
 | Person | Rolle | Scan | Gegenlese |
 | --- | --- | --- | --- |
 | [João (Dias) Guiomar](joao-guiomar-1874/README.md) | 3.º avô, ramo materno | eigene Akte | offen |
+| [António Guiomar (* 1867 Lindeo)](antonio-guiomar-1867/README.md) | älterer Bruder João; Pass 1901 | eigene Akte | offen |
+| [Anna Guiomar (* 1869 São Jorge)](anna-guiomar-1869/README.md) | Schwester João | eigene Akte | offen |
 | [Luiz Guiomar](luiz-guiomar/README.md) | 4.º avô; natürlich Bemposta / Alvorge | genannt im Akt | offen |
 | [Delfina Maria](delfina-maria/README.md) | 4.º avó | genannt im Akt | offen |
 | [Antonio Dias Guiomar](antonio-dias-guiomar/README.md) | 5.º avô; avô paterno João 1874 | genannt im Akt | offen |
