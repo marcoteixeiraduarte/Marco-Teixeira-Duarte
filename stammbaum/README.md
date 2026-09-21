@@ -216,10 +216,15 @@ der Weiler ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
 in Torre – **passt**. Heirat mit **Maria Helena** aus Lagarteira
 (Randvermerk; Tagesdatum nicht als einzige Form).
 
-Pass 1901 **António Dias Guiomar**, 33, Filiação Luís Guiomar /
-Delfina Maria: **Bruder** Joãos, nicht der avô Antonio × Joaquina.
-Zwei Namensträger. Blatt:
-[passe-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+ADLRA-Katalog 1901: **António Dias Guiomar**, 33, Filiação Luís
+Guiomar / Delfina Maria. Der Anschluss an Antonio * 16.03.1867 und
+damit als Bruder Joãos ist **wahrscheinlich**, nicht endgültig;
+der avô Antonio × Joaquina bleibt getrennt. ADLRA-Katalog 1886:
+**Manoel Dias Guiomar**, 23, dieselben Eltern, Datum im Katalog
+unsicher; Anschluss an Manuel * Juli 1862 **wahrscheinlich**.
+Passoriginale, tatsächliche Reisen und eine eigene Luiz-Auswanderung
+bleiben offen. Blatt:
+[pässe-1886-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
 
 #### Maria Helena Guiomar · * 25.02.1882 · Pião
 
@@ -314,7 +319,7 @@ ist **viel später**.
 | --- | --- |
 | Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Vater natürlich **Figueiras Podres**; Joana natürlich **Cabeça Redonda**. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueiras Podres); **Joaquim Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | **ersetzen:** **Francisco José dos Santos** × **Maria Thereza** (Zivilakt Manuel 1913). Taufe Maria José offen |
-| Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
+| Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria**. Direkt geprüfte ADLRA-Katalogpässe: António 1901 und Manoel 1886 [?]; Anschlüsse an die Taufkinder 1867/1862 jeweils **wahrscheinlich**, Passoriginale offen. Eigene Luiz-Auswanderung nicht belegt |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Joaquim * **3.04.1853** Pragoza **passt** (Taufe 27.04.1853). Deren Eltern: **Nicolao Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria**. Joaquims avós: **Belchior Roiz Feio** × **Agueda Maria** (Blatt `Rosa Maria` daneben). Geburt Belchior/Melchior: * **15.05.1775** Val de Todos, Taufe 20.05.1775, Eltern **Manoel João Neto** × **Antonia Maria Caetana** (1824 avó **Antonia Maria**, nicht Victoria). Lobo-Seite: **Manoel Lourenço Lobo** × **Josefa Maria**, Castello |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |
 | Anna da Piedade · * 15.06.1845 · † 1922 | Taufe 14.7.1845: **Anna**, `* 15.06.1845 · Valle de todos`. `da Piedade` steht erst 1880 beim Sohn. Eltern **Manoel Dias Barbeiro** × **Joaquina Maria**. `† 1922` nicht in jener Taufe |
