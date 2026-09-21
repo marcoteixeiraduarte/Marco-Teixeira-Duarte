@@ -15,6 +15,12 @@ Linien werden nicht vermischt.
 
 Unsichere Wörter stehen in `[]`.
 
+Ein direkt geprüfter **Archivkatalog** belegt seine Metadaten und
+die Beschreibung einer Quelle, ersetzt aber nicht die Lesung des
+historischen Originals. Katalogform, Datumsunsicherheit,
+Personenabgleich und tatsächliches Ereignis werden getrennt
+ausgewiesen.
+
 ## Ausgangspunkt
 
 Die jüngsten vollständig belegten Urgroßeltern der Duarte-Linie:
@@ -52,7 +58,7 @@ Zum Durchforsten (Name → Ordner): [`../archiv/NAMEN.md`](../archiv/NAMEN.md).
 
 ## Regel für neue Funde
 
-1. Scan-Pfad und Archivsignatur notieren.
-2. Kurzes Transkript der Namens- und Datumszeilen.
+1. Scan-Pfad und Archivsignatur notieren. Bei reinem Katalogfund: Direktlink, Signatur, Abrufdatum und Katalogauszug sichern; fehlendes Original ausdrücklich nennen.
+2. Kurzes Transkript der Namens- und Datumszeilen. Katalogmetadaten nicht als eigenes Originaltranskript ausgeben.
 3. Erst danach in ein Personenblatt übernehmen.
 4. Widersprüche stehen lassen, nicht glätten.
