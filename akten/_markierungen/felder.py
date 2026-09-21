@@ -339,6 +339,14 @@ FELDER = {
         {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.70, 0.34, 0.10]},
         {"kind": "hinweis", "label": "Einträge darüber = andere Häuser (Lindos / Santo Romão)", "box": [0.50, 0.04, 0.48, 0.44]},
     ],
+    # Manoel Ramalho Pate Ateanha 10.06.1841 — linke Seite oben (Kind = Mendes, nicht Ramalho)
+    "PANS01-001-0004_m0146": [
+        {"kind": "entry", "label": "10.06.1841 Ateanha — Pate Manoel Ramalho", "box": [0.10, 0.04, 0.38, 0.40]},
+        {"kind": "date", "label": "10.06.1841", "box": [0.12, 0.05, 0.34, 0.08]},
+        {"kind": "place", "label": "Atianha", "box": [0.12, 0.18, 0.28, 0.07]},
+        {"kind": "paten", "label": "Padrinho Manoel Ramalho", "box": [0.12, 0.30, 0.34, 0.08]},
+        {"kind": "hinweis", "label": "Kind = Mendes-Haus, nicht unsere Maria", "box": [0.10, 0.44, 0.38, 0.12]},
+    ],
     # Casimiro 1898 — linke Seite N.º 23
     "PANS08-001-0043_m0019": [
         {"kind": "entry", "label": "N.º 23 Casimiro", "box": [0.02, 0.16, 0.50, 0.78]},

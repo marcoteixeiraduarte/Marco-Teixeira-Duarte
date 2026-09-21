@@ -43,3 +43,23 @@ Am **15.06.1873** steht in Alvorge nichts. Joaquina * 15.06.1873
 **Pragosa** bleibt Blatt. Kirchenakt um den Tag: **nicht Alvorge**.
 
 Lokal (nicht Git): `suche/alvorge-taufen-1870-1879/`.
+
+## Alvorge 1841 — Manoel Ramalho in Ateanha
+
+Band `PANS01/001/0004` `m0146`, linke Seite oben, **10.06.1841**.
+Kind **Manoel**, * 23.05., Eltern **Manoel Mendes** × Maria (Ateanha).
+Pate: **Manoel Ramalho**.
+
+Das Kind ist Mendes, nicht unsere Linie. Der Pate sitzt 1841 in
+derselben Ateanha-Nachbarschaft. Identität mit **Manuel Dias Ramalho**
+(Blatt / avô 1871) = **Kandidat**.
+
+Scan: `akten/matta/manuel-ramalho/1841-pate-ateanha-PT-ADLRA-PRQ-PANS01-001-0004_m0146.jpg`.
+
+## Taufe Maria Ramalha ~1842
+
+Fenster 1841–1843 im selben Band geöffnet. `m0159` (Folio ~168, rechte
+Seite) ist zu blass, um Eltern und Datum hier festzulesen. **Kein**
+sicherer Taufakt. Gegenlese offen. Nicht als gefunden ablegen.
+
+Palmira jetzt nicht. Geschwister nicht noch einmal suchen.

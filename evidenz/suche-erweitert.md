@@ -107,7 +107,7 @@ Victoria: A/V). Feio über die Mutter aus Carvalhinho.
 
 ## Nächster Scan, der da sein muss
 
-1. Palmira **jetzt nicht** (Auftraggeber). Casimiro * 26.12.1898 liegt.
+1. Palmira **jetzt nicht** (Auftraggeber). Nicht suchen.
 2. Joaquina * **15.06.1873** (Blatt). Taufe nur **nahe diesem Tag**.
    **Alvorge Juni 1873 gelesen — kein Akt.** Auftraggeber Ateanha =
    Kandidat; 1863/1875 Castello. Geschwister **haben wir**.

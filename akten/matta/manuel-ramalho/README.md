@@ -13,7 +13,13 @@
 **Dias** nicht streichen, nur weil Torre ihn nicht schreibt. Nicht
 Dias Guiomar, nicht Dias Barbeiro. Sippe nicht in Torre suchen.
 
-Ausführlich: [zwei Reis-Häuser](../../../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
+Alvorge 10.06.1841: **Manoel Ramalho** Pate bei einem Mendes-Kind in
+**Atianha**. Identität mit dem Blatt-Mann **Kandidat**. Nicht das
+Mendes-Haus anhängen.
+
+Palmira jetzt nicht. Geschwister Joaquinas nicht noch einmal suchen.
+
+Ausführlich: [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 
 ## Scan
 
@@ -28,5 +34,14 @@ Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 <details><summary>Scan ohne Markierung — Taufe Enkel Sebastião 1871</summary>
 
 ![Taufe Enkel Sebastião 1871](1871-taufe-enkel-sebastiao-PT-ADLRA-PRQ-PANS08-001-0016_m0005.jpg)
+
+</details>
+
+
+![Pate Ateanha 10.06.1841 — Fundstellen](1841-pate-ateanha-PT-ADLRA-PRQ-PANS01-001-0004_m0146-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Pate Ateanha 10.06.1841</summary>
+
+![Pate Ateanha 10.06.1841](1841-pate-ateanha-PT-ADLRA-PRQ-PANS01-001-0004_m0146.jpg)
 
 </details>

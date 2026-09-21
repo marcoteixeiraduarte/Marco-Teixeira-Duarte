@@ -20,7 +20,13 @@ Avelar. **Dias** / **Leal** stehen auf dem Blatt, in den Torre-Akten
 
 Heirat gefunden. Kinder in Torre/Pragoza getauft — **haben wir**.
 Tochter **Joaquina * 15.06.1873** — Blatt. Alvorge Juni 1873 ohne
-ihren Kirchenakt. [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
+ihren Kirchenakt.
+
+1841: **Manoel Ramalho** Pate in Atianha (Mendes-Kind) — Kandidat
+derselbe Mann. Eigene Taufe Maria ~1842 noch nicht festgelesen
+(`m0159` blass). Palmira jetzt nicht.
+
+[ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 
 ## Scan
 
