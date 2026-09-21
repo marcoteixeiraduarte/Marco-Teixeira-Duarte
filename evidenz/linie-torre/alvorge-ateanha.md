@@ -70,3 +70,6 @@ des Sohnes), bis ein Alvorge-Eintrag ihn festliest.
 - Ateanha nicht mit Avelar oder Cumeeira tauschen.
 - Niemanden aus Ateanha an Manoel Pedro oder an João Gato hängen.
 - Vale Paio, Aljazede und Ateanha nicht zu einem Ort zusammenziehen.
+- Ramalha-Ateanha (Auftraggeber, Kandidat) nicht an Mendes-Ateanha
+  hängen. Juni 1873 ohne Joaquina:
+  [ramalha-ateanha-1873](ramalha-ateanha-1873.md).

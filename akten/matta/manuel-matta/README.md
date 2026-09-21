@@ -59,6 +59,15 @@ Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 </details>
 
 
+![Taufe Sohn Casimiro 1898 — Fundstellen](1898-taufe-sohn-casimiro-PT-ADLRA-PRQ-PANS08-001-0043_m0019-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn Casimiro 1898</summary>
+
+![Taufe Sohn Casimiro 1898](1898-taufe-sohn-casimiro-PT-ADLRA-PRQ-PANS08-001-0043_m0019.jpg)
+
+</details>
+
 Siehe auch:
 
 - [Joaquina Ramalha](../joaquina-ramalha/README.md)
+- [Casimiro 1898](../casimiro-1898/README.md)

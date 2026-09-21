@@ -95,7 +95,9 @@ Heirat **gefunden: 16.11.1863**, Torre N.º 5,
 `PANS08/002/0007` `m0004`. Scan:
 `akten/matta/jose-dos-reis-pragoza/1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004.jpg`.
 Joaquina * **15.06.1873** — **Blatt, haben wir**. Torre 1873 ohne
-diesen Eintrag. Nicht weiter suchen.
+diesen Eintrag. Alvorge Juni 1873 (Ateanha-Band) ebenfalls ohne sie.
+Auftraggeber: Ramalha aus **Ateanha** — **Kandidat**. Nicht weiter
+die Geschwister suchen. [ramalha-ateanha-1873](ramalha-ateanha-1873.md).
 
 Scan: `archiv/matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg`.
 Ausschnitt: `evidenz/scans/torre/1871-baptismo-sebastiao-pragoza-right.jpg`.

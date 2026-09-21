@@ -146,9 +146,13 @@ Erste Tochter, Torre N.º 9, 23. Juni 1897
 | Ob 1897 vor 1912 starb | Namenswiederholung üblich nach Tod; Sterbeakt noch nicht gelesen | Kandidat |
 
 Scan: `archiv/matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg`.
-Geschwister 1898–1911 weiter in Torre suchen, nicht bei 1897
-abbrechen.
 
-Joaquinas Geburt nicht weiter suchen. Nächster Schritt: Sterbeakt
-Palmyra 1897, falls die 1912er den Namen wiederverwendet. Geschwister
-1898–1911.
+**Casimiro * 26.12.1898**, Torre N.º 23, Pragoza — nächstes gelesenes
+Kind. Scan blass. Auftraggeber: Palmira jetzt nicht; keine weitere
+Geschwisterjagd.
+
+Joaquinas Geburt nicht weiter suchen. Taufe um den 15.06.1873:
+**Alvorge / Ateanha Juni 1873 leer** für dieses Kind.
+Auftraggeber: Ramalha **Ateanha** (Kandidat). Akten 1863/1875:
+**Castello**. Nicht glätten.
+[ramalha-ateanha-1873](ramalha-ateanha-1873.md).

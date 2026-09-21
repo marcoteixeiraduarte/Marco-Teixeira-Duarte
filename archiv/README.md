@@ -74,6 +74,7 @@ Leer lassen, bis du sie selbst gelesen hast.
 | [1872-baptismo-manuel-PANS08-001-0017_m0008.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0008.jpg) | 1965×1500 | dasselbe |
 | [1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg](matta/1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg) | 2835×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/70ca5cac730e44caade08834c666a216) |
 | [1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg](matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg) | 2849×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015) |
+| [1898-baptismo-casimiro-PANS08-001-0043_m0019.jpg](matta/1898-baptismo-casimiro-PANS08-001-0043_m0019.jpg) | 1051×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/adb7b416da074065a00f91770bf8bc79) |
 | [1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg](matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg) | 1984×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/1728f8a2d54c411fa0065d1eb8c9fa6a) |
 
 ### Joze Maria / Anna

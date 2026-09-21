@@ -14,8 +14,14 @@
 Geburt nicht noch einmal suchen. Taufe — wenn — **um den 15.06.1873**,
 nicht ± Jahre. Ramalha **nicht aus Torre** (Auftraggeber); Torre ist
 Heirat der Mutter 1863 und Geschwister, nicht die Herkunft. Torre 1873
-ohne diesen Eintrag. Heirat physisch auch bei Manuel. Blatt setzt
-**Manuel Dias Ramalho** × Leal eine Generation zu hoch (avós 1871).
+ohne diesen Eintrag. **Alvorge / Ateanha Juni 1873** ganz gelesen: kein
+Joaquina-Akt am 15.06. (N.º 19–22 andere Häuser). Auftraggeber:
+Herkunft **Ateanha** — **Kandidat**; 1863/1875 schreiben **Castello**.
+Nicht glätten. Geschwister **haben wir**. Heirat physisch auch bei
+Manuel. Blatt setzt **Manuel Dias Ramalho** × Leal eine Generation
+zu hoch (avós 1871).
+
+Blatt: [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 
 Ausführlich: [joaquina-reis-leal](../../../evidenz/linie-torre/joaquina-reis-leal.md).
 
@@ -54,6 +60,15 @@ Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 </details>
 
 
+![Taufe Sohn Casimiro 1898 — Fundstellen](1898-taufe-sohn-casimiro-PT-ADLRA-PRQ-PANS08-001-0043_m0019-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe Sohn Casimiro 1898</summary>
+
+![Taufe Sohn Casimiro 1898](1898-taufe-sohn-casimiro-PT-ADLRA-PRQ-PANS08-001-0043_m0019.jpg)
+
+</details>
+
+
 Geburt Tochter Palmira 24.04.1912 — liegt in der Conservatória, nicht hierher kopiert:
 
 ![Geburt Tochter Palmira 24.04.1912](../../../archiv/conservatoria-ansiao/08.jpg)
@@ -62,3 +77,4 @@ Siehe auch:
 
 - [Palmira 1912](../palmira-reis-1912/README.md)
 - [Palmyra 1897](../palmyra-1897/README.md)
+- [Casimiro 1898](../casimiro-1898/README.md)

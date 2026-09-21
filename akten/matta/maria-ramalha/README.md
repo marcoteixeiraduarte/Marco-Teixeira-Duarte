@@ -13,13 +13,14 @@
 
 1863: Castello. 1864 schreibt der Torre-Priester `natural desta freguesia`
 (sie wohnt schon Pragoza). 1875 wieder nat. **Castello**. Naturalidade ≠
-Herkunft der Ramalha. **Dias** / **Leal** stehen auf dem Blatt, in den
-Torre-Akten 1863/1871 nicht.
+Herkunft der Ramalha. Auftraggeber: Sippe **Ateanha** — **Kandidat**.
+Castello der Akte = Flecken in Vale de Todos, nicht Ateanha, nicht
+Avelar. **Dias** / **Leal** stehen auf dem Blatt, in den Torre-Akten
+1863/1871 nicht.
 
-Heirat gefunden. Kinder in Torre/Pragoza getauft (Maria da Graça 1864,
-José, Sebastião …). Tochter **Joaquina * 15.06.1873** — Blatt; Taufe
-nicht in Torre 1873. Wenn suchen: **um den 15.06.1873**, Pfarrei der
-Ramalha, nicht ± Jahre in Torre.
+Heirat gefunden. Kinder in Torre/Pragoza getauft — **haben wir**.
+Tochter **Joaquina * 15.06.1873** — Blatt. Alvorge Juni 1873 ohne
+ihren Kirchenakt. [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 
 ## Scan
 

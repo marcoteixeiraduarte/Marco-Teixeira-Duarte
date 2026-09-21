@@ -339,6 +339,16 @@ FELDER = {
         {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.70, 0.34, 0.10]},
         {"kind": "hinweis", "label": "Einträge darüber = andere Häuser (Lindos / Santo Romão)", "box": [0.50, 0.04, 0.48, 0.44]},
     ],
+    # Casimiro 1898 — linke Seite N.º 23
+    "PANS08-001-0043_m0019": [
+        {"kind": "entry", "label": "N.º 23 Casimiro", "box": [0.02, 0.16, 0.50, 0.78]},
+        {"kind": "name", "label": "Casimiro", "box": [0.03, 0.22, 0.12, 0.07]},
+        {"kind": "place", "label": "Pragoza", "box": [0.03, 0.29, 0.12, 0.05]},
+        {"kind": "date", "label": "* 26.12.1898  ~ selben Tag", "box": [0.16, 0.18, 0.34, 0.10]},
+        {"kind": "parents", "label": "Manuel Matta × Joaquina Ramalha", "box": [0.16, 0.48, 0.34, 0.10]},
+        {"kind": "avos", "label": "Anna Matta; José Reis × Maria Ramalha", "box": [0.16, 0.60, 0.34, 0.10]},
+        {"kind": "hinweis", "label": "rechte Seite = anderer Eintrag", "box": [0.52, 0.10, 0.44, 0.30]},
+    ],
     # Margarida 1897 N.º 21
     "PNL01-002-0042_m0019": [
         {"kind": "entry", "label": "N.º 21 Margarida", "box": [0.18, 0.22, 0.78, 0.50]},

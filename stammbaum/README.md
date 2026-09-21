@@ -69,7 +69,7 @@ glätten.
 | Narcisa * 19.09.1856 · Vale de Todos | Tag 19. sicher; Monat **wahrscheinlich Oktober** | September Blatt |
 | José Maria * Pragosa · † 30.07.1948 | * **Valle de Todos**; † **Mai 1948 · Alvorge** | Juli nicht setzen |
 | Maria da Piedade * Vale de Todos | * **Pragoza** | Datum **passt** |
-| Joaquina Ramalha * 15.06.1873 · Pragosa | 23 am 21.08.1896 **passt** | Datum **Blatt — haben wir**. Nicht noch einmal suchen. Torre 1873 ohne Kirchenakt, Datum bleibt |
+| Joaquina Ramalha * 15.06.1873 · Pragosa | 23 am 21.08.1896 **passt** | Datum **Blatt — haben wir**. Torre und Alvorge Juni 1873 ohne Kirchenakt. Ateanha Herkunft **Kandidat** |
 | Manuel Dias Ramalho × Angelica Maria Leal als 4.º Joaquinas (Cas. 1877) | Kirche 1896: **José dos Reis** × **Maria Ramalha**. 1871 dieselben als avós maternos. **Dias** Blatt, Torre lässt ihn weg | eine Generation höher; Dias nicht streichen |
 | Manuel Teixeira * Ribeira do Açor | Zivil `01.jpg`: **Ribeira de Cima**, freguesia Ansião | Weiler der Akte |
 | Maria Helena Rodrigues Feio | Taufname **Maria**; Sippe des Vaters Rodrigues Feio | Blattname daneben |

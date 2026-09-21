@@ -52,6 +52,7 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-CAS-1896-02 | Heirat Manuel Matta × Joaquina Ramalha, 21.08.1896 | `akten/matta/manuel-matta/1896-casamento-PT-ADLRA-PRQ-PANS08-002-0038_m0003.jpg` |
 | TVT-CAS-1896-02-L | dieselbe Heirat, nur linke Seite | `evidenz/scans/torre/1896-casamento-manuel-matta-joaquina-ramalha-left.jpg` |
 | TVT-BAP-1897-PAL | Taufe Palmyra, erste Tochter, 23.06.1897 Pragoza | `akten/matta/palmyra-1897/1897-baptismo-PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg` |
+| TVT-BAP-1898-23 | Taufe Casimiro, * 26.12.1898 Pragoza | `akten/matta/casimiro-1898/1898-baptismo-PT-ADLRA-PRQ-PANS08-001-0043_m0019.jpg` |
 | TVT-BAP-1897-PAL-R | dieselbe Taufe, rechte Seite | `evidenz/scans/torre/1897-baptismo-palmyra-pragoza-right.jpg` |
 | TVT-CAS-1863-05 | Heirat José dos Reis × Maria Ramalha, 16.11.1863 | `akten/matta/jose-dos-reis-pragoza/1863-casamento-PT-ADLRA-PRQ-PANS08-002-0007_m0004.jpg` |
 | TVT-BAP-1864-14 | Taufe Maria da Graça, * 30.05.1864 Pragoza | `akten/matta/maria-da-graca-1864/1864-baptismo-PT-ADLRA-PRQ-PANS08-001-0009_m0004.jpg` |
