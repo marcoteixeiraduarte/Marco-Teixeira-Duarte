@@ -15,6 +15,12 @@ Linien werden nicht vermischt.
 
 Unsichere Wörter stehen in `[]`.
 
+Ein direkt geprüfter **Archivkatalog** belegt seine Metadaten und
+die Beschreibung einer Quelle, ersetzt aber nicht die Lesung des
+historischen Originals. Katalogform, Datumsunsicherheit,
+Personenabgleich und tatsächliches Ereignis werden getrennt
+ausgewiesen.
+
 ## Ausgangspunkt
 
 Die jüngsten vollständig belegten Urgroßeltern der Duarte-Linie:
@@ -32,14 +38,27 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 
 ## Ordner
 
+- [`../akten/`](../akten/README.md) — Signatur-Scans mit Transkript
+- [`../archiv/`](../archiv/README.md) — dieselben Pixel, sprechende Namen
+- [`../suche/`](../suche/README.md) — Rohbande, nicht im Git
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
-- `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
+- `linie-torre/` — Narciza, Caetana, Reis, Guiomar-avós, Pass 1901
+- `linie-teixeira/` — João Teixeira (Forte) 1879; Maria José dos Santos;
+  Ecke Maxial; Suchkreis inkl. Avelar und Alvorge
+- `linie-guiomar/` — Feio / Contente; Joaquim * 3.04.1853;
+  Melchior * **15.05.1775**; Antonio Feio × Maria Mendes, Carvalhinho
+- `1700-1800.md` — nächster Abschnitt Feio 1700
+- `wer-blieb.md` — welche Familie wo sesshaft
+- `suche-erweitert.md` — Jahre und Ringe
 - `quellenregister.md` — alle versionierten Scans
+- `scans/` — Crops zu den Blättern
+
+Zum Durchforsten (Name → Ordner): [`../archiv/NAMEN.md`](../archiv/NAMEN.md).
 
 ## Regel für neue Funde
 
-1. Scan-Pfad und Archivsignatur notieren.
-2. Kurzes Transkript der Namens- und Datumszeilen.
+1. Scan-Pfad und Archivsignatur notieren. Bei reinem Katalogfund: Direktlink, Signatur, Abrufdatum und Katalogauszug sichern; fehlendes Original ausdrücklich nennen.
+2. Kurzes Transkript der Namens- und Datumszeilen. Katalogmetadaten nicht als eigenes Originaltranskript ausgeben.
 3. Erst danach in ein Personenblatt übernehmen.
 4. Widersprüche stehen lassen, nicht glätten.

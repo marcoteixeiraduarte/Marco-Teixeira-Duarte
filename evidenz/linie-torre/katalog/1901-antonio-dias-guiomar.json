@@ -1,0 +1,93 @@
+{
+  "source_url": "https://digitarq.arquivos.pt/documentDetails/c0069b093c6f41dc8408820d5c3e2c9d",
+  "retrieval_url": "https://digitarq.arquivos.pt/api/docs/details/c0069b093c6f41dc8408820d5c3e2c9d",
+  "retrieved_on": "2026-09-17",
+  "source_type": "archive_catalogue_metadata",
+  "scope": "Selected fields copied without changing their values; not an original register transcription.",
+  "record": {
+    "id": "c0069b093c6f41dc8408820d5c3e2c9d",
+    "referenceCode": {
+      "id": "1c151ea8d7f84d0ca17e92be2d1cf065",
+      "value": "PT/ADLRA/AC/GCLRA/H-D/001/0018/00750",
+      "class": "E42_Identifier"
+    },
+    "titles": [
+      {
+        "id": "9b7f0bd83f4543acb8a94b8d1fcb9fe6",
+        "value": "Passaporte de António Dias Guiomar",
+        "class": "E35_Title",
+        "type": {
+          "id": "18fff6a6cab24c2b811a878bae8b6167",
+          "value": "FORMAL",
+          "class": "E55_Type"
+        }
+      }
+    ],
+    "dateInitial": {
+      "id": "9d6b1d31219547388ddf61be5619af50",
+      "value": "1901-01-22",
+      "class": "E62_String",
+      "certainty": true
+    },
+    "dateFinal": {
+      "id": "c4a5e35d93e343a5b33677d30f633e21",
+      "value": "1901-01-22",
+      "class": "E62_String",
+      "certainty": true
+    },
+    "description": {
+      "id": "07882827624449e4a61f9cc22e760236",
+      "value": "Registo nº 23\r\nIdade: 33 anos\r\r\nFiliação: Luís Guiomar  / Delfina Maria\r\nNaturalidade: Torre de Vale de Todos / Ansião\r\nResidência: Torre de Vale de Todos / Ansião\r\nDestino: Santos / Brasil\r\n\r\n",
+      "class": "E62_String"
+    },
+    "holder": {
+      "id": "031f90bd2be14ba1ab0f218dede15818",
+      "value": "Arquivo Distrital de Leiria",
+      "class": "E74_Group"
+    },
+    "parent": {
+      "id": "b026e6d9512f49569e0d4c3bdce59908",
+      "value": "PT/ADLRA/AC/GCLRA/H-D/001/0018",
+      "class": "E22_HumanMadeObject",
+      "descriptionLevel": {
+        "id": "8bb33fc3992c4884ade735014a62ca5a",
+        "value": "UI",
+        "class": "E55_Type"
+      },
+      "referenceCode": {
+        "id": "766277b84b86495c95171ae91b026eba",
+        "value": "PT/ADLRA/AC/GCLRA/H-D/001/0018",
+        "class": "E42_Identifier"
+      },
+      "dateInitial": {
+        "id": "aabc18baf969479c9e32d5510b2b16c2",
+        "value": "1899-01-31",
+        "class": "E62_String"
+      },
+      "dateFinal": {
+        "id": "f9a9c0e441b0472c848838c647a3dabf",
+        "value": "1901-02-27",
+        "class": "E62_String"
+      },
+      "titles": [
+        {
+          "id": "9d8e29986ac14f9caf99f9255854c287",
+          "value": "Livro de registo de passaportes nº 18",
+          "class": "E35_Title",
+          "type": {
+            "id": "18fff6a6cab24c2b811a878bae8b6167",
+            "value": "FORMAL",
+            "class": "E55_Type"
+          }
+        }
+      ]
+    },
+    "hasImages": false,
+    "hasRepresentations": false,
+    "hasPublishedRepresentations": false,
+    "relatedRepresentations": {
+      "total": 0,
+      "results": []
+    }
+  }
+}
