@@ -4,7 +4,7 @@ Ordner `akten/guiomar/` · **eine Person = ein Ordner** mit Scan.
 Durchblättern unter sprechendem Namen: `archiv/guiomar/`.
 Gegenlese jeder Akte: **offen**.
 
-Luiz × Delfina **haben wir**. Pass-António 1901 = Bruder, nicht avô.
+Luiz × Delfina **haben wir**. Der Katalogpass António 1901 gehört wahrscheinlich zum Sohn * 1867, nicht zum avô; der Katalogpass Manoel 1886 [?] wahrscheinlich zum Sohn * 1862. Passoriginale und tatsächliche Ausreisen bleiben offen.
 
 Lebende, pais und avós (Fernando, Islida, José Duarte, Maria Freire de Jesus)
 nicht in dieser Prüfung.
@@ -67,9 +67,18 @@ nicht im Taufnamen des Kindes. Die Blatteltern **Luiz Dias Guiomar**
 × **Delfina Maria** **passen** der Richtung nach (Quellenform des
 Vaters: `Luiz Guiomar`).
 
-Pass **António Dias Guiomar**, 22.01.1901, 33 Jahre, Filiação Luís
-Guiomar / Delfina Maria: **Bruder** dieses João, benannt nach dem
-avô. Nicht der Großvater selbst. Blatt:
+Der direkt geprüfte ADLRA-Katalog nennt **António Dias Guiomar**,
+22.01.1901, 33 Jahre, Filiação Luís Guiomar / Delfina Maria.
+Der Anschluss an den 1867 getauften Sohn und damit als Bruder
+dieses João ist **wahrscheinlich**, aber ohne Passoriginal noch
+nicht endgültig. Der gleichnamige avô bleibt sicher getrennt.
+
+Der Katalog nennt außerdem **Manoel Dias Guiomar**, 23.02.1886
+[Datum im Katalog unsicher], 23 Jahre, dieselben Eltern und Ziel
+Santos. Der Anschluss an Manuel * Juli 1862 ist ebenfalls
+**wahrscheinlich**. Eine eigene Auswanderung Luiz ist nicht belegt;
+auch die tatsächlichen Reisen von António und Manoel bleiben offen.
+Blatt:
 [passe-antonio-guiomar-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
 
 ### Randvermerke
