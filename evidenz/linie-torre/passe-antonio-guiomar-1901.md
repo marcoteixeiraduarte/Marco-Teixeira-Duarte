@@ -214,10 +214,13 @@ ein Akt die Form trägt. `Ramalho` 1913 nicht an Joaquina Ramalha.
 
 Luiz × Delfina nicht noch einmal suchen.
 
-1. DigitArq-Scan `GCLRA/H-D/001/0018/00750` (Pass António) — Filiação
-   festlesen.
-2. Taufe des Bruders António, Luiz × Delfina, Torre **~1866–1870**.
-3. Avô-Paar **Antonio Dias Guiomar × Joaquina Maria** (1874 genannt):
+1. Passoriginale António, Band 18 / Registo 23, und Manoel,
+   Band 6 / Registo 125, gegenlesen.
+2. Für António und Manoel tatsächliche Ausreise bzw. Ankunft
+   unabhängig vom Passziel prüfen.
+3. Eigene Luiz-Passspur getrennt suchen; Vater und möglichen
+   weiteren Sohn nicht zusammenführen.
+4. Avô-Paar **Antonio Dias Guiomar × Joaquina Maria** (1874 genannt):
    eigene Akte, zuerst Alvorge / Bemposta.
-4. Freixo und Lindos: Ortsregister, nicht Personenanschluss über den
+5. Freixo und Lindos: Ortsregister, nicht Personenanschluss über den
    Pass Jorge.
