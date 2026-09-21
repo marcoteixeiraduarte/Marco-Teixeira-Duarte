@@ -6,13 +6,20 @@
 | --- | --- |
 | Quellenname | Maria Ramalha |
 | Rolle | 4.º avó Joaquinas |
-| * | ~1842 (21 am 16.11.1863); natürlich **Castello**, Pfarrei Torre |
+| * | ~1842 (21 am 16.11.1863). Herkunft der Sippe **nicht Torre** (Auftraggeber) |
 | † | offen |
-| Eltern / genannt mit | Manoel Ramalho, defunto × Angelica Maria |
-| Gewissheit | Heirat 16.11.1863 **sicher**; wohnhaft dann Castello, später Pragoza |
+| Eltern / genannt mit | Manoel Ramalho, defunto × Angelica Maria. Blatt: **Manuel Dias Ramalho** × Angelica Maria Leal |
+| Gewissheit | Heirat **16.11.1863 in Torre** sicher. Das ist Wohnort/Trauort, nicht die Herkunft |
 
-Heirat gefunden. Erstes gelesenes Kind: **Maria da Graça * 30.05.1864**
-Pragoza. Tochter **Joaquina * 15.06.1873** — Blatt, **haben wir**.
+1863: Castello. 1864 schreibt der Torre-Priester `natural desta freguesia`
+(sie wohnt schon Pragoza). 1875 wieder nat. **Castello**. Naturalidade ≠
+Herkunft der Ramalha. **Dias** / **Leal** stehen auf dem Blatt, in den
+Torre-Akten 1863/1871 nicht.
+
+Heirat gefunden. Kinder in Torre/Pragoza getauft (Maria da Graça 1864,
+José, Sebastião …). Tochter **Joaquina * 15.06.1873** — Blatt; Taufe
+nicht in Torre 1873. Wenn suchen: **um den 15.06.1873**, Pfarrei der
+Ramalha, nicht ± Jahre in Torre.
 
 ## Scan
 

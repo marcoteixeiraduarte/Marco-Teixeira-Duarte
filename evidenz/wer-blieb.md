@@ -24,7 +24,7 @@ der Pfarrei; Teixeira umtriebig.
 | **Duarte** | Carrasqueiras | * und Heirat 1907 dort; Frau aus dem Nachbarweiler Cabeça Redonda | sicher |
 | **Mendes Ferreira** | Ateanha (Alvorge) als Herkunft | **nicht** das stärkste Bleiben: der Mann geht zur Frau | sicher als Herkunft; Wohnen folgt der Frau |
 | **Teixeira** | Figueiras Podres → Cabeça Redonda → Ribeira de Cima | umtriebig, kurze Wege | sicher |
-| **Ramalho** | Pragoza | Maria Ramalha, Frau des **José dos Reis** (Bruderhaus); Kind **Joaquina Ramalha**. Avós 1871: Manuel Ramalho × Angelica Maria | sicher (Taufe 1871) |
+| **Ramalho** | **nicht Torre** (Auftraggeber) | Maria Ramalha heiratet 1863 **in** Torre (Castello → Pragoza). Herkunft der Sippe offen; Blatt **Manuel Dias Ramalho**. Dias/Leal nicht in den Torre-Akten | Herkunft Auftraggeber; Wohnen nach 1863 Pragoza |
 
 **Dos Reis** ist in Pragoza stärker als Mendes. Mendes kommen aus
 **Ateanha** (Pfarrei Alvorge) und setzen sich über die Frau

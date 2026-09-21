@@ -53,7 +53,7 @@ Cosme, nicht andere Namensvettern außerhalb.
 | Taufen Kinder Antonio Feio × Maria Mendes | Carvalhinho | **1720–1767** in `PANS08/001/0001`; Nachzügler `001/0002` ab **19.06.1767** (Anfang ohne Carvalhinho bis Dez. 1770) | [antonio-feio-carvalhinho](linie-guiomar/antonio-feio-carvalhinho.md) |
 | Taufe **Antonio Rodrigues Feio** (avô) | Carvalhinho | **1700–1735** in `001/0001` `m0150–m0235` (1710–1738 datiert) | dasselbe |
 | Taufe Roza Maria | 1820–1835 | **1815–1840** Alvorge (Vale Paio / Aljazede / Ateanha als Suchorte getrennt) | PANS01 1808–1822 und 1822–1852 |
-| Joaquina Ramalha * **15.06.1873** Pragosa | Blatt | **haben wir.** Nicht suchen. Torre 1873 ohne diesen Eintrag. Eltern-Heirat **16.11.1863**; Geschwister gelesen | — |
+| Joaquina Ramalha * **15.06.1873** | Blatt | Geburt **haben wir.** Taufe nur **um den 15.06.1873**, nicht ± Jahre. **Nicht Torre** als Herkunft der Ramalha — dort nur Heirat der Mutter 1863 und Geschwister. Torre 1873 ohne Eintrag | Pfarrei der Ramalha, nicht PANS08-Jahre |
 | Taufe Joaquim Rodrigues Feio | Blatt * 3.04.1853 | **gefunden: 3.04.1853 / Taufe 27.04.1853** Torre, Pragoza | `PANS08/001/0004` m0050 |
 | Taufe Nicolau Feio | offen | **1810–1842** und Ende 1767–1809; 1822–28 ohne Nicolau | `PANS08/001/0003` / `0002` |
 | Heirat Melchior × Rozaria | offen | **gefunden als Paar 1824**; Trauung **vor ~1810** (Sohn Antonio schon Vater 1827). `002/0002` online = Taufen `001/0002`, nicht Casamentos | [melchior-feio-1824](linie-guiomar/melchior-feio-1824.md) |
@@ -109,8 +109,9 @@ Victoria: A/V). Feio über die Mutter aus Carvalhinho.
 
 1. Geschwister Palmyra/Palmira: Torre Batismos **1898–1911**; Sterbeakt
    Palmyra 1897. Die 1912er ist die späte.
-2. Joaquina Ramalha * **15.06.1873** — **haben wir** (Blatt). Nicht
-   weiter suchen.
+2. Joaquina * **15.06.1873** (Blatt). Taufe nur **nahe diesem Tag**.
+   Ramalha **nicht aus Torre** — Torre war Wohnort nach der Heirat 1863,
+   nicht die Herkunft. 1872–80 in Torre war die falsche Suche.
 3. PANS02 Batismos **1876–1894** auf **Maria** / **Maria José**, Eltern
    Francisco José dos Santos × Maria Thereza; Heirat João × Maria José
    **1895–1913**. Lokal: 1883-Taufen fehlen; 1884 ohne Treffer.

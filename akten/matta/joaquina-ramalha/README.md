@@ -11,7 +11,11 @@
 | Eltern / genannt mit | José dos Reis × Maria Ramalha |
 | Gewissheit | Geburt **Blatt** (Auftraggeber). Heirat und Eltern 1896 **sicher**. Leal steht 1896 nicht. |
 
-Geburt nicht noch einmal suchen. Torre 1873 ohne diesen Eintrag gelesen — das ändert das Datum nicht. Heirat physisch auch bei Manuel. Blatt setzt Ramalho × Leal eine Generation zu hoch (avós Sebastião 1871).
+Geburt nicht noch einmal suchen. Taufe — wenn — **um den 15.06.1873**,
+nicht ± Jahre. Ramalha **nicht aus Torre** (Auftraggeber); Torre ist
+Heirat der Mutter 1863 und Geschwister, nicht die Herkunft. Torre 1873
+ohne diesen Eintrag. Heirat physisch auch bei Manuel. Blatt setzt
+**Manuel Dias Ramalho** × Leal eine Generation zu hoch (avós 1871).
 
 Ausführlich: [joaquina-reis-leal](../../../evidenz/linie-torre/joaquina-reis-leal.md).
 
