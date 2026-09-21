@@ -70,7 +70,7 @@ glätten.
 | José Maria * Pragosa · † 30.07.1948 | * **Valle de Todos**; † **Mai 1948 · Alvorge** | Juli nicht setzen |
 | Maria da Piedade * Vale de Todos | * **Pragoza** | Datum **passt** |
 | Joaquina Ramalha * 15.06.1873 · Pragosa | 23 am 21.08.1896 **passt** | Datum **Blatt — haben wir**. Nicht noch einmal suchen. Torre 1873 ohne Kirchenakt, Datum bleibt |
-| Manuel Dias Ramalho × Angelica Maria Leal als 4.º Joaquinas (Cas. 1877) | Kirche 1896: **José dos Reis** × **Maria Ramalha**. 1871 Ramalho × Angelica = avós maternos Sebastião | eine Generation höher |
+| Manuel Dias Ramalho × Angelica Maria Leal als 4.º Joaquinas (Cas. 1877) | Kirche 1896: **José dos Reis** × **Maria Ramalha**. 1871 dieselben als avós maternos. **Dias** Blatt, Torre lässt ihn weg | eine Generation höher; Dias nicht streichen |
 | Manuel Teixeira * Ribeira do Açor | Zivil `01.jpg`: **Ribeira de Cima**, freguesia Ansião | Weiler der Akte |
 | Maria Helena Rodrigues Feio | Taufname **Maria**; Sippe des Vaters Rodrigues Feio | Blattname daneben |
 | João Mendes Ferreira · Ateanha (Maria Ramos) | Ateanha **passt** zur Frau/Sohn-Linie | sicher als Ateanha 1880 |
@@ -321,7 +321,7 @@ ist **viel später**.
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
-| Manuel Dias Ramalho × Angelica Maria Leal | Blatt; **nicht** die Eltern der Heirat 1896. Kirche: **José dos Reis** × **Maria Ramalha**. 1871: **Manuel Ramalho** × **Angelica Maria** = avós maternos (Sebastião). `Dias` / `Leal` nicht in 1871 |
+| Manuel Dias Ramalho × Angelica Maria Leal | **Blatt.** Nicht die Eltern 1896. Kirche: **José dos Reis** × **Maria Ramalha**. 1871 avós: Manuel Ramalho × Angelica. **Dias** bleibt Blatt, nicht streichen |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
 **Rosa Maria**. Das entspricht dem Sterbeakt 1903 (`Manuel Pedro dos

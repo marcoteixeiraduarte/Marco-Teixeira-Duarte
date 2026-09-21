@@ -63,11 +63,10 @@ Manoel Pedro × Joaquina Maria, Pragosa
 Joaquina und José Pedro sind **Cousins**. Die Häuser bleiben zwei
 Haushalte in demselben Weiler.
 
-`Dias` und `Leal` stehen in diesem Akt **nicht**. Blatt
-**Manuel Dias Ramalho** × **Angelica Maria Leal** trifft das
+Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** trifft das
 **Großelternpaar mütterlich** von Sebastião und Joaquina — nicht die
-Eltern der Heirat 1896. Die Extra-Namen Dias / Leal bleiben Blatt,
-nicht in 1871 festgelesen.
+Eltern der Heirat 1896. Torre 1871 schreibt nur `Manuel Ramalho`.
+**Dias** ist Blatt, nicht „extra / streichen“. Ramalha nicht aus Torre.
 
 Pate Joaquim Ramalho, ledig: **Kandidat** Bruder der Maria Ramalha.
 Patin Angelica Maria, Witwe: dieselbe Frau wie die Großmutter mütterlich.

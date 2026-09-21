@@ -70,7 +70,7 @@ Heirat 1896 und erste Lesung `neta materna` 1912 **passen:**
 | Vater **José dos Reis**, Pragoza | sicher (Heirat 1896); 1912 bereits tot |
 | Mutter **Maria Ramalha** | sicher (Heirat 1896) |
 | **Angelica Maria Leal** als Mutter Joaquinas | **nicht** in 1896, **nicht** festgelesen in 1912 |
-| Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** | Blatt; **nicht** die Eltern dieser Heirat. 1871: dieselben Vornamen als **avós maternos** Sebastiãos (`Manuel Ramalho` × `Angelica Maria`). `Dias` / `Leal` nicht in 1871 |
+| Blatt **Manuel Dias Ramalho** × **Angelica Maria Leal** | **Blatt — haben wir.** Nicht die Eltern der Heirat 1896, sondern die **avós maternos** (Sebastião 1871). Torre schreibt nur `Manuel Ramalho` — **Dias** gehört trotzdem zur Sippe, nicht streichen |
 
 `José dos Reis` × `Maria Ramalha` ist **nicht** dasselbe Paar wie
 **José Pedro dos Reis** × Narciza. Narciza heiratet 1878; Joaquina
@@ -113,11 +113,11 @@ und ob Leal über die Frau kam.
 Übliches portugiesisches Muster: Kind **dos Reis Leal** = Vater Reis,
 Mutter Leal. Die Heirat 1896 schreibt die Frau **Joaquina Ramalha**
 (Vater Reis, Mutter Ramalha). Zivil 1912/1937 siegt **Reis**.
-**Leal** steht auf dem Blatt als Angelica Maria Leal — **nicht** als
-Mutter dieser Joaquina. 1871 ist Angelica Maria die **Großmutter
-mütterlich** (und Patin, Witwe). Wo `Leal` und `Dias` herkommen,
-bleibt offen (diese Generation nicht; die Großeltern-Namen im Akt
-sind nur Ramalho / Angelica Maria).
+**Leal** steht auf dem Blatt bei Angelica — **nicht** als Mutter
+Joaquinas (das ist Maria Ramalha). 1871 ist Angelica die **Großmutter
+mütterlich**. **Dias** gehört zum Ramalho des Blattes (`Manuel Dias
+Ramalho`). Torre hat Dias weggelassen, weil die Sippe nicht von dort
+kommt. Nicht mit Dias Guiomar oder Dias Barbeiro vermengen.
 
 ## Palmyra 1897 — und Palmira 1912 viel später
 

@@ -4,14 +4,14 @@
 
 | | |
 | --- | --- |
-| Quellenname | Manuel Ramalho (Kirche 1871); Blatt **Manuel Dias Ramalho** |
+| Quellenname | **Manuel Dias Ramalho** (Blatt); Kirche Torre 1871 nur Manuel Ramalho |
 | Rolle | avô materno Sebastião 1871; Blatt setzt ihn als 4.º Joaquinas — eine Generation zu hoch |
-| * | offen — **nicht Torre** (Auftraggeber) |
+| * | offen — **nicht Torre** |
 | † | offen |
-| Gewissheit | in Torre 1871 sicher **genannt**. Eigene Herkunft nicht Torre |
+| Gewissheit | **Dias Ramalho** Blatt. In Torre 1871 als Manuel Ramalho genannt |
 
-Kein eigener Akt in Torre. `Dias` und `Leal` stehen auf dem Blatt, in
-1871/1896 nicht. Sippe Ramalha nicht in Torre suchen.
+**Dias** nicht streichen, nur weil Torre ihn nicht schreibt. Nicht
+Dias Guiomar, nicht Dias Barbeiro. Sippe nicht in Torre suchen.
 
 Ausführlich: [zwei Reis-Häuser](../../../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 
