@@ -79,7 +79,7 @@ Santos. Der Anschluss an Manuel * Juli 1862 ist ebenfalls
 **wahrscheinlich**. Eine eigene Auswanderung Luiz ist nicht belegt;
 auch die tatsächlichen Reisen von António und Manoel bleiben offen.
 Blatt:
-[passe-antonio-guiomar-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+[passe-antonio-guiomar-1901](../../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
 
 ### Randvermerke
 
