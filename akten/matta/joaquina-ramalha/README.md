@@ -69,6 +69,13 @@ Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 </details>
 
 
+Alvorge Juni 1873 — **kein** Joaquina-Akt (zum Nachlesen):
+
+![Alvorge 1873 m0170](1873-alvorge-juni-kein-eintrag-PANS01-001-0007_m0170.jpg)
+![Alvorge 1873 m0171](1873-alvorge-juni-kein-eintrag-PANS01-001-0007_m0171.jpg)
+![Alvorge 1873 m0172](1873-alvorge-juni-kein-eintrag-PANS01-001-0007_m0172.jpg)
+![Alvorge 1873 m0173](1873-alvorge-juni-kein-eintrag-PANS01-001-0007_m0173.jpg)
+
 Geburt Tochter Palmira 24.04.1912 — liegt in der Conservatória, nicht hierher kopiert:
 
 ![Geburt Tochter Palmira 24.04.1912](../../../archiv/conservatoria-ansiao/08.jpg)

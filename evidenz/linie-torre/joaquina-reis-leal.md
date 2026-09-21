@@ -154,5 +154,7 @@ Geschwisterjagd.
 Joaquinas Geburt nicht weiter suchen. Taufe um den 15.06.1873:
 **Alvorge / Ateanha Juni 1873 leer** für dieses Kind.
 Auftraggeber: Ramalha **Ateanha** (Kandidat). Akten 1863/1875:
-**Castello**. Nicht glätten.
+**Castello**. Nicht glätten. Geschwister nicht noch einmal suchen;
+Paten daraus (José / Joaquim Ramalho) wenn die Herkunft leer bleibt.
+Eltern-Heirat **21.02.1838** Torre (Kandidat).
 [ramalha-ateanha-1873](ramalha-ateanha-1873.md).

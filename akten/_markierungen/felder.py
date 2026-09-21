@@ -339,6 +339,27 @@ FELDER = {
         {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.70, 0.34, 0.10]},
         {"kind": "hinweis", "label": "Einträge darüber = andere Häuser (Lindos / Santo Romão)", "box": [0.50, 0.04, 0.48, 0.44]},
     ],
+    # Heirat Manoel Ramalho × Angelica Maria 21.02.1838 — rechte Seite unten
+    "PANS08-002-0003_m0054": [
+        {"kind": "entry", "label": "21.02.1838 Manoel Ramalho × Angelica M.", "box": [0.50, 0.48, 0.48, 0.50]},
+        {"kind": "name", "label": "M.el Ramalho / Angelica M.", "box": [0.50, 0.50, 0.10, 0.14]},
+        {"kind": "date", "label": "21.02.1838", "box": [0.58, 0.50, 0.38, 0.08]},
+        {"kind": "parents", "label": "Braut: Manoel Leal × Thereza M.", "box": [0.58, 0.68, 0.38, 0.07]},
+        {"kind": "place", "label": "Pregoza / Castello", "box": [0.58, 0.74, 0.38, 0.07]},
+        {"kind": "hinweis", "label": "Dias steht nicht. Zweitname Gegenlese", "box": [0.58, 0.60, 0.38, 0.07]},
+        {"kind": "hinweis", "label": "linke / obere Heirat = anderes Paar", "box": [0.02, 0.08, 0.46, 0.40]},
+    ],
+    # José * 02.06.1843 — Kandidat Sohn / Bruder Maria; linke Seite oben
+    "PANS08-001-0004_m0009": [
+        {"kind": "entry", "label": "José * 02.06.1843 Rua da Alom (Kandidat)", "box": [0.08, 0.04, 0.40, 0.42]},
+        {"kind": "place", "label": "Rua da Alom", "box": [0.02, 0.04, 0.10, 0.08]},
+        {"kind": "name", "label": "José", "box": [0.02, 0.12, 0.08, 0.07]},
+        {"kind": "date", "label": "* 02.06.1843", "box": [0.12, 0.06, 0.34, 0.07]},
+        {"kind": "parents", "label": "Manoel Thomaz Ramalho × Angelica Maria", "box": [0.12, 0.16, 0.34, 0.08]},
+        {"kind": "avos", "label": "Manoel Leal × Thereza Maria", "box": [0.12, 0.28, 0.34, 0.07]},
+        {"kind": "hinweis", "label": "Kandidat Bruder Maria. Dias steht nicht", "box": [0.12, 0.36, 0.34, 0.08]},
+        {"kind": "hinweis", "label": "restliche Seite = andere Taufen", "box": [0.50, 0.08, 0.46, 0.40]},
+    ],
     # Manoel Ramalho Pate Ateanha 10.06.1841 — linke Seite oben (Kind = Mendes, nicht Ramalho)
     "PANS01-001-0004_m0146": [
         {"kind": "entry", "label": "10.06.1841 Ateanha — Pate Manoel Ramalho", "box": [0.10, 0.04, 0.38, 0.40]},

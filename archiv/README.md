@@ -76,6 +76,8 @@ Leer lassen, bis du sie selbst gelesen hast.
 | [1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg](matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg) | 2849×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015) |
 | [1898-baptismo-casimiro-PANS08-001-0043_m0019.jpg](matta/1898-baptismo-casimiro-PANS08-001-0043_m0019.jpg) | 1051×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/adb7b416da074065a00f91770bf8bc79) |
 | [1841-pate-manuel-ramalho-ateanha-PANS01-001-0004_m0146.jpg](matta/1841-pate-manuel-ramalho-ateanha-PANS01-001-0004_m0146.jpg) | 2280×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/4b820d7bb81e4910a88430792e576518) |
+| [1838-casamento-manoel-ramalho-angelica-PANS08-002-0003_m0054.jpg](matta/1838-casamento-manoel-ramalho-angelica-PANS08-002-0003_m0054.jpg) | 2444×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9) |
+| [1843-baptismo-jose-ramalho-rua-alom-PANS08-001-0004_m0009.jpg](matta/1843-baptismo-jose-ramalho-rua-alom-PANS08-001-0004_m0009.jpg) | 2519×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7) |
 | [1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg](matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg) | 1984×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/1728f8a2d54c411fa0065d1eb8c9fa6a) |
 
 ### Joze Maria / Anna

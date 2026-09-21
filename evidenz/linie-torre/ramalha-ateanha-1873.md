@@ -1,65 +1,114 @@
-# Ramalha / Ateanha — Taufe Joaquina um den 15.06.1873
+# Ramalha / Ateanha — zum Gegenlesen
 
-Auftraggeber: **Ramalha ist Ateanha** (`glaub ich`). Geschwister
-Joaquinas **haben wir** — nicht noch einmal suchen. Palmira jetzt nicht.
+Auftraggeber: **Ramalha ist Ateanha** (`glaub ich`) — bleibt
+**Kandidat**. Geschwister Joaquinas **haben wir**; neu suchen
+nur, wenn die Herkunft leer bleibt. Dann helfen die **Paten**
+in den vorhandenen Akten. Palmira jetzt nicht.
 
-Ateanha ist Lugar der **Pfarrei Alvorge** (Orago Nossa Senhora da
-Conceição). Keine eigenen Bücher. Einträge stehen im Alvorge-Band,
-Rand oft `Atianha` / `Ateanha`. OSM ~39.987 / −8.412.
-Nicht mit Mendes-Ateanha (João Mendes Ferreira × Maria Ramos)
-zusammenziehen. Nicht mit Rozas Aljazede.
+Ateanha = Lugar der **Pfarrei Alvorge** (Nossa Senhora da
+Conceição). Keine eigenen Bücher. OSM ~39.987 / −8.412.
+Nicht Mendes-Ateanha. Nicht Rozas Aljazede. **Castello** der
+Torre-Akten = Flecken in Vale de Todos, nicht Ateanha.
 
-## Was die Akten schon schreiben
+Blatt: **Manuel Dias Ramalho** × Angelica Maria Leal. **Dias**
+bleibt Blatt, auch wenn die Kirche ihn weglässt.
 
-| Quelle | Naturalidade Maria Ramalha | Gewissheit |
+## Was du prüfen kannst (Scans liegen)
+
+| # | Akt | Datei | Was ich lese | Du prüfst |
+| --- | --- | --- | --- | --- |
+| 1 | Heirat **21.02.1838** Torre | `akten/matta/manuel-ramalho/1838-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0054.jpg` plus Ausschnitt daneben | **Manoel Ramalho** × **Angelica M.**, sie Tochter **Manoel Leal** × Thereza M.; Rand Pregoza / Castello | Namen, Leal, Ort. **Dias** steht hier nicht |
+| 2 | Taufe **José * 02.06.1843** | `akten/matta/manuel-ramalho/1843-taufe-sohn-jose-kandidat-PANS08-001-0004_m0009.jpg` | **Manoel Thomaz Ramalho** × Angelica Maria, Rua da Alom; avós maternos **Manoel Leal** × Thereza Maria | Ist das der Sohn des Paares 1838 / der Pate 1864? |
+| 3 | Pate **10.06.1841** Atianha | `akten/matta/manuel-ramalho/1841-pate-ateanha-…_m0146.jpg` | **Manoel Ramalho** Pate, Kind = Mendes | Derselbe Mann? |
+| 4 | Alvorge **m0159** (blass) | `akten/matta/maria-ramalha/gegenlese-kandidat-blass-PANS01-001-0004_m0159.jpg` (+ Kontrast) | zu blass, **kein** Fund | Siehst du Maria / Ramalho / Angelica? |
+| 5 | Alvorge **Juni 1873** | `akten/matta/joaquina-ramalha/1873-alvorge-juni-kein-eintrag-…_m0170`–`m0173.jpg` | kein Joaquina-Akt am 15.06. | Fenster 12.–21.06. wirklich leer? |
+
+DigitArq Heirat: `PT/ADLRA/PRQ/PANS08/002/0003`
+([6230184fe7b24cf380e3231f32271ea9](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9)).
+Taufe 1843: `PANS08/001/0004`
+([156d7cb1382b42d89e362d0f4f3699a7](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)).
+
+## Geschwisterakten — Paten (nicht neu suchen)
+
+Joaquinas Geschwister bleiben liegen. Aus **denselben** Akten,
+weil Ateanha/Joaquina-Taufe leer war:
+
+| Kind | Padrinho | Madrinha | Castello / Ramalho |
+| --- | --- | --- | --- |
+| Maria da Graça 1864 | **José Ramalho**, solteiro, dieser Pfarrei | Maria da Graça, casada, **Castello** | Castello nur bei der Patin |
+| José 1866 | José Francisco | Maria de Jesus, seine Frau | avó Angelica **Castello**; Manoel Ramalho **defunto** |
+| Maria 1867 | José Duarte (blass) | Maria de Jesus | Ramalho = Mutter |
+| Sebastião 1871 | **Joaquim Ramalho**, solteiro | Angelica Maria, **viúva** | kein Ort bei den Paten |
+| José 1875 | **José Ramalho**, casado, Pragoza | Maria Rita, casada, Pragoza | Mutter nat. **Castello** |
+
+**José Ramalho** (1864 ledig, 1875 verheiratet) und **Joaquim
+Ramalho** (1871 ledig) = **Kandidat** Geschwister der Maria
+Ramalha. José * 02.06.1843 passt zum Ledigen 1864 (dann 21).
+Joaquim-Taufe noch nicht in Torre 1842–1845.
+
+## Heirat 21.02.1838 — selbst gelesen
+
+Rechte Seite unten, Rand `Pregoza` / `M.el Ramalho` / `Angelica M.`
+
+> Aos dias **Vinte e hum** do mez de **Fevereiro** de mil oito centos
+> **e trinta e oito** … Parochial Igreja de Nossa Senhora da Graça da
+> Torre de V. de Todos … **Manoel** … **Ramalho** filho de M.el …
+> Ramalho e de … **Angelina Maria** … e a contraente **Angelica M.**
+> filha de **Manoel Leal** e **Thereza M.** … **Pregoza** …
+> moradora no **Castello**
+
+| Feld | Lesung | Gewissheit |
 | --- | --- | --- |
-| Heirat 16.11.1863 Torre | **Castello** (21 Jahre) | sicher so geschrieben |
-| Taufe José 1875 | wieder nat. **Castello** | sicher so geschrieben |
-| Taufe Maria da Graça 1864 | Torre-Priester: `natural desta freguesia` | sie wohnt schon Pragoza |
-| Auftraggeber | Sippe **Ateanha** | Kandidat (mündlich) |
+| Datum | 21.02.1838 | sicher |
+| Paar | Manoel Ramalho × Angelica Maria | sicher |
+| Ihr Vater | **Manoel Leal** (Blatt-Leal) | sicher |
+| Orte | Pregoza / Castello; er aus Lagarteira-Richtung | sicher Castello/Pregoza; Lagarteira wahrscheinlich |
+| **Dias** | steht **nicht** | sicher fehlend |
+| Zweitname des Bräutigams | über der Zeile / durchgestrichen; **Gomes** möglich | Gegenlese |
+| Identität = avós 1863/1871 | dieselben Vornamen + Leal + Castello | **Kandidat / wahrscheinlich** |
+| Ateanha | steht **nicht** | sicher fehlend |
 
-**Castello** in den Torre-Akten ist der Flecken **in Vale de Todos**
-(neben Barreira), nicht das Castelo von Avelar und nicht Ateanha.
-Naturalidade 1863/1875 und Herkunft der Sippe bleiben **zwei Felder**.
-Nicht glätten.
+## José * 02.06.1843 — selbst gelesen
 
-Blatt: **Manuel Dias Ramalho** × Angelica Maria Leal. Dias bleibt.
+Linke Seite oben, Rand `Rua da Alom` / `José`.
 
-## Alvorge Juni 1873 — ganz gelesen
+> … **Junho** de mil oitocentos **quarenta e tres** … **José que
+> nasceu a dois** do dito mez e anno, filho legitimo de **Manoel
+> Thomaz Ramalho** e **Angelica Maria**, moradores na **Rua da Alom**
+> desta freguesia. Neto Paterno de Manoel Thomaz Ramalho e Angelina
+> Thereza … Lagarteira / Carraçal. Materno de **Manoel Leal** e
+> **Thereza Maria** …
 
-Band `PT/ADLRA/PRQ/PANS01/001/0007` (Batismos 1870–1879),
-DigitArq `4e99662172214a418bd7857a68ed45b4`.
-Juni-Fenster `m0170`–`m0173`.
+Avós maternos = dieselben wie 1838 bei der Braut. Deshalb: José
+**wahrscheinlich** Sohn dieses Paares, **Kandidat** Bruder Marias
+(Pate 1864). Kirche schreibt **Thomaz**, nicht Dias.
 
-| N.º | Datum | Kind | Lugar | Eltern (kurz) | Joaquina? |
-| --- | --- | --- | --- | --- | --- |
-| 19 | 10.06.1873 | **Quiteria** | Atianha | João Mendes … | nein (Mendes-Haus) |
-| 20 | 12.06.1873 | **Victorio Emilio** | Matto de Costello | anderes Haus | nein |
-| 21 | 21.06.1873 | **João** | Junqueira | Vater aus Torres | nein |
-| 22 | 25.06.1873 | **Luiz** | Vale Galego | anderes Haus | nein |
+## Maria Ramalha selbst — Taufe offen
 
-Zwischen N.º 20 (12.06.) und N.º 21 (21.06.) **kein** Taufeintrag.
-Am **15.06.1873** steht in Alvorge nichts. Joaquina * 15.06.1873
-**Pragosa** bleibt Blatt. Kirchenakt um den Tag: **nicht Alvorge**.
+Torre `001/0004` ab **13.09.1842** bis Nov. 1845 (m0002–m0026)
+ganz auf Maria/José/Joaquim dieses Paares gelesen: **nur** José
+1843. Keine Maria, kein Joaquim. Kein Ateanha.
 
-Lokal (nicht Git): `suche/alvorge-taufen-1870-1879/`.
+21 Jahre am 16.11.1863 → * ~Nov. 1841–Nov. 1842. Vor dem 13.09.1842
+liegt sie im **vorigen** Torre-Band (`001/0003`) **oder** in
+**Alvorge/Ateanha**. Deshalb bleibt Ateanha der Auftraggeber-Ort
+für **ihre** Taufe — die Heirat der Eltern 1838 ist Torre/Castello.
 
-## Alvorge 1841 — Manoel Ramalho in Ateanha
+1863: `baptizada nesta Freguesia` (Torre). Das spricht für Torre
+vor Sept. 1842, nicht gegen Ateanha als Sippe. Zwei Felder.
 
-Band `PANS01/001/0004` `m0146`, linke Seite oben, **10.06.1841**.
-Kind **Manoel**, * 23.05., Eltern **Manoel Mendes** × Maria (Ateanha).
-Pate: **Manoel Ramalho**.
+## Alvorge Juni 1873 — Joaquina
 
-Das Kind ist Mendes, nicht unsere Linie. Der Pate sitzt 1841 in
-derselben Ateanha-Nachbarschaft. Identität mit **Manuel Dias Ramalho**
-(Blatt / avô 1871) = **Kandidat**.
+Band `PANS01/001/0007` m0170–m0173. Am **15.06.1873** nichts.
+N.º 19–22 andere Häuser (Mendes-Atianha, Matto de Costello,
+Junqueira, Vale Galego). Joaquina * 15.06.1873 **Pragosa** bleibt
+Blatt. Kirchenakt um den Tag: **nicht Alvorge**.
 
-Scan: `akten/matta/manuel-ramalho/1841-pate-ateanha-PT-ADLRA-PRQ-PANS01-001-0004_m0146.jpg`.
+## Was bewusst nicht passiert
 
-## Taufe Maria Ramalha ~1842
-
-Fenster 1841–1843 im selben Band geöffnet. `m0159` (Folio ~168, rechte
-Seite) ist zu blass, um Eltern und Datum hier festzulesen. **Kein**
-sicherer Taufakt. Gegenlese offen. Nicht als gefunden ablegen.
-
-Palmira jetzt nicht. Geschwister nicht noch einmal suchen.
+- Ateanha nicht streichen, nur weil 1838 in Torre steht
+- Castello nicht mit Ateanha glätten
+- Dias nicht streichen
+- Joaquinas Geschwister 1864–1875 nicht noch einmal suchen
+- Mendes-Kind 1841 nicht anhängen
+- Palmira jetzt nicht

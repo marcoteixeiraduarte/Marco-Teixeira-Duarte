@@ -24,11 +24,11 @@ nicht in dieser Prüfung.
 | [Sebastião (* 1871)](sebastiao-1871/README.md) | primeiro filho José dos Reis × Maria Ramalha; Bruder Joaquinas | eigene Akte | offen |
 | [Anna de Jesus Matta](anna-de-jesus-matta/README.md) | 4.º avó; São Jorge; Mutter Manuel (pai incógnito) | genannt im Akt | offen |
 | [José dos Reis (Pragoza, Ramalha-Haus)](jose-dos-reis-pragoza/README.md) | 4.º avô Joaquinas; nicht José Pedro dos Reis (Kaufmann, anderes Haus) | genannt im Akt | offen |
-| [Maria Ramalha](maria-ramalha/README.md) | 4.º avó Joaquinas. Akten: Castello. Auftraggeber: Ateanha (Kandidat) | genannt im Akt | offen |
+| [Maria Ramalha](maria-ramalha/README.md) | 4.º avó Joaquinas. Akten: Castello. Auftraggeber: Ateanha (Kandidat). Eltern-Heirat 1838 Kandidat | genannt im Akt + 1838 | offen |
 | [Antonio Rodrigues Avelheiro](antonio-rodrigues-avelheiro/README.md) | 5.º avô; avô Manuel Matta 1872 | genannt im Akt | offen |
 | [Thereza de Jesus](thereza-de-jesus-matta/README.md) | 5.º avó; avó Manuel Matta 1872 | genannt im Akt | offen |
-| [Manuel Ramalho](manuel-ramalho/README.md) | avô materno Sebastião 1871; Blatt setzt ihn als 4.º Joaquinas — eine Generation zu hoch | genannt im Akt | offen |
-| [Angelica Maria](angelica-maria/README.md) | avó materna Sebastião 1871; Patin 1871 | genannt im Akt | offen |
+| [Manuel Ramalho](manuel-ramalho/README.md) | avô materno Sebastião 1871; Heirat 21.02.1838 Kandidat; 1843 José Kandidat | eigene Heirat (Kandidat) | offen |
+| [Angelica Maria](angelica-maria/README.md) | avó materna Sebastião 1871; 1838 filha de Manoel Leal | eigene Heirat (Kandidat) | offen |
 
 ---
 
