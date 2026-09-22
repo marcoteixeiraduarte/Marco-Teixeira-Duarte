@@ -69,15 +69,20 @@ Quelle:
 
 ### Geni, 15.09.2026 — zwei Warnungen, eine verkippte Generation
 
-Geni meldet zu **Luiz Dias Guiomar** (~1835):
+**Stand 18.09.2026:** auf Geni behoben. Manuel ~**1862**, Antonio
+\* **16.03.1867**; Delfina ohne *1902; Luiz-Profil ohne
+Alters-Inkonsistenzen. Ursache war ein Jahrhundertfehler in den
+Kinderjahren (1962/1967), nicht das Kirchenbuch.
+
+Geni meldete zu **Luiz Dias Guiomar** (~1835):
 
 1. Altersabstand **62 Jahre** zur Ehepartnerin **Delfina Maria**
    (dort geboren geschätzt **1902**).
 2. Zwei Kinder **Antonio Dias Guiomar** und **Manuel Dias Guiomar**
    im Alter des Vaters zwischen **64 und 132** Jahren.
 
-Die Warnungen sind berechtigt. **Ignorieren** wäre falsch. Die
-Ursache liegt nicht am Kirchenbuch, sondern an den Geni-Daten.
+Die Warnungen waren berechtigt. **Ignorieren** wäre falsch gewesen.
+Die Ursache lag nicht am Kirchenbuch, sondern an den Geni-Daten.
 
 Am Scan 1874 (Gegenlese 15.09.2026) steht:
 
