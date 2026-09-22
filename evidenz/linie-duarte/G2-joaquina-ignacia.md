@@ -13,7 +13,7 @@
 ## Quelle Taufe
 
 - Archiv: `PT/AUC/PAR/PNL01/002/0031`
-- Scan: `duarte-freire-records/cumeeira/1886/PT-AUC-PAR-PNL01-002-0031_m0009.jpg`
+- Scan: `akten/duarte-freire/joaquina-ignacia/1886-baptismo-PT-AUC-PAR-PNL01-002-0031_m0009.jpg`
 - [AUC](https://pesquisa.auc.uc.pt/details?id=48506)
 
 ### Transkript, soweit sicher

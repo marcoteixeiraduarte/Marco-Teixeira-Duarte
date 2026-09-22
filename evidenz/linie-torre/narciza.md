@@ -18,7 +18,7 @@ Getrennte Spur. Nicht an die Duarte-Urgroßeltern gehängt.
 ## Quelle Taufe
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/001/0004`
-- Scan: `narcisa-records/baptismos-1856/PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg`
+- Scan: `akten/narcisa/narciza/1856-baptismo-PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg`
 - Doppelseite fol. 60–61
 - [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)
 
@@ -39,7 +39,7 @@ Rechte Seite, Fortsetzung der Eltern:
 ## Quelle Heirat
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/002/0022`
-- Scan: `narcisa-records/casamento/1878/PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
+- Scan: `akten/narcisa/narciza/1878-casamento-PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`
 - Akt Nr. 9
 
 ### Transkript
