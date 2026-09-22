@@ -24,7 +24,8 @@ ihren Kirchenakt.
 
 Eltern-Heirat **21.02.1838** Torre (Kandidat): Manoel Ramalho ×
 Angelica, Vater **Leal**, Castello. **Dias** steht dort nicht.
-Bruder-Kandidat **José * 02.06.1843** Rua da Alom (Pate 1864).
+Brüder José * **15.08.1841** und * **02.06.1843** Rua da Alom
+(Pate 1864 eher der zweite).
 
 Eigene Taufe Maria: **nicht** Torre 13.09.1842–1845. Vorheriges
 Torre-Band oder **Ateanha/Alvorge** — Auftraggeber. `m0159` blass,

@@ -106,6 +106,25 @@ N.º 19–22 andere Häuser (Mendes-Atianha, Matto de Costello,
 Junqueira, Vale Galego). Joaquina * 15.06.1873 **Pragosa** bleibt
 Blatt. Kirchenakt um den Tag: **nicht Alvorge**.
 
+## Wie die Suche weiterging (Eltern, nicht nur Maria)
+
+Alvorge Taufen 1839–Anfang 1843 (Ateanha-Band) **ohne** Maria von
+Manoel Ramalho × Angelica. Torre `001/0003` bis **5.09.1842**
+ebenfalls ohne sie. Dafür die **Eltern Leal** selbst:
+
+- 1829 Castello: Manoel Leal × Thereza schon verheiratet; Tochter
+  Joaquina × Jose Dias.
+- 1838: Tochter Angelica × Manoel Ramalho (liegt).
+- 1846: Tochter Maria Thereza × Antonio Levante Freire **Alvorge**.
+- Eigene Heirat Leal × Thereza **nicht** 1812–1825. Nächstes Buch:
+  gemischt 1719–1813 `PANS08/002/0002`.
+
+José * **15.08.1841** Rua da Alom (Manoel Thomaz × Angelica, avós
+Leal) — erster José; * 02.06.1843 wahrscheinlich der zweite.
+
+Ältere Ramalho (Carraçal / Lagarteira) noch offen.
+Palmira jetzt nicht. Joaquinas Geschwister nicht neu suchen.
+
 ## Was bewusst nicht passiert
 
 - Ateanha nicht streichen, nur weil 1838 in Torre steht

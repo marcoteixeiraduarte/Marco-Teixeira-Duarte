@@ -17,8 +17,8 @@ Heirat **21.02.1838** Torre: **Manoel Ramalho** × Angelica M., sie
 Tochter **Manoel Leal**. Castello / Pregoza. **Kandidat** dasselbe
 Paar wie avós 1863/1871. Scan zum Prüfen.
 
-Sohn **José * 02.06.1843** Rua da Alom (Manoel Thomaz Ramalho ×
-Angelica Maria; avós Leal) — **Kandidat** der Pate 1864.
+Söhne José: * **15.08.1841** (primeiro, Rua da Alom) und
+* **02.06.1843** (Kandidat segundo; Pate 1864 eher dieser).
 
 Alvorge 10.06.1841: **Manoel Ramalho** Pate bei einem Mendes-Kind in
 **Atianha**. Identität **Kandidat**. Nicht das Mendes-Haus anhängen.
@@ -56,6 +56,14 @@ Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
 Ausschnitt rechte Seite (Kontrast, zum Prüfen):
 
 ![Heirat 21.02.1838 Ausschnitt](1838-casamento-ausschnitt-rechte-seite.jpg)
+
+![Taufe Sohn José primeiro 1841 — Fundstellen](1841-taufe-sohn-jose-primeiro-PANS08-001-0003_m0138-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — José * 15.08.1841</summary>
+
+![José 1841](1841-taufe-sohn-jose-primeiro-PANS08-001-0003_m0138.jpg)
+
+</details>
 
 ![Taufe Sohn José 1843 — Fundstellen](1843-taufe-sohn-jose-kandidat-PANS08-001-0004_m0009-markiert.jpg)
 

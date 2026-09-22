@@ -119,5 +119,53 @@ DigitArq: [PANS01/001/0007](https://digitarq.arquivos.pt/documentDetails/4e99662
 
 ---
 
+## 6 — Eltern Leal, Jan 1829 Castello
+
+**Frage:** Manoel Leal × Thereza geben Consent für Tochter
+**Joaquina Maria** × Jose Dias, Castello? Schon 1829 verheiratet
+(eigene Heirat also vor 1812 / nicht in diesem Band)?
+
+![1829 Ausschnitt](../../akten/matta/angelica-maria/1829-casamento-schwester-joaquina-ausschnitt.jpg)
+
+<details><summary>Ganze Seite</summary>
+
+![1829](../../akten/matta/angelica-maria/1829-casamento-schwester-joaquina-PT-ADLRA-PRQ-PANS08-002-0003_m0033.jpg)
+
+</details>
+
+---
+
+## 7 — Schwester Maria Thereza × Freire, Alvorge, 02.06.1846
+
+**Frage:** Braut filha de Manoel Leal × Thereza? Bräutigam aus
+**Alvorge**? Das ist der Alvorge-Hebel über Leal, nicht über
+Marias fehlende Taufe 1842.
+
+![1846 Ausschnitt](../../akten/matta/angelica-maria/1846-casamento-schwester-maria-thereza-ausschnitt.jpg)
+
+<details><summary>Ganze Seite</summary>
+
+![1846](../../akten/matta/angelica-maria/1846-casamento-schwester-maria-thereza-PT-ADLRA-PRQ-PANS08-002-0003_m0066.jpg)
+
+</details>
+
+---
+
+## 8 — José primeiro * 15.08.1841, Rua da Alom
+
+Vor dem José von 1843. **Frage:** dieselben Eltern
+Manoel Thomaz × Angelica, avós Leal Castello? Erster José,
+1843 dann segundo (erster tot — Kandidat)?
+
+![José 1841 Schluss](../../akten/matta/manuel-ramalho/1841-taufe-sohn-jose-primeiro-ausschnitt.jpg)
+
+<details><summary>Ganze Seite</summary>
+
+![José 1841](../../akten/matta/manuel-ramalho/1841-taufe-sohn-jose-primeiro-PANS08-001-0003_m0138.jpg)
+
+</details>
+
+---
+
 Lesung und Gewissheit daneben:
 [ramalha-ateanha-1873](ramalha-ateanha-1873.md).

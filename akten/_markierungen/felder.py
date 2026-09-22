@@ -339,6 +339,35 @@ FELDER = {
         {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.62, 0.70, 0.34, 0.10]},
         {"kind": "hinweis", "label": "Einträge darüber = andere Häuser (Lindos / Santo Romão)", "box": [0.50, 0.04, 0.48, 0.44]},
     ],
+    # Consent + Heirat Joaquina Maria Leal × Jose Dias, Jan 1829 — links unten / rechts
+    "PANS08-002-0003_m0033": [
+        {"kind": "entry", "label": "Jan 1829 Consent: Manoel Leal × Thereza, Castello", "box": [0.02, 0.50, 0.46, 0.48]},
+        {"kind": "parents", "label": "Manoel Leal × Thereza Maria, Castello", "box": [0.14, 0.58, 0.32, 0.10]},
+        {"kind": "name", "label": "Joaquina Maria × Jose Dias", "box": [0.14, 0.70, 0.32, 0.08]},
+        {"kind": "entry", "label": "14.01.1829 Heirat (rechte Seite)", "box": [0.50, 0.18, 0.48, 0.78]},
+        {"kind": "place", "label": "Castello", "box": [0.50, 0.20, 0.10, 0.10]},
+        {"kind": "hinweis", "label": "links oben durchgestrichen = nicht dieser Akt", "box": [0.02, 0.04, 0.46, 0.40]},
+    ],
+    # Maria Thereza Leal × Antonio Levante Freire Alvorge 02.06.1846 — links oben
+    "PANS08-002-0003_m0066": [
+        {"kind": "entry", "label": "02.06.1846 Maria Thereza Leal × Freire Alvorge", "box": [0.02, 0.02, 0.48, 0.42]},
+        {"kind": "date", "label": "02.06.1846", "box": [0.14, 0.04, 0.34, 0.07]},
+        {"kind": "name", "label": "Antonio Levante Freire × Maria Thereza", "box": [0.14, 0.14, 0.34, 0.08]},
+        {"kind": "parents", "label": "Manoel Leal × Thereza Maria", "box": [0.14, 0.22, 0.34, 0.07]},
+        {"kind": "place", "label": "Alvorge / Vale de Todos", "box": [0.14, 0.30, 0.34, 0.08]},
+        {"kind": "hinweis", "label": "Eintrag darunter = anderes Paar", "box": [0.02, 0.48, 0.46, 0.30]},
+    ],
+    # José primeiro * 15.08.1841 / ~ 01.09.1841 — links unten, weiter rechts oben
+    "PANS08-001-0003_m0138": [
+        {"kind": "entry", "label": "José * 15.08.1841 beginnt", "box": [0.02, 0.68, 0.46, 0.30]},
+        {"kind": "place", "label": "Rua da Alom", "box": [0.02, 0.70, 0.10, 0.08]},
+        {"kind": "name", "label": "José", "box": [0.02, 0.78, 0.10, 0.08]},
+        {"kind": "date", "label": "* 15.08.1841  ~ 01.09.", "box": [0.14, 0.72, 0.32, 0.08]},
+        {"kind": "entry", "label": "Schluss: Eltern + avós Leal", "box": [0.50, 0.00, 0.48, 0.42]},
+        {"kind": "parents", "label": "Manoel Thomaz × Angelica Maria", "box": [0.52, 0.02, 0.44, 0.08]},
+        {"kind": "avos", "label": "Manoel Leal × Thereza Maria, Castello", "box": [0.52, 0.14, 0.44, 0.08]},
+        {"kind": "hinweis", "label": "Eintrag 09.09. darunter = Ramos, nicht Ramalho", "box": [0.50, 0.44, 0.48, 0.20]},
+    ],
     # Heirat Manoel Ramalho × Angelica Maria 21.02.1838 — rechte Seite unten
     "PANS08-002-0003_m0054": [
         {"kind": "entry", "label": "21.02.1838 Manoel Ramalho × Angelica M.", "box": [0.50, 0.48, 0.48, 0.50]},
