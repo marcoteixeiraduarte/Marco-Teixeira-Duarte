@@ -1,5 +1,7 @@
 # Ramalha — nur zum Prüfen
 
+Stand: [erkenntnisse-ramalha-reis-ateanha](erkenntnisse-ramalha-reis-ateanha.md).
+
 Eine Seite, fünf Akten. Oben der Ausschnitt, darunter die
 ganze Buchseite. **Dias** und **Ateanha** stehen in 1838/1843
 nicht — das ist Absicht, nicht vergessen.

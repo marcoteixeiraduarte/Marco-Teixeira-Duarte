@@ -1,5 +1,6 @@
 # Ramalha / Ateanha — zum Gegenlesen
 
+**Stand der Erkenntnisse:** [erkenntnisse-ramalha-reis-ateanha](erkenntnisse-ramalha-reis-ateanha.md).
 **Nur die Scans, eine Seite:** [ramalha-pruefung](ramalha-pruefung.md).
 
 Auftraggeber: **Ramalha ist Ateanha** (`glaub ich`) — bleibt

@@ -1,5 +1,7 @@
 # Joaquina Reis / Ramalho / Leal — Pragoza
 
+Stand: [erkenntnisse-ramalha-reis-ateanha](erkenntnisse-ramalha-reis-ateanha.md).
+
 3.º avó der Palmira Reis. Blattname **Joaquina Ramalha dos Reis**.
 Eltern auf dem Blatt: **Manuel Dias Ramalho** × **Angelica Maria Leal**.
 Die Zivilakte 1912/1937 schreiben sie **Joaquina Reis**. Die drei

@@ -1,5 +1,7 @@
 # Zwei Reis-Häuser in Pragoza — verwandt eine Generation zurück
 
+Stand: [erkenntnisse-ramalha-reis-ateanha](erkenntnisse-ramalha-reis-ateanha.md).
+
 **Auftraggeber:** zwei Reis-Häuser in Pragoza, die in der Historie
 verwandt sein können, wenn man weiter zurückschaut.
 

@@ -315,6 +315,7 @@ Pedro). Zwei Häuser:
 [zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 Erste Tochter **Palmyra * 8.06.1897**. Die Blatt-Palmira * 24.04.1912
 ist **viel später**.
+[Erkenntnisse Ramalha](../evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md) ·
 [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md).
 
 ### 4.º avós (ramo materno)

@@ -37,7 +37,8 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - [`../suche/`](../suche/README.md) — Rohbande, nicht im Git
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
-- `linie-torre/` — Narciza, Caetana, Reis, Guiomar-avós, Pass 1901
+- `linie-torre/` — Narciza, Caetana, Reis, Guiomar-avós, Pass 1901;
+  [Ramalha/Reis/Ateanha](linie-torre/erkenntnisse-ramalha-reis-ateanha.md)
 - `linie-teixeira/` — João Teixeira (Forte) 1879; Maria José dos Santos;
   Ecke Maxial; Suchkreis inkl. Avelar und Alvorge
 - `linie-guiomar/` — Feio / Contente; Joaquim * 3.04.1853;

@@ -22,6 +22,7 @@ Nicht glätten. Geschwister **haben wir**. Heirat physisch auch bei
 Manuel. Blatt setzt **Manuel Dias Ramalho** × Leal eine Generation
 zu hoch (avós 1871).
 
+**Stand:** [Erkenntnisse](../../../evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md).
 **Prüfen:** [ramalha-pruefung](../../../evidenz/linie-torre/ramalha-pruefung.md).
 Blatt: [ramalha-ateanha-1873](../../../evidenz/linie-torre/ramalha-ateanha-1873.md).
 

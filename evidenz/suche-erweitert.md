@@ -10,6 +10,7 @@ Joaquina Reis**; **Luiz Guiomar** Bemposta; **Delfina Maria**;
 **Roza Maria** Joaquim × Florencia, Alvorge.
 
 Blatt: [suchkreis](linie-teixeira/suchkreis.md), [NAMEN](../archiv/NAMEN.md).
+Ramalha/Reis/Ateanha: [Erkenntnisse](linie-torre/erkenntnisse-ramalha-reis-ateanha.md).
 
 ## Kirchen, drei Ringe
 

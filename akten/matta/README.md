@@ -3,6 +3,7 @@
 Ordner `akten/matta/` · **eine Person = ein Ordner** mit Scan.
 Durchblättern unter sprechendem Namen: `archiv/matta/`.
 Gegenlese jeder Akte: **offen**.
+Stand: [Erkenntnisse Ramalha/Reis/Ateanha](../../evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md).
 
 Palmyra 1897 ≠ Palmira 1912. José dos Reis (Ramalha) ≠ José Pedro dos Reis.
 
