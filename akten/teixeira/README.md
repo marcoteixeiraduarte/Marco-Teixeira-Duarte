@@ -65,7 +65,7 @@ Wasserzeichen **Chão** de Couce — **Chão, nicht São**. **Maria Forte**, nic
 Den Weiler Carrasqueiras der Paten **nicht** mit der Geburt Manuel
 Duarte 1885 (Taufe Cumeeira) zu einer Familie machen. Geografie und
 Abgrenzung: Ortsregister und
-[evidenz/linie-teixeira/ecke-maxial.md](../evidenz/linie-teixeira/ecke-maxial.md).
+[evidenz/linie-teixeira/ecke-maxial.md](../../evidenz/linie-teixeira/ecke-maxial.md).
 
 ## Frau und Schwiegereltern
 
@@ -74,12 +74,12 @@ wohnhaft Ribeira de Cima mit João. Eltern (Zivilakt Sohn Manuel,
 10.09.1913): **Francisco José dos Santos** × **Maria Thereza**.
 
 Heirat João × Maria José: **offen**, Fenster **1895–1913**. Welche
-Kirche, unbekannt — [suchkreis](../evidenz/linie-teixeira/suchkreis.md),
-[suche-erweitert](../evidenz/suche-erweitert.md).
+Kirche, unbekannt — [suchkreis](../../evidenz/linie-teixeira/suchkreis.md),
+[suche-erweitert](../../evidenz/suche-erweitert.md).
 Suchkreis: Torre, Lagarteira, Ansião, Chão de Couce, Cumeeira,
 **Avelar**, **Alvorge**.
 
-Blatt: [maria-jose-dos-santos.md](../evidenz/linie-teixeira/maria-jose-dos-santos.md).
+Blatt: [maria-jose-dos-santos.md](../../evidenz/linie-teixeira/maria-jose-dos-santos.md).
 
 Quelle Taufe João:
 
@@ -90,4 +90,4 @@ Quelle Taufe João:
   Öffentliche Maximalauflösung dieses Bandes: 1401×1000 bzw.
   1402×1000 (Digitalisat 2011; ZIP des Bandes enthält dieselben
   JPEGs). Kopie unter
-  [archiv/teixeira/](../archiv/README.md).
+  [archiv/teixeira/](../../archiv/README.md).

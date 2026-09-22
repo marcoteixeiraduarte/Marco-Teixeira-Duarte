@@ -7,10 +7,14 @@ Pass von **1901** ist **nicht** der avô **Antonio Dias Guiomar** ×
 
 Zwei Namensträger in aufeinanderfolgenden Generationen.
 
-Quelle der Passzeilen: Blog-Transkription der GCLRA-Bände (ADLRA),
-nicht der Originalscan. Deshalb die Passfelder **wahrscheinlich**,
-bis das Blatt `PT/ADLRA/AC/GCLRA/H-D/…` selbst liegt. Die Logik
-gegen die Taufe 1874 bleibt, sobald die Filiação stimmt.
+Quelle der Passzeilen: zuerst die DigitArq-Katalogfelder
+([1901 António](katalog/1901-antonio-dias-guiomar.json),
+[1886 Manoel](katalog/1886-manoel-dias-guiomar.json)), daneben die
+ältere Blog-Transkription der GCLRA-Bände. Katalog schlägt Blog,
+sobald ein Feld in beiden steht. Originalscan der Passblätter liegt
+hier nicht. Deshalb die Passfelder **wahrscheinlich**, bis das Blatt
+`PT/ADLRA/AC/GCLRA/H-D/…` selbst liegt. Die Logik gegen die Taufe
+1874 bleibt, sobald die Filiação stimmt.
 
 Blog: [Coysas e Loysas, 4.10.2015](https://quintaisisa.blogspot.com/2015/10/igreja-de-torre-vale-de-todos-mais-bela.html)
 (Torre-Pässe mit Filiação; Quelle dort: Arquivo Distrital de Leiria,

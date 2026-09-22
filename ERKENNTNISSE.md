@@ -2,6 +2,7 @@
 
 Stand aus `master` (PR #2–#4), Archiv/Quellenformen (PR #6),
 Evidenz-Ledger (PR #7) und Avelar-Gegenlese (PR #5).
+Integrationsweg 22.09.2026: [integration-2026-09-22](evidenz/integration-2026-09-22.md).
 Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 
 Scans durchforsten: [`archiv/NAMEN.md`](archiv/NAMEN.md) — jeder Name

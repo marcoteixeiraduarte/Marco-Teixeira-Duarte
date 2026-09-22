@@ -62,7 +62,7 @@ Mendes Ferreiro / Ana da Piedade, natürlich Vale de Todos, wohnhaft
 **Pragosa**. Alter und Eltern **passen** zur Taufe 1880 (`Ferreiro`
 neben `Ferreira`). Wohnort 1902 Pragoza ist der Sitz nach der Heirat
 mit Maria da Piedade, nicht die Geburt. Blatt:
-[passe-antonio-guiomar-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+[passe-antonio-guiomar-1901](../../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
 
 ### Randvermerk zum Tod
 
@@ -121,7 +121,7 @@ Name aus dem Gedächtnis der Weiler, keine fremde Pfarrei.
 Maria da Piedade im **lugar da Pragoza** (Heirat des Enkels José
 Mendes, `archiv/conservatoria-ansiao/06.jpg`). Er * Valle de Todos,
 Vater aus Ateanha: der Mann ist zur Reis-Frau gezogen.
-Blatt: [wer-blieb](../evidenz/wer-blieb.md).
+Blatt: [wer-blieb](../../evidenz/wer-blieb.md).
 
 Quelle:
 

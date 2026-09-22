@@ -10,9 +10,10 @@
 | † | offen (1871 bereits Witwe) |
 | Gewissheit | sicher genannt 1871; **Leal** 1838 als Vater **Manoel Leal** |
 
-Heirat **21.02.1838** Torre: Angelica M., filha de **Manoel Leal** ×
-Thereza M., moradora Castello. **Kandidat** dieselbe Frau wie avó
-1863/1871. Dias steht 1838 nicht. Ateanha steht nicht.
+Heirat Feb. **1838** Torre (Lesungen 21. oder 22., Gegenlese):
+Angelica M., filha de **Manoel Leal** × Thereza M., moradora Castello.
+**Kandidat** dieselbe Frau wie avó 1863/1871. Dias steht 1838 nicht.
+Ateanha steht nicht.
 
 Sohn **José * 15.08.1841** (primeiro) und **José * 02.06.1843**
 (Kandidat segundo). Avós immer Leal.

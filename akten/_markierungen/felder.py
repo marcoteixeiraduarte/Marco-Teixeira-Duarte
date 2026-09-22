@@ -107,7 +107,7 @@ FELDER = {
     ],
     # Sebastião 1871 — rechte Seite
     "PANS08-001-0016_m0005": [
-        {"kind": "entry", "label": "Sebastião, primeiro filho", "box": [0.48, 0.08, 0.51, 0.64]},
+        {"kind": "entry", "label": "Sebastião, primeiro deste nome", "box": [0.48, 0.08, 0.51, 0.64]},
         {"kind": "place", "label": "Pragoza", "box": [0.48, 0.10, 0.12, 0.08]},
         {"kind": "date", "label": "* 07.05.1871  ~ 21.05.", "box": [0.60, 0.12, 0.37, 0.08]},
         {"kind": "parents", "label": "José dos Reis × Maria Ramalha", "box": [0.60, 0.28, 0.37, 0.10]},
@@ -368,11 +368,11 @@ FELDER = {
         {"kind": "avos", "label": "Manoel Leal × Thereza Maria, Castello", "box": [0.52, 0.14, 0.44, 0.08]},
         {"kind": "hinweis", "label": "Eintrag 09.09. darunter = Ramos, nicht Ramalho", "box": [0.50, 0.44, 0.48, 0.20]},
     ],
-    # Heirat Manoel Ramalho × Angelica Maria 21.02.1838 — rechte Seite unten
+    # Heirat Manoel Ramalho × Angelica Maria Feb. 1838 — rechte Seite unten
     "PANS08-002-0003_m0054": [
-        {"kind": "entry", "label": "21.02.1838 Manoel Ramalho × Angelica M.", "box": [0.50, 0.48, 0.48, 0.50]},
+        {"kind": "entry", "label": "Feb. 1838 Manoel Ramalho × Angelica M.", "box": [0.50, 0.48, 0.48, 0.50]},
         {"kind": "name", "label": "M.el Ramalho / Angelica M.", "box": [0.50, 0.50, 0.10, 0.14]},
-        {"kind": "date", "label": "21.02.1838", "box": [0.58, 0.50, 0.38, 0.08]},
+        {"kind": "date", "label": "21. oder 22.02.1838", "box": [0.58, 0.50, 0.38, 0.08]},
         {"kind": "parents", "label": "Braut: Manoel Leal × Thereza M.", "box": [0.58, 0.68, 0.38, 0.07]},
         {"kind": "place", "label": "Pregoza / Castello", "box": [0.58, 0.74, 0.38, 0.07]},
         {"kind": "hinweis", "label": "Dias steht nicht. Zweitname Gegenlese", "box": [0.58, 0.60, 0.38, 0.07]},
@@ -402,7 +402,7 @@ FELDER = {
         {"kind": "entry", "label": "N.º 23 Casimiro", "box": [0.02, 0.16, 0.50, 0.78]},
         {"kind": "name", "label": "Casimiro", "box": [0.03, 0.22, 0.12, 0.07]},
         {"kind": "place", "label": "Pragoza", "box": [0.03, 0.29, 0.12, 0.05]},
-        {"kind": "date", "label": "* 26.12.1898  ~ selben Tag", "box": [0.16, 0.18, 0.34, 0.10]},
+        {"kind": "date", "label": "* 06.12.1898  ~ 26.12.1898", "box": [0.16, 0.18, 0.34, 0.10]},
         {"kind": "parents", "label": "Manuel Matta × Joaquina Ramalha", "box": [0.16, 0.48, 0.34, 0.10]},
         {"kind": "avos", "label": "Anna Matta; José Reis × Maria Ramalha", "box": [0.16, 0.60, 0.34, 0.10]},
         {"kind": "hinweis", "label": "rechte Seite = anderer Eintrag", "box": [0.52, 0.10, 0.44, 0.30]},

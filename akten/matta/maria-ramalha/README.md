@@ -22,7 +22,7 @@ Heirat gefunden. Kinder in Torre/Pragoza getauft — **haben wir**.
 Tochter **Joaquina * 15.06.1873** — Blatt. Alvorge Juni 1873 ohne
 ihren Kirchenakt.
 
-Eltern-Heirat **21.02.1838** Torre (Kandidat): Manoel Ramalho ×
+Eltern-Heirat Feb. **1838** Torre (21. oder 22., Gegenlese; Kandidat): Manoel Ramalho ×
 Angelica, Vater **Leal**, Castello. **Dias** steht dort nicht.
 Brüder José * **15.08.1841** und * **02.06.1843** Rua da Alom
 (Pate 1864 eher der zweite).

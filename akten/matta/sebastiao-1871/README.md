@@ -5,7 +5,7 @@
 | | |
 | --- | --- |
 | Quellenname | Sebastião |
-| Rolle | primeiro filho José dos Reis × Maria Ramalha; Bruder Joaquinas |
+| Rolle | primeiro deste nome; Sohn José dos Reis × Maria Ramalha; Bruder Joaquinas |
 | * | 07.05.1871 · Pragoza; ~ 21.05.1871 Torre N.º 7 |
 | † | offen |
 | Eltern / genannt mit | José dos Reis × Maria Ramalha |

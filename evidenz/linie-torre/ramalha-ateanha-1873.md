@@ -19,7 +19,7 @@ bleibt Blatt, auch wenn die Kirche ihn weglässt.
 
 | # | Akt | Datei | Was ich lese | Du prüfst |
 | --- | --- | --- | --- | --- |
-| 1 | Heirat **21.02.1838** Torre | `akten/matta/manuel-ramalho/1838-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0054.jpg` plus Ausschnitt daneben | **Manoel Ramalho** × **Angelica M.**, sie Tochter **Manoel Leal** × Thereza M.; Rand Pregoza / Castello | Namen, Leal, Ort. **Dias** steht hier nicht |
+| 1 | Heirat Feb. **1838** Torre | `akten/matta/manuel-ramalho/1838-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0054.jpg` plus Ausschnitt daneben | **Manoel Ramalho** × **Angelica M.**, sie Tochter **Manoel Leal** × Thereza M.; Rand Pregoza / Castello. Datum: Lesung „Vinte e hum“ (21.) neben Gegenlese „Vinte dois“ (22.) | Namen, Leal, Ort, Datumszeile. **Dias** steht hier nicht |
 | 2 | Taufe **José * 02.06.1843** | `akten/matta/manuel-ramalho/1843-taufe-sohn-jose-kandidat-PANS08-001-0004_m0009.jpg` | **Manoel Thomaz Ramalho** × Angelica Maria, Rua da Alom; avós maternos **Manoel Leal** × Thereza Maria | Ist das der Sohn des Paares 1838 / der Pate 1864? |
 | 3 | Pate **10.06.1841** Atianha | `akten/matta/manuel-ramalho/1841-pate-ateanha-…_m0146.jpg` | **Manoel Ramalho** Pate, Kind = Mendes | Derselbe Mann? |
 | 4 | Alvorge **m0159** (blass) | `akten/matta/maria-ramalha/gegenlese-kandidat-blass-PANS01-001-0004_m0159.jpg` (+ Kontrast) | zu blass, **kein** Fund | Siehst du Maria / Ramalho / Angelica? |
@@ -48,12 +48,21 @@ Ramalho** (1871 ledig) = **Kandidat** Geschwister der Maria
 Ramalha. José * 02.06.1843 passt zum Ledigen 1864 (dann 21).
 Joaquim-Taufe noch nicht in Torre 1842–1845.
 
-## Heirat 21.02.1838 — selbst gelesen
+## Heirat Februar 1838 — zwei Lesungen der Datumszeile
 
 Rechte Seite unten, Rand `Pregoza` / `M.el Ramalho` / `Angelica M.`
 
+Erste Lesung:
+
 > Aos dias **Vinte e hum** do mez de **Fevereiro** de mil oito centos
-> **e trinta e oito** … Parochial Igreja de Nossa Senhora da Graça da
+> **e trinta e oito** …
+
+Gegenlese der Datumszeile: eher **Vinte dois** → **22.02.1838**.
+Beide Lesungen bleiben stehen, bis die Zeile unabhängig gegengelesen
+ist. Die Identität dieses Paares mit den später genannten Vorfahren
+bleibt **Kandidat**.
+
+> … Parochial Igreja de Nossa Senhora da Graça da
 > Torre de V. de Todos … **Manoel** … **Ramalho** filho de M.el …
 > Ramalho e de … **Angelina Maria** … e a contraente **Angelica M.**
 > filha de **Manoel Leal** e **Thereza M.** … **Pregoza** …
@@ -61,7 +70,7 @@ Rechte Seite unten, Rand `Pregoza` / `M.el Ramalho` / `Angelica M.`
 
 | Feld | Lesung | Gewissheit |
 | --- | --- | --- |
-| Datum | 21.02.1838 | sicher |
+| Datum | 21.02.1838 („Vinte e hum“) oder 22.02.1838 („Vinte dois“) | offen — zwei Lesungen |
 | Paar | Manoel Ramalho × Angelica Maria | sicher |
 | Ihr Vater | **Manoel Leal** (Blatt-Leal) | sicher |
 | Orte | Pregoza / Castello; er aus Lagarteira-Richtung | sicher Castello/Pregoza; Lagarteira wahrscheinlich |
@@ -104,7 +113,9 @@ vor Sept. 1842, nicht gegen Ateanha als Sippe. Zwei Felder.
 Band `PANS01/001/0007` m0170–m0173. Am **15.06.1873** nichts.
 N.º 19–22 andere Häuser (Mendes-Atianha, Matto de Costello,
 Junqueira, Vale Galego). Joaquina * 15.06.1873 **Pragosa** bleibt
-Blatt. Kirchenakt um den Tag: **nicht Alvorge**.
+Blatt. In diesen vier Bildern (m0170–m0173) kein passender Eintrag
+gefunden. Das ist kein Ortsausschluss: Geburtstag und Tauftag können
+auseinanderliegen.
 
 ## Wie die Suche weiterging (Eltern, nicht nur Maria)
 

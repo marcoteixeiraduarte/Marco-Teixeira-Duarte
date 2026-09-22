@@ -19,7 +19,7 @@ Töchter in Torre-Heiraten (nicht Angelicas Kinder):
 | Kind | Akt | Gewissheit |
 | --- | --- | --- |
 | Joaquina Maria × Jose Dias, Castello | 14.01.1829 | sicher |
-| Angelica Maria × Manoel Ramalho | 21.02.1838 | sicher im Akt; Identität avós **Kandidat** |
+| Angelica Maria × Manoel Ramalho | Feb. 1838 (21. oder 22.) | Paar im Akt; Datum Gegenlese; Identität avós **Kandidat** |
 | Maria Thereza × Antonio Levante Freire (Alvorge) | 02.06.1846 | sicher |
 
 Alvorge-Anschluss über **Maria Thereza**, nicht über Marias Taufe 1842

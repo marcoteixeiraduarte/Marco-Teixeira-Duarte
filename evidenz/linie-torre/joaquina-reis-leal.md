@@ -116,8 +116,10 @@ Mutter Leal. Die Heirat 1896 schreibt die Frau **Joaquina Ramalha**
 **Leal** steht auf dem Blatt bei Angelica — **nicht** als Mutter
 Joaquinas (das ist Maria Ramalha). 1871 ist Angelica die **Großmutter
 mütterlich**. **Dias** gehört zum Ramalho des Blattes (`Manuel Dias
-Ramalho`). Torre hat Dias weggelassen, weil die Sippe nicht von dort
-kommt. Nicht mit Dias Guiomar oder Dias Barbeiro vermengen.
+Ramalho`). **Dias** bleibt Blattlesung. In den gelesenen Torre-Akten
+1838/1843/1871 steht er nicht — das Fehlen getrennt festhalten, ohne
+Ursache zu unterstellen. Nicht mit Dias Guiomar oder Dias Barbeiro
+vermengen.
 
 ## Palmyra 1897 — und Palmira 1912 viel später
 
@@ -147,14 +149,18 @@ Erste Tochter, Torre N.º 9, 23. Juni 1897
 
 Scan: `archiv/matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg`.
 
-**Casimiro * 26.12.1898**, Torre N.º 23, Pragoza — nächstes gelesenes
-Kind. Scan blass. Auftraggeber: Palmira jetzt nicht; keine weitere
-Geschwisterjagd.
+**Casimiro * 06.12.1898** / ~ **26.12.1898**, Torre N.º 23, Pragoza —
+nächstes gelesenes Kind. Geburt Gegenlese „dia seis do corrente mez“,
+16 Uhr; Eingang der Akte 26. Dezember. Nottaufe durch Maria Ramalha
+ohne eigenes gesichertes Datum. Auftraggeber: Palmira jetzt nicht;
+keine weitere Geschwisterjagd.
 
 Joaquinas Geburt nicht weiter suchen. Taufe um den 15.06.1873:
-**Alvorge / Ateanha Juni 1873 leer** für dieses Kind.
-Auftraggeber: Ramalha **Ateanha** (Kandidat). Akten 1863/1875:
-**Castello**. Nicht glätten. Geschwister nicht noch einmal suchen;
-Paten daraus (José / Joaquim Ramalho) wenn die Herkunft leer bleibt.
-Eltern-Heirat **21.02.1838** Torre (Kandidat).
+in den vier Alvorge-Bildern Juni 1873 (m0170–m0173) **kein passender
+Eintrag gefunden**. Geburtstag und Tauftag können auseinanderliegen.
+Der Suchstopp bleibt. Auftraggeber: Ramalha **Ateanha** (Kandidat).
+Akten 1863/1875: **Castello**. Nicht glätten. Geschwister nicht noch
+einmal suchen; Paten daraus (José / Joaquim Ramalho) wenn die Herkunft
+leer bleibt. Eltern-Heirat Feb. **1838** Torre (Lesungen 21. oder 22.;
+Identität Kandidat).
 [ramalha-ateanha-1873](ramalha-ateanha-1873.md).

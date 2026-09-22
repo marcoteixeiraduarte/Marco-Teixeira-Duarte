@@ -13,9 +13,10 @@
 **Dias** nicht streichen. 1838 und 1843 schreiben Dias **nicht**.
 Nicht Dias Guiomar, nicht Dias Barbeiro.
 
-Heirat **21.02.1838** Torre: **Manoel Ramalho** × Angelica M., sie
-Tochter **Manoel Leal**. Castello / Pregoza. **Kandidat** dasselbe
-Paar wie avós 1863/1871. Scan zum Prüfen.
+Heirat Feb. **1838** Torre (Lesungen 21. oder 22., Gegenlese):
+**Manoel Ramalho** × Angelica M., sie Tochter **Manoel Leal**.
+Castello / Pregoza. **Kandidat** dasselbe Paar wie avós 1863/1871.
+Scan zum Prüfen.
 
 Söhne José: * **15.08.1841** (primeiro, Rua da Alom) und
 * **02.06.1843** (Kandidat segundo; Pate 1864 eher dieser).

@@ -8,11 +8,16 @@ akten/**
 stammbaum/*
 !stammbaum/README.md
 !stammbaum/blatt-teixeira-duarte.jpg
+!stammbaum/teixeira-duarte.ged
+!stammbaum/validate.py
+!stammbaum/Belegerhalt-und-Struktur.json
+!stammbaum/Wiederherstellung-Pruefung.json
 
 # Evidenz-Ledger: Markdown und versionierte Scans
 !evidenz/
 !evidenz/**/
 !evidenz/**/*.md
+!evidenz/linie-torre/katalog/*.json
 !evidenz/scans/
 !evidenz/scans/**
 !evidenz/scans/**/*.jpg

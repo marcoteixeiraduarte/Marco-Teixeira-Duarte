@@ -21,13 +21,13 @@ nicht in dieser Prüfung.
 | [José primeiro (* 1866)](jose-1866/README.md) | primeiro deste nome; Bruder Joaquinas | eigene Akte | offen |
 | [Maria (* 1867)](maria-1867/README.md) | Tochter José dos Reis × Maria Ramalha; nicht Joaquina | eigene Akte | offen |
 | [José segundo (* 1875)](jose-1875/README.md) | segundo deste nome | eigene Akte | offen |
-| [Sebastião (* 1871)](sebastiao-1871/README.md) | primeiro filho José dos Reis × Maria Ramalha; Bruder Joaquinas | eigene Akte | offen |
+| [Sebastião (* 1871)](sebastiao-1871/README.md) | primeiro deste nome; Sohn José dos Reis × Maria Ramalha; Bruder Joaquinas | eigene Akte | offen |
 | [Anna de Jesus Matta](anna-de-jesus-matta/README.md) | 4.º avó; São Jorge; Mutter Manuel (pai incógnito) | genannt im Akt | offen |
 | [José dos Reis (Pragoza, Ramalha-Haus)](jose-dos-reis-pragoza/README.md) | 4.º avô Joaquinas; nicht José Pedro dos Reis (Kaufmann, anderes Haus) | genannt im Akt | offen |
 | [Maria Ramalha](maria-ramalha/README.md) | 4.º avó Joaquinas. Akten: Castello. Auftraggeber: Ateanha (Kandidat). Eltern-Heirat 1838 Kandidat | genannt im Akt + 1838 | offen |
 | [Antonio Rodrigues Avelheiro](antonio-rodrigues-avelheiro/README.md) | 5.º avô; avô Manuel Matta 1872 | genannt im Akt | offen |
 | [Thereza de Jesus](thereza-de-jesus-matta/README.md) | 5.º avó; avó Manuel Matta 1872 | genannt im Akt | offen |
-| [Manuel Ramalho](manuel-ramalho/README.md) | avô materno Sebastião 1871; Heirat 21.02.1838 Kandidat; 1843 José Kandidat | eigene Heirat (Kandidat) | offen |
+| [Manuel Ramalho](manuel-ramalho/README.md) | avô materno Sebastião 1871; Heirat Feb. 1838 (21. oder 22., Gegenlese); 1843 José Kandidat | eigene Heirat (Kandidat) | offen |
 | [Angelica Maria](angelica-maria/README.md) | avó materna Sebastião 1871; 1838 filha de Manoel Leal | eigene Heirat (Kandidat) | offen |
 | [Manoel Leal × Thereza](manoel-leal/README.md) | Eltern Angelicas; Castello 1829 | genannt in Kinder-Heiraten | offen |
 
@@ -91,7 +91,7 @@ Quelle:
 - **Leal** steht in diesem Akt nicht
 
 Das Zivil 1912 (`26.08.1897`) weicht ab. Band 1897 ganz gelesen, Paar
-nicht darin. Blatt: [joaquina-reis-leal](../evidenz/linie-torre/joaquina-reis-leal.md).
+nicht darin. Blatt: [joaquina-reis-leal](../../evidenz/linie-torre/joaquina-reis-leal.md).
 
 Quelle:
 
@@ -113,17 +113,19 @@ Quelle:
   (rechte Buchseite);
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015)
 
-## Sebastião, Taufe 21. Mai 1871 (Torre) — erster Sohn José × Maria Ramalha
+## Sebastião, Taufe 21. Mai 1871 (Torre)
 
 - * **7. Mai 1871**, 7 Uhr, **Pragoza**; Taufe 21.05.1871 N.º 7
-- **primeiro** filho von **José dos Reis** × **Maria Ramalha**
+- **filho legitimo e primeiro deste nome** — erster dieses Namens,
+  nicht Erstgeburt. Ältere Geschwister (Maria da Graça 1864, José
+  1866, Maria 1867) widersprechen dem nicht.
 - neto paterno **Manuel Pedro dos Reis** × **Joaquina Maria**
   (dieselben Eltern wie Manoel Pedro dos Reis — die zwei Häuser sind
   Brüderhäuser)
 - neto materno **Manuel Ramalho** × **Angelica Maria**
 - Paten: Joaquim Ramalho, solteiro; Angelica Maria, viúva
 
-Blatt: [zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
+Blatt: [zwei-reis-haeuser-pragoza](../../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 
 Quelle:
 

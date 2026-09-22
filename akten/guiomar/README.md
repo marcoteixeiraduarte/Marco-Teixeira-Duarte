@@ -72,7 +72,7 @@ Vaters: `Luiz Guiomar`).
 Pass **António Dias Guiomar**, 22.01.1901, 33 Jahre, Filiação Luís
 Guiomar / Delfina Maria: **Bruder** dieses João, benannt nach dem
 avô. Nicht der Großvater selbst. Blatt:
-[passe-antonio-guiomar-1901](../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
+[passe-antonio-guiomar-1901](../../evidenz/linie-torre/passe-antonio-guiomar-1901.md).
 
 ### Randvermerke
 
@@ -130,7 +130,7 @@ Deshalb fehlt Maria in den Torre-Taufen 1882.
 **Neben Dias Guiomar** kam ins Haus in Vale de Todos **diese Maria**
 (eine Frau aus Pião). **Contente** bleibt in Pião. **Rodrigues Feio**
 kam von der Estrada da Pragoza **nach Pião** (zur Frau), nicht nach
-Vale de Todos. Blatt: [wer-blieb](../evidenz/wer-blieb.md).
+Vale de Todos. Blatt: [wer-blieb](../../evidenz/wer-blieb.md).
 
 ### Randvermerk zur Heirat
 
@@ -168,7 +168,7 @@ Blatt `Joaquim Rodrigues Feio · * 3. Apr. 1853`. **Passt.**
 Quelle: `PT/ADLRA/PRQ/PANS08/001/0004`,
 `joaquim-feio/1853-baptismo-PT-ADLRA-PRQ-PANS08-001-0004_m0050.jpg`;
 [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7).
-Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).
+Blatt: [feio-contente](../../evidenz/linie-guiomar/feio-contente.md).
 
 ## Theresa, Taufe 25. August 1824 (Torre) — Tür 1700–1800
 
@@ -182,7 +182,7 @@ Blatt: [feio-contente](../evidenz/linie-guiomar/feio-contente.md).
   (Loureiros)
 
 Quelle: `theresa-carvalhinho/1824-baptismo-PT-ADLRA-PRQ-PANS08-001-0003_m0061.jpg`.
-Blatt: [melchior-feio-1824](../evidenz/linie-guiomar/melchior-feio-1824.md).
+Blatt: [melchior-feio-1824](../../evidenz/linie-guiomar/melchior-feio-1824.md).
 
 ## Melchior, Taufe 20. Mai 1775 (Torre) — Geburt
 
@@ -197,4 +197,4 @@ Blatt-Vorfahr **Melchior / Belchior Rodrigues Feio**. **Passt.**
 - Pate: Antonio Rodrigues Feio, tio, Carvalhinho
 
 Quelle: `melchior-feio-1775/1775-baptismo-PT-ADLRA-PRQ-PANS08-001-0002_m0070.jpg`.
-Blatt: [melchior-1775](../evidenz/linie-guiomar/melchior-1775.md).
+Blatt: [melchior-1775](../../evidenz/linie-guiomar/melchior-1775.md).

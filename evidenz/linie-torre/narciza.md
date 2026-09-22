@@ -8,8 +8,9 @@ Getrennte Spur. Nicht an die Duarte-Urgroßeltern gehängt.
 |---|---|---|
 | Taufname | Narciza / Naviza | sicher als diese Person, s/z in der Hand mehrdeutig |
 | Heiratsname | Narcisa da Conceição | sicher |
-| Geburt | 19. des Vormonats zur Zeremonie vom 6. November 1856 | wahrscheinlich 19. Oktober 1856 |
-| Frühere Angabe | 19. September 1856 | offen, widerspricht „mez passado“ zu November |
+| Geburt | zwei Lesungen nebeneinander, keine davon streichen | offen zwischen den Lesungen |
+| Lesung A (#16) | 19. September 1856 | Scan gelesen als „nascida aos dezenove dias de mez de **Setembro** do dito anno“ |
+| Lesung B (#17) | 19. des Vormonats zur Zeremonie vom 6. November 1856 | **wahrscheinlich** 19. Oktober, wenn die Formel „mez passado“ trägt |
 | Zeremonie | 6. November 1856, Torre | sicher |
 | Eltern | João Rodrigues Gatto × Caetana Maria | sicher; das ist der 4. Grad **materno** |
 | Heirat | 8. Mai 1878, Torre, Akt Nr. 9 | sicher |
@@ -28,9 +29,17 @@ Linke Seite, unterer Eintrag, Rand:
 
 > Torre […] Narciza / Naviza
 
-Beginn:
+Beginn (beide Lesungen halten die Zeremonie am 6. November):
 
 > Aos seis dias do mez de Novembro de mil oito centos e cincoenta e seis […]
+
+Lesung A, Datumszeile (#16, September):
+
+> […] as Cerimonias do Baptismo e puz os Santos Oleos a Naviza nascida aos dezenove dias de
+> mez de Setembro do dito anno, aquelle já havia sido baptizada em casa em perigo de morte
+
+Lesung B (#17) liest dieselbe Stelle als „19. des Vormonats / mez passado“ zu November → Oktober.
+Keine der beiden Lesungen darf die andere ersetzen.
 
 Rechte Seite, Fortsetzung der Eltern:
 

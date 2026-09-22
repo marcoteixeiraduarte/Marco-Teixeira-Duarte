@@ -24,7 +24,7 @@ der Pfarrei; Teixeira umtriebig.
 | **Duarte** | Carrasqueiras | * und Heirat 1907 dort; Frau aus dem Nachbarweiler Cabeça Redonda | sicher |
 | **Mendes Ferreira** | Ateanha (Alvorge) als Herkunft | **nicht** das stärkste Bleiben: der Mann geht zur Frau | sicher als Herkunft; Wohnen folgt der Frau |
 | **Teixeira** | Figueiras Podres → Cabeça Redonda → Ribeira de Cima | umtriebig, kurze Wege | sicher |
-| **Ramalho** | **nicht Torre** (Auftraggeber). Ateanha **Kandidat** | Heirat der avós **21.02.1838 in Torre** (Castello/Pregoza; Leal). Maria selbst nicht Torre Sept. 1842–1845 — Taufe weiter Ateanha oder Band vor 13.09.1842. Blatt **Manuel Dias Ramalho**. Dias bleibt (Kirche 1838/1843: Thomaz, nicht Dias) | Herkunft Auftraggeber/Kandidat; Wohnen Castello → Pragoza |
+| **Ramalho** | **nicht Torre** (Auftraggeber). Ateanha **Kandidat** | Heirat der avós Feb. **1838 in Torre** (21. oder 22., Gegenlese; Castello/Pregoza; Leal). Maria selbst nicht Torre Sept. 1842–1845 — Taufe weiter Ateanha oder Band vor 13.09.1842. Blatt **Manuel Dias Ramalho**. Dias bleibt Blatt; Kirche 1838/1843 schreibt Thomaz, nicht Dias — Fehlen getrennt, ohne Ursache | Herkunft Auftraggeber/Kandidat; Wohnen Castello → Pragoza |
 
 **Dos Reis** ist in Pragoza stärker als Mendes. Mendes kommen aus
 **Ateanha** (Pfarrei Alvorge) und setzen sich über die Frau

@@ -57,7 +57,7 @@ Quellen:
   daneben die offizielle DigitArq-Datei
   `PT-ADLRA-PRQ-PANS08-001-0004_m0070.jpg` (gleiche Pixelzahl, andere
   Bytes). Welche Datei Narcizas Eintrag trägt, ist händisch zu
-  prüfen; beide liegen im [Archiv](../archiv/README.md).
+  prüfen; beide liegen im [Archiv](../../archiv/README.md).
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)
 - Heirat: `PT/ADLRA/PRQ/PANS08/002/0022`,
   `PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`, Eintrag Nr. 9;
@@ -155,7 +155,7 @@ Tag **7** gesichert. **7. Februar 1774** ist die bessere Datumslesung;
 
 Darunter: `Castello` / `Antonio Simões` / `com` / `M.a Joaquina`
 (10. Februar 1774). Andere Frau; Vater **Martins de França**. Siehe
-[`evidenz/linie-torre/maria-joaquina-simoes-1774.md`](../evidenz/linie-torre/maria-joaquina-simoes-1774.md).
+[`evidenz/linie-torre/maria-joaquina-simoes-1774.md`](../../evidenz/linie-torre/maria-joaquina-simoes-1774.md).
 
 ### Zuordnung zu Caetanas Großeltern
 
@@ -171,8 +171,8 @@ werden nicht als Tatsache übernommen.
 
 **Theodora Maria** (Taufe 9.1.1781, Rapoula, Eltern Alexandre Manoel
 Furtado × Marianna da Affonseca) ist **nicht** Maria Joaquina Sol.
-Siehe [`evidenz/linie-torre/theodora-maria-1781.md`](../evidenz/linie-torre/theodora-maria-1781.md)
-und [`avelar-kandidaten.md`](../evidenz/linie-torre/avelar-kandidaten.md).
+Siehe [`evidenz/linie-torre/theodora-maria-1781.md`](../../evidenz/linie-torre/theodora-maria-1781.md)
+und [`avelar-kandidaten.md`](../../evidenz/linie-torre/avelar-kandidaten.md).
 
 Nächster Schritt: Taufe des **Manoel Joaquim Sol** in Avelar als Kind
 genau dieses Paares.
@@ -258,8 +258,8 @@ Quelle:
 
 ### Eltern des Ehemanns — Manoel Pedro dos Reis × Roza Maria
 
-Belegkette und Scans: [`evidenz/linie-torre/G4-paterno-reis.md`](../evidenz/linie-torre/G4-paterno-reis.md)
-und [`jose-pedro-dos-reis.md`](../evidenz/linie-torre/jose-pedro-dos-reis.md).
+Belegkette und Scans: [`evidenz/linie-torre/G4-paterno-reis.md`](../../evidenz/linie-torre/G4-paterno-reis.md)
+und [`jose-pedro-dos-reis.md`](../../evidenz/linie-torre/jose-pedro-dos-reis.md).
 
 **Sicher:** José Pedros Taufe am **19. Dezember 1854** (* 24.11.1854,
 Pragosa) nennt die Eltern **Manoel Pedro dos Reis × Roza Maria**. Dieselbe
@@ -282,7 +282,7 @@ Elternanschluss über die Taufe 1854 hängt nicht von dieser Zeile ab.
 
 `Valle paio` (1851), `Vallejazede` (1878) und `Aljazede` (1903) bleiben
 getrennte Quellenformen in Alvorge; **Ateanha** ist nur Suchort
-([alvorge-ateanha](../evidenz/linie-torre/alvorge-ateanha.md)).
+([alvorge-ateanha](../../evidenz/linie-torre/alvorge-ateanha.md)).
 
 Quelle Heirat 1851:
 

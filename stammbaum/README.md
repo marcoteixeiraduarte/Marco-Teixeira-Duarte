@@ -9,6 +9,10 @@ modernisiert. Das Blattfoto bleibt beim Auftraggeber (lebende).
 Duarte, Maria Freire de Jesus) gehören nicht in diese Prüfung. Hier
 nur **bisavós und ältere**.
 
+GEDCOM: [`teixeira-duarte.ged`](teixeira-duarte.ged) (CHAR UTF-8, CRLF).
+Kein F47. Nachweis: [`validate.py`](validate.py). Abschlussweg:
+[integration-2026-09-22](../evidenz/integration-2026-09-22.md).
+
 Status:
 
 - **Quelle** – Primärakt gelesen; Blattform daneben
@@ -66,7 +70,7 @@ glätten.
 | Luiz · Bat. ALV ca. 1835 | natürlich Bemposta / Alvorge | Fenster **passt**; eigene Taufe offen |
 | Rosa Maria * 22.04.1822 · Aljazede | Herkunft Aljazede 1903 / Vallejazede 1878 / Vale Paio 1851 | Pfarrei Alvorge **sicher**; * 22.04.1822 **Blatt**, Taufe offen |
 | José Pedro * 1854 · † Vale de Todos | * **24.11.1854 · Pragoza**; † Grenze **Pião / Lagarteira** | Jahr/Todestag **passen** |
-| Narcisa * 19.09.1856 · Vale de Todos | Tag 19. sicher; Monat **wahrscheinlich Oktober** | September Blatt |
+| Narcisa * 19.09.1856 · Vale de Todos | Tag 19. sicher; Monat zwei Lesungen: September (#16, „Setembro“) neben Oktober (#17, „mez passado“) | beide Lesungen halten |
 | José Maria * Pragosa · † 30.07.1948 | * **Valle de Todos**; † **Mai 1948 · Alvorge** | Juli nicht setzen |
 | Maria da Piedade * Vale de Todos | * **Pragoza** | Datum **passt** |
 | Joaquina Ramalha * 15.06.1873 · Pragosa | 23 am 21.08.1896 **passt** | Datum **Blatt — haben wir**. Torre und Alvorge Juni 1873 ohne Kirchenakt. Ateanha Herkunft **Kandidat** |
@@ -298,11 +302,16 @@ Zivil 1912/1937: **Joaquina Reis**, natürlich **Pragoza**. Mann
 zu ihr). Kind **Palmira Reis** — Reis von der Mutter.
 
 Heirat **21.08.1896**, Torre, als **Joaquina Ramalha**. Eltern dort
-**José dos Reis** × **Maria Ramalha** — **sicher**. Blatt
-**Manuel Dias Ramalho** × **Angelica Maria Leal** ist **nicht**
-dieses Paar: 1871 dieselben Vornamen als **avós maternos** des
-ersten Sohnes **Sebastião * 7.05.1871**. José dos Reis ist
-**Bruder** des Manoel Pedro dos Reis (Haus José Pedro). Zwei Häuser:
+**José dos Reis** × **Maria Ramalha** — **sicher als Akttext**.
+Dass diese Braut dieselbe Person ist wie die Joaquina des Blatts
+* **15.06.1873** und die Mutter Palmiras 1912, bleibt eigene
+Identitätskette (Gegenlese 1896 + Zivilfoto 08). Deshalb **keine**
+bestätigte Export-Elternkante (kein F47). Blatt **Manuel Dias
+Ramalho** × **Angelica Maria Leal** ist **nicht** das Elternpaar
+1896: 1871 dieselben Vornamen als **avós maternos** des
+**Sebastião * 7.05.1871** (primeiro deste nome, nicht Erstgeburt).
+José dos Reis ist **Bruder** des Manoel Pedro dos Reis (Haus José
+Pedro). Zwei Häuser:
 [zwei-reis-haeuser-pragoza](../evidenz/linie-torre/zwei-reis-haeuser-pragoza.md).
 Erste Tochter **Palmyra * 8.06.1897**. Die Blatt-Palmira * 24.04.1912
 ist **viel später**.
@@ -315,7 +324,7 @@ ist **viel später**.
 | Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Vater natürlich **Figueiras Podres**; Joana natürlich **Cabeça Redonda**. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueiras Podres); **Joaquim Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | **ersetzen:** **Francisco José dos Santos** × **Maria Thereza** (Zivilakt Manuel 1913). Taufe Maria José offen |
 | Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
-| Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Joaquim * **3.04.1853** Pragoza **passt** (Taufe 27.04.1853). Deren Eltern: **Nicolao Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria**. Joaquims avós: **Belchior Roiz Feio** × **Agueda Maria** (Blatt `Rosa Maria` daneben). Geburt Belchior/Melchior: * **15.05.1775** Val de Todos, Taufe 20.05.1775, Eltern **Manoel João Neto** × **Antonia Maria Caetana** (1824 avó **Antonia Maria**, nicht Victoria). Lobo-Seite: **Manoel Lourenço Lobo** × **Josefa Maria**, Castello |
+| Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Joaquim * **3.04.1853** Pragoza **passt** (Taufe 27.04.1853). In jener Taufe genannt: **Nicolao Rodrigues Feio** × **Maria de Jesus**; avós **Belchior Roiz Feio** × **Agueda Maria** (Blatt `Rosa Maria` daneben, nicht zusammenziehen); Lobo-Seite **Manoel Lourenço Lobo** × **Josefa Maria**, Castello. Die Taufe Melchior * **15.05.1775** ist ein eigener Fund — Identität mit dem avô Belchior 1853 bleibt Folgerung, siehe [feio-contente](../evidenz/linie-guiomar/feio-contente.md) und [antonio-feio-carvalhinho](../evidenz/linie-guiomar/antonio-feio-carvalhinho.md). Frauenlesungen nicht hochstufen. |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |
 | Anna da Piedade · * 15.06.1845 · † 1922 | Taufe 14.7.1845: **Anna**, `* 15.06.1845 · Valle de todos`. `da Piedade` steht erst 1880 beim Sohn. Eltern **Manoel Dias Barbeiro** × **Joaquina Maria**. `† 1922` nicht in jener Taufe |
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
@@ -480,10 +489,13 @@ Delfina; Manuel Duarte 1962).
    daneben).
 5. Avô Maria José: Akte **Francisco José dos Santos** (Blatt Manuel);
    Mutter Thereza **passt**.
-6. Joaquinas 4.º: Kirche **José dos Reis × Maria Ramalha**. Blatt
+6. Joaquinas Eltern 1896: Kirche **José dos Reis × Maria Ramalha**
+   (Akttext). Identität mit Blatt *15.06.1873 und Mutter Palmiras
+   bleibt Gegenlese — kein bestätigter Export (kein F47). Blatt
    Ramalho × Leal eine Generation höher (avós 1871).
 7. José Pedro: * **24.11.1854 · Pragoza**; † Grenze **Pião / Lagarteira**.
-8. Narciza: Monat Geburt **wahrscheinlich Oktober**; September Blatt.
+8. Narciza: Monat Geburt zwei Lesungen — September (#16, „Setembro“)
+    neben Oktober (#17, „mez passado“); keine davon streichen.
 9. Margarida: * **27.06.1897**; † Rand **29.11.1979** (Blatt 08.06. /
    23.12. daneben).
 10. `Mesmos pais (irmãos)` bei José Freire Bicho streichen.

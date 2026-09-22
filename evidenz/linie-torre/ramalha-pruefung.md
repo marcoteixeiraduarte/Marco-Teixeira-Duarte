@@ -9,12 +9,13 @@ nicht neu suchen.
 
 ---
 
-## 1 — Heirat 21.02.1838, Torre
+## 1 — Heirat Februar 1838, Torre
 
 Rechte Seite unten. Rand: `Pregoza` / `M.el Ramalho` / `Angelica M.`
 
 **Frage:** Steht da Manoel Ramalho × Angelica, Vater der Braut
-**Manoel Leal**, Ort Castello/Pregoza? Steht **Dias**?
+**Manoel Leal**, Ort Castello/Pregoza? Steht **Dias**? Liest die
+Datumszeile **Vinte e hum** (21.) oder **Vinte dois** (22.)?
 
 ![1838 Ausschnitt](../../akten/matta/manuel-ramalho/1838-casamento-ausschnitt-rechte-seite.jpg)
 

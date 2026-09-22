@@ -23,8 +23,8 @@ Taufe **Sebastião**, Torre N.º 7, 21. Mai 1871
 
 > baptizei solemnemente um individuo do sexo masculino a quem dei o nome
 > de **Sebastião**, que nasceu nesta freguezia às sete horas da manhã
-> do dia **sete** de dito mez e anno, **filho legitimo e primeiro**
-> deste … de **José dos Reis**, trabalhador, e de **Maria Ramalha**,
+> do dia **sete** de dito mez e anno, **filho legitimo e primeiro
+> deste nome** … de **José dos Reis**, trabalhador, e de **Maria Ramalha**,
 > governadora de casa, ambos naturais desta freguezia … moradores no
 > lugar da **Pragoza**: neto paterno de **Manuel Pedro dos Reis** e de
 > **Joaquina Maria**; neto materno de **Manuel Ramalho** e de
@@ -33,7 +33,7 @@ Taufe **Sebastião**, Torre N.º 7, 21. Mai 1871
 | Feld | Wert | Gewissheit |
 | --- | --- | --- |
 | Kind | Sebastião, * 7.05.1871, 7 Uhr; Taufe 21.05.1871, Pragoza | sicher |
-| Stellung | **primeiro** filho dieses Paares | sicher |
+| Stellung | **primeiro deste nome** — erster dieses Namens, nicht Erstgeburt | sicher als Formel; kein Widerspruch zu älteren Geschwistern |
 | Vater | **José dos Reis**, trabalhador, natürlich diese Pfarrei, wohnhaft Pragoza | sicher |
 | Mutter | **Maria Ramalha**, governadora de casa, natürlich diese Pfarrei, wohnhaft Pragoza | sicher |
 | avô paterno | **Manuel Pedro dos Reis** × **Joaquina Maria** | sicher |
@@ -54,7 +54,7 @@ Manoel Pedro × Joaquina Maria, Pragosa
         ├── Maria da Graça * 30.05.1864 Pragoza  (primeira do nome; ~ 10.07.1864 N.º 14)
         ├── José * ~04.02.1866 Pragoza   (primeiro deste nome)
         ├── Maria  ~ 13.03.1867 Pragoza  (Geburt Gegenlese; nicht die 1864er)
-        ├── Sebastião * 7.05.1871        (Akt: primeiro filho — daneben schon José 1866)
+        ├── Sebastião * 7.05.1871        (primeiro deste nome; nicht Erstgeburt)
         ├── José * 18.09.1875 Pragoza    (segundo deste nome)
         └── Joaquina * 15.06.1873 Pragosa (Blatt) × Manuel Matta
 ```
@@ -84,7 +84,7 @@ Patin Angelica Maria, Witwe: dieselbe Frau wie die Großmutter mütterlich.
 | Band | Ergebnis |
 | --- | --- |
 | Torre Casamentos **1869** (`PANS08/002/0013`, 2 Bilder) | **leer** — der Pfarrer vermerkt, es gab keine Heirat |
-| Torre Casamentos **1871–1874** | kein José dos Reis × Maria Ramalha (Sebastião ist 1871 schon primeiro → Heirat **vor** 7.05.1871) |
+| Torre Casamentos **1871–1874** | kein José dos Reis × Maria Ramalha (Heirat liegt: **16.11.1863**) |
 | Torre Casamentos **1868** | gelesen, dieses Paar nicht erkannt (Handschrift blass) |
 | Torre Batismos **1872, 1873, 1874** | **keine** Joaquina des Paares José dos Reis × Maria Ramalha in Pragoza |
 | Torre Batismos **1864** | **Maria da Graça** N.º 14, * 30.05.1864 / ~ 10.07.1864, Pragoza — **sicher** Kind dieses Paares. Keine Joaquina. Andere Pragoza-José (N.º 8, 10) andere Eltern | 
@@ -99,7 +99,7 @@ diesen Eintrag. Alvorge Juni 1873 (Ateanha-Band) ebenfalls ohne sie.
 Auftraggeber: Ramalha aus **Ateanha** — **Kandidat**. Joaquinas
 Geschwister nicht noch einmal suchen; deren **Paten** (José /
 Joaquim Ramalho) sind der Hebel, wenn Ateanha leer bleibt.
-Eltern-Heirat **21.02.1838** Torre (Kandidat).
+Eltern-Heirat Feb. **1838** Torre (21. oder 22., Gegenlese; Identität Kandidat).
 [ramalha-ateanha-1873](ramalha-ateanha-1873.md).
 
 Scan: `archiv/matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg`.

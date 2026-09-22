@@ -9,13 +9,14 @@
 | * | **15.06.1873** · Pragosa — **Blatt, haben wir** |
 | † | offen |
 | Eltern / genannt mit | José dos Reis × Maria Ramalha |
-| Gewissheit | Geburt **Blatt** (Auftraggeber). Heirat und Eltern 1896 **sicher**. Leal steht 1896 nicht. |
+| Gewissheit | Geburt **Blatt** (Auftraggeber). Heirat 1896 und die dort genannten Eltern **sicher als Akttext**. Identität der Braut mit der Joaquina des Blatts * 15.06.1873 bleibt Gegenlese, bevor eine Export-Elternkante entsteht. Leal steht 1896 nicht. |
 
 Geburt nicht noch einmal suchen. Taufe — wenn — **um den 15.06.1873**,
 nicht ± Jahre. Ramalha **nicht aus Torre** (Auftraggeber); Torre ist
 Heirat der Mutter 1863 und Geschwister, nicht die Herkunft. Torre 1873
-ohne diesen Eintrag. **Alvorge / Ateanha Juni 1873** ganz gelesen: kein
-Joaquina-Akt am 15.06. (N.º 19–22 andere Häuser). Auftraggeber:
+ohne diesen Eintrag. **Alvorge Juni 1873** (m0170–m0173): in diesen
+Bildern kein passender Eintrag gefunden — kein Ortsausschluss.
+Geburtstag und Tauftag können auseinanderliegen. Auftraggeber:
 Herkunft **Ateanha** — **Kandidat**; 1863/1875 schreiben **Castello**.
 Nicht glätten. Geschwister **haben wir**. Heirat physisch auch bei
 Manuel. Blatt setzt **Manuel Dias Ramalho** × Leal eine Generation
