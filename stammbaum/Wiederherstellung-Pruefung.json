@@ -1,0 +1,115 @@
+{
+  "validator_version": "1.1.0",
+  "pass": "wiederherstellung",
+  "captured_at": "2026-09-22T03:00:59.540684+00:00",
+  "repo_head": "b261d9be41176038730fb3e9ba492ad60d115c0f",
+  "repo_tree": "054e36418b81d89a37d55592aa70d3412f34d9f0",
+  "git": {
+    "ok": true,
+    "repo_head": "b261d9be41176038730fb3e9ba492ad60d115c0f",
+    "repo_tree": "054e36418b81d89a37d55592aa70d3412f34d9f0",
+    "branch": "cursor/integration-korrektur-0e2e",
+    "working_tree_clean": false,
+    "working_tree": [
+      "?? stammbaum/Belegerhalt-und-Struktur.json"
+    ],
+    "note": "repo_head und repo_tree gelten für den ausgecheckten Commit. Ein späteres Commit dieser JSON-Datei ändert HEAD; der Nachweis bezieht sich auf den Stand, gegen den geprüft wurde."
+  },
+  "cases": [
+    {
+      "id": "GED-01",
+      "titel": "GEDCOM CHAR UTF-8",
+      "ok": true,
+      "detail": "Kopfzeile CHAR UTF-8 muss stehen."
+    },
+    {
+      "id": "GED-02",
+      "titel": "Tippfehler geneaologische entfernt",
+      "ok": true,
+      "detail": "Eigene Notizen schreiben genealogische; historische Namensformen bleiben."
+    },
+    {
+      "id": "GED-03",
+      "titel": "Keine bestätigte Familie F47",
+      "ok": true,
+      "detail": "Elternkante Joaquina → José dos Reis × Maria Ramalha bleibt aus dem bestätigten Export."
+    },
+    {
+      "id": "GED-04",
+      "titel": "I37 ohne FAMC F18",
+      "ok": true,
+      "detail": "F18 nicht als Eltern Joaquinas wiederherstellen."
+    },
+    {
+      "id": "GED-05",
+      "titel": "F18 ohne Kind I37",
+      "ok": true,
+      "detail": "Blattpaar Ramalho × Leal bleibt Paar ohne Joaquina-Kindkante."
+    },
+    {
+      "id": "REIS-01",
+      "titel": "Sebastião ist primeiro deste nome, nicht Erstgeburt",
+      "ok": true,
+      "detail": "Die Formel erster dieses Namens erzeugt keinen Geschwisterwiderspruch."
+    },
+    {
+      "id": "CAS-01",
+      "titel": "Casimiro Geburt 06.12.1898, Taufe 26.12.1898 getrennt",
+      "ok": true,
+      "detail": "Geburtstag und Tauftag nicht zusammenfalten; Nottaufe ohne eigenes Datum."
+    },
+    {
+      "id": "RAM-01",
+      "titel": "Heirat 1838: beide Datumslesungen",
+      "ok": true,
+      "detail": "21.02 und 22.02 bleiben nebeneinander; Datum nicht sicher."
+    },
+    {
+      "id": "LNK-01",
+      "titel": "Relative Verweise in den fünf Linienübersichten",
+      "ok": true,
+      "detail": "Keine Treffer ../evidenz oder ../archiv in akten/*/README.md"
+    },
+    {
+      "id": "KAT-01",
+      "titel": "Passkataloge 1886 und 1901 aus #14",
+      "ok": true,
+      "detail": "#14 ist kein überholter Vorläufer; die Katalog-JSONs bleiben."
+    },
+    {
+      "id": "NAR-01",
+      "titel": "Narciza: September- und Oktober-Lesung nebeneinander",
+      "ok": true,
+      "detail": "Lesung #16 nicht durch Lesung #17 ersetzen."
+    },
+    {
+      "id": "OFF-01",
+      "titel": "Antonio N.º 9 und Zivilfoto 01 bleiben offen",
+      "ok": true,
+      "detail": "Beide Lesungspaare stehen noch; nicht zu einer sicheren Zuweisung falten."
+    }
+  ],
+  "cases_ok": true,
+  "checksums": {
+    "stammbaum/teixeira-duarte.ged": "944baa87b624b5874d4e826c1e4869bd08e31c1c5024fc30276d570992eadc75",
+    "stammbaum/validate.py": "e225d26eee85ac2d556bce6ac5086aa8ed341fbd338a5a5b6e7593cb49c093bb",
+    "evidenz/linie-torre/katalog/1886-manoel-dias-guiomar.json": "cf4b79ddd9bd6847046120ae1df429cab00571679b955ee13b2b15b679b00f31",
+    "evidenz/linie-torre/katalog/1901-antonio-dias-guiomar.json": "9824ba58dd37c15f8e2701379015bb6fcdbea3543cae962bc2804b6d61392357",
+    "evidenz/linie-torre/narciza.md": "de3ccf32e8c859d69227811249bc77f205e512a49c791642bb1c8babb1b25dfd",
+    "evidenz/linie-torre/zwei-reis-haeuser-pragoza.md": "5ca17e37800c9820d44d66641f66cc8b893f84073511158c3b486f869f8650ca",
+    "evidenz/linie-torre/ramalha-ateanha-1873.md": "2078b326781edbb6ac47117e6d112b5236342038868d5c0588ddb4b70b8e5d3b",
+    "evidenz/linie-torre/joaquina-reis-leal.md": "6e7a4e0f301956e9a5593dedb89ec9b6b6806365654d0d51d1585dbcde8d8d1d",
+    "akten/matta/casimiro-1898/README.md": "c008b202c145d2e4bbd83bb7b9f66ae31b5e87f5af86dfeb7670bd9e8c7305fc",
+    "akten/matta/sebastiao-1871/README.md": "b5767d80df15d77f23083667dda9506dbcf52c4dccf352601f8c1ff93dff5015",
+    "akten/matta/README.md": "9cc43fbd7866cd165d60a8b752c44feedaa8a282ea5f3bb21be47967c7b75ea5",
+    "evidenz/integration-2026-09-22.md": "8c7926f699139f0f01be7b24a78725213c8173fce131665b7bc5e355de490d00"
+  },
+  "belegerhalt": {
+    "path": "stammbaum/Belegerhalt-und-Struktur.json",
+    "sha256": "ac42ee0e88dbf1f98d3b5ee4868efb58fad2e258f74dd1aff9556952709baa1e"
+  },
+  "same_head_as_belegerhalt": true,
+  "same_tree_as_belegerhalt": true,
+  "byte_identical_to_belegerhalt": false,
+  "why_not_byte_identical": "Dieser Lauf trägt pass=wiederherstellung und den SHA-256 der Belegerhalt-Datei. Zwei gleiche Ergebnisdateien allein seien kein zweiter Lauf."
+}
