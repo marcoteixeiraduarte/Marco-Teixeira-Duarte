@@ -13,21 +13,25 @@
 ## Quelle Taufe
 
 - Archiv: `PT/AUC/PAR/PNL01/002/0030`
-- Scan: `duarte-freire-records/cumeeira/1885/PNL01-002-0030_m0017.jpg`
+- Scan: `akten/duarte-freire/manuel-duarte/1885-baptismo-PNL01-002-0030_m0017.jpg`
 - [AUC](https://pesquisa.auc.uc.pt/details?id=43231)
 
 ### Transkript, soweit sicher
 
-> N.º 40. Aos dois dias do mez de dezembro do anno de mil e oito centos e oitenta e cinco […] baptizei […] Manoel […] nascido aos dezanove dias do mez de Novembro […] pelas oito horas da manhã no lugar das Carrasqueiras […] filho legitimo de Antonio Duarte e de Thereza Freire […] neta paterna de Manoel Duarte e de Joaquina de Jesus [Figueira Podre / Figueiras Podres] […] materna de Manoel [Dias?] e de Maria Freire […] padrinhos José dos Santos e sua mulher Joaquina Freire.
+> N.º 40. Aos dois dias do mez de dezembro do anno de mil e oito centos e oitenta e cinco […] baptizei […] Manoel […] nascido aos dezanove dias do mez de Novembro […] pelas oito horas da manhã no lugar das Carrasqueiras […] filho legitimo de Antonio Duarte e de Thereza Freire […] neta paterna de Manoel Duarte e de Joaquina de Jesus [Figueiras Podres] […] materna de Manoel [Dias?] e de Maria Freire […] padrinhos José dos Santos e sua mulher Joaquina Freire.
 
 ### Offene Lesungen auf demselben Scan
 
 | Stelle | Varianten | Status |
 |---|---|---|
 | mütterlicher Großvater | Manoel Dias / Manoel Freire / Manoel Silva | offen |
-| Mutterzusatz | Thereza Freire, evtl. Barreira | wahrscheinlich nur Freire |
+| Mutterzusatz | Thereza Freire, evtl. Barreira | wahrscheinlich nur Freire; **nicht** die Barreira neben Castello in Vale de Todos |
 | Heirats-Rand | 13. November 1907 mit Joaquina [Ignácia / Freire] | Heirat sicher, Zweitname im Rand offen |
 | Tod | 30. September **1962**, Ansião (Blatt und Averbamento) | sicher laut Blatt/Averbamento; Sterbeakt offen |
+
+Carrasqueiras in diesem Cumeeira-Akt **nicht** mit den Paten João
+1879 gleichsetzen (dort: Carrasqueiras, Pfarrei Chão de Couce).
+Derselbe Grenzweiler ist geografisch Kandidat.
 
 ## Anschluss vorwärts
 

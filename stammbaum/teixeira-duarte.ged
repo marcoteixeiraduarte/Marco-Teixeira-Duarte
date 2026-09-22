@@ -1,0 +1,1293 @@
+0 HEAD
+1 SOUR Marco-Teixeira-Duarte
+2 NAME GitHub marcoteixeiraduarte/Marco-Teixeira-Duarte
+2 VERS origin/master ff8ce939
+1 DEST ANY
+1 DATE 22 SEP 2026
+1 FILE teixeira-duarte.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG Portuguese
+1 SUBM @SUB1@
+1 NOTE Bereinigte GEDCOM zum Integrationsstand 22.09.2026. Nur genealogische
+2 CONT Fakten (Name, Datum, Filiação, Naturalidade). Keine Ausweisdaten,
+2 CONT Dokumentnummern, NIF/NISS, Adressen oder Fotos. Quellenformen
+2 CONT unverändert — historische Jose/Gatto-Formen bleiben. Ungewisses in
+2 CONT NOTE, nicht stillschweigend ergänzt. Keine Familie @F47@: die 1896
+2 CONT genannten Eltern José dos Reis × Maria Ramalha sind Akttext, die
+2 CONT Identitätskette Blatt *15.06.1873 — Braut 1896 — Mutter Palmiras 1912
+2 CONT bleibt Gegenlese. F18 (Manuel Dias Ramalho × Angelica Maria Leal) ist
+2 CONT Blattpaar, nicht bestätigte Eltern von Joaquina. Methodenquelle
+2 CONT HLS-Artikel Genealogie (Anne-Marie Dubler, 26.11.2013,
+2 CONT https://hls-dhs-dss.ch/articles/012811/2013-11-26/).
+0 @SUB1@ SUBM
+1 NAME M D
+0 @S1@ SOUR
+1 TITL Blatt TEIXEIRA DUARTE
+1 DATE 8 SEP 2026
+1 PLAC Zürich
+1 NOTE stammbaum/blatt-teixeira-duarte.jpg
+0 @S2@ SOUR
+1 TITL Kirchenbücher Cumeeira, Torre, Lagarteira (AUC / DigitArq)
+1 NOTE Siehe evidenz/ und *-records/ im selben Repository.
+0 @S3@ SOUR
+1 TITL Genealogie
+1 AUTH Anne-Marie Dubler
+1 PUBL Historisches Lexikon der Schweiz
+1 DATE 26 NOV 2013
+1 NOTE Methodenquelle HLS-Artikel Genealogie (Anne-Marie Dubler, 26.11.2013,
+2 CONT https://hls-dhs-dss.ch/articles/012811/2013-11-26/): breite
+2 CONT Quellenbasis, genaue Identifikation, Verzicht auf Spekulation bei
+2 CONT Lücken; sichere und unsichere Abfolgen kennzeichnen. Der Artikel enthält
+2 CONT keine Personen dieser Familie.
+0 @I1@ INDI
+1 NAME Marco Sérgio /Teixeira Duarte/
+1 SEX M
+1 RESN privacy
+1 BIRT
+2 DATE 15 OCT 1980
+2 PLAC Lübeck
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+2 SOUR @S1@
+1 NOTE Lebende Person. Nur genealogische Fakten vom öffentlichen Blatt. Keine
+2 CONT Adressen oder Dokumentnummern.
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Christian Marcel /Teixeira Duarte/
+1 SEX M
+1 RESN privacy
+1 BIRT
+2 DATE 12 JUL 1986
+2 PLAC Lübeck
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+2 SOUR @S1@
+1 NOTE Lebende Person. Nur genealogische Fakten vom öffentlichen Blatt.
+1 FAMC @F1@
+0 @I3@ INDI
+1 NAME Manuel de Jesus /Duarte Teixeira/
+1 SEX M
+1 RESN privacy
+1 BIRT
+2 DATE 21 OCT 1963
+2 PLAC Cabeça Redonda
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+2 SOUR @S1@
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I4@ INDI
+1 NAME Maria Célia /Reis Teixeira/
+1 SEX F
+1 RESN privacy
+1 BIRT
+2 DATE 29 SEP 1959
+2 PLAC Pragosa
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Ortsform Pragosa hier
+3 CONT Blatt/Zivilstand, nicht gegen den Akt gehalten.
+2 SOUR @S1@
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I5@ INDI
+1 NAME José /Duarte/
+1 SEX M
+1 BIRT
+2 DATE ABT 21 DEC 1926
+2 PLAC Ansião
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Tilde auf dem Blatt. Auftraggeber:
+3 CONT Opa um 1922 geboren — nicht mit Blatt-~21.12.1926 zu einem Datum glätten
+3 CONT und nicht mit Penela Casamentos 1922 Nr. 94 (Heirat José Freire Bicho
+3 CONT × Margarida) verwechseln. Suchfenster: Geburten um 1922, nicht 1857–1907.
+2 SOUR @S1@
+1 DEAT
+2 DATE 16 APR 2005
+2 PLAC Cumeeira
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Zivilakt nicht geprüft. Blattform
+3 CONT Cumeira erst gegen den Akt halten.
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I6@ INDI
+1 NAME Maria /Freire de Jesus/
+1 SEX F
+1 BIRT
+2 DATE 26 APR 1933
+2 PLAC Cabeça Redonda
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+2 SOUR @S1@
+1 DEAT
+2 DATE 29 JAN 2022
+2 PLAC Penela
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+1 FAMS @F2@
+1 FAMC @F5@
+0 @I7@ INDI
+1 NAME Fernando /Teixeira/
+1 SEX M
+1 BIRT
+2 DATE 9 SEP 1937
+2 PLAC Vale de Todos
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+2 SOUR @S1@
+1 DEAT
+2 DATE 20 APR 2021
+2 PLAC Lübeck
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+1 FAMS @F3@
+1 FAMC @F6@
+0 @I8@ INDI
+1 NAME Iolinda /Reis da Ascensão/
+1 SEX F
+1 RESN privacy
+1 BIRT
+2 DATE 16 SEP 1936
+2 PLAC Vale de Todos
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+2 SOUR @S1@
+1 NOTE Kein Sterbedatum auf dem Blatt. Nicht gegen Zivilakt geprüft.
+1 FAMS @F3@
+1 FAMC @F7@
+0 @I20@ INDI
+1 NAME Manuel /Teixeira/
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 1913
+2 PLAC Ribeira
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Zivilstand nach 1911;
+3 CONT Conservatória-Ansião-Fotos vorhanden, noch nicht festgelesen.
+2 SOUR @S1@
+1 DEAT
+2 DATE 5 JUN 1973
+2 PLAC Angónia
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+1 FAMS @F6@
+1 FAMC @F8@
+0 @I21@ INDI
+1 NAME Maria Emília /Guiomar/
+1 SEX F
+1 BIRT
+2 DATE 21 AUG 1915
+2 PLAC Vale de Todos
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Zivilstand nach 1911;
+3 CONT Conservatória-Fotos noch nicht festgelesen.
+2 SOUR @S1@
+1 DEAT
+2 DATE 22 APR 1973
+2 PLAC Coimbra
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+1 FAMS @F6@
+1 FAMC @F9@
+0 @I22@ INDI
+1 NAME José Mendes /d'Ascensão/
+1 SEX M
+1 BIRT
+2 DATE ABT 1914
+2 PLAC Pragosa
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Ortsform erst nach dem Zivilakt.
+3 CONT São Jorge am Tod = Kapelle/lugar in Vale de Todos, nicht fremder Ort.
+2 SOUR @S1@
+1 DEAT
+2 DATE 15 NOV 1996
+2 PLAC São Jorge
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+1 FAMS @F7@
+1 FAMC @F10@
+0 @I23@ INDI
+1 NAME Palmira /Reis/
+1 SEX F
+1 BIRT
+2 DATE 24 APR 1912
+2 PLAC Pragosa
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Ortsform erst nach dem Zivilakt.
+2 SOUR @S1@
+1 DEAT
+2 DATE 16 DEC 1999
+2 PLAC São Jorge
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. São Jorge = Kapelle/lugar in Vale
+3 CONT de Todos.
+1 FAMS @F7@
+1 FAMC @F11@
+0 @I30@ INDI
+1 NAME João /Teixeira/
+1 SEX M
+1 BIRT
+2 DATE 13 OCT 1879
+2 PLAC Cabeça Redonda, São Sebastião da Cumeeira, Penela
+2 NOTE Taufe Nr. 42, 22.10.1879. Blattort Cumeeira ist die Pfarrei; Weiler ist
+3 CONT Cabeça Redonda. PT/AUC/PAR/PNL01/002/0024.
+2 SOUR @S2@
+1 CHR
+2 DATE 22 OCT 1879
+2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
+2 SOUR @S2@
+1 FAMS @F8@
+1 FAMC @F12@
+0 @I31@ INDI
+1 NAME Maria José /dos Santos/
+1 SEX F
+1 BIRT
+2 DATE ABT 1884
+2 PLAC Ansião
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft. Eltern auf dem Blatt: Pais de Maria
+3 CONT José por confirmar. Keine FAMC angelegt.
+2 SOUR @S1@
+1 FAMS @F8@
+0 @I32@ INDI
+1 NAME João /Guiomar/
+1 SEX M
+1 NAME João Dias /Guiomar/
+1 BIRT
+2 DATE 22 APR 1874
+2 PLAC Rua d'Além, Torre de Valle de Todos, Anciao
+2 NOTE Taufe 10.05.1874, Taufname João (ohne Dias Guiomar). Dias steht beim
+3 CONT Großvater Antonio Dias Guiomar. Lesung Rua d'Allem möglich.
+3 CONT PT/ADLRA/PRQ/PANS08/001/0019.
+2 SOUR @S2@
+1 CHR
+2 DATE 10 MAY 1874
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos, Anciao
+2 SOUR @S2@
+1 DEAT
+2 DATE 8 JAN 1958
+2 PLAC Torre de Vale de Todos
+2 NOTE Randvermerk an der Taufe. Zivilakt nicht geprüft.
+1 FAMS @F9@
+1 FAMC @F13@
+0 @I33@ INDI
+1 NAME Maria
+1 SEX F
+1 NAME Maria Helena /Guiomar/
+1 BIRT
+2 DATE 25 FEB 1882
+2 PLAC Valle do Pião, São Domingos da Lagarteira, Ansião
+2 NOTE Taufe Nr. 3, 05.03.1882. Taufname Maria, nicht Maria Helena und nicht
+3 CONT Guiomar. Helena ist der Name der Mutter, Guiomar späterer Ehename. Pião
+3 CONT gehört zu Lagarteira (LAR), nicht zu Torre.
+3 CONT PT/ADLRA/PRQ/PANS05/001/0027.
+2 SOUR @S2@
+1 CHR
+2 DATE 5 MAR 1882
+2 PLAC São Domingos da Lagarteira, Ansião
+2 SOUR @S2@
+1 FAMS @F9@
+1 FAMC @F14@
+0 @I34@ INDI
+1 NAME Joze Maria /da Ascenção/
+1 SEX M
+1 NAME José Maria /d'Ascensão/
+1 BIRT
+2 DATE 25 APR 1880
+2 PLAC Valle de Todos, Torre de Valle de Todos, Anciao
+2 NOTE Taufe Nr. 5, 06.05.1880. Geburtsort Valle de Todos, NICHT Pragoza.
+3 CONT Blattform José Maria d'Ascensão / Pragosa nicht übernommen.
+3 CONT PT/ADLRA/PRQ/PANS08/001/0025.
+2 SOUR @S2@
+1 CHR
+2 DATE 6 MAY 1880
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos, Anciao
+2 SOUR @S2@
+1 DEAT
+2 DATE MAY 1948
+2 PLAC Alvorge
+2 NOTE Randvermerk an der Taufe der Ehefrau: Tod in Alvorge, Mai 1948,
+3 CONT Zivilregister Nr. 72. Tagesdatum in der Hand mehrdeutig (3./13./30.
+3 CONT Mai). Blatt-30.07.1948 widerspricht dem Monat und wird nicht geführt.
+3 CONT Zivilakt nicht geprüft.
+1 FAMS @F10@
+1 FAMC @F15@
+0 @I35@ INDI
+1 NAME Maria da /Piedade/
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 1878
+2 PLAC Pragoza, Torre de Valle de Todos, Anciao
+2 NOTE Taufe Nr. 6, 09.10.1878. Taufname Maria da Piedade ohne dos Reis. Ort
+3 CONT Pragoza (Quellenform). PT/ADLRA/PRQ/PANS08/001/0023.
+2 SOUR @S2@
+1 CHR
+2 DATE 9 OCT 1878
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos, Anciao
+2 SOUR @S2@
+1 NOTE Blatt † 16.01.1952 nicht als einzige gesicherte Form. Auf derselben
+2 CONT Doppelseite ein Sterbevermerk 17.11.1952 / Tod am 16.; Zuordnung zu
+2 CONT diesem Eintrag ungeklärt. Zivilakt nicht geprüft. Deshalb kein
+2 CONT DEAT-Datum.
+1 FAMS @F10@
+1 FAMC @F16@
+0 @I36@ INDI
+1 NAME Manuel
+1 SEX M
+1 NAME Manuel /Matta/
+1 BIRT
+2 DATE 26 JUL 1872
+2 PLAC São Jorge, Torre de Valle de Todos, Anciao
+2 NOTE Taufe Nr. 14, 01.08.1872. filho natural der Anna de Jesus Matta; Vater
+3 CONT ungenannt. Matta steht bei der Mutter. São Jorge = Kapelle/lugar der
+3 CONT Pfarrei Torre, kein ferner Ort. PT/ADLRA/PRQ/PANS08/001/0017.
+2 SOUR @S2@
+1 CHR
+2 DATE 1 AUG 1872
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos, Anciao
+2 SOUR @S2@
+1 DEAT
+2 DATE 15 FEB 1946
+2 PLAC Ansião
+2 NOTE Randvermerk: Tod am 15. eines Monats; in Ansião am 14.07.1946
+3 CONT nachgetragen, Zivilregister Nr. 126. Blatt-15.02.1946 ist die Richtung;
+3 CONT Zivilakt nicht geprüft.
+1 FAMS @F11@
+1 FAMC @F17@
+0 @I37@ INDI
+1 NAME Joaquina /Ramalho/
+1 SEX F
+1 NAME Joaquina Ramalha /dos Reis/
+1 NOTE Blatt * 15.06.1873 Pragosa (Auftraggeber). Heirat 21.08.1896 nennt
+2 CONT eine 23-jährige Joaquina Ramalha, Pragoza, Tochter von José dos Reis
+2 CONT × Maria Ramalha. Das Alter passt zum Blattdatum, beweist es nicht.
+2 CONT Zivil 1912/1937 schreibt die Mutter Palmiras Joaquina Reis. Die
+2 CONT Identitätskette Blatt — Braut 1896 — Mutter 1912 bleibt Gegenlese;
+2 CONT deshalb kein FAMC und keine bestätigte Elternfamilie. Blatt-Eltern
+2 CONT Manuel Dias Ramalho × Angelica Maria Leal sind eine Generation zu
+2 CONT hoch (avós 1871) und hier nicht als FAMC gesetzt.
+1 FAMS @F11@
+0 @I40@ INDI
+1 NAME Manoel /Duarte/
+1 SEX M
+1 NAME Manuel /Duarte/
+1 BIRT
+2 DATE 19 NOV 1885
+2 PLAC Carrasqueiras, São Sebastião da Cumeeira, Penela
+2 NOTE Taufe Nr. 40, 02.12.1885, 8 Uhr. Taufname Manoel.
+3 CONT PT/AUC/PAR/PNL01/002/0030.
+2 SOUR @S2@
+1 CHR
+2 DATE 2 DEC 1885
+2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
+2 SOUR @S2@
+1 DEAT
+2 DATE 30 SEP 1962
+2 PLAC Ansião
+2 NOTE Averbamento an der Heirat 1907 und Blatt. Eine Lesung 1964 war
+3 CONT Fehlregression. Sterbeakt selbst nicht geprüft.
+1 FAMS @F4@
+1 FAMC @F19@
+0 @I41@ INDI
+1 NAME Joaquina
+1 SEX F
+1 NAME Joaquina /Ignácia/
+1 BIRT
+2 DATE 7 FEB 1886
+2 PLAC Cabeça Redonda, São Sebastião da Cumeeira, Penela
+2 NOTE Taufe Nr. 9, 18.02.1886, 18 Uhr. Taufname nur Joaquina; Ignácia aus der
+3 CONT Heirat 1907. PT/AUC/PAR/PNL01/002/0031.
+2 SOUR @S2@
+1 CHR
+2 DATE 18 FEB 1886
+2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
+2 SOUR @S2@
+1 DEAT
+2 DATE 24 MAR 1969
+2 PLAC Ansião
+2 NOTE Wahrscheinlich aus Tauf-Randvermerk
+3 CONT (evidenz/linie-duarte/G2-joaquina-ignacia.md). Zivilakt nicht geprüft.
+1 FAMS @F4@
+1 FAMC @F20@
+0 @I42@ INDI
+1 NAME José /Freire Bicho/
+1 SEX M
+1 NOTE Blatt ~1894 Cabeça Redonda NICHT als Tatsache übernommen. Heirat
+2 CONT 28.10.1922 mit Margarida = Zivilakt Nr. 94 Cumeeira/Penela: das ist die
+2 CONT Ehe, nicht die Geburt des Opa. Bräutigam 1922: Suchfenster Geburten
+2 CONT 1857–1907 (15–65 Jahre). ~1894 nur Hypothese in diesem Fenster. Eltern
+2 CONT NICHT an António Freire Bicho × Maria Ignácia gehängt. Scan des Akts
+2 CONT 94 liegt nicht im Repository.
+1 NOTE Keine FAMC. Geburt und Abstammung offen.
+1 FAMS @F5@
+0 @I43@ INDI
+1 NAME Margarida
+1 SEX F
+1 NAME Margarida de /Jesus/
+1 BIRT
+2 DATE 27 JUN 1897
+2 PLAC Cabeça Redonda, São Sebastião da Cumeeira, Penela
+2 NOTE Taufe Nr. 21, 27.06.1897 (Geburt und Taufe am selben Tag). Blatt
+3 CONT *24.07.1897 Santa Eufémia nicht übernommen. PT/AUC/PAR/PNL01/002/0042.
+2 SOUR @S2@
+1 CHR
+2 DATE 27 JUN 1897
+2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
+2 SOUR @S2@
+1 DEAT
+2 DATE 29 NOV 1979
+2 PLAC Cumeeira
+2 NOTE Randvermerk, Zivilstandsakt Nr. 108. Blatt ~1979 ist die Richtung. Das
+3 CONT Jahr 1972 gehört zum Vermerk über die Eheauflösung durch Tod des Mannes
+3 CONT (Dezember 1972), nicht zu ihrem Tod.
+1 FAMS @F5@
+1 FAMC @F21@
+0 @I50@ INDI
+1 NAME Custodio /Teixeira/
+1 SEX M
+1 NAME Custódio /Teixeira/
+1 NOTE Sicher als Vater João 1879. Natürlich Figueira Podra (historisch
+2 CONT Figueiras Podres, heute Figueiras de S. João; ein Ort). Quellenform
+2 CONT Custodio. Eigene Taufe hier nicht belegt.
+1 FAMS @F12@
+1 FAMC @F22@
+0 @I51@ INDI
+1 NAME Joana de /Jesus/
+1 SEX F
+1 NOTE Sicher als Mutter João 1879. Natürlich Cabeça Redonda. Eigene Taufe hier
+2 CONT nicht belegt.
+1 FAMS @F12@
+1 FAMC @F23@
+0 @I52@ INDI
+1 NAME Luiz /Guiomar/
+1 SEX M
+1 NAME Luiz Dias /Guiomar/
+1 NOTE Sicher als Vater João 1874. Quellenform Luiz Guiomar. Natürlich
+2 CONT Bemposta, Pfarrei Alvorge. Dias steht 1874 beim Großvater Antonio Dias
+2 CONT Guiomar.
+1 FAMS @F13@
+1 FAMC @F24@
+0 @I53@ INDI
+1 NAME Delfina /Maria/
+1 SEX F
+1 NOTE Sicher als Mutter João 1874. Eigene Taufe hier nicht belegt. Unmerged
+2 CONT draft-PRs zu Lindos/Geni nicht übernommen.
+1 FAMS @F13@
+1 FAMC @F25@
+0 @I54@ INDI
+1 NAME Joaquim Rodrigues /Feio/
+1 SEX M
+1 NOTE Sicher als Vater Maria 1882. sapateiro, natürlich Estrada da Pragoza,
+2 CONT Pfarrei Torre.
+1 FAMS @F14@
+1 FAMC @F26@
+0 @I55@ INDI
+1 NAME Maria /Helena/
+1 SEX F
+1 NAME Maria Helena /Contente/
+1 NOTE Sicher als Mutter Maria 1882. Taufname der Mutter Maria Helena, nicht
+2 CONT Contente. Contente ist der Name ihres Vaters Jozé Contente (derselbe
+2 CONT Fehlertyp wie Narcisa Rodrigues Gato). Natürlich Valle do Pião.
+1 FAMS @F14@
+1 FAMC @F27@
+0 @I56@ INDI
+1 NAME Joze Mendes /Ferreira/
+1 SEX M
+1 NOTE Sicher als Vater Joze Maria 1880. Arbeiter, natürlich da Atanha, Pfarrei
+2 CONT Alvorge, dort getauft. Blatt-Pais de José Maria por confirmar ersetzt.
+1 FAMS @F15@
+1 FAMC @F28@
+0 @I57@ INDI
+1 NAME Anna
+1 SEX F
+1 NAME Anna da /Piedade/
+1 BIRT
+2 DATE 15 JUN 1845
+2 PLAC Valle de todos, Torre de Valle de Todos, Anciao
+2 NOTE Taufe 14.07.1845. Taufname Anna; da Piedade erst 1880 beim Sohn. Blatt
+3 CONT †1922 steht in dieser Taufe nicht und wird nicht geführt.
+3 CONT PT/ADLRA/PRQ/PANS08/001/0004 m0019.
+2 SOUR @S2@
+1 CHR
+2 DATE 14 JUL 1845
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos, Anciao
+2 SOUR @S2@
+1 FAMS @F15@
+1 FAMC @F29@
+0 @I58@ INDI
+1 NAME José Pedro /dos Reis/
+1 SEX M
+1 NAME Joze Pedro /dos Reis/
+1 BIRT
+2 DATE 24 NOV 1854
+2 PLAC Pragosa, Torre de Valle de Todos
+2 NOTE Taufe 19.12.1854. Quellenformen Pragosa/Fragosa nebeneinander.
+3 CONT PT/ADLRA/PRQ/PANS08/001/0004.
+2 SOUR @S2@
+1 CHR
+2 DATE 19 DEC 1854
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos
+2 SOUR @S2@
+1 DEAT
+2 DATE 2 OCT 1903
+2 PLAC linha divisoria Lagarteira / Torre de Vale de Todos
+2 NOTE Akt Nr. 10, 8 Uhr. Kaufmann, 49 Jahre (zur Geburt 48 Jahre 10 Monate).
+3 CONT Pião gehört zu Lagarteira. PT/ADLRA/PRQ/PANS08/003/0047.
+1 FAMS @F16@
+1 FAMC @F30@
+0 @I59@ INDI
+1 NAME Narciza
+1 SEX F
+1 NAME Narcisa da /Conceição/
+1 BIRT
+2 DATE 19 SEP 1856
+2 PLAC Torre, Torre de Valle de Todos, Anciao
+2 NOTE Taufe: Zeremonie 06.11.1856 nach Nottaufe zu Hause. Scan
+3 CONT (PANS08/001/0004 fol. 60v–61r) schreibt nascida aos dezenove dias de mez
+3 CONT de Setembro do dito anno. Die spätere Hypothese mez passado → Oktober
+3 CONT ist damit gegen den Wortlaut nicht haltbar. Blattform Narcisa Rodrigues
+3 CONT Gato nicht als Eigenname übernommen.
+2 SOUR @S2@
+1 CHR
+2 DATE 6 NOV 1856
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos, Anciao
+2 NOTE Nottaufe am Geburtstag; Ergänzung der Zeremonien 6.11.1856. Taufname
+3 CONT Narciza/Naviza (s/z in der Hand mehrdeutig).
+2 SOUR @S2@
+1 NOTE Am 02.10.1903 noch als Ehefrau genannt. Eigener Sterbeeintrag Torre
+2 CONT 1878–März 1911 nicht gefunden.
+1 FAMS @F16@
+1 FAMC @F31@
+0 @I60@ INDI
+1 NAME Anna de Jesus /Matta/
+1 SEX F
+1 NOTE Sicher als Mutter Manuel 1872; ledig, filho natural. Natürlich São Jorge
+2 CONT (Pfarrei Torre). Kein Vater-INDI.
+1 FAMS @F17@
+1 FAMC @F32@
+0 @I61@ INDI
+1 NAME Manuel Dias /Ramalho/
+1 SEX M
+1 NOTE Blattform Manuel Dias Ramalho. Dias bleibt Blattlesung. Kirche
+2 CONT 1838/1843/1871 schreibt Dias nicht — Fehlen getrennt, ohne Ursache.
+2 CONT Identität mit Manoel Ramalho der Heirat Feb. 1838 (21. oder 22.) und
+2 CONT den avós 1871 ist Kandidat, nicht bestätigter Vater Joaquinas.
+1 FAMS @F18@
+0 @I62@ INDI
+1 NAME Angelica Maria /Leal/
+1 SEX F
+1 NOTE Blattform Angelica Maria Leal. 1838 als filha de Manoel Leal
+2 CONT genannt (Kandidat dieselbe Frau wie avó 1871). Nicht bestätigte Mutter
+2 CONT Joaquinas — eine Generation zu hoch gegenüber der Heirat 1896.
+1 FAMS @F18@
+0 @I63@ INDI
+1 NAME José
+1 SEX M
+1 BIRT
+2 DATE ABT AUG 1896
+2 PLAC Pragoza, Torre de Valle de Todos
+2 NOTE Sterbeakt 05.11.1896: drei Monate alt, ehelicher Sohn José Pedro dos
+3 CONT Reis × Narciza da Conceição, Pragoza. PT/ADLRA/PRQ/PANS08/003/0040.
+2 SOUR @S2@
+1 DEAT
+2 DATE 5 NOV 1896
+2 PLAC Pragoza, Torre de Valle de Todos
+1 FAMC @F16@
+0 @I70@ INDI
+1 NAME António /Duarte/
+1 SEX M
+1 NOTE Sicher als Vater Manuel 1885 und in der Heirat 1907. Carrasqueiras.
+2 CONT Eigene Taufe nicht belegt.
+1 FAMS @F19@
+1 FAMC @F33@
+0 @I71@ INDI
+1 NAME Thereza /Freire/
+1 SEX F
+1 NOTE Sicher als Mutter Manuel 1885 und in der Heirat 1907. Zusatz Barreira
+2 CONT nur Kandidat, nicht übernommen.
+1 FAMS @F19@
+1 FAMC @F34@
+0 @I72@ INDI
+1 NAME António /Freire Bicho/
+1 SEX M
+1 BIRT
+2 DATE ABT 1851
+2 PLAC Figueiras Podres
+2 NOTE Blatt ~1851 Figueiras Podres. Als Vater Joaquinas 1886
+3 CONT kirchenbuchsicher; Jahr und eigene Taufe offen. Taufen schreiben
+3 CONT Figueira Podra. Ein Ort mit Figueiras de S. João.
+2 SOUR @S2@
+1 NOTE NICHT still mit Joaquim Freire Bicho oder mit José Freire Bicho
+2 CONT gleichgesetzt.
+1 FAMS @F20@
+1 FAMC @F35@
+0 @I73@ INDI
+1 NAME Maria /Ignácia/
+1 SEX F
+1 NOTE Sicher als Mutter Joaquinas 1886 und in der Heirat 1907. Cabeça Redonda.
+2 CONT NICHT mit Genoveva de Jesus zusammengeführt.
+1 FAMS @F20@
+1 FAMC @F37@
+0 @I74@ INDI
+1 NAME Joaquim /Freire Bicho/
+1 SEX M
+1 NOTE Sicher als Vater Margarida 1897. Natürlich Figueira Podra. Ob Bruder des
+2 CONT jüngeren António Freire Bicho (I72), bleibt Möglichkeit aus
+2 CONT namensgleichen Großelternpaaren, keine Identität. Deshalb eigenes
+2 CONT Elternpaar (I84×I85), nicht I82×I83.
+1 FAMS @F21@
+1 FAMC @F36@
+0 @I75@ INDI
+1 NAME Genoveva de /Jesus/
+1 SEX F
+1 NOTE Sicher als Mutter Margarida 1897. Natürlich Cabeça Redonda. Ob Schwester
+2 CONT der Maria Ignácia, bleibt Möglichkeit, keine Identität. Eigenes
+2 CONT Elternpaar I86×I87.
+1 FAMS @F21@
+1 FAMC @F38@
+0 @I80@ INDI
+1 NAME Jozé Simão /Teixeira/
+1 SEX M
+1 NOTE Väterlicher Großvater João 1879, Figueira Podra. Eigene Akte offen.
+1 FAMS @F22@
+0 @I81@ INDI
+1 NAME Maria /Forte/
+1 SEX F
+1 NOTE Väterliche Großmutter João 1879. Lesung Fonte möglich; Forte bleibt die
+2 CONT sicherere Form.
+1 FAMS @F22@
+0 @I82@ INDI
+1 NAME Joaquim de /Carvalho/
+1 SEX M
+1 NOTE Mütterlicher Großvater João 1879, Cabeça Redonda.
+1 FAMS @F23@
+0 @I83a@ INDI
+1 NAME Maria de /Jesus/
+1 SEX F
+1 NOTE Mütterliche Großmutter João 1879, Cabeça Redonda. Nicht mit anderen
+2 CONT Maria de Jesus zusammengeführt.
+1 FAMS @F23@
+0 @I84a@ INDI
+1 NAME Antonio Dias /Guiomar/
+1 SEX M
+1 NOTE Väterlicher Großvater João 1874.
+1 FAMS @F24@
+0 @I85a@ INDI
+1 NAME Joaquina /Maria/
+1 SEX F
+1 NOTE Väterliche Großmutter João 1874 (Frau des Antonio Dias Guiomar). Nicht
+2 CONT mit anderen Joaquina Maria zusammengeführt.
+1 FAMS @F24@
+0 @I86a@ INDI
+1 NAME José /Gregorio/
+1 SEX M
+1 NOTE Mütterlicher Großvater João 1874.
+1 FAMS @F25@
+0 @I87a@ INDI
+1 NAME Nazareth /Maria/
+1 SEX F
+1 NOTE Mütterliche Großmutter João 1874.
+1 FAMS @F25@
+0 @I88@ INDI
+1 NAME Nicolau Rodrigues /Feio/
+1 SEX M
+1 NOTE Väterlicher Großvater Maria 1882.
+1 FAMS @F26@
+0 @I89@ INDI
+1 NAME Maria de /Jesus/
+1 SEX F
+1 NOTE Väterliche Großmutter Maria 1882 (Frau des Nicolau Rodrigues Feio).
+2 CONT Eigene Person, nicht I83a.
+1 FAMS @F26@
+0 @I90@ INDI
+1 NAME Jozé /Contente/
+1 SEX M
+1 NOTE Mütterlicher Großvater Maria 1882. Nicht als Beiname der Tochter Maria
+2 CONT Helena rückprojiziert.
+1 FAMS @F27@
+0 @I91@ INDI
+1 NAME Helena /Maria/
+1 SEX F
+1 NOTE Mütterliche Großmutter Maria 1882.
+1 FAMS @F27@
+0 @I92@ INDI
+1 NAME João Mendes /Ferreira/
+1 SEX M
+1 NOTE Väterlicher Großvater Joze Maria 1880.
+1 FAMS @F28@
+0 @I93@ INDI
+1 NAME Maria /Ramos/
+1 SEX F
+1 NOTE Väterliche Großmutter Joze Maria 1880.
+1 FAMS @F28@
+0 @I94@ INDI
+1 NAME Manoel Dias /Barbeiro/
+1 SEX M
+1 NAME Manoel Diaz /Barbeiro/
+1 NOTE Vater der Anna 1845 (eine Hand Diaz) und mütterlicher Großvater Joze
+2 CONT Maria 1880.
+1 FAMS @F29@
+1 FAMC @F43@
+0 @I95@ INDI
+1 NAME Joaquina /Maria/
+1 SEX F
+1 NAME Joaquina Maria /Neta/
+1 NOTE Mutter der Anna 1845 (Joaquina Maria, Valle de todos). 1880 beim Enkel
+2 CONT Joaquina Maria Neta. Formen nebeneinander, nicht geglättet. Nicht mit
+2 CONT anderen Joaquina Maria zusammengeführt.
+1 FAMS @F29@
+1 FAMC @F44@
+0 @I96@ INDI
+1 NAME Manoel Pedro /dos Reis/
+1 SEX M
+1 NAME Manuel Pedro /dos Reis/
+1 NOTE Sicher als Vater José Pedro (Taufe 1854, Heirat 1878, Tod 1903) und
+2 CONT Ehemann Roza Maria (Heirat 23.03.1851). Pragosa/Fragosa. Frühere Lesung
+2 CONT Manuel Pedro Coelho in der Heirat 1878 bleibt als fragliche Lesung
+2 CONT dokumentiert, nicht als Fakt.
+1 FAMS @F30@
+1 FAMC @F39@
+0 @I97@ INDI
+1 NAME Roza /Maria/
+1 SEX F
+1 NAME Rosa /Maria/
+1 NAME Roza Maria da /Conceição/
+1 NOTE Sicher als Mutter José Pedro. Heirat 1851 Roza Maria; 1878 Rosa Maria;
+2 CONT 1903 Roza Maria da Conceição (nicht rückprojizieren). Pfarrei Alvorge
+2 CONT sicher. Lugar 1851 Valle paio, 1878 Vallejazede, 1903 Aljazede — Formen
+2 CONT getrennt. Ateanha nur Suchort, nicht Herkunft.
+1 FAMS @F30@
+1 FAMC @F40@
+0 @I98@ INDI
+1 NAME João Rodrigues /Gato/
+1 SEX M
+1 NAME João Roiz /Gato/
+1 NAME João /Gatto/
+1 NOTE Sicher als Vater Narciza und Ehemann Caetana (Heirat 16.11.1837, Taufe
+2 CONT Narciza 1856, Tod Caetana 1891). Quellenformen Roiz/Rodrigues/Alviz und
+2 CONT Gato/Gatto. Aus São Jorge (Kapelle/lugar in Vale de Todos).
+1 FAMS @F31@
+1 FAMC @F41@
+0 @I99@ INDI
+1 NAME Caetana /Maria/
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1815
+2 PLAC Torre, Torre de Valle de Todos
+2 NOTE Taufe 21.11.1815 im Alter von acht Tagen; Kalenderdatum nicht
+3 CONT ausgeschrieben, daher rechnerisch. Taufname Caetana, nicht Catarina.
+3 CONT PT/ADLRA/PRQ/PANS08/001/0003 m0020.
+2 SOUR @S2@
+1 CHR
+2 DATE 21 NOV 1815
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos
+2 SOUR @S2@
+1 DEAT
+2 DATE 14 FEB 1891
+2 PLAC Torre, Torre de Valle de Todos
+2 NOTE Akt Nr. 2, 3 Uhr. 73 Jahre (zur Taufe 1815 etwa zwei Jahre Abweichung;
+3 CONT Identität über Ehemann, Eltern, Ort eindeutig). Witwe des João Rodrigues
+3 CONT Gatto. PT/ADLRA/PRQ/PANS08/003/0035.
+1 FAMS @F31@
+1 FAMC @F42@
+0 @I100@ INDI
+1 NAME Antonio Rodrigues /Avelheiro/
+1 SEX M
+1 NOTE Mütterlicher Großvater Manuel 1872. Lesung Molheiro möglich.
+1 FAMS @F32@
+0 @I101@ INDI
+1 NAME Thereza de /Jesus/
+1 SEX F
+1 NOTE Mütterliche Großmutter Manuel 1872.
+1 FAMS @F32@
+0 @I110@ INDI
+1 NAME Manoel /Duarte/
+1 SEX M
+1 NOTE Vater des António Duarte, genannt in der Taufe Manuel 1885. Nicht mit
+2 CONT Manoel Duarte *1885 (I40) zusammengeführt.
+1 FAMS @F33@
+0 @I111@ INDI
+1 NAME Joaquina de /Jesus/
+1 SEX F
+1 NOTE Mutter des António Duarte, genannt 1885. Herkunft im Transkript Figueira
+2 CONT Podre / Figueiras Podres.
+1 FAMS @F33@
+0 @I112@ INDI
+1 NAME Manoel
+1 SEX M
+1 NOTE Vater der Thereza Freire, genannt in der Taufe Manuel 1885. Nachname
+2 CONT offen: Dias / Freire / Silva. duarte-freire-records/README.md liest
+2 CONT Silva; evidenz/G2-manuel-duarte.md lässt die Lesung offen. Kein Nachname
+2 CONT als Tatsache.
+1 FAMS @F34@
+0 @I113@ INDI
+1 NAME Maria /Freire/
+1 SEX F
+1 NOTE Mutter der Thereza Freire, genannt 1885.
+1 FAMS @F34@
+0 @I114@ INDI
+1 NAME António /Freire Bicho/
+1 SEX M
+1 NOTE Vater des António Freire Bicho (I72), genannt in der Taufe Joaquina
+2 CONT 1886, Figueira Podra. Nicht mit I72, I74 oder I42 zusammengeführt.
+1 FAMS @F35@
+0 @I115@ INDI
+1 NAME Maria de /Christo/
+1 SEX F
+1 NOTE Mutter des António Freire Bicho (I72), genannt 1886. Nicht mit Maria
+2 CONT Christo (I117) zusammengeführt.
+1 FAMS @F35@
+0 @I116@ INDI
+1 NAME António /Freire Bicho/
+1 SEX M
+1 NOTE Vater des Joaquim Freire Bicho (I74), genannt in der Taufe Margarida
+2 CONT 1897. Namensgleich mit I114; Identität nicht zusammengeführt (würde
+2 CONT Brüderschaft I72/I74 als Tatsache setzen).
+1 FAMS @F36@
+0 @I117@ INDI
+1 NAME Maria /Christo/
+1 SEX F
+1 NOTE Mutter des Joaquim Freire Bicho, genannt 1897; Lesung der Großmutter
+2 CONT blass. Nicht mit Maria de Christo (I115) zusammengeführt.
+1 FAMS @F36@
+0 @I118@ INDI
+1 NAME Manuel Francisco /Dias/
+1 SEX M
+1 NOTE Vater der Maria Ignácia, genannt in der Taufe Joaquina 1886, Cabeça
+2 CONT Redonda. Der Eintrag bezeichnet die Paten Manuel Francisco Dias ×
+2 CONT Joaquina Silvéria als die genannten Großeltern; Joaquina Maria /
+2 CONT Silvéria / Ignácia werden nicht zu einer Person.
+1 FAMS @F37@
+0 @I119@ INDI
+1 NAME Joaquina /Maria/
+1 SEX F
+1 NOTE Mutter der Maria Ignácia, genannt 1886. Nicht mit Joaquina Silvéria
+2 CONT (Patin) und nicht mit Joaquina Ignácia (I121) zusammengeführt.
+1 FAMS @F37@
+0 @I120@ INDI
+1 NAME Manoel Francisco /Dias/
+1 SEX M
+1 NOTE Vater der Genoveva de Jesus, genannt in der Taufe Margarida 1897.
+2 CONT Namensgleich mit I118; Identität nicht zusammengeführt.
+1 FAMS @F38@
+0 @I121@ INDI
+1 NAME Joaquina /Ignácia/
+1 SEX F
+1 NOTE Mutter der Genoveva, genannt 1897. NICHT die 1886 geborene Joaquina
+2 CONT (I41). Nicht mit Joaquina Maria (I119) zusammengeführt.
+1 FAMS @F38@
+0 @I130@ INDI
+1 NAME Manoel /Pedro/
+1 SEX M
+1 NOTE Vater des Manoel Pedro dos Reis, genannt 1851/1854, Pragosa. Nicht mit
+2 CONT dem Sohn I96 zusammengeführt.
+1 FAMS @F39@
+0 @I131@ INDI
+1 NAME Joaquina /Maria/
+1 SEX F
+1 NOTE Mutter des Manoel Pedro dos Reis, Pragosa. Eigene Person.
+1 FAMS @F39@
+0 @I132@ INDI
+1 NAME Joaquim
+1 SEX M
+1 NOTE Vater der Roza Maria, Pfarrei Alvorge. Nachname offen: Heirat 1851 liest
+2 CONT Joaquim Duarte; Taufzeile José Pedro 1854 beginnt Joaquim Fre… Nicht
+2 CONT geglättet, kein Duarte als Tatsache.
+1 FAMS @F40@
+0 @I133@ INDI
+1 NAME Florencia /Maria/
+1 SEX F
+1 NOTE Mutter der Roza Maria, Alvorge. Vorname sicher.
+1 FAMS @F40@
+0 @I134@ INDI
+1 NAME Jose Rodrigues /Gatto/
+1 SEX M
+1 NAME Jozé /Gato/
+1 NOTE Vater des João Rodrigues Gato. Narcizas Taufe 1856 (Scan fol. 61r): neta
+2 CONT paterna de Jose Rodrigues Gatto e de Margarida Thereza do lugar de São
+2 CONT Jorge. Heirat 1837: João Gato filho de Jozé Gato e Margarida Thereza.
+2 CONT Beide Quellen nennen José, nicht João. Eine ältere Notiz, die Taufe
+2 CONT nenne den Großvater João, war eine Verwechslung mit dem Vater.
+1 FAMS @F41@
+0 @I135@ INDI
+1 NAME Margarida /Thereza/
+1 SEX F
+1 NAME Margarida /Theresa/
+1 NOTE Mutter des João Rodrigues Gato, São Jorge. 1837 und 1856.
+1 FAMS @F41@
+0 @I136@ INDI
+1 NAME Manoel Joaquim /Sol/
+1 SEX M
+1 NAME Manoel /Sol/
+1 NOTE Vater der Caetana. Taufe 1815 verkürzt Manoel Sol; Heirat 1837 und Tod
+2 CONT 1891 Manoel Joaquim Sol, 1837 bereits verstorben. Nicht mit Roza/Alvorge
+2 CONT vermischen.
+1 FAMS @F42@
+1 FAMC @F46@
+0 @I137@ INDI
+1 NAME Maria /Joaquina/
+1 SEX F
+1 NOTE Mutter der Caetana. Nicht identisch mit Maria Joaquina × Antonio Simões
+2 CONT (Castello 10.02.1774, ausgeschlossen) und nicht mit Theodora Maria 1781.
+1 FAMS @F42@
+1 FAMC @F45@
+0 @I138@ INDI
+1 NAME João Dias /Barbeiro/
+1 SEX M
+1 NOTE Väterlicher Großvater Anna 1845, lugar da Pragoza.
+1 FAMS @F43@
+0 @I139@ INDI
+1 NAME Maria /Thereza/
+1 SEX F
+1 NOTE Väterliche Großmutter Anna 1845, Pragoza.
+1 FAMS @F43@
+0 @I140@ INDI
+1 NAME João Dias da /Quelha/
+1 SEX M
+1 NOTE Mütterlicher Großvater Anna 1845, Valle de todos. Lesungen Guelha /
+2 CONT Guelle möglich.
+1 FAMS @F44@
+0 @I141@ INDI
+1 NAME Maria /Joaquina/
+1 SEX F
+1 NOTE Mütterliche Großmutter Anna 1845, Valle de todos. Nicht I137.
+1 FAMS @F44@
+0 @I142@ INDI
+1 NAME Alexandre /Manoel/
+1 SEX M
+1 NOTE Mütterlicher Großvater der Caetana (Taufe 1815), mit Joaquina da
+2 CONT Affonseca, Vila de Avelar — sicher als genanntes Großelternpaar. Heirat
+2 CONT Alexandre × Joaquina Maria, Castello, wahrscheinlich 07.02.1774 (Avelar
+2 CONT m0013, oberer Eintrag) ist nur Kandidat; Datum nicht als MARR-Tatsache.
+2 CONT Nicht Alexandre Manoel Furtado × Marianna da Affonseca (Eltern Theodora
+2 CONT 1781).
+1 FAMS @F45@
+0 @I143@ INDI
+1 NAME Joaquina da /Affonseca/
+1 SEX F
+1 NOTE Mütterliche Großmutter der Caetana, Vila de Avelar. Affonseca/Furtado
+2 CONT aus dem Avelar-Heiratsrand 1774 nicht als Tatsache übernommen (steht
+2 CONT dort nicht).
+1 FAMS @F45@
+0 @I144@ INDI
+1 NAME João Mendes /Sol/
+1 SEX M
+1 NOTE Väterlicher Großvater der Caetana, Torre. Die ältere Notiz, Alexandre
+2 CONT Manoel sei väterlicher Großvater, war falsch.
+1 FAMS @F46@
+0 @I145@ INDI
+1 NAME Anna /Maria/
+1 SEX F
+1 NOTE Väterliche Großmutter der Caetana, Torre.
+1 FAMS @F46@
+0 @F1@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I1@
+1 CHIL @I2@
+1 MARR
+2 DATE 28 JUL 1979
+2 PLAC Igreja Nossa Senhora da Graça
+2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+3 CONT Zivilakt dieses Ereignisses geprüft.
+1 NOTE Verbindung der zwei Linien (ramo paterno Duarte / ramo materno Torre)
+2 CONT erst in dieser Generation. Nicht an die Duarte-Urgroßeltern gehängt.
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I3@
+1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+2 CONT Zivilakt dieses Ereignisses geprüft.
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I4@
+1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+2 CONT Zivilakt dieses Ereignisses geprüft.
+0 @F4@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I5@
+1 MARR
+2 DATE 13 NOV 1907
+2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
+2 NOTE Akt Nr. 9. Beide 21, ledig, Landwirtschaft. PT/AUC/PAR/PNL01/003/0051.
+3 CONT Kind José Duarte (I5) nur Blatt, nicht im Kirchenbuch dieser Heirat.
+1 NOTE Heirat kirchenbuchsicher. Kindschaft José Duarte nur Blatt (Blatt
+2 CONT ~1926; Auftraggeber: Opa um 1922; kein Zivilakt, nicht glätten).
+0 @F5@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I6@
+1 MARR
+2 DATE 28 OCT 1922
+2 PLAC Cumeeira, Penela
+2 NOTE Randvermerk an Margaridas Taufe: Zivilakt Nr. 94. Das ist die Heirat,
+3 CONT nicht die Geburt des Opa (Auftraggeber: Opa um 1922). Eltern des
+3 CONT Bräutigams im Vermerk nicht genannt. Kindschaft Maria Freire de Jesus
+3 CONT nur Blatt.
+1 NOTE José Freire Bicho hat keine FAMC.
+0 @F6@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I7@
+1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+2 CONT Zivilakt dieses Ereignisses geprüft. Kindschaft Fernando nur
+2 CONT Blatt/Zivilstand.
+0 @F7@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I8@
+1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
+2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
+2 CONT Zivilakt dieses Ereignisses geprüft. Kindschaft Iolinda nur
+2 CONT Blatt/Zivilstand.
+0 @F8@ FAM
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I20@
+1 NOTE João Teixeira kirchenbuchsicher; Ehe mit Maria José dos Santos und Kind
+2 CONT Manuel *1913 nur Blatt. Maria José ohne FAMC.
+0 @F9@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I21@
+1 MARR
+2 NOTE Randvermerke: Heirat João mit Maria Helena aus Lagarteira bzw. Maria mit
+3 CONT João Dias Guiomar aus Torre. Tagesdatum nicht als einzige Form (Lesungen
+3 CONT 1907 und 1909) — deshalb kein MARR-Datum.
+1 NOTE Beide Personen kirchenbuchsicher. Kind Maria Emília *1915 nur Blatt.
+0 @F10@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I22@
+1 MARR
+2 NOTE Randvermerk an der Taufe Maria da Piedade nennt den Ehemann Joze Maria
+3 CONT da Ascenção. Kein einziges Heiratsdatum übernommen.
+1 NOTE Beide Personen kirchenbuchsicher. Kind José Mendes *1914 nur Blatt.
+0 @F11@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I23@
+1 MARR
+2 DATE 21 AUG 1896
+2 PLAC Torre de Valle de Todos, Anciao
+2 NOTE Kirche Torre N.º 2, PT/ADLRA/PRQ/PANS08/002/0038 m0003. Randvermerk
+3 CONT an Manuel 1872 las 1904/1926 — Kirche geht vor. Zivil Palmira 1912
+3 CONT schreibt abweichend 26.08.1897. Identität der Braut mit der Joaquina
+3 CONT des Blatts *15.06.1873 und der Mutter Palmiras bleibt Gegenlese.
+1 NOTE Kind Palmira *1912 Blatt/Zivil 08; Foto 08 in diesem Lauf nicht
+2 CONT erneut visuell geprüft. Keine bestätigte Elternkante der Frau.
+0 @F12@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I30@
+1 NOTE Eltern João Teixeira, Taufe 1879.
+0 @F13@ FAM
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I32@
+1 NOTE Eltern João Guiomar, Taufe 1874.
+0 @F14@ FAM
+1 HUSB @I54@
+1 WIFE @I55@
+1 CHIL @I33@
+1 NOTE Eltern Maria 1882, Taufe Lagarteira.
+0 @F15@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I34@
+1 NOTE Eltern Joze Maria da Ascenção, Taufe 1880.
+0 @F16@ FAM
+1 HUSB @I58@
+1 WIFE @I59@
+1 CHIL @I35@
+1 CHIL @I63@
+1 MARR
+2 DATE 8 MAY 1878
+2 PLAC Torre de Valle de Todos, Anciao
+2 NOTE Akt Nr. 9. PT/ADLRA/PRQ/PANS08/002/0022 m0006. Kind Maria da Piedade
+3 CONT *15.09.1878 ausdrücklich ehelich (vier Monate nach der Heirat).
+0 @F17@ FAM
+1 WIFE @I60@
+1 CHIL @I36@
+1 NOTE Ein-Eltern-Familie: Manuel 1872 filho natural. Kein HUSB. Kein
+2 CONT unbekannter Vater als INDI.
+0 @F18@ FAM
+1 HUSB @I61@
+1 WIFE @I62@
+1 NOTE Blattpaar Manuel Dias Ramalho × Angelica Maria Leal. Nicht als
+2 CONT Eltern Joaquinas gesetzt (kein Kind I37). Heirat Feb. 1838 Torre
+2 CONT (Lesungen 21. oder 22.) und avós 1871 sind Kandidat dieselbe
+2 CONT Generation, eine Stufe über José dos Reis × Maria Ramalha. F18 nicht
+2 CONT wiederherstellen als Elternfamilie der Joaquina.
+0 @F19@ FAM
+1 HUSB @I70@
+1 WIFE @I71@
+1 CHIL @I40@
+1 NOTE Eltern Manuel Duarte, Taufe 1885 und Heirat 1907.
+0 @F20@ FAM
+1 HUSB @I72@
+1 WIFE @I73@
+1 CHIL @I41@
+1 NOTE Eltern Joaquina 1886 und Heirat 1907. José Freire Bicho (I42) ist hier
+2 CONT NICHT Kind.
+0 @F21@ FAM
+1 HUSB @I74@
+1 WIFE @I75@
+1 CHIL @I43@
+1 NOTE Eltern Margarida 1897. José Freire Bicho ist hier NICHT Kind.
+0 @F22@ FAM
+1 HUSB @I80@
+1 WIFE @I81@
+1 CHIL @I50@
+1 NOTE Großeltern väterlich João Teixeira 1879.
+0 @F23@ FAM
+1 HUSB @I82@
+1 WIFE @I83a@
+1 CHIL @I51@
+0 @F24@ FAM
+1 HUSB @I84a@
+1 WIFE @I85a@
+1 CHIL @I52@
+0 @F25@ FAM
+1 HUSB @I86a@
+1 WIFE @I87a@
+1 CHIL @I53@
+0 @F26@ FAM
+1 HUSB @I88@
+1 WIFE @I89@
+1 CHIL @I54@
+0 @F27@ FAM
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I55@
+0 @F28@ FAM
+1 HUSB @I92@
+1 WIFE @I93@
+1 CHIL @I56@
+0 @F29@ FAM
+1 HUSB @I94@
+1 WIFE @I95@
+1 CHIL @I57@
+1 NOTE Eltern Anna 1845; 1880 als Großeltern Joze Maria genannt.
+0 @F30@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 CHIL @I58@
+1 MARR
+2 DATE 23 MAR 1851
+2 PLAC Nossa Senhora da Graça da Torre de Valle de Todos
+2 NOTE Nachtrag auf Folio mit Vermerk gehörte auf fl. 70.
+3 CONT PT/ADLRA/PRQ/PANS08/002/0003 m0080. 4. Grad paterno der Torre-Linie,
+3 CONT nicht Gato.
+0 @F31@ FAM
+1 HUSB @I98@
+1 WIFE @I99@
+1 CHIL @I59@
+1 MARR
+2 DATE 16 NOV 1837
+2 PLAC Torre de Valle de Todos
+2 NOTE João Roiz Gato × Caetana Maria. PT/ADLRA/PRQ/PANS08/002/0003 m0053. 4.
+3 CONT Grad materno der Torre-Linie, nicht Reis.
+0 @F32@ FAM
+1 HUSB @I100@
+1 WIFE @I101@
+1 CHIL @I60@
+0 @F33@ FAM
+1 HUSB @I110@
+1 WIFE @I111@
+1 CHIL @I70@
+1 NOTE Großeltern väterlich Manuel 1885. Blatt-Pais de António por confirmar
+2 CONT ersetzt.
+0 @F34@ FAM
+1 HUSB @I112@
+1 WIFE @I113@
+1 CHIL @I71@
+1 NOTE Großeltern mütterlich Manuel 1885. Vater-Nachname offen.
+0 @F35@ FAM
+1 HUSB @I114@
+1 WIFE @I115@
+1 CHIL @I72@
+1 NOTE Großeltern väterlich Joaquina 1886. Nicht mit F36 zusammengeführt.
+0 @F36@ FAM
+1 HUSB @I116@
+1 WIFE @I117@
+1 CHIL @I74@
+1 NOTE Großeltern väterlich Margarida 1897. Namensgleich F35, nicht mergend.
+0 @F37@ FAM
+1 HUSB @I118@
+1 WIFE @I119@
+1 CHIL @I73@
+1 NOTE Großeltern mütterlich Joaquina 1886. Nicht mit F38 zusammengeführt.
+0 @F38@ FAM
+1 HUSB @I120@
+1 WIFE @I121@
+1 CHIL @I75@
+1 NOTE Großeltern mütterlich Margarida 1897. Namensgleich F37, nicht mergend.
+0 @F39@ FAM
+1 HUSB @I130@
+1 WIFE @I131@
+1 CHIL @I96@
+1 NOTE Eltern Manoel Pedro dos Reis, Pragosa.
+0 @F40@ FAM
+1 HUSB @I132@
+1 WIFE @I133@
+1 CHIL @I97@
+1 NOTE Eltern Roza Maria, Alvorge. Nachname des Vaters offen.
+0 @F41@ FAM
+1 HUSB @I134@
+1 WIFE @I135@
+1 CHIL @I98@
+1 NOTE Eltern João Rodrigues Gato. Vater José, nicht João.
+0 @F42@ FAM
+1 HUSB @I136@
+1 WIFE @I137@
+1 CHIL @I99@
+1 NOTE Eltern Caetana Maria.
+0 @F43@ FAM
+1 HUSB @I138@
+1 WIFE @I139@
+1 CHIL @I94@
+0 @F44@ FAM
+1 HUSB @I140@
+1 WIFE @I141@
+1 CHIL @I95@
+0 @F45@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+1 CHIL @I137@
+1 NOTE Großeltern mütterlich Caetana 1815. Heirat 1774 nur Kandidat, kein
+2 CONT MARR-Datum.
+0 @F46@ FAM
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I136@
+1 NOTE Großeltern väterlich Caetana 1815.
+0 TRLR

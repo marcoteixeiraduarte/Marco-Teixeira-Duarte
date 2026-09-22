@@ -3,6 +3,8 @@
 Punkt 4. Sie ist **nicht** unsere Maria Joaquina, Frau des Manoel Sol.
 
 Auf derselben Seite stehen **zwei** Heiraten. Früher wurden sie vermischt.
+`Castello` am Rand ist hier die **Pfarrei Avelar**, nicht Castello von
+Vale de Todos (dort liegt Barreira gleich daneben, Auftraggeber).
 
 ## Eintrag A — nicht Punkt 4, nur Abgrenzung
 

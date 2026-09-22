@@ -5,9 +5,11 @@ höchste öffentlich verfügbare Ableitung (DigitArq `dissemination`
 bzw. AUC `storageobject` / ZIP). Keine Hochskalierung, keine
 Nachzeichnung.
 
-Die Aktenordner (`*-records/`) behalten dieselben Bytes. Hier liegen
-dieselben Bilder unter sprechenden Namen, damit du sie der Reihe nach
-öffnen kannst.
+Die Aktenordner ([`akten/`](../akten/README.md)) behalten dieselben Bytes.
+Hier liegen dieselben Bilder unter sprechenden Namen, damit du sie der
+Reihe nach öffnen kannst.
+
+**Welcher Name in welchem Ordner:** [`NAMEN.md`](NAMEN.md).
 
 DigitArq-Dateien sind meist schon eine **Doppelseite**. Folgeseite nur
 dort, wo der Eintrag über die Bildgrenze läuft.
@@ -20,9 +22,10 @@ dort, wo der Eintrag über die Bildgrenze läuft.
 | AUC, Bände 1879 / 1885 (Digitalisierung 2011) | ca. **1400×1000** JPEG | das **ist** die AUC-Dissemination; ZIP des ganzen Bandes enthält dieselben Dateien |
 | DigitArq / ADLRA | **1500** oder **2048** px Höhe | `/rdigital/files/{id}` (Original) ist 401; ohne Login nicht höher |
 
-João 1879 `m0016` (Patenzeile Sarrazina / São Cosme) und Manuel Duarte
-1885 bleiben deshalb klein. Eine schärfere öffentliche Kopie dieser
-beiden AUC-Bände gibt es derzeit nicht.
+João 1879 `m0016` (Patenzeile **gelesen:** Carrasqueiras / Chão de Couce;
+Vater Figueiras Podres; Joana Cabeça Redonda) und Manuel Duarte 1885
+bleiben deshalb klein. Eine schärfere öffentliche Kopie dieser beiden
+AUC-Bände gibt es derzeit nicht.
 
 ## Zuerst gegenlesen
 
@@ -31,8 +34,6 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 | Datei | Was klären |
 | --- | --- |
-| [teixeira/1879-baptismo-joao-…_m0016.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0016.jpg) | Patenort `Sarrazina` / Pfarrei São Cosme; Wortende `Figueira Podra` / `Podres` |
-| [teixeira/1879-baptismo-joao-…_m0015.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0015.jpg) | Beginn Nr. 42, Eltern, Cabeça Redonda |
 | [matta/1872-baptismo-manuel-…_m0007.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0007.jpg) | Großvater `Avelheiro` oder `Molheiro` |
 | [narcisa/1856-…_page_0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_page_0070.jpg) und […_m0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_m0070.jpg) | **zwei verschiedene Dateien** gleicher Pixelgröße; welche ist Narcizas Taufe (fol. 60v–61r)? |
 
@@ -61,6 +62,9 @@ Leer lassen, bis du sie selbst gelesen hast.
 | --- | --- | --- |
 | [1874-baptismo-joao-PANS08-001-0019_m0007.jpg](guiomar/1874-baptismo-joao-PANS08-001-0019_m0007.jpg) | 1985×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/0891824574de4cadb67f50b56c8b0066) |
 | [1882-baptismo-maria-PANS05-001-0027_m0003.jpg](guiomar/1882-baptismo-maria-PANS05-001-0027_m0003.jpg) | 2695×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/2c7b220442234ab791fe60ff866e08f2) |
+| [1853-baptismo-joaquim-feio-PANS08-001-0004_m0050.jpg](guiomar/1853-baptismo-joaquim-feio-PANS08-001-0004_m0050.jpg) | 2519×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7) |
+| [1824-baptismo-theresa-carvalhinho-PANS08-001-0003_m0061.jpg](guiomar/1824-baptismo-theresa-carvalhinho-PANS08-001-0003_m0061.jpg) | 2489×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/6aa3bacfa07046a4b8d3fd47d1198480) |
+| [1775-baptismo-melchior-neto-PANS08-001-0002_m0070.jpg](guiomar/1775-baptismo-melchior-neto-PANS08-001-0002_m0070.jpg) | 1958×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/bdbd6125d6614dd986d2fb2ed5263b33) |
 
 ### Matta
 
@@ -68,6 +72,13 @@ Leer lassen, bis du sie selbst gelesen hast.
 | --- | --- | --- |
 | [1872-baptismo-manuel-PANS08-001-0017_m0007.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0007.jpg) | 1950×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/b03dbf2707414bd0b03f5d6d78f62181) |
 | [1872-baptismo-manuel-PANS08-001-0017_m0008.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0008.jpg) | 1965×1500 | dasselbe |
+| [1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg](matta/1896-casamento-manuel-matta-joaquina-ramalha-PANS08-002-0038_m0003.jpg) | 2835×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/70ca5cac730e44caade08834c666a216) |
+| [1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg](matta/1897-baptismo-palmyra-PANS08-001-0042_m0005.jpg) | 2849×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/ad48126d688e437ba1066763c3e62015) |
+| [1898-baptismo-casimiro-PANS08-001-0043_m0019.jpg](matta/1898-baptismo-casimiro-PANS08-001-0043_m0019.jpg) | 1051×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/adb7b416da074065a00f91770bf8bc79) |
+| [1841-pate-manuel-ramalho-ateanha-PANS01-001-0004_m0146.jpg](matta/1841-pate-manuel-ramalho-ateanha-PANS01-001-0004_m0146.jpg) | 2280×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/4b820d7bb81e4910a88430792e576518) |
+| [1838-casamento-manoel-ramalho-angelica-PANS08-002-0003_m0054.jpg](matta/1838-casamento-manoel-ramalho-angelica-PANS08-002-0003_m0054.jpg) | 2444×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9) |
+| [1843-baptismo-jose-ramalho-rua-alom-PANS08-001-0004_m0009.jpg](matta/1843-baptismo-jose-ramalho-rua-alom-PANS08-001-0004_m0009.jpg) | 2519×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7) |
+| [1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg](matta/1871-baptismo-sebastiao-pragoza-PANS08-001-0016_m0005.jpg) | 1984×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/1728f8a2d54c411fa0065d1eb8c9fa6a) |
 
 ### Joze Maria / Anna
 
@@ -96,9 +107,10 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 Zehn Kamerabilder **5712×4284** in
 [conservatoria-ansiao/](conservatoria-ansiao/README.md).
-Noch **nicht** festgelesen: automatische Lesungen widersprechen sich,
-OCR versagt. Namen und Daten aus diesen Fotos stehen deshalb nicht
-im Stammbaum.
+Gelesen: `01` (Manuel 1913), `03`/`02` (Heirat 1937 Teixeira×Guiomar),
+`04` (Maria Emília 1915), `06`/`05` (Heirat 1937 Mendes×Palmira),
+`07` (Tod João Guiomar 1958), `08`/`09` (Palmira 1912).
+Keine Ausweisnummern aus diesen Fotos übernehmen.
 
 ## Nicht in diesem Archiv
 

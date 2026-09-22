@@ -10,7 +10,7 @@ Eigene Taufen dieser Generation sind hier noch nicht belegt.
 | António Duarte | Carrasqueiras | sicher als Vater |
 | Thereza Freire | Carrasqueiras | sicher als Mutter |
 | Manoel Duarte | Vater des António | sicher genannt |
-| Joaquina de Jesus | Figueiras Podres / Figueira Podre | sicher genannt |
+| Joaquina de Jesus | Figueiras Podres | sicher genannt |
 | Manoel [Dias?] | Vater der Thereza | offen, Nachname unsicher |
 | Maria Freire | Carrasqueiras | sicher genannt |
 

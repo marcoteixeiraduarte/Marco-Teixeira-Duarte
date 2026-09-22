@@ -17,11 +17,11 @@
 
 Scan 1, Beginn:
 
-`duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0015.jpg`
+`akten/duarte-freire/manuel-duarte/1907-casamento-PT-AUC-PAR-PNL01-003-0051_m0015.jpg`
 
 Scan 2, Schluss und Unterschriften:
 
-`duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0016.jpg`
+`akten/duarte-freire/manuel-duarte/1907-casamento-PT-AUC-PAR-PNL01-003-0051_m0016.jpg`
 
 Archiv: `PT/AUC/PAR/PNL01/003/0051`  
 [AUC](https://pesquisa.auc.uc.pt/details?id=48550)
