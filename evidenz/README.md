@@ -36,6 +36,11 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `quellenregister.md` — alle versionierten Scans
+- [`VORLAGE.md`](VORLAGE.md) — leeres Blatt für den nächsten Fund
+- [`suchen.md`](suchen.md) — durchsuchte Fenster, auch Nulltreffer
+
+Methode: [`regeln/02-evidenz.md`](../regeln/02-evidenz.md).
+Was nie hierher kommt: [`regeln/04-privat.md`](../regeln/04-privat.md).
 
 ## Regel für neue Funde
 

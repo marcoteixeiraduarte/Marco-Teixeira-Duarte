@@ -1,0 +1,41 @@
+name: Aufgabe
+description: Nächste Suche oder Korrektur. Chat und Cloud lesen das Issue.
+title: "[Aufgabe] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Der Agent startet über `AGENTS.md` und `STAND.md`.
+        Kurz reicht. Ziel und «nicht tun» müssen klar sein.
+  - type: textarea
+    id: ziel
+    attributes:
+      label: Ziel
+      description: Was soll festliegen, wenn die Aufgabe fertig ist?
+      placeholder: z. B. Taufe Roza Maria in Alvorge 1808–1852 als Blatt oder als Nulltreffer in suchen.md
+    validations:
+      required: true
+  - type: dropdown
+    id: linie
+    attributes:
+      label: Linie
+      options:
+        - ramo paterno (Duarte / Freire Bicho)
+        - ramo materno (Torre / Reis / Teixeira)
+        - Ort / Register
+        - Regel / Ablage
+        - weiss nicht
+    validations:
+      required: true
+  - type: textarea
+    id: nicht
+    attributes:
+      label: Nicht tun
+      description: Was schon festliegt oder nicht noch einmal gesucht werden soll.
+      placeholder: z. B. nicht in Cumeeira nach der Heirat 1922 suchen
+  - type: input
+    id: band
+    attributes:
+      label: Band oder Portal
+      placeholder: z. B. PT/AUC/RCV/PNL Casamentos 1922

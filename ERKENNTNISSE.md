@@ -4,6 +4,11 @@ Stand aus `master` (PR #2–#4), Archiv/Quellenformen (PR #6),
 Evidenz-Ledger (PR #7) und Avelar-Gegenlese (PR #5).
 Schreibweisen bleiben quellengetreu. Linien werden nicht vermischt.
 
+Agenten starten über [`AGENTS.md`](AGENTS.md). Handoff:
+[`STAND.md`](STAND.md). Quellenregeln:
+[`regeln/01-quellen.md`](regeln/01-quellen.md). Suchfenster:
+[`evidenz/suchen.md`](evidenz/suchen.md).
+
 ## Gewissheit
 
 | Stufe | Bedeutung |

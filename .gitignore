@@ -106,3 +106,7 @@ alvorge-records/
 !evidenz/scans/
 !evidenz/scans/**
 !evidenz/scans/**/*.jpg
+
+# Nur lokal. Keine Ausweise, NIF, Adressen, Fotos von Lebenden.
+00_Arbeitsordner/
+**/Privat_Identidade_Offline/
