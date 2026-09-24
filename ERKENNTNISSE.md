@@ -97,7 +97,22 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Maria (1882) | * 25.2.1882 Valle do Pião (Lagarteira/LAR); Eltern Joaquim Rodrigues Feio × Maria Helena | sicher | guiomar |
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira | sicher | jose-maria |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
-| Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta | sicher | [matta](matta-records/README.md) |
+| Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; Großvater **Antonio Rodrigues Avelheiro** | sicher | [matta](matta-records/README.md) |
+| Manuel † | Blatt `15.02.1946` mischt Heirats-Averbação 14.07.1946 n.º 126 mit Todestag 15. Februar (Jahr nicht daneben; Averbação 16.07.1958 n.º 93) | Ränder sicher getrennt; Sterbejahr offen | matta + [G2-palmira](evidenz/linie-torre/G2-palmira-reis-1912.md) |
+
+### Bisavós — Conservatória Ansião (Fotos 01–09, 24.09.2026)
+
+| Person | Fakt | Gewissheit | Blatt |
+| --- | --- | --- | --- |
+| Manuel Teixeira | * 10.09.1913 Ribeira de Ansião N.º 215; Eltern João Teixeira × Maria José dos Santos; GP Custodio×Joana und Manuel dos Santos×Maria Thereza | sicher | [G2-manuel-teixeira-1913](evidenz/linie-torre/G2-manuel-teixeira-1913.md) |
+| Maria José dos Santos | 1913: 25 Jahre, natürlich Ansião; Eltern Manuel dos Santos × Maria Thereza | sicher als Mutter/Großeltern 1913; eigene Taufe offen | dasselbe |
+| Maria Emilia Guiomar | * 21.08.1915 Vale de Todos N.º 22; GP Luiz Dias Guiomar × Delfina Alegria und Joaquim Rodrigues Feio × Maria Helena; Randtod **26.04.1983** Santo António dos Olivais | sicher (Geburt + Randtod); Blatt `22.04.1973` nicht dieser Rand | [G2-maria-emilia-1915](evidenz/linie-torre/G2-maria-emilia-1915.md) |
+| Heirat Teixeira × Guiomar | Akt **26.08.1937** N.º 18; Geburtsränder **25.08.1937** | sicher (Akt); Rand weicht | [G2-casamento-1937-teixeira](evidenz/linie-torre/G2-casamento-1937-teixeira.md) |
+| Palmira Reis | * 24.04.1912 Pragoza N.º 69; Eltern Manuel d Matta × Joaquina Reis; GP Anna de Jesus Matta + avô incógnito und José Reis × Maria Ramalho; † 16.12.1999 Torre | sicher | [G2-palmira-reis-1912](evidenz/linie-torre/G2-palmira-reis-1912.md) |
+| Joaquina Reis | auf 1912/1937 **Joaquina Reis**; Eltern dort José Reis × Maria Ramalho. Blatt Manuel Dias Ramalho × Angelica Maria Leal **nicht** auf diesen Akten | sicher als Quellenform; kein Merge | dasselbe + [G2-casamento-1937-ascensao](evidenz/linie-torre/G2-casamento-1937-ascensao.md) |
+| Heirat Ascensão × Reis | 16.04.1937 N.º 11, `Pragosa`; Mann † 15.11.1996 | wahrscheinlich (Tageswort) / sicher (Personen) | G2-casamento-1937-ascensao |
+| João Dias Guiomar † | 08.01.1958 Vale de Todos N.º 7; Eltern Luiz Dias Guiomar × Delfina Maria | sicher | [G2-obito-joao-guiomar-1958](evidenz/linie-torre/G2-obito-joao-guiomar-1958.md) |
+| José Mendes Geburt | Assento 320/1914 | offen, nicht im Fotosatz | — |
 
 ### Avelar – abgegrenzt
 
@@ -124,6 +139,10 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
 11. 4.º-avós-Platzhalter Duarte/Freire durch die Großeltern der Cumeeira-Taufen ersetzen
+12. Maria Emilia † **26.04.1983** Santo António dos Olivais — nicht `22.04.1973`
+13. Joaquina 1912/1937: `Joaquina Reis`; Eltern `José Reis × Maria Ramalho` — nicht mit Ramalho/Leal mergen
+14. Manuel Matta: `Avelheiro`; Blatt-`† 15.02.1946` nicht als Sterbejahr
+15. Narciza-Scan: nur `page_0070` (Folio 61 / 1856); `m0070` ist Folio 69 / 1859
 
 ---
 
@@ -162,7 +181,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | Priorität | Aufgabe |
 | --- | --- |
 | 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
-| 2 | Conservatória Ansião: zehn Fotos in [`archiv/conservatoria-ansiao/`](archiv/conservatoria-ansiao/README.md) händisch lesen (bisavós *1912–1915) |
+| 2 | Conservatória: Geburt José Mendes **320/1914**; Sterbeakte Manuel (Angónia) und Maria Emilia 1983. Fotos 01–09 nicht erneut lesen |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
 | 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
@@ -206,7 +225,8 @@ bekannte Namen suchen.
 | `master` PR #3 | Duarte / Freire Bicho Cumeeira; Reis-Eltern 1851 |
 | `master` PR #4 | Belegstärken, José Freire Bicho, Ortsformen |
 | Draft PR #5 | Avelar m0013: zwei Heiraten getrennt |
-| Draft PR #6 | `archiv/`, Ortsregister, Teixeira/Guiomar/Matta/Ascenção, Stammbaumblatt |
+| Draft PR #6 | `archiv/`, Ortsregister, Teixeira/Guiomar/Matta/Ascenção, Stammbaumblatt — **gemergt** |
 | Draft PR #7 | `evidenz/` inkl. G4-paterno-reis, Taufe José Pedro 1854, Alvorge/Ateanha; Theodora und Simões abgegrenzt |
+| dieser Branch | Gegenlese 24.09.2026: Conservatória 01–09 + João 1879 + Manuel 1872 + Narciza page_0070 |
 
 Lebende und avós bleiben beim Auftraggeber und stehen nicht in dieser Prüfung.

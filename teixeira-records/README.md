@@ -16,25 +16,25 @@ Coimbra. Schreibweisen folgen dem Eintrag.
 - erstes Kind dieses Namens
 - väterliche Großeltern: **Jozé Simão Teixeira** und **Maria Forte**
   (Lesung `Fonte` möglich), aus Figueira Podra
-- mütterliche Großeltern: **Joaquim de Carvalho** und **Maria de Jesus**,
-  aus Cabeça Redonda
+- mütterliche Großeltern: **Joaquim Carvalho** (ohne `de` zwischen
+  den Namen) und **Maria de Jesus**, aus Cabeça Redonda
 - Paten: **João da Cruz**, verheiratet, und dessen Tochter
-  **Maria da Conceição**, ledig, aus `Sarrazina`, Pfarrei São Cosme
+  **Maria da Conceição**, ledig, `moradores na` + Ortsname umbrochen
+  `Sarra-` / `[z]eira`, Pfarrei **São Cosme**. Bessere Buchstabenfolge
+  **Sarrazeira**, Alternative **Sarrazina**. Kein sicheres ganzes Wort.
 
 Das Blatt-Datum `* 13.10.1879` **passt**. Der Blattort `Cumeeira` ist
 die Pfarrei; der Weiler im Eintrag ist **Cabeça Redonda**. Die
 Blatteltern **Custódio Teixeira** × **Joana de Jesus** **passen**
 (Quellenform des Vaters: `Custodio`).
 
-`Sarrazina` / São Cosme steht **nur bei den Paten**. Vater, Mutter und
-beide Großelternpaare bleiben in Cabeça Redonda bzw. Figueira Podra.
-Die Pfarrei São Cosme ist unter den Nachbarpfarreien nicht gefunden.
-**Sarzedela** (heutige Freguesia Ansião, Nachbar von Figueiras de
-S. João) ist geografisch plausibel, an dieser Handschrift aber
-**nicht** gesichert: die sicherere Lesung bleibt `Sarrazina` /
-São Cosme; Sarzedela gehörte 1879 zur Pfarrei Ansião (Orago Nossa
-Senhora da Conceição). Der Suchradius für Custodio × Joana steigt
-dadurch nicht.
+Der Patenort und São Cosme stehen **nur bei den Paten**. Vater,
+Mutter und beide Großelternpaare bleiben in Cabeça Redonda bzw.
+`Figueira Podra` (auf diesem Akt das Wortende **-a**, nicht
+**-es**). Die Pfarrei São Cosme ist unter den Nachbarpfarreien nicht
+gefunden. **Sarzedela** bleibt geografisch ein Kandidat, an dieser
+Handschrift **nicht** gesetzt. Der Suchradius für Custodio × Joana
+steigt dadurch nicht.
 
 Quelle:
 

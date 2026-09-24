@@ -19,7 +19,8 @@ Getrennte Spur. Nicht an die Duarte-Urgroßeltern gehängt.
 
 - Archiv: `PT/ADLRA/PRQ/PANS08/001/0004`
 - Scan: `narcisa-records/baptismos-1856/PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg`
-- Doppelseite fol. 60–61
+- Doppelseite fol. 60–61, Jahr **1856**. Narciza steht auf dieser Öffnung.
+- Die DigitArq-Datei `…_m0070.jpg` ist **eine andere Öffnung**: Folio **69**, Jahr **1859**, ohne Narciza. Archivkopie unter `archiv/narcisa/1859-folio-69-nicht-narciza-PANS08-001-0004_m0070.jpg`.
 - [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)
 
 ### Transkript

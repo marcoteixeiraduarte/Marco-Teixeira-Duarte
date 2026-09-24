@@ -13,8 +13,10 @@ Schreibweisen folgen dem Eintrag.
   São Jorge; der Vater ist nicht genannt
 - `São Jorge` ist die kleine Kapelle im Weiler Vale de Todos, nicht
   ein Ort außerhalb der Pfarrei Torre (siehe Ortsregister)
-- mütterliche Großeltern: **Antonio Rodrigues Avelheiro** (Lesung
-  `Molheiro` möglich) und **Thereza de Jesus**
+- mütterliche Großeltern: **Antonio Rodrigues Avelheiro** und
+  **Thereza de Jesus**. Nachname nach Rodrigues Buchstabe für
+  Buchstabe `A-v-e-l-h-e-i-r-o`. Lesung `Molheiro` passt zu diesem
+  Blatt nicht.
 - Paten: **Manoel Ramos**, ledig, Arbeiter, und **Anna Maria de
   Claro**, beide aus **Rua d'Além** dieser Pfarrei
 
@@ -25,15 +27,21 @@ nicht als Taufname des Kindes.
 
 ### Randvermerke
 
-Spätere Hände nennen:
+Zwei getrennte Randvermerke (nicht vermischen):
 
-- eine Heirat mit **Joaquina Ramalho** (Tagesjahr in dieser Hand
-  nicht als einzige Form; Lesungen 1904 und 1926)
-- den Tod am **15.** eines Monats; der Vermerk ist in Ansião am
-  **14. Juli 1946** nachgetragen, Zivilregister Nr. 126
+- Heirat mit **Joaquina Ramalho**; Zivilregister **n.º 126**;
+  Averbação **14. Juli 1946**. Das Heiratsjahr selbst ist auf diesem
+  Scan nicht als klare Vierergruppe isoliert (`1926` möglich, nicht
+  sicher). **1904** ist der Averbação-Tag **14**, kein Jahreszahl.
+- Tod: **15. Februar**, Jahr **neben dem 15. nicht geschrieben**;
+  `Registo de obito n.º 93`; Averbação **16. Juli 1958**.
 
-Das Blatt-`† 15.02.1946` liegt in derselben Richtung. Der Sterbeakt
-selbst ist hier nicht geprüft.
+Das Blatt-`† 15.02.1946` zieht das Jahr der **Heirats**-Averbação
+auf den Todestag. Der Sterbeakt n.º 93 ist hier nicht das Foto.
+
+Tochter **Palmira Reis** * 24.04.1912: Zivilakt nennt den Vater
+`Manuel d Matta` und die Mutter `Joaquina Reis`
+([G2-palmira-reis-1912](../evidenz/linie-torre/G2-palmira-reis-1912.md)).
 
 Quelle:
 

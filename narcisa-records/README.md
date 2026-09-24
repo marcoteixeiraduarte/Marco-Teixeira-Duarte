@@ -36,11 +36,10 @@ ihres Namens geführt.
 Quellen:
 
 - Taufe: `PT/ADLRA/PRQ/PANS08/001/0004`,
-  bisher `PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg`, fol. 60v–61r;
-  daneben die offizielle DigitArq-Datei
-  `PT-ADLRA-PRQ-PANS08-001-0004_m0070.jpg` (gleiche Pixelzahl, andere
-  Bytes). Welche Datei Narcizas Eintrag trägt, ist händisch zu
-  prüfen; beide liegen im [Archiv](../archiv/README.md).
+  `PT-ADLRA-PRQ-PANS08-001-0004_page_0070.jpg`, Folio **61**
+  (60v–61r), Jahr **1856**. Narciza steht auf dieser Doppelseite
+  (Rand Torre). Die DigitArq-Datei `…_m0070.jpg` ist **eine andere
+  Öffnung**: Folio **69**, Jahr **1859**, ohne Narciza.
   [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7)
 - Heirat: `PT/ADLRA/PRQ/PANS08/002/0022`,
   `PT_ADLRA_PRQ_PANS08_002_0022_m0006.jpg`, Eintrag Nr. 9;
