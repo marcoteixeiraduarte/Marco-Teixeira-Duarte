@@ -33,8 +33,11 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 ## Ordner
 
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
-- `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — nächster Schritt Zivilakt 1922 am AUC
+- `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — zwei Suchen: Heirat 1922 Nr. 94 (Bräutigam 1857–1907) ≠ Geburt des Opa (um 1922)
+- `linie-duarte/carrasqueiras-ansiao.md` — drei Pfarreiformeln (Cumeeira / Ansião / Chão de Couce); nicht glätten; PR #14 nicht gemergt
+- `linie-duarte/freire-bicho-cluster.md` — Träger Freire Bicho nach Akt, nicht nach Ähnlichkeit
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
+- `linie-torre/conservatoria-ansiao-bisavos.md` — Wortlaut Conservatória Ansião, Bisavós *1912–1915
 - `quellenregister.md` — alle versionierten Scans
 - [`VORLAGE.md`](VORLAGE.md) — leeres Blatt für den nächsten Fund
 - [`suchen.md`](suchen.md) — durchsuchte Fenster, auch Nulltreffer

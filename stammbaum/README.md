@@ -4,6 +4,10 @@ Gegenlese des Stammbaumblatts (Zürich, 08.09.2026, Marco Teixeira
 Duarte) gegen die geprüften Kirchenbucheinträge. Historische
 Schreibweisen werden nicht modernisiert.
 
+Bereinigte GEDCOM zum GitHub-Stand (nur geneaologische Fakten;
+Blattfehler nicht übernommen; Ungewisses in NOTE):
+[teixeira-duarte.ged](teixeira-duarte.ged).
+
 **Arbeitsumfang:** Lebende und die Großeltern (avós) sind vom
 Auftraggeber selbst belegt und gehören nicht in diese Prüfung. Hier
 werden nur **bisavós und ältere** Karten gehalten.
@@ -26,10 +30,10 @@ suchen, nicht im Kirchenbuch:
 
 | Blatt | Status |
 | --- | --- |
-| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911; Fotokopien Conservatória Ansião in [archiv/conservatoria-ansiao/](../archiv/conservatoria-ansiao/README.md), noch nicht festgelesen |
-| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911; dieselben Fotokopien, noch nicht festgelesen |
-| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos, nicht fremder Sterbeort. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
+| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | **Zivilakt** 01.jpg: * Ribeira de Vide; Eltern João Teixeira × Maria José dos Santos; † 05.06.1973 Angónia (Averbamento); Heirat 30.08.1935 |
+| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | **Zivilakt** 04.jpg: Maria Emília, Eltern João Dias Guiomar × Maria Helena; gp Luiz Dias Guiomar × Delfina Maria und Joaquim Rodrigues Feio × Maria Helena |
+| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Heirat **16.04.1937** (06.jpg); † 15.11.1996 Averbamento; Geburtsassento n.º 320/1914 ohne Kalendertag — `ABT 1914`. Ortsform **Pragoza** |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | **n.º 69** (08.jpg): Eintragung 28.04.1912, 22 Uhr, Pragoza; Eltern Manuel Matta × Joaquina Reis; † 16.12.1999 Torre de Vale de Todos. Blatt-24.04 und Akt-Vortag (27.04.) **nicht geglättet** |
 
 ### 3.º avós
 
@@ -49,12 +53,16 @@ Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
 **Cabeça Redonda**. Vater natürlich aus `Figueira Podra`. Großeltern
 dort: **Jozé Simão Teixeira** × **Maria Forte**; **Joaquim de
 Carvalho** × **Maria de Jesus**. Die Paten João da Cruz und Maria da
-Conceição stehen mit `Sarrazina`, Pfarrei São Cosme – das ändert den
-Elternort nicht.
+Conceição stehen mit `Carrasqueiras`, Pfarrei **Chão de Couce** (nur
+Paten; ältere Lesung Sarrazina/São Cosme verworfen) – das ändert den
+Elternort nicht. Kein FAMC.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
-Offen. Eltern: `Pais de Maria José por confirmar`.
+Im Geburtsakt Manuel 1913 als Mutter genannt, natural Ansião, Ribeira
+de Vide. Großeltern mütterlich: dos Santos × Maria Thereza; Vorname
+des Großvaters am Scan nicht eindeutig — **keine FAMC**. Blatt:
+`Pais de Maria José por confirmar`.
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
@@ -137,8 +145,10 @@ nennt den **15.** und ist 1946 in Ansião nachgetragen; Blatt
 
 #### Joaquina Ramalha dos Reis
 
-Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
-**Angelica Maria Leal**.
+Zivilakt Palmira 1912: Mutter **Joaquina Reis**, Eltern **José Reis** ×
+**Angelica Ramalho**. Blatt-Eltern **Manuel Dias Ramalho** ×
+**Angelica Maria Leal** nicht mergen. Heirat mit Manuel im Akt 1912
+genannt **26.04.1896** (Heiratsakt selbst nicht gelesen).
 
 ### 4.º avós (ramo materno)
 
@@ -153,7 +163,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
-| Manuel Dias Ramalho × Angelica Maria Leal | offen |
+| Manuel Dias Ramalho × Angelica Maria Leal | **Blatt**; 1912-Akt nennt **José Reis × Angelica Ramalho** — nicht mergen |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
 **Rosa Maria**. Das entspricht dem Sterbeakt 1903 (`Manuel Pedro dos
@@ -164,6 +174,14 @@ nebeneinander (siehe Narciza-Akten).
 
 Die avós José Duarte und Maria Freire de Jesus liegen beim
 Auftraggeber. Hier nur bisavós und älter.
+
+Kanon Auftraggeber: der **Opa** ist **um 1922** geboren
+(mündliche Überlieferung, Suchhinweis, kein DATE). Blatt-José
+Duarte `~21.12.1926` ist eine andere, ungeprüfte Form — nicht glätten,
+kein Zivilakt. **Penela Casamentos 1922 Nr. 94** ist die Heirat
+José Freire Bicho × Margarida, nicht diese Geburt. Opa nicht in
+Geburten 1857–1907 suchen. Penela-Nascimentos 1922 digital nicht in
+der öffentlichen tombo-Liste (bis 1921 / Transkriptionen 1923).
 
 ### bisavós
 
@@ -188,11 +206,15 @@ zulässig.
 Blatt: `~1894 · Cabeça Redonda`, Eltern **António Freire Bicho** ×
 **Maria Ignácia** (`Mesmos pais (irmãos)`).
 
-`Mesmos pais (irmãos)` **streichen**. Die Eltern sind über die Heirat
-mit Margarida am **28.10.1922** separat belegt und dürfen nicht still
-mit Margaridas Eltern gleichgesetzt werden. Geburt und Ort `~1894`
-bleiben offen, bis der Zivilakt (AUC RCV Penela Nr. 94) bzw. die Taufe
-geprüft ist.
+`Mesmos pais (irmãos)` **streichen**. Die Heirat mit Margarida am
+**28.10.1922** (Zivilakt Nr. 94) belegt die **Ehe**, nicht die Geburt
+des Opa. Eltern dürfen nicht still mit Margaridas Eltern gleichgesetzt
+werden. `~1894` ist nur Hypothese im Fenster **1857–1907** (15–65 Jahre
+1922). Ohne gelesenen Akt weder Jahr noch Eltern setzen.
+
+Weitere Freire-Bicho-Träger nach Akt: [freire-bicho-cluster](../evidenz/linie-duarte/freire-bicho-cluster.md).
+Thereza 1886 Nr. 10 (Vater **Manoel**, `e digo`) und Zeuge Manuel 1907
+nicht mit diesem José zusammenziehen.
 
 #### Margarida de Jesus
 
@@ -253,7 +275,7 @@ Identität.
 | `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); Taufen auch `Figueira Podra` / `Figueira Podres`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
 | `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
-| `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
+| `Carrasqueiras`, `Cabeça Redonda` | Manuel 1885/1907: Carrasqueiras **desta freguesia** (Cumeeira); Zeuge 1907: **Ansião**; Paten João 1879: **Chão de Couce** — nicht glätten | siehe [carrasqueiras-ansiao.md](../evidenz/linie-duarte/carrasqueiras-ansiao.md) |
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
 | `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira (LAR) | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |

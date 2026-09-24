@@ -97,68 +97,43 @@ José Duarte † 2005 erst gegen den Zivilakt halten.
 
 | Quellenform | Maßgebliche Quelle |
 | --- | --- |
-| `Carrasqueiras` | Taufe Manuel Duarte, 2.12.1885 |
-| `Cabeça Redonda` | Taufe Joaquina, 18.2.1886; Taufe Margarida, 27.6.1897 |
+| `Carrasqueiras desta freguesia` | Taufe Manuel 1885; Heirat 1907 Bräutigam — Pfarrei **Cumeeira**, Penela |
+| `Carrasqueiras, freguezia e concelho de Anciao` | Heiratszeuge 1907, José dos Santos — **Ansião** (Pfarrei und Kreis) |
+| `Carrasqueiras, freguezia de Chão de Couce` | Paten João 1879 (nur Paten, nicht die Eltern) — **Chão de Couce** |
+| `Cabeça Redonda` | Taufe Joaquina 1886; Taufe Margarida 1897; Zeuge 1907 `desta freguesia`; Geburt João Teixeira 1879 |
 
-Beide Formen passen zu den jeweiligen Blattkarten, außer bei
-Margarida, deren Blatt `Santa Eufémia` schreibt. João Teixeira 1879
-wurde im Weiler **Cabeça Redonda** geboren, nicht nur „in Cumeeira“.
+Die drei Carrasqueiras-Pfarreiformeln **nicht glätten**. Heute liegt
+ein Carrasqueiras in Lagarteira (3240-554) und ein Posteintrag in
+Chão de Couce (3240-512), beide concelho Ansião; die Lugar-Liste
+Cumeeira führt den Namen nicht. Das ersetzt nicht den Aktwortlaut
+für Manuel. Siehe
+[evidenz/linie-duarte/carrasqueiras-ansiao.md](evidenz/linie-duarte/carrasqueiras-ansiao.md).
 
-### SARRAZINA / SÃO COSME
+João Teixeira 1879 wurde im Weiler **Cabeça Redonda** geboren, nicht
+nur „in Cumeeira“.
 
-Quellenform der **Paten** an der Taufe João, 22.10.1879, Cumeeira:
-`Sarrazina`, Pfarrei São Cosme. Das sind **nicht** die Eltern.
+### PATEN JOÃO 1879 — Carrasqueiras / Chão de Couce
+
+Quellenform der **Paten** an der Taufe João, 22.10.1879, Cumeeira,
+Zeilenumbruch `m0016`: `nas Carras` / `queiras, freguezia de Chão de
+Couce`. Das sind **nicht** die Eltern. Scan 1402×1000; Gegenlese offen.
+
+Die ältere Lesung `Sarrazina` / `São Cosme` derselben Zeile ist
+verworfen. Sarzedela-Suche hing an jener Lesung und gilt nicht mehr
+als gelesen.
 
 | Person im Eintrag | Herkunft 1879 |
 | --- | --- |
 | Custodio Teixeira (Vater) | natürlich `Figueira Podra`, wohnhaft Cabeça Redonda |
 | Joana de Jesus (Mutter) | natürlich und wohnhaft Cabeça Redonda |
-| João da Cruz × Tochter Maria da Conceição (Paten) | `Sarrazina`, Pfarrei São Cosme |
+| João da Cruz × Tochter Maria da Conceição (Paten) | `Carrasqueiras`, Pfarrei **Chão de Couce** |
 
-**Sarzedela** liegt geografisch in derselben heutigen Freguesia
-Ansião wie Figueiras de São João und Torre de Vale de Todos (OSM
-39.928/−8.444, PLZ 3240-207; 1527 als `Cervedela`, lugar der aldeia
-de Ansião). Das macht den Verdacht plausibel. Die Gleichsetzung
-hängt aber an der Handschrift.
+Kein FAMC aus den Paten. Chão de Couce 1879 **nicht** mit dem Zeugen
+1907 (`freguezia e concelho de Anciao`) und nicht mit Manuels
+`desta freguesia` (Cumeeira) gleichsetzen. Draft-PR #14 nicht gemergt.
 
-Auf dem vorliegenden Scan (`PNL01-002-0024_m0016`, 1402×1000,
-höchste öffentliche AUC-Ableitung; siehe [archiv/](archiv/README.md)) bleibt
-die sicherere Lesung `Sarrazina` … `São Cosme`. `Sarzedela` bräuchte
-ein klares `d` und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião**
-(PANS02, Orago Nossa Senhora da Conceição), nicht São Cosme. Beides
-ist hier nicht gesichert. Deshalb wird Sarzedela **nicht** als
-gelesen gesetzt.
-
-In der Nähe von Cumeeira / Ansião gibt es **keine** Pfarrei São Cosme
-(nicht in Penela, Ansião, Condeixa, Miranda do Corvo, Soure, LAR).
-
-| Kandidat | ungefähre Lage | Passt zum Patenort? |
-| --- | --- | --- |
-| **Sarzedela**, Freguesia Ansião | 5–8 km, Nachbar von Figueiras de S. João | Lage ja; Pfarrei 1879 ist Ansião (N.S. da Conceição), nicht São Cosme |
-| **Serrazina**, Pfarrei Ega (Condeixa) | ~20 km westlich | Ortsname nah an `Sarrazina`; Orago N.S. da Graça, nicht São Cosme |
-| **Póvoa de São Cosme**, Ervedal (Oliveira do Hospital) | ~70 km nordöstlich | einziger São-Cosme-Ort im Distrikt Coimbra; Pfarrei ist Ervedal, kein `Sarrazina` dort |
-| Nabais / Aldeias (São Cosme), Gouveia | ~90 km | echte Pfarreien São Cosme, aber außerhalb des üblichen Radius und ohne Sarzedela |
-| Gondomar / Vale (Famalicão) | 140–160 km | echte Pfarreien, zu weit für caseiro-Paten aus Cabeça Redonda |
-
-Kein Kandidat erfüllt **Ort und** Pfarrei zugleich.
-
-São Cosme **existiert** als Heiliger und als Pfarreiname in Portugal.
-Im Kreis Ansião/Penela 1879 **nicht**: die Diözese Coimbra führt dort
-Alvorge, Ansião, Avelar, Chão de Couce, Lagarteira, Orada,
-Pousaflores, Santiago da Guarda und Torre — keine São Cosme.
-Eine lokale Kapelle dieses Patroziniums ist hier nicht nachgewiesen.
-Die nächsten echten São-Cosme-Pfarreien derselben alten Diözese lagen
-in Gouveia (Nabais, Alrote/Aldeias).
-
-`freguezia de São Cosme` kann deshalb auch eine **andere** Kirche,
-Kapelle oder Pfarrei sein: der Scan ist klein, die Lesung nicht fest.
-Lokal am ehesten verwechselbar: **São João** (Ferraria / Figueiras de
-S. João; Fest in Sarzedela), außerdem São Miguel (Penela),
-São Domingos (LAR), São Sebastião (Cumeeira) oder Chão de Couce.
-Eine Kapelle würde der Priester gewöhnlich nicht `freguezia` nennen.
-
-Die Pfarrei der Paten bleibt **unidentifiziert**. Der Suchradius für
-Custodio × Joana bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
+Der Suchradius für Custodio × Joana bleibt Cabeça Redonda /
+Figueira Podra / Cumeeira.
 
 ### ATANHA / ALVORGE
 

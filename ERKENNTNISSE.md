@@ -24,7 +24,7 @@ Agenten starten über [`AGENTS.md`](AGENTS.md). Handoff:
 | --- | --- |
 | [`archiv/`](archiv/README.md) | Match-Scans unter sprechenden Namen; Conservatória-Fotokopien |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter mit Transkript und Gewissheit |
-| [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter |
+| [`stammbaum/`](stammbaum/README.md) | Blattprüfung bisavós und älter; bereinigte GEDCOM [`stammbaum/teixeira-duarte.ged`](stammbaum/teixeira-duarte.ged) |
 | `*-records/` | Personenakten mit Signatur und DigitArq/AUC-Links |
 | [`README.md`](README.md) | Ortsregister und Arbeitsregeln |
 
@@ -62,12 +62,14 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 
 | Thema | Stand |
 | --- | --- |
-| José Freire Bicho ~1894, „Mesmos pais (irmãos)“ | **streichen**. Eltern über Heirat 1922 separat belegt; nicht mit Margaridas Eltern gleichsetzen. Geburt weiter offen |
+| José Freire Bicho, „Mesmos pais (irmãos)“ | **streichen**. Heirat 28.10.1922 (Akt Nr. 94) ist die Ehe, nicht Opas Geburt. Mündliche Überlieferung „sollte stimmen“ = Suchhinweis, kein FAMC/DATE. Vorhandene Scans 1879/85/86/97/1907: keine Taufe. Akt 94 bestellt, nicht erfunden |
 | Margarida Blatt `* 24.07.1897 · Santa Eufémia` | ersetzen durch `* 27.06.1897 · Cabeça Redonda` |
 | Manuel † | Blatt und Averbamento **30.09.1962 · Ansião** — frühere Lesung 1964 war Regression |
 | Figueiras Podres | **ein** Ort (mit **-s**); heute Figueiras de S. João; Taufen auch `Figueira Podra` |
 | Joaquina Maria / Silvéria / Ignácia (ältere Frau) | nicht zu einer Person zusammenführen |
 | Lesung mütterlicher Großvater Therezas | Manoel Dias / Freire / Silva – offen |
+| Carrasqueiras | 1885/1907 Bräutigam `desta freguesia` (Cumeeira) ≠ Zeuge 1907 `freguesia e concelho de Ansião` ≠ Paten João 1879 `Chão de Couce`. Nicht glätten. Draft-PR #14 nicht gemergt |
+| Freire Bicho | Cluster nach Akt: Joaquina 1886 António×Maria Ignácia; Thereza 1886 **Manoel**×Maria Diogo (`e digo`); Zeuge Manuel 1907 ledig; Joaquim 1897; José nur Rand 1922. Drei Manuel nicht glätten |
 
 ---
 
@@ -78,7 +80,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Person | Fakt | Gewissheit | Akte |
 | --- | --- | --- | --- |
 | Narciza | Taufe 6.11.1856 Torre; Heirat 8.5.1878 als Narcisa da Conceição × José Pedro dos Reis | sicher | [narcisa](narcisa-records/README.md) |
-| Geburt Narciza | Zeremonie 6.11.; Geburt „19. des Vormonats“ → Sept. vs. Okt. | offen (Lesung `mez passado`) | [narciza.md](evidenz/linie-torre/narciza.md) |
+| Geburt Narciza | * 19.9.1856 (Scan: Setembro); Nottaufe zu Hause; Zeremonie 6.11.1856 | sicher | [narciza.md](evidenz/linie-torre/narciza.md) |
 | Maria da Piedade | * 15.9.1878 Pragoza; Eltern José Pedro × Narciza | sicher | narcisa + [jose-maria](jose-maria-records/README.md) |
 | José Pedro dos Reis | * 24.11.1854 Pragosa; Taufe 19.12.1854; Heirat 1878; † 2.10.1903 Grenze Pião/Lagarteira | sicher | [jose-pedro](evidenz/linie-torre/jose-pedro-dos-reis.md) |
 | 4. Grad **paterno** | Manoel Pedro dos Reis × Roza Maria; Heirat 23.3.1851 Torre | sicher als Eltern José Pedros (Taufe 1854) | [G4-paterno-reis](evidenz/linie-torre/G4-paterno-reis.md) |
@@ -119,7 +121,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 4. Maria da Piedade † `16.01.1952`: Tages-/Monatszuordnung weiterhin nicht sicher
 5. Manuel Duarte † **30.09.1962 · Ansião** (Blatt = Averbamento; 1964 war Fehlregression)
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
-7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
+7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Heirat 1922 ≠ Opas Geburt; Suchfenster Bräutigam 1857–1907
 8. João Teixeira: Weiler **Cabeça Redonda** (nicht nur Cumeeira); Vater `Custodio`
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
@@ -134,14 +136,20 @@ Kirchenbücher **Cumeeira** (São Sebastião, Penela) liegen schon im
 (`PT/AUC/PAR/PNL01`); Taufen/Heiraten bis 1911. Überblick:
 [tombo.pt/f/pnl01](https://tombo.pt/f/pnl01).
 
-Für **José Freire Bicho × Margarida** (Zivilakt Nr. 94 / 1922) nicht
-weiter in den Pfarreibüchern suchen, sondern im **Zivilfonds Penela**
-derselben Uni:
+**Zwei Suchen, nicht vermischen.** Casamentos 1922 Nr. 94 ist die
+**Heirat** José Freire Bicho × Margarida, nicht die Geburt des Opa
+(Auftraggeber: Opa **um 1922** geboren). Bräutigam: Geburten **1857–1907**.
+Opa: Geburten **um 1922**. Blatt-`~1894` nur Hypothese im Fenster des
+Bräutigams.
+
+Für die **Heirat** nicht weiter auf `~1894` in den Pfarreibüchern
+festlegen, sondern den **Zivilfonds Penela** lesen, danach Taufen
+1857–1907:
 
 | Band / Einheit | Bestand | Hinweis |
 | --- | --- | --- |
-| Casamentos 1922 | `PT/AUC/RCV/PNL` | Eintrag Nr. 94 – Eltern und Geburt Josés |
-| Processos de casamento Cx. 7 | 1921–1922 | Begleitakte möglich |
+| Casamentos 1922 | `PT/AUC/RCV/PNL` | Eintrag Nr. 94 = **Heirat**. Alter/Eltern des Bräutigams erst aus diesem Akt |
+| Processos de casamento Cx. 7 | 1921–1922 | Begleitakte der Heirat, nicht Geburtenbuch des Opa |
 | Processos de casamento Cx. 8 | 1922–1923 | Begleitakte möglich |
 
 Inventar: [tombo.pt/m/pnl](https://tombo.pt/m/pnl) · Fonds-Übersicht:
@@ -161,14 +169,13 @@ Elternheiraten **António Duarte × Thereza Freire** und
 
 | Priorität | Aufgabe |
 | --- | --- |
-| 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
+| 1 | **Heirat 1922** (nicht Opas Geburt): AUC RCV Penela Casamentos Nr. 94, dann Taufen José Freire Bicho **1857–1907**. **Opa** getrennt: Geburten **um 1922** |
 | 2 | Conservatória Ansião: zehn Fotos in [`archiv/conservatoria-ansiao/`](archiv/conservatoria-ansiao/README.md) händisch lesen (bisavós *1912–1915) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia |
-| 5 | Narciza-Geburt: `mez passado` zu November 1856 noch einmal vergrößert lesen |
-| 6 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
-| 7 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
-| 8 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
+| 5 | Alvorge: Taufe Roza Maria (Bände 1808–1822 / 1822–1852); Joaquims Nachname 1851 `Duarte` vs. 1854 `Fre…` |
+| 6 | Ortsformen Vale Paio / Vallejazede / Aljazede getrennt lassen, bis Rozas Taufe sie klärt |
+| 7 | Gegenlese Heiratsscan 1878 (`…0022_m0006`): `Manuel Pedro Coelho` als **frühere, inzwischen fragliche Lesung** dokumentiert halten, bis die Zeile gezielt geprüft ist; aktuelle Lesung `Manoel Pedro dos Reis` — Elternanschluss über Taufe 1854 bleibt sicher |
 
 ---
 
@@ -197,6 +204,18 @@ Kurz: dem Faden vom Licht zurück in die Tiefe folgen, nicht im Nebel
 bekannte Namen suchen.
 
 ---
+
+## Conservatória Ansião (24.09.2026)
+
+Wortlaut: [conservatoria-ansiao-bisavos.md](evidenz/linie-torre/conservatoria-ansiao-bisavos.md).
+Joaquinas Eltern 1912: **José Reis × Angelica Ramalho**, nicht Blatt-Ramalho/Leal.
+
+## Draft-PRs #9–#15
+
+Nicht gemergt. Nur übernommen, was bereits in `evidenz/` bzw. den
+Fotokopien selbst steht. Nicht übernommen: PR #11 Francisco-José als
+sicheren Vornamen; PR #12 Lindos als Taufname Delfinas; Pässe #15;
+Taufsuchen #9/#10 ohne Scan in evidenz/.
 
 ## Git-Herkunft dieser Zusammenführung
 

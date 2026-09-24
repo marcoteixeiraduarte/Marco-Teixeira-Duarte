@@ -84,14 +84,13 @@ Heirat:
 - Brauteltern: **Manoel Joaquim Sol**, bereits verstorben, und
   **Maria Joaquina**
 - Mutter des Bräutigams: **Margarida Thereza**
-- Vater des Bräutigams: wahrscheinlich **José Roiz Gato**
+- Vater des Bräutigams: **José / Jozé Gato** (Heirat 1837; Narcizas Taufe 1856:
+  `Jose Rodrigues Gatto`)
 
-Die Zuordnung zu Narcizas Eltern ist wegen der vollständigen Übereinstimmung
-des Ehepaars, der Brauteltern und der Orte sehr wahrscheinlich. Es bleibt aber
-eine dokumentarische Abweichung: Narcizas Taufe nennt den väterlichen
-Großvater `João Rodrigues Gato`, während die Heirat wahrscheinlich
-`José Roiz Gato` nennt. Diese Abweichung wird nicht stillschweigend
-wegkorrigiert.
+Die Zuordnung zu Narcizas Eltern ist wegen der Übereinstimmung des Ehepaars,
+der Brauteltern und der Orte sicher. Der väterliche Großvater ist in Taufe
+**und** Heirat **José**, nicht João. João Rodrigues Gato ist Narcizas Vater.
+Eine ältere Notiz, die Taufe nenne den Großvater João, war diese Verwechslung.
 
 Quelle:
 

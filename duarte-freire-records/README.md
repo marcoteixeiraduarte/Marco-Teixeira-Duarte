@@ -15,8 +15,9 @@ wiedergegeben.
   Carrasqueiras
 - väterliche Großeltern: **Manoel Duarte** und **Joaquina de Jesus**
 - mütterliche Großeltern: **Manoel Silva** und **Maria Freire**
-- Paten: **João dos Santos** und dessen Ehefrau **Joaquina Freire**, aus
-  Carrasqueiras
+- Paten: **José dos Santos** und dessen Ehefrau **Joaquina Freire**, aus
+  Carrasqueiras (dieselbe Namensform wie der Zeuge 1907; Identität
+  nicht gesetzt)
 
 Quelle:
 
@@ -49,16 +50,43 @@ Quelle:
   `PT-AUC-PAR-PNL01-002-0031_m0009.jpg`, Eintrag Nr. 9;
   [AUC](https://pesquisa.auc.uc.pt/details?id=48506)
 
+## Thereza, Taufe 20. Februar 1886, Nr. 10 (dieselbe Seite)
+
+Nicht Thereza Freire, Mutter Manuels 1885.
+
+- geboren **13. Februar 1886**, 4 Uhr, **Figueira Podra**
+- Taufname **Thereza**; erste dieses Namens
+- Vater: **Manoel Freire Bicho** — der Priester schreibt zuerst
+  Antonio Freire Bicho, korrigiert mit `e digo` auf Manoel
+- Mutter: **Maria Diogo**; beide caseiros, natural e moradores
+  Figueira Podra, dort getraut
+- väterliche Großeltern: **António Freire Bicho** × **Maria de Christo**
+- mütterliche Großeltern: **José Diogo** × **Anna de Jesus**
+- Paten: die avós paternos
+- Averbamento: Heirat **31.01.1914** Conservatória Ansião mit
+  **Manuel Freire Bicho** (nicht der Vater); dessen Tod 13. Januar
+  (Eintrag 1971); Thereza † Torre de Vale de Todos (Eintrag 29.07.1971,
+  Tag 24, Monat unsicher)
+
+Vater Manoel (1886 verheiratet) ≠ Zeuge Manuel 1907 (ledig) ≠ Ehemann
+1914. Avós namensgleich Cluster Joaquina 1886, nicht gemergt.
+
+Siehe [freire-bicho-cluster](../evidenz/linie-duarte/freire-bicho-cluster.md).
+
 ## Heirat Manuel Duarte × Joaquina Ignácia
 
 - **13. November 1907** in Cumeeira, Eintrag Nr. 9
 - beide 21 Jahre alt, ledig und in der Landwirtschaft tätig
-- Manuel: geboren und wohnhaft in **Carrasqueiras**
+- Manuel: geboren und wohnhaft in **Carrasqueiras desta freguesia**
+  (Cumeeira)
 - Joaquina: geboren und wohnhaft in **Cabeça Redonda**
 - Eltern Manuels: **António Duarte** und **Thereza Freire**
 - Eltern Joaquinas: **António Freire Bicho** und **Maria Ignácia**
-- Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras, Pfarrei
-  Ansião, und **Manuel Freire Bicho**, ledig, aus Cabeça Redonda
+- Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras,
+  **freguesia e concelho de Ansião**, und **Manuel Freire Bicho**,
+  ledig, aus Cabeça Redonda **desta freguesia** (Cumeeira). Die zwei
+  Carrasqueiras-Zuordnungen nicht glätten
+  ([carrasqueiras-ansiao](../evidenz/linie-duarte/carrasqueiras-ansiao.md))
 - laut späterem Randvermerk / Averbamento wurde die Ehe durch Manuels Tod
   am **30. September 1962** in Ansião aufgelöst; das Stammbaumblatt führt
   dasselbe Datum. Eine zwischenzeitliche Lesung 1964 war falsch. Der
@@ -134,27 +162,23 @@ Margaridas Tauf-Randvermerk belegt ihre Heirat am **28. Oktober 1922** mit
 einem **José Freire Bicho**, Zivilstandsakt Nr. 94 in Cumeeira. Er enthält
 weder Josés Geburtsdatum noch Angaben zu seinen Eltern.
 
-Bei der bisherigen Durchsicht der Taufjahrgänge **1893, 1894 und 1895** von
-Cumeeira sowie des Jahrgangs **1894** von São Domingos da Lagarteira wurde
-kein José als Sohn von António Freire Bicho und Maria Ignácia gefunden. Da
-für diese Negativsuche noch keine Band-Signaturen, geprüften Bildbereiche,
-Angaben zu möglichen Bestandslücken oder Einzelnachweise im Repository
-dokumentiert sind, ist dies ein vorläufiger Forschungsbefund und kein
-Ausschlussbeweis.
+**Zwei Suchen, nicht vermischen** (Kanon Auftraggeber): Casamentos 1922
+Nr. 94 ist die **Heirat**, nicht die Geburt des Opa. Der Opa ist **um
+1922** geboren (Geburten um 1922). Der Bräutigam José Freire Bicho war
+1922 erwachsen: Taufen/Geburten **1857–1907** (15–65 Jahre). Blatt-`~1894`
+ist nur eine Hypothese in diesem Fenster.
 
-Den bisherigen, noch nicht mit einer Einzelquelle belegten Suchnotizen
-zufolge wurde 1894 in Lagarteira ein José gefunden, der am 28. Januar in
-Lagarteira de Baixo als unehelicher Sohn der Maria de Jesus geboren wurde;
-ein Randvermerk soll einen Tod um 1957 nennen. Bis Signatur und Scan ergänzt
-sind, bleibt dies ein unbestätigter Arbeitshinweis. Die abweichende Mutter und
-das mutmaßliche Todesjahr sprechen gegen diesen José als Margaridas Ehemann.
+Die bisherige Durchsicht nur **1893–1895** Cumeeira und **1894**
+Lagarteira folgt jener Hypothese und ist kein Ausschluss für 1857–1907.
+Kein José als Sohn von António Freire Bicho × Maria Ignácia ist in den
+**vorhandenen** Cumeeira-Scans (1879, 1885, 1886, 1897, 1907) belegt.
+1907 Zeuge: Manuel Freire Bicho, ledig, Cabeça Redonda. Das Fenster
+1857–1907 der Jahresbände PNL01 ist digital katalogisiert, hier nicht
+durchgeblättert. Der Lagarteira-José * 28.01.1894, Sohn der Maria de
+Jesus, bleibt unbestätigter Arbeitshinweis.
 
-Das bisherige Geburtsjahr **1894** und die vermuteten Eltern dürfen daher
-nicht als gesichert in den Stammbaum übernommen werden. Vorrangig zu prüfen
-ist der zivile Heiratseintrag Nr. 94 von 1922 im **Arquivo da Universidade
-de Coimbra**, Fonds Conservatória do Registo Civil de Penela
-(`PT/AUC/RCV/PNL`): Band Casamentos **1922**, ergänzend Processos de
-casamento **Cx. 7** (1921–1922) und **Cx. 8** (1922–1923). Inventar:
-[tombo.pt/m/pnl](https://tombo.pt/m/pnl). Danach ggf. Nachbarpfarreien.
+`~1894` und die vermuteten Eltern dürfen nicht als Fakt in den Stammbaum.
+Scan des Heiratsakts Nr. 94 liegt hier **nicht**. Siehe
+[`evidenz/linie-duarte/AUC-coimbra-jose-freire-bicho.md`](../evidenz/linie-duarte/AUC-coimbra-jose-freire-bicho.md).
 Für jede Negativsuche Band, Bildbereich, mögliche Lücken, Prüfdatum und
 Ergebnis protokollieren.

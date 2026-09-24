@@ -49,8 +49,11 @@ Er ist der Vater der **Maria Joaquina**.
 > […] João […] Gato […] filho de Jozé […] Gato e Margarida Thereza
 > […] Caetana Maria […] filha de Manoel Joaquim Sol, ja defunto, e de Maria Joaquina
 
-Narcizas Taufe nennt den väterlichen Großvater João Rodrigues Gato.
-Diese Heirat nennt ihn José. Die Abweichung bleibt stehen.
+Narcizas Taufe (Scan fol. 61r) nennt denselben väterlichen Großvater
+**Jose Rodrigues Gatto**. João ist der Vater der Narciza, nicht der Großvater.
+Eine ältere Notiz, die Taufe nenne den Großvater João, war diese Verwechslung.
+Beide Quellen stimmen in José überein; die Lesung Alviz/Roiz beim Bräutigam
+selbst bleibt offen.
 
 ## Quelle Tod
 

@@ -32,3 +32,6 @@
 
 Heirat: [G2-heirat-1907](G2-heirat-1907.md).
 Eltern und Großeltern: [G3-eltern](G3-eltern.md).
+Dieselbe Scan-Seite, Nr. 10: Thereza, Eltern **Manoel** Freire Bicho
+(`e digo`) × Maria Diogo — anderer Cluster, nicht diese Joaquina.
+[freire-bicho-cluster](freire-bicho-cluster.md).
