@@ -1,7 +1,8 @@
 # Stand — Handoff Chat ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (Ablage und Regeln angelegt).
-Basis: `master` bei `ff8ce93`.
+Letzte Aktualisierung: 2026-09-24 (Ablage übernommen, PR #21 bereit).
+Basis: `master` bei `ff8ce93`. Dieser Lauf hält die Mappe, bis #21
+auf `master` liegt. Danach liest jeder Chat- und Cloud-Agent sie.
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
 derselben Arbeit fort. Ältere Zeilen nicht löschen, oben ergänzen.
@@ -52,4 +53,5 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-24 | Ablage übernommen: PR #21 nicht mehr Draft, mergebar. Issues #19/#20 schließen sich mit dem Merge. | #21 |
 | 2026-09-24 | Gemeinsame Ablage: `AGENTS.md`, `STAND.md`, `regeln/`, Issue-/PR-Vorlagen, Suchprotokoll | dieser Branch |
