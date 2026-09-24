@@ -65,4 +65,6 @@ neuesten `master` aufbauen soll.
 ## Sprache und Umfang
 
 Antworten auf Deutsch. Lebende und avós nicht anfassen.
-Privatdokumente nicht hochladen — [`regeln/04-privat.md`](regeln/04-privat.md).
+Dieses Repo ist öffentlich. Der Server nicht. Privatdokumente
+und lokale Pfade nicht hochladen —
+[`regeln/04-privat.md`](regeln/04-privat.md).
