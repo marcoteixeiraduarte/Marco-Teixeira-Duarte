@@ -20,21 +20,22 @@ dort, wo der Eintrag über die Bildgrenze läuft.
 | AUC, Bände 1879 / 1885 (Digitalisierung 2011) | ca. **1400×1000** JPEG | das **ist** die AUC-Dissemination; ZIP des ganzen Bandes enthält dieselben Dateien |
 | DigitArq / ADLRA | **1500** oder **2048** px Höhe | `/rdigital/files/{id}` (Original) ist 401; ohne Login nicht höher |
 
-João 1879 `m0016` (Patenzeile Sarrazina / São Cosme) und Manuel Duarte
-1885 bleiben deshalb klein. Eine schärfere öffentliche Kopie dieser
-beiden AUC-Bände gibt es derzeit nicht.
+João 1879 `m0016` (Patenort umbrochen `Sarra-`/`[z]eira`, Pfarrei
+São Cosme) und Manuel Duarte 1885 bleiben deshalb klein. Eine
+schärfere öffentliche Kopie dieser beiden AUC-Bände gibt es derzeit
+nicht.
 
 ## Zuerst gegenlesen
 
 Diese Stellen sind an der Handschrift unsicher oder die Datei ist klein.
 Leer lassen, bis du sie selbst gelesen hast.
 
-| Datei | Was klären |
+| Datei | Stand nach Gegenlese 24.09.2026 |
 | --- | --- |
-| [teixeira/1879-baptismo-joao-…_m0016.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0016.jpg) | Patenort `Sarrazina` / Pfarrei São Cosme; Wortende `Figueira Podra` / `Podres` |
-| [teixeira/1879-baptismo-joao-…_m0015.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0015.jpg) | Beginn Nr. 42, Eltern, Cabeça Redonda |
-| [matta/1872-baptismo-manuel-…_m0007.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0007.jpg) | Großvater `Avelheiro` oder `Molheiro` |
-| [narcisa/1856-…_page_0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_page_0070.jpg) und […_m0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_m0070.jpg) | **zwei verschiedene Dateien** gleicher Pixelgröße; welche ist Narcizas Taufe (fol. 60v–61r)? |
+| [teixeira/1879-…_m0016.jpg](teixeira/1879-baptismo-joao-PNL01-002-0024_m0016.jpg) | Akt: `Figueira Podra` (-a). Patenort umbrochen `Sarra-`/`[z]eira`, Pfarrei São Cosme; ganzes Wort **nicht** fest |
+| [matta/1872-…_m0007.jpg](matta/1872-baptismo-manuel-PANS08-001-0017_m0007.jpg) | Großvater **Avelheiro**. Tod: 15. Februar, Jahr nicht daneben; Averbação 16.07.1958. 1946 = Heirats-Averbação |
+| [narcisa/1856-…_page_0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_page_0070.jpg) | **das** Narciza-Blatt, Folio 61, 1856 |
+| [narcisa/1859-folio-69-…_m0070.jpg](narcisa/1859-folio-69-nicht-narciza-PANS08-001-0004_m0070.jpg) | **nicht** Narciza: Folio 69, 1859 |
 
 ## Bestand
 
@@ -84,7 +85,7 @@ Leer lassen, bis du sie selbst gelesen hast.
 | [1837-casamento-joao-gato-caetana-PANS08-002-0003_m0053.jpg](narcisa/1837-casamento-joao-gato-caetana-PANS08-002-0003_m0053.jpg) | 2459×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9) |
 | [1851-casamento-manoel-pedro-roza-PANS08-002-0003_m0080.jpg](narcisa/1851-casamento-manoel-pedro-roza-PANS08-002-0003_m0080.jpg) | 2374×1500 | dasselbe |
 | [1856-baptismo-narciza-PANS08-001-0004_page_0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_page_0070.jpg) | 2550×1500 | bisherige Aktenkopie (nicht identisch mit `m0070`) |
-| [1856-baptismo-narciza-PANS08-001-0004_m0070.jpg](narcisa/1856-baptismo-narciza-PANS08-001-0004_m0070.jpg) | 2550×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7) offizielle Datei `m0070` |
+| [1859-folio-69-nicht-narciza-PANS08-001-0004_m0070.jpg](narcisa/1859-folio-69-nicht-narciza-PANS08-001-0004_m0070.jpg) | 2550×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/156d7cb1382b42d89e362d0f4f3699a7) offizielle Datei `m0070`; Folio 69 / 1859 |
 | [1878-baptismo-maria-da-piedade-PANS08-001-0023_m0004.jpg](narcisa/1878-baptismo-maria-da-piedade-PANS08-001-0023_m0004.jpg) | 1742×1500 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/731de1d7ab214268ac56ddbdfe964346) |
 | [1878-casamento-narcisa-jose-pedro-PANS08-002-0022_m0006.jpg](narcisa/1878-casamento-narcisa-jose-pedro-PANS08-002-0022_m0006.jpg) | 3028×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/a6495501cfae4d5eac99b0dd46abb2bf) |
 | [1891-obito-catarina-PANS08-003-0035_m0002.jpg](narcisa/1891-obito-catarina-PANS08-003-0035_m0002.jpg) | 1411×2048 | [DigitArq](https://digitarq.arquivos.pt/documentDetails/b6f8033380e14999b163dbaa0bcc87fb) |
@@ -96,9 +97,11 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 Zehn Kamerabilder **5712×4284** in
 [conservatoria-ansiao/](conservatoria-ansiao/README.md).
-`06.jpg`–`10.jpg` haben eine erste händische Lesung
-([lesung-06-10.md](conservatoria-ansiao/lesung-06-10.md)); Unsicheres
-bleibt markiert. Namen daraus stehen nicht im Stammbaum.
+`01.jpg`–`09.jpg` sind festgelesen
+([G2-Blätter](../evidenz/linie-torre/)); `06.jpg`–`10.jpg` zusätzlich
+wortgetreu in [lesung-06-10.md](conservatoria-ansiao/lesung-06-10.md).
+Unsicheres bleibt markiert. Identitätsnummern aus `02.jpg`/`05.jpg`
+nicht im Repo.
 
 ## Nicht in diesem Archiv
 

@@ -32,10 +32,13 @@ Torre de Valle de Todos (heute Torre de Vale de Todos), Kreis Ansião.
 | `Pragoza` | Sterbeeintrag José, 5.11.1896, Rand und Fließtext | ja, für dieses Ereignis |
 | `Pragoza` | Sterbeeintrag José Pedro dos Reis, 2.10.1903 | ja, für dieses Ereignis |
 | `Pragoza` | Taufband 1880, andere Einträge derselben Pfarrei (nicht der Taufe Joze Maria) | ja, nur für jene Einträge |
-| `Pragosa` | heutige bzw. stillschweigend modernisierte Form | nicht auf dem Blatt, wenn die Quelle `z` schreibt |
+| `Pragoza` | Geburt Palmira Reis, CRC Ansião N.º 69, 24.04.1912 | ja, für dieses Ereignis |
+| `Pragosa` | Heirat José Mendes Ascensão × Palmira Reis, 16.04.1937, CRC Ansião N.º 11 | ja, für dieses Ereignis |
+| `Pragosa` | heutige bzw. stillschweigend modernisierte Form | nicht auf das Blatt legen, wenn die Quelle `z` schreibt |
 
 Die frühere einheitliche Blattform `Pragosa` war eine Normalisierung.
-Sie wird nicht mehr über alle Einträge gelegt.
+Sie wird nicht mehr über alle Einträge gelegt. Beide Quellenformen
+(`Pragoza` 1912, `Pragosa` 1937) bleiben nebeneinander.
 
 ### VALLE DE TODOS / Vale de Todos
 
@@ -63,7 +66,8 @@ Chão de Couce (andere Pfarrei) und nicht mit São Jorge in Porto de Mós.
 
 Die Taufen von 1878 und 1880 schreiben `concelho d'Anciao`. Die heutige
 Form `Ansião` gehört ins Ortsregister, nicht auf die Karte dieser
-Einträge.
+Einträge. Geburt Manuel Teixeira 1913: `logar da Ribeira de Ansião`,
+freguesia de Ansião.
 
 ### FIGUEIRA PODRA / Figueiras Podres / Figueiras de S. João
 
@@ -76,8 +80,8 @@ Ansião.
 
 | Form | Rolle | Maßgebliche Quelle |
 | --- | --- | --- |
-| `Figueira Podra` | frühere Lesung der Taufen 1879/1886/1897 | kann dasselbe Wortende meinen |
-| `Figueiras Podres` / `Figueira Podres` | historischer Ortsname; Blatt; OSM; im Akt 1879 und 1886 das Wortende **-es** | bleibt **am Ereignis** (`Figueiras Podres`) |
+| `Figueira Podra` | Taufe João 1879: Wortende **-a** | am Ereignis 1879 diese Form |
+| `Figueiras Podres` / `Figueira Podres` | historischer Ortsname; Blatt; OSM; Taufe Joaquina 1886 Wortende **-es** | bleibt **am Ereignis** (`Figueiras Podres`) |
 | `Figueiras de S. João` | heutige Zuordnung | Ortsregister, nicht statt der historischen Form auf die Karte |
 
 **Podres**, nicht **Podre**. Das -s gehört zum Ortsnamen (plural). `Podre`
@@ -104,16 +108,18 @@ Beide Formen passen zu den jeweiligen Blattkarten, außer bei
 Margarida, deren Blatt `Santa Eufémia` schreibt. João Teixeira 1879
 wurde im Weiler **Cabeça Redonda** geboren, nicht nur „in Cumeeira“.
 
-### SARRAZINA / SÃO COSME
+### SARRA- / [Z]EIRA / SÃO COSME
 
-Quellenform der **Paten** an der Taufe João, 22.10.1879, Cumeeira:
-`Sarrazina`, Pfarrei São Cosme. Das sind **nicht** die Eltern.
+Patenzeile der Taufe João, 22.10.1879, Cumeeira (`m0016`, 1402×1000).
+Ortsname umbrochen `Sarra-` / `[z]eira`, Pfarrei São Cosme. Das ganze
+Wort ist **nicht** fest (`Sarrazeira` bessere Buchstabenfolge,
+`Sarrazina` Alternative). Das sind **nicht** die Eltern.
 
 | Person im Eintrag | Herkunft 1879 |
 | --- | --- |
 | Custodio Teixeira (Vater) | natürlich `Figueira Podra`, wohnhaft Cabeça Redonda |
 | Joana de Jesus (Mutter) | natürlich und wohnhaft Cabeça Redonda |
-| João da Cruz × Tochter Maria da Conceição (Paten) | `Sarrazina`, Pfarrei São Cosme |
+| João da Cruz × Tochter Maria da Conceição (Paten) | umbrochen `Sarra-`/`[z]eira`, Pfarrei São Cosme |
 
 **Sarzedela** liegt geografisch in derselben heutigen Freguesia
 Ansião wie Figueiras de São João und Torre de Vale de Todos (OSM
@@ -122,12 +128,11 @@ de Ansião). Das macht den Verdacht plausibel. Die Gleichsetzung
 hängt aber an der Handschrift.
 
 Auf dem vorliegenden Scan (`PNL01-002-0024_m0016`, 1402×1000,
-höchste öffentliche AUC-Ableitung; siehe [archiv/](archiv/README.md)) bleibt
-die sicherere Lesung `Sarrazina` … `São Cosme`. `Sarzedela` bräuchte
-ein klares `d` und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião**
-(PANS02, Orago Nossa Senhora da Conceição), nicht São Cosme. Beides
-ist hier nicht gesichert. Deshalb wird Sarzedela **nicht** als
-gelesen gesetzt.
+höchste öffentliche AUC-Ableitung; siehe [archiv/](archiv/README.md))
+bleibt das ganze Ortswort offen. `Sarzedela` bräuchte ein klares `d`
+und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião** (PANS02, Orago
+Nossa Senhora da Conceição), nicht São Cosme. Beides ist hier nicht
+gesichert. Deshalb wird Sarzedela **nicht** als gelesen gesetzt.
 
 In der Nähe von Cumeeira / Ansião gibt es **keine** Pfarrei São Cosme
 (nicht in Penela, Ansião, Condeixa, Miranda do Corvo, Soure, LAR).
@@ -135,8 +140,8 @@ In der Nähe von Cumeeira / Ansião gibt es **keine** Pfarrei São Cosme
 | Kandidat | ungefähre Lage | Passt zum Patenort? |
 | --- | --- | --- |
 | **Sarzedela**, Freguesia Ansião | 5–8 km, Nachbar von Figueiras de S. João | Lage ja; Pfarrei 1879 ist Ansião (N.S. da Conceição), nicht São Cosme |
-| **Serrazina**, Pfarrei Ega (Condeixa) | ~20 km westlich | Ortsname nah an `Sarrazina`; Orago N.S. da Graça, nicht São Cosme |
-| **Póvoa de São Cosme**, Ervedal (Oliveira do Hospital) | ~70 km nordöstlich | einziger São-Cosme-Ort im Distrikt Coimbra; Pfarrei ist Ervedal, kein `Sarrazina` dort |
+| **Serrazina**, Pfarrei Ega (Condeixa) | ~20 km westlich | Ortsname nah an der umbrochenen Zeile; Orago N.S. da Graça, nicht São Cosme |
+| **Póvoa de São Cosme**, Ervedal (Oliveira do Hospital) | ~70 km nordöstlich | einziger São-Cosme-Ort im Distrikt Coimbra; Pfarrei ist Ervedal, kein passender Weiler dort |
 | Nabais / Aldeias (São Cosme), Gouveia | ~90 km | echte Pfarreien São Cosme, aber außerhalb des üblichen Radius und ohne Sarzedela |
 | Gondomar / Vale (Famalicão) | 140–160 km | echte Pfarreien, zu weit für caseiro-Paten aus Cabeça Redonda |
 
@@ -194,7 +199,7 @@ Aktenordnern.
 
 Fotokopien der Conservatória Ansião (Auftraggeber, 5712×4284):
 [archiv/conservatoria-ansiao/](archiv/conservatoria-ansiao/README.md).
-Noch nicht festgelesen.
+`01.jpg`–`09.jpg` festgelesen ([G2-Blätter](evidenz/linie-torre/)).
 
 DigitArq-Dateien sind meist schon eine **Doppelseite** (verso +
 recto). Reicht der Eintrag über die Bildgrenze, kommt die

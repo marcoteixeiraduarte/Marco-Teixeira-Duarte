@@ -26,10 +26,10 @@ suchen, nicht im Kirchenbuch:
 
 | Blatt | Status |
 | --- | --- |
-| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911; Fotokopien Conservatória Ansião in [archiv/conservatoria-ansiao/](../archiv/conservatoria-ansiao/README.md), noch nicht festgelesen |
-| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911; dieselben Fotokopien, noch nicht festgelesen |
-| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos, nicht fremder Sterbeort. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
+| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Geburt **passt** (CRC N.º 215, `Ribeira de Ansião`). Eltern João Teixeira × Maria José dos Santos. Tod: Rand `cinco de Junho`, `Angónia`, Moçambique; Assento 481-A **1985** (Lissabon). Blatt-Jahr 1973 gegen den Sterbeakt halten |
+| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Geburt **passt** (CRC N.º 22). Randtod **26.04.1983**, Santo António dos Olivais — Blatt 1973 **nicht** dieser Rand |
+| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Heirat 16.04.1937 mit Palmira **passt**; Todestag 15.11.1996 auf den Rändern. Eigene Geburt Assento 320/1914 **nicht** im Fotosatz. Ortsform der Heirat `Pragosa` |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Geburt **passt** (N.º 69, `Pragoza`). Tod 16.12.1999 in der freguesia Torre de Vale de Todos. Mutter auf dem Akt `Joaquina Reis` |
 
 ### 3.º avós
 
@@ -46,15 +46,19 @@ João
 
 Eltern **Custodio Teixeira** × **Joana de Jesus** – **passen** zum
 Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
-**Cabeça Redonda**. Vater natürlich aus `Figueira Podra`. Großeltern
-dort: **Jozé Simão Teixeira** × **Maria Forte**; **Joaquim de
-Carvalho** × **Maria de Jesus**. Die Paten João da Cruz und Maria da
-Conceição stehen mit `Sarrazina`, Pfarrei São Cosme – das ändert den
-Elternort nicht.
+**Cabeça Redonda**. Vater natürlich aus `Figueira Podra` (Wortende
+**-a**). Großeltern dort: **Jozé Simão Teixeira** × **Maria Forte**;
+**Joaquim Carvalho** (ohne `de`) × **Maria de Jesus**. Die Paten
+João da Cruz und Maria da Conceição: Ortsname umbrochen `Sarra-` /
+`[z]eira`, Pfarrei São Cosme — ganzes Wort **nicht** fest; das
+ändert den Elternort nicht.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
-Offen. Eltern: `Pais de Maria José por confirmar`.
+Geburt 1913 des Sohnes: Mutter **Maria José dos Santos**, 25 Jahre,
+natürlich Ansião. Ihre Eltern dort: **Manuel dos Santos × Maria
+Thereza**. Eigene Taufe offen. Blatt-`~1884` gegen 25 Jahre im
+September 1913 eher ~1888.
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
@@ -129,23 +133,29 @@ Manuel
 ```
 
 `São Jorge` ist die Kapelle im Weiler Vale de Todos (Pfarrei Torre),
-kein eigener ferner Ort. **filho natural** der **Anna de Jesus Matta**. Vater ungenannt –
-**passt** zum Blatt. `Matta` steht bei der Mutter. Tod: Randvermerk
-nennt den **15.** und ist 1946 in Ansião nachgetragen; Blatt
-`† 15.02.1946` ist die Richtung. Heirat mit **Joaquina Ramalho**
-(Randvermerk).
+kein eigener ferner Ort. **filho natural** der **Anna de Jesus Matta**.
+Vater ungenannt – **passt** zum Blatt. `Matta` steht bei der Mutter.
+Großvater **Antonio Rodrigues Avelheiro** (nicht Molheiro).
+
+Zwei Randvermerke, nicht vermischen: Heirat mit **Joaquina Ramalho**,
+Averbação **14.07.1946** n.º 126; Tod **15. Februar** (Jahr nicht
+neben dem Tag), Averbação **16.07.1958** n.º 93. Blatt
+`† 15.02.1946` zieht das Heirats-Averbação-Jahr auf den Todestag.
 
 #### Joaquina Ramalha dos Reis
 
-Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
-**Angelica Maria Leal**.
+Eigene Taufe offen. Auf der Geburt der Tochter Palmira 1912 und der
+Heirat 1937: **Joaquina Reis**. Deren Eltern dort **José Reis ×
+Maria Ramalho**, `Pragoza`. Blatt **Manuel Dias Ramalho × Angelica
+Maria Leal** steht auf diesen Akten nicht; die beiden Angaben werden
+nicht zusammengelegt.
 
 ### 4.º avós (ramo materno)
 
 | Blatt | Quelle / Status |
 | --- | --- |
-| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
-| Pais de Maria José por confirmar | offen |
+| Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim Carvalho** (ohne `de`) × **Maria de Jesus** (Cabeça Redonda) |
+| Pais de Maria José por confirmar | **Manuel dos Santos × Maria Thereza** (Geburt Manuel 1913). Eigene Taufe Maria Josés offen |
 | Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |
@@ -153,7 +163,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
-| Manuel Dias Ramalho × Angelica Maria Leal | offen |
+| Manuel Dias Ramalho × Angelica Maria Leal | **nicht** auf den Conservatória-Akten 1912/1937. Dort: **José Reis × Maria Ramalho** als Eltern der Joaquina Reis |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
 **Rosa Maria**. Das entspricht dem Sterbeakt 1903 (`Manuel Pedro dos
@@ -247,7 +257,8 @@ Identität.
 | --- | --- | --- |
 | `Pragosa` bei José Maria 1880 | Taufe: `Valle de Todos` | Ort ersetzen |
 | `Pragosa` bei Maria da Piedade (fehlt auf dem Blatt) | Taufe 1878: `Pragoza` | `Pragoza` setzen |
-| `Pragosa` bei José Mendes 1914, Palmira 1912 | diese Einträge hier nicht geprüft | erst Quelle, dann Form |
+| `Pragosa` bei José Mendes 1914 | Geburt 320/1914 nicht im Fotosatz; Heirat 1937: `Pragosa` | Heiratsform belassen; Geburt offen |
+| `Pragoza` bei Palmira 1912 | CRC N.º 69: `Pragoza` | Quellenform `Pragoza` |
 | `Pragosa` bei Maria Célia 1959 | Zivilstand | heutige Form möglich |
 | `Pragosa` als Weiler der Reis-Linie 1896/1903 | Sterbeakten: `Pragoza` | Quellenform `Pragoza` |
 | `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); Taufen auch `Figueira Podra` / `Figueira Podres`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
@@ -258,7 +269,10 @@ Identität.
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
 | `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira (LAR) | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |
 | `São Jorge` bei Manuel 1872 und bei † José Mendes / Palmira | Taufe: `logar de São Jorge` der Pfarrei Torre; lokal die Kapelle in Vale de Todos | Quellenform belassen; nicht mit Chão de Couce oder Porto de Mós zusammenwerfen |
-| `Ribeira`, `Angónia`, `Penela`, `Coimbra`, `Lübeck` | hier nicht gegen Kirchenbuch dieses Ereignisses gehalten | offen bzw. Zivilstand |
+| `Ribeira` | CRC 1913: `Ribeira de Ansião` | Quellenform |
+| `Angónia` | Todesrand Manuel: `Angónia`, Moçambique; Assento 481-A de 1985 (Lissabon) | Ort sicher; Todesjahr gegen den Sterbeakt |
+| `Coimbra` bei Maria Emilia | Randtod Santo António dos Olivais, **26.04.1983** | Blatt `22.04.1973` nicht dieser Rand |
+| `Penela`, `Lübeck` | hier nicht gegen diesen Akt gehalten | offen bzw. Zivilstand |
 
 ## Zuerst auf dem Blatt zu ändern
 
@@ -282,4 +296,15 @@ Identität.
     (LAR / Lagarteira); Mutter ohne erzwungenes `Contente`.
 13. Anna: Taufname **Anna**, `* 15.06.1845 · Valle de todos`;
     `da Piedade` erst 1880.
-14. Manuel Matta: `* 26.07.1872 · São Jorge`; `Matta` bei der Mutter.
+14. Manuel Matta: `* 26.07.1872 · São Jorge`; `Matta` bei der Mutter;
+    Großvater `Avelheiro`; Blatt-`† 15.02.1946` nicht als Sterbejahr
+    übernehmen.
+15. Maria Emilia: Randtod **26.04.1983**, Santo António dos Olivais —
+    nicht Blatt `22.04.1973`.
+16. Joaquina auf 1912/1937: **Joaquina Reis**; Eltern dort **José Reis ×
+    Maria Ramalho**. Blatt `Manuel Dias Ramalho × Angelica Maria Leal`
+    nicht mit diesem Paar zusammenlegen.
+17. Heirat Teixeira × Guiomar: Akt **26.08.1937**; Ränder **25.08.1937**.
+    Ereignisdatum vom Heiratsakt.
+18. Maria José dos Santos: Eltern **Manuel dos Santos × Maria Thereza**;
+    Blatt-`~1884` gegen 25 Jahre im September 1913 eher ~1888.
