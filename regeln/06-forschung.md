@@ -69,6 +69,24 @@ Dabei gilt:
 - Erst wenn eine Kante unklar ist, beginnt gezielte neue Recherche. Sichere Bereiche werden nicht voraussetzungslos neu durchsucht.
 - Bei komplexen Anschlüssen ist ein kurzer Beweisgang festzuhalten: Quellen dafür, Gegenbelege/Widersprüche, Korrelation, Schlussfolgerung, verbleibende Lücke und Gewissheitsgrad.
 
+### Materialerhalt
+
+**Jede Person und jeder genealogisch relevante Scan ist wertvoll und wird abgelegt.**
+
+Ein Fund wird nicht gelöscht, nur weil sein Anschluss an den Stamm noch offen,
+eine frühere Zuordnung falsch oder seine Bedeutung noch unklar ist. Scan und
+Personenfund bleiben als Forschungsbestand erhalten; Interpretation,
+Personenidentität und Verwandtschaftskante werden davon getrennt geführt.
+
+- Originalscans werden mit Herkunft, Signatur und Fundkontext abgelegt.
+- Noch nicht zuordenbare Personen bleiben als eigener Fund/Kandidat erhalten.
+- Dubletten oder konkurrierende Identitäten werden nicht durch Löschen „bereinigt“,
+  solange nicht geklärt ist, was die Quellen tatsächlich tragen.
+- Eine widerlegte Schlussfolgerung darf verworfen werden; das zugrunde liegende
+  Quellenmaterial bleibt erhalten.
+- Reorganisation darf Material verschieben oder besser erschließen, aber nicht
+  still verlieren lassen.
+
 So bleibt die gewachsene Forschung erhalten, während jeder tragende Anschluss
 nachprüfbar wird.
 
