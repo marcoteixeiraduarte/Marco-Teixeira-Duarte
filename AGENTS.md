@@ -1,8 +1,10 @@
-# Agenten — Chat und Cloud
+# Agenten — Desktop, App und Cloud
 
-Dieses Repo ist das gemeinsame Gedächtnis. Ein Chat auf dem Handy
-und ein Cloud-Agent sehen **nur**, was in Git auf `master` (oder im
-aktuellen PR) liegt. Gespräche sind keine Ablage.
+Dieses Repo ist das gemeinsame Gedächtnis. Desktop (Cursor am
+Rechner), App (Handy) und Cloud-Agent sehen **nur**, was in Git
+auf `master` (oder im aktuellen PR) liegt — außer der Lauf
+läuft auf dem Rechner (Remote Control oder My Machines).
+Gespräche sind keine Ablage.
 
 ## Pflicht vor jeder Arbeit
 
@@ -28,7 +30,7 @@ Ohne diesen Rückweg ist der Fund für den nächsten Agenten verloren.
 
 | Ort | Rolle |
 | --- | --- |
-| [`STAND.md`](STAND.md) | Handoff zwischen Chat und Cloud |
+| [`STAND.md`](STAND.md) | Handoff zwischen Desktop, App und Cloud |
 | [`regeln/`](regeln/README.md) | Arbeitsregeln, erweiterbar |
 | [`ERKENNTNISSE.md`](ERKENNTNISSE.md) | gesicherter Forschungsstand auf `master` |
 | [`evidenz/`](evidenz/README.md) | Einzelblätter + Suchprotokoll |
@@ -37,11 +39,25 @@ Ohne diesen Rückweg ist der Fund für den nächsten Agenten verloren.
 | [`stammbaum/`](stammbaum/README.md) | Blattprüfung, nur bisavós und älter |
 | `00_Arbeitsordner/` | nur lokal, nicht in Git |
 
+## Desktop und App
+
+Kein Geräte-Pairing. Dieselbe Cursor-Anmeldung, dieses Repo.
+
+- **Cloud / App ohne Mac:** nur Git. `~/.cursor/rules` und
+  `00_Arbeitsordner/` sind unsichtbar.
+- **Mac steuern:** am Desktop Remote Control an, dann
+  `/remote-control`; oder Worker im Checkout dieses Repos, in
+  der App **My Machines**.
+- Eine schon laufende Cloud-Sitzung hängt nicht nachträglich
+  an den Rechner. Nächsten Agenten neu starten und den Mac wählen.
+
+Schritte: [`regeln/06-geraete.md`](regeln/06-geraete.md).
+
 ## Cursor Cloud
 
-Cloud liest dieselben Dateien wie Chat, sobald sie **committed** sind.
-User-Rules im Cursor-Konto gelten zusätzlich; `~/.cursor/rules` auf
-einem Laptop gilt in der Cloud **nicht**.
+Cloud liest dieselben Dateien wie die App, sobald sie **committed**
+sind. User-Rules im Cursor-Konto gelten zusätzlich; `~/.cursor/rules`
+auf einem Laptop gilt in der Cloud **nicht**.
 
 Vor dem Branch: `git fetch origin master`, wenn der Stand auf dem
 neuesten `master` aufbauen soll.

@@ -15,6 +15,7 @@ auf `master` committed sind.
 | [03-ablage.md](03-ablage.md) | Wohin Dateien kommen |
 | [04-privat.md](04-privat.md) | Was nie nach GitHub / Geni / MyHeritage |
 | [05-suche.md](05-suche.md) | Suchen protokollieren, nicht doppelt |
+| [06-geraete.md](06-geraete.md) | Desktop, App, Cloud; Remote Control / My Machines |
 | [AENDERUNGEN.md](AENDERUNGEN.md) | Jede Regeländerung, älteste unten |
 
 ## Eine Regel anpassen

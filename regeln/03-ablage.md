@@ -1,6 +1,8 @@
 # 03 — Ablage in GitHub
 
-Damit Chat und Cloud dieselbe Mappe sehen.
+Damit Desktop, App und Cloud dieselbe Mappe sehen.
+Rechner-Verbindung (Remote Control / My Machines):
+[`06-geraete.md`](06-geraete.md).
 
 ## Git ist die Mappe
 
