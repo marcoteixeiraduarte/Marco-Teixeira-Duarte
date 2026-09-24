@@ -47,7 +47,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | PR | Thema |
 | --- | --- |
-| dieser Branch | Desktop/App-Regel 06; nicht mergen, bis Gegenlese |
+| [#26](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/26) | Desktop/App-Regel 06; nicht mergen, bis Gegenlese |
 | [#18](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/18) | Integrationsstand |
 | [#17](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/17) | Torre-Kinder / Leal |
 | [#16](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/16) | GEDCOM-Abgleich |
@@ -58,6 +58,6 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
-| 2026-09-24 | Desktop und App: kein Pairing. Cloud sieht nur Git. Mac nur Remote Control oder My Machines im Checkout dieses Repos. Laufende Cloud-Sitzung nicht umhängen. | 06-geraete |
+| 2026-09-24 | Desktop und App: kein Pairing. Cloud sieht nur Git. Mac nur Remote Control oder My Machines im Checkout dieses Repos. Laufende Cloud-Sitzung nicht umhängen. | #26 |
 | 2026-09-24 | Ablage auf `master` (PR #21). Issues #19/#20 in GitHub noch offen. | #21 |
 | 2026-09-24 | Gemeinsame Ablage: `AGENTS.md`, `STAND.md`, `regeln/`, Issue-/PR-Vorlagen, Suchprotokoll | dieser Branch |
