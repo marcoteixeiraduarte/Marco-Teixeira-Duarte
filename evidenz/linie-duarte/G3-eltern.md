@@ -31,5 +31,9 @@ Quelle: [G2-joaquina-ignacia](G2-joaquina-ignacia.md)
 
 ## Nächster Rückwärtsschritt
 
-Taufen und Heirat von António Duarte × Thereza Freire und von António Freire Bicho × Maria Ignácia in Cumeeira suchen.
+Taufen und Heirat von António Duarte × Thereza Freire: zuerst Cumeeira,
+dann **Carrasqueiras Ansião** (Pfarrei Ansião, Lagarteira, Chão de
+Couce). Manuels PLAC nicht nach Ansião umschreiben, solange der Akt
+`desta freguesia` sagt. Siehe
+[carrasqueiras-ansiao.md](carrasqueiras-ansiao.md).
 Noch kein Avelar- oder Torre-Eintrag an diese Generation hängen.

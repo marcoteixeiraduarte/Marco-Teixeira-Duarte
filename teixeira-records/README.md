@@ -19,22 +19,21 @@ Coimbra. Schreibweisen folgen dem Eintrag.
 - mütterliche Großeltern: **Joaquim de Carvalho** und **Maria de Jesus**,
   aus Cabeça Redonda
 - Paten: **João da Cruz**, verheiratet, und dessen Tochter
-  **Maria da Conceição**, ledig, aus `Sarrazina`, Pfarrei São Cosme
+  **Maria da Conceição**, ledig, `naturaes moradores nas
+  Carrasqueiras`, Pfarrei **Chão de Couce** (Zeilenumbruch `m0016`).
+  Ältere Lesung `Sarrazina` / São Cosme derselben Zeile verworfen.
 
 Das Blatt-Datum `* 13.10.1879` **passt**. Der Blattort `Cumeeira` ist
 die Pfarrei; der Weiler im Eintrag ist **Cabeça Redonda**. Die
 Blatteltern **Custódio Teixeira** × **Joana de Jesus** **passen**
 (Quellenform des Vaters: `Custodio`).
 
-`Sarrazina` / São Cosme steht **nur bei den Paten**. Vater, Mutter und
-beide Großelternpaare bleiben in Cabeça Redonda bzw. Figueira Podra.
-Die Pfarrei São Cosme ist unter den Nachbarpfarreien nicht gefunden.
-**Sarzedela** (heutige Freguesia Ansião, Nachbar von Figueiras de
-S. João) ist geografisch plausibel, an dieser Handschrift aber
-**nicht** gesichert: die sicherere Lesung bleibt `Sarrazina` /
-São Cosme; Sarzedela gehörte 1879 zur Pfarrei Ansião (Orago Nossa
-Senhora da Conceição). Der Suchradius für Custodio × Joana steigt
-dadurch nicht.
+`Carrasqueiras` / Chão de Couce steht **nur bei den Paten**. Vater,
+Mutter und beide Großelternpaare bleiben in Cabeça Redonda bzw.
+Figueira Podra. Kein FAMC. Nicht mit Duarte `* 1885 Carrasqueiras
+desta freguesia` (Cumeeira) und nicht mit dem Zeugen 1907
+(`freguezia e concelho de Anciao`) glätten. Siehe
+[carrasqueiras-ansiao](../evidenz/linie-duarte/carrasqueiras-ansiao.md).
 
 Quelle:
 

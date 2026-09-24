@@ -11,7 +11,7 @@
 | Seine Eltern | António Duarte × Thereza Freire, Carrasqueiras | sicher |
 | Braut | Joaquina Ignácia, 21, ledig, agricultora, Cabeça Redonda | sicher |
 | Ihre Eltern | António Freire Bicho × Maria Ignácia | sicher |
-| Zeugen | José dos Santos, verheiratet, Carrasqueiras; Manuel Freire Bicho, ledig, Cabeça Redonda | sicher |
+| Zeugen | **José dos Santos**, verheiratet, Carrasqueiras, **freguesia e concelho de Ansião**; **Manuel Freire Bicho**, ledig, Cabeça Redonda **desta freguesia** | sicher |
 
 ## Quellen
 
@@ -33,6 +33,17 @@ Archiv: `PT/AUC/PAR/PNL01/003/0051`
 ### Transkript Datum
 
 > Aos treze dias do mez de Novembro do anno de mil nove centos e sete
+
+### Transkript Zeugen (m0016, Akt 9)
+
+> Foram testemunhas presentes […] José dos Santos, casado, das
+> Carrasqueiras, freguezia e concelho de Anciao desta diocese, e
+> Manuel Freire Bicho, solteiro, da Cabeça Redonda desta freguezia
+
+Bräutigam: `nas Carrasqueiras desta freguesia` (Cumeeira). Zeuge:
+Carrasqueiras **Ansião**. Paten João 1879: Carrasqueiras **Chão de
+Couce**. Die drei Formeln nicht glätten. Siehe
+[carrasqueiras-ansiao.md](carrasqueiras-ansiao.md).
 
 Der Randvermerk über Manuels Tod nennt den 30. September. Blatt und
 festgehaltenes Averbamento setzen das Jahr auf **1962** (Ansião). Eine

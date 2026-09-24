@@ -53,8 +53,9 @@ Blatt. Der Blattort `Cumeeira` ist die Pfarrei; der Weiler ist
 **Cabeça Redonda**. Vater natürlich aus `Figueira Podra`. Großeltern
 dort: **Jozé Simão Teixeira** × **Maria Forte**; **Joaquim de
 Carvalho** × **Maria de Jesus**. Die Paten João da Cruz und Maria da
-Conceição stehen mit `Sarrazina`, Pfarrei São Cosme – das ändert den
-Elternort nicht.
+Conceição stehen mit `Carrasqueiras`, Pfarrei **Chão de Couce** (nur
+Paten; ältere Lesung Sarrazina/São Cosme verworfen) – das ändert den
+Elternort nicht. Kein FAMC.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
@@ -270,7 +271,7 @@ Identität.
 | `Figueiras Podres` | historischer Name (**Podres**, nicht Podre); Taufen auch `Figueira Podra` / `Figueira Podres`; heute `Figueiras de S. João` | **ein Ort**. Am Ereignis `Figueiras Podres` belassen |
 | `Cumeeira` bei João Teixeira 1879 | Taufe: Weiler `Cabeça Redonda` | Weiler setzen; Pfarrei bleibt Cumeeira |
 | `Santa Eufémia` bei Margarida 1897 | Taufe: Cabeça Redonda / Cumeeira | ersetzen |
-| `Carrasqueiras`, `Cabeça Redonda` | Taufen Manuel 1885, Joaquina 1886 | passen |
+| `Carrasqueiras`, `Cabeça Redonda` | Manuel 1885/1907: Carrasqueiras **desta freguesia** (Cumeeira); Zeuge 1907: **Ansião**; Paten João 1879: **Chão de Couce** — nicht glätten | siehe [carrasqueiras-ansiao.md](../evidenz/linie-duarte/carrasqueiras-ansiao.md) |
 | `Vale de Todos` (heutige Karten) | Taufen 1878/1880: `Valle de Todos` | Quellenform am Ereignis |
 | `Ansião` | Taufe 1880: `Anciao` | heutige Form ins Ortsregister |
 | `Pião` bei Maria Helena 1882 | Taufe: `Valle do Pião`, Pfarrei Lagarteira (LAR) | Weiler setzen; Pfarrei ist Lagarteira, nicht Torre |

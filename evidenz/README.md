@@ -34,6 +34,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 
 - `linie-duarte/` — Urgroßeltern und die in ihren Taufen genannten Eltern
 - `linie-duarte/AUC-coimbra-jose-freire-bicho.md` — zwei Suchen: Heirat 1922 Nr. 94 (Bräutigam 1857–1907) ≠ Geburt des Opa (um 1922)
+- `linie-duarte/carrasqueiras-ansiao.md` — drei Pfarreiformeln (Cumeeira / Ansião / Chão de Couce); nicht glätten; PR #14 nicht gemergt
 - `linie-torre/` — Narciza, Caetana, Avelar-Kandidaten
 - `linie-torre/conservatoria-ansiao-bisavos.md` — Wortlaut Conservatória Ansião, Bisavós *1912–1915
 - `quellenregister.md` — alle versionierten Scans

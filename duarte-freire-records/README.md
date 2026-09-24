@@ -15,8 +15,9 @@ wiedergegeben.
   Carrasqueiras
 - väterliche Großeltern: **Manoel Duarte** und **Joaquina de Jesus**
 - mütterliche Großeltern: **Manoel Silva** und **Maria Freire**
-- Paten: **João dos Santos** und dessen Ehefrau **Joaquina Freire**, aus
-  Carrasqueiras
+- Paten: **José dos Santos** und dessen Ehefrau **Joaquina Freire**, aus
+  Carrasqueiras (dieselbe Namensform wie der Zeuge 1907; Identität
+  nicht gesetzt)
 
 Quelle:
 
@@ -53,12 +54,16 @@ Quelle:
 
 - **13. November 1907** in Cumeeira, Eintrag Nr. 9
 - beide 21 Jahre alt, ledig und in der Landwirtschaft tätig
-- Manuel: geboren und wohnhaft in **Carrasqueiras**
+- Manuel: geboren und wohnhaft in **Carrasqueiras desta freguesia**
+  (Cumeeira)
 - Joaquina: geboren und wohnhaft in **Cabeça Redonda**
 - Eltern Manuels: **António Duarte** und **Thereza Freire**
 - Eltern Joaquinas: **António Freire Bicho** und **Maria Ignácia**
-- Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras, Pfarrei
-  Ansião, und **Manuel Freire Bicho**, ledig, aus Cabeça Redonda
+- Zeugen: **José dos Santos**, verheiratet, aus Carrasqueiras,
+  **freguesia e concelho de Ansião**, und **Manuel Freire Bicho**,
+  ledig, aus Cabeça Redonda **desta freguesia** (Cumeeira). Die zwei
+  Carrasqueiras-Zuordnungen nicht glätten
+  ([carrasqueiras-ansiao](../evidenz/linie-duarte/carrasqueiras-ansiao.md))
 - laut späterem Randvermerk / Averbamento wurde die Ehe durch Manuels Tod
   am **30. September 1962** in Ansião aufgelöst; das Stammbaumblatt führt
   dasselbe Datum. Eine zwischenzeitliche Lesung 1964 war falsch. Der

@@ -273,7 +273,11 @@
 2 DATE 13 OCT 1879
 2 PLAC Cabeça Redonda, São Sebastião da Cumeeira, Penela
 2 NOTE Taufe Nr. 42, 22.10.1879. Blattort Cumeeira ist die Pfarrei; Weiler ist
-3 CONT Cabeça Redonda. PT/AUC/PAR/PNL01/002/0024.
+3 CONT Cabeça Redonda. Paten João da Cruz × Maria da Conceição: Carrasqueiras,
+3 CONT freguesia de Chão de Couce (Zeilenumbruch m0016). Ältere Lesung
+3 CONT Sarrazina/São Cosme derselben Zeile verworfen. Kein FAMC. Nicht mit
+3 CONT Duarte-Carrasqueiras Cumeeira und nicht mit Zeuge 1907 Ansião glätten.
+3 CONT PT/AUC/PAR/PNL01/002/0024.
 2 SOUR @S2@
 1 CHR
 2 DATE 22 OCT 1879
@@ -292,6 +296,8 @@
 3 CONT Eltern im Akt: Nachname dos Santos und Maria Thereza. Vorname des
 3 CONT Großvaters (Francisco José / andere Lesung) am Scan nicht eindeutig —
 3 CONT deshalb keine FAMC. Draft-PR #11 (Francisco José) nicht übernommen.
+3 CONT José dos Santos (Pate Manoel 1885 / Zeuge Heirat 1907, Carrasqueiras)
+3 CONT nicht als Vater gesetzt.
 2 SOUR @S5@
 1 FAMS @F8@
 0 @I32@ INDI
@@ -425,7 +431,12 @@
 1 BIRT
 2 DATE 19 NOV 1885
 2 PLAC Carrasqueiras, São Sebastião da Cumeeira, Penela
-2 NOTE Taufe Nr. 40, 02.12.1885, 8 Uhr. Taufname Manoel.
+2 NOTE Taufe Nr. 40, 02.12.1885, 8 Uhr. Taufname Manoel. Ort: lugar das
+3 CONT Carrasqueiras. Heirat 1907: natural e morador nas Carrasqueiras desta
+3 CONT freguesia (Cumeeira, Penela). Nicht umschreiben nach Ansião. Der Zeuge
+3 CONT José dos Santos derselben Heirat ist das Carrasqueiras der freguesia e
+3 CONT concelho de Ansião. Paten João 1879: Carrasqueiras, Chão de Couce.
+3 CONT Die drei Formeln nicht glätten.
 3 CONT PT/AUC/PAR/PNL01/002/0030.
 2 SOUR @S2@
 1 CHR
@@ -654,8 +665,10 @@
 0 @I70@ INDI
 1 NAME António /Duarte/
 1 SEX M
-1 NOTE Sicher als Vater Manuel 1885 und in der Heirat 1907. Carrasqueiras.
-2 CONT Eigene Taufe nicht belegt.
+1 NOTE Sicher als Vater Manuel 1885 und in der Heirat 1907: naturaes das
+2 CONT Carrasqueiras (Cumeeira-Akt). Eigene Taufe nicht belegt. Nächste Suche
+2 CONT Carrasqueiras Ansião (Lagarteira / Chão de Couce / Pfarrei Ansião),
+2 CONT ohne Manuels PLAC zu ändern.
 1 FAMS @F19@
 1 FAMC @F33@
 0 @I71@ INDI
@@ -1088,6 +1101,9 @@
 2 DATE 13 NOV 1907
 2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
 2 NOTE Akt Nr. 9. Beide 21, ledig, Landwirtschaft. PT/AUC/PAR/PNL01/003/0051.
+3 CONT Bräutigam: Carrasqueiras desta freguesia (Cumeeira). Zeuge José dos
+3 CONT Santos: Carrasqueiras, freguezia e concelho de Anciao. Paten João 1879:
+3 CONT Carrasqueiras, Chão de Couce. Die drei Formeln nicht glätten.
 3 CONT Kind José Duarte (I5) nur Blatt, nicht im Kirchenbuch dieser Heirat.
 1 NOTE Heirat kirchenbuchsicher. Kindschaft José Duarte nur Blatt (Blatt
 2 CONT ~1926; Auftraggeber: Opa um 1922; kein Zivilakt, nicht glätten).

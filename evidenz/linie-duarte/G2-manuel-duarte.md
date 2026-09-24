@@ -32,3 +32,6 @@
 ## Anschluss vorwärts
 
 Heirat mit Joaquina Ignácia: [G2-heirat-1907](G2-heirat-1907.md).
+Ort Carrasqueiras: [carrasqueiras-ansiao.md](carrasqueiras-ansiao.md)
+(Pfarrei Cumeeira; nicht die Paten João 1879 in Chão de Couce und
+nicht den Zeugen 1907 in Ansião).

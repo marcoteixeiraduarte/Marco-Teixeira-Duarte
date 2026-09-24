@@ -63,6 +63,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Figueiras Podres | **ein** Ort (mit **-s**); heute Figueiras de S. João; Taufen auch `Figueira Podra` |
 | Joaquina Maria / Silvéria / Ignácia (ältere Frau) | nicht zu einer Person zusammenführen |
 | Lesung mütterlicher Großvater Therezas | Manoel Dias / Freire / Silva – offen |
+| Carrasqueiras | 1885/1907 Bräutigam `desta freguesia` (Cumeeira) ≠ Zeuge 1907 `freguesia e concelho de Ansião` ≠ Paten João 1879 `Chão de Couce`. Nicht glätten. Draft-PR #14 nicht gemergt |
 
 ---
 
