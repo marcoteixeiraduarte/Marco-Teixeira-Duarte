@@ -1,8 +1,7 @@
 # Stand — Handoff Chat ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (Ablage übernommen, PR #21 bereit).
-Basis: `master` bei `ff8ce93`. Dieser Lauf hält die Mappe, bis #21
-auf `master` liegt. Danach liest jeder Chat- und Cloud-Agent sie.
+Letzte Aktualisierung: 2026-09-24 (#21-Korrektur: Gegenlese ≠ Suchschleife).
+Basis: `master` bei `ba743b7` (#21 gemergt).
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
 derselben Arbeit fort. Ältere Zeilen nicht löschen, oben ergänzen.
@@ -20,7 +19,11 @@ derselben Arbeit fort. Ältere Zeilen nicht löschen, oben ergänzen.
 Offene Liste ausführlich: [`ERKENNTNISSE.md`](ERKENNTNISSE.md) Abschnitt
 «Noch offen». Durchsuchte Fenster: [`evidenz/suchen.md`](evidenz/suchen.md).
 
-## Fest, nicht erneut suchen
+## Fest — nicht blind neu suchen
+
+Gegenlese gegen die Primärquelle bleibt erlaubt, wenn die Zuordnung
+unsicher ist oder neue Evidenz da ist. Anlass festhalten. Ohne Anlass
+nicht dasselbe Fenster noch einmal.
 
 - Duarte-G2: Manuel × Joaquina Ignácia, Heirat 13.11.1907 Cumeeira
 - Manuel † 30.09.1962 Ansião (Blatt/Averbamento; 1964 war Regression)
@@ -38,20 +41,24 @@ Offene Liste ausführlich: [`ERKENNTNISSE.md`](ERKENNTNISSE.md) Abschnitt
 
 ## Offene PRs (nicht `master`)
 
-Entwürfe anderer Läufe. Nicht als Fakt auf `master` übernehmen, bis
-gemergt. Gegenlesen bleibt beim Auftraggeber.
+**Nicht mergen**, bis du [`evidenz/gegenlese-offene-prs.md`](evidenz/gegenlese-offene-prs.md)
+gegenlesen hast. Einziger späterer Einzelkandidat: #13.
 
-| PR | Thema |
-| --- | --- |
-| [#18](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/18) | Integrationsstand |
-| [#17](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/17) | Torre-Kinder / Leal |
-| [#16](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/16) | GEDCOM-Abgleich |
-| [#15](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/15) | Guiomar-Pässe |
-| weitere Drafts | siehe GitHub |
+| PR | Thema | Erster Durchgang |
+| --- | --- | --- |
+| [#18](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/18) | Integrationsstand | nicht mergen (Konflikt #21, Lebende in GEDCOM) |
+| [#17](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/17) | Torre-Kinder / Leal | nicht mergen |
+| [#16](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/16) | GEDCOM | nicht mergen (Lebende/avós, F47) |
+| [#15](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/15) | Guiomar-Pässe | nicht mergen |
+| [#13](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/13) | Sarrazina ≠ Sarzedela | einzeln nach deiner Gegenlese |
+| #9–#12, #14 | diverse Drafts | nicht mergen / später |
 
 ## Log
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-24 | #21-Korrektur: «nicht neu suchen» = keine Schleife, nicht «nicht mehr prüfen». Kette Quelle → Aussage → Person/Ort → Gewissheit. | dieser Branch |
+| 2026-09-24 | Forschungsauftrag als `regeln/06-forschung.md`: Herkunft, eine Frage, begrenzter Bereich, kein Blind-Wiederholen. | dieser Branch |
+| 2026-09-24 | Lebende-Formel; Barreira/avós/Lebende in `auftraggeber-fest.md`. Offene PRs #9–#18: nicht mergen, erster Durchgang in `gegenlese-offene-prs.md`. | dieser Branch |
 | 2026-09-24 | Ablage übernommen: PR #21 nicht mehr Draft, mergebar. Issues #19/#20 schließen sich mit dem Merge. | #21 |
 | 2026-09-24 | Gemeinsame Ablage: `AGENTS.md`, `STAND.md`, `regeln/`, Issue-/PR-Vorlagen, Suchprotokoll | dieser Branch |

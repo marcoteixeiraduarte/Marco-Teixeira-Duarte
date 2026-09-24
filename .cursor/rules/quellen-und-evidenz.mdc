@@ -4,4 +4,4 @@ globs: evidenz/**,archiv/**,stammbaum/**,*-records/**,ERKENNTNISSE.md,README.md
 alwaysApply: false
 ---
 
-Quellenhierarchie und Merge-Verbot: `regeln/01-quellen.md`. Blattaufbau: `regeln/02-evidenz.md` und Vorlage `evidenz/VORLAGE.md`. Schreibweise der maßgeblichen Primärquelle, historische Ortsform am Ereignis. Konkurrierende Lesungen nebeneinander lassen. Beispielblatt: `evidenz/linie-duarte/G2-heirat-1907.md`.
+Quellenhierarchie: `regeln/01-quellen.md`. Forschungsablauf: `regeln/06-forschung.md`. Blattaufbau: `regeln/02-evidenz.md` und Vorlage `evidenz/VORLAGE.md`. Herkunft jedes Wissens nennen. Lesesicherheit und Identität getrennt. Abweichende Lesungen erhalten. Beispielblatt: `evidenz/linie-duarte/G2-heirat-1907.md`.

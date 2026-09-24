@@ -1,33 +1,43 @@
 # 05 — Suche, ohne doppelte Arbeit
 
-Frühere Läufe haben bekannte Fakten neu gesucht. Das ist verboten.
+Ablauf und Grenzen: [`06-forschung.md`](06-forschung.md).
+Hier nur Protokoll und die frühen Bände.
 
 ## Vor der Suche
 
-1. `STAND.md` und `ERKENNTNISSE.md` («Noch offen», «sicher»)
-2. `evidenz/suchen.md` — Fenster, Band, Ergebnis
-3. das vorhandene Personen- oder Ereignisblatt
+Punkt 1 und 4 aus 06. Lesen:
 
-Steht der Fakt schon als `sicher`, nicht noch einmal denselben Band
-durchkämmen, außer der Auftrag heißt ausdrücklich **Gegenlese**.
+1. aktuellen Branch
+2. `STAND.md`, `ERKENNTNISSE.md` (Grundlagen)
+3. die betroffene Personenakte
+4. [`evidenz/suchen.md`](../evidenz/suchen.md) (Suchabdeckung)
+
+Vorhandene Dateien und Lesungen zuerst. Keine Suchschleife ohne
+Anlass. Gezielte Gegenlese: Punkt 3 und Abschnitt «Schleife und
+Gegenlese» in 06.
 
 ## Nach der Suche
 
-Eine Zeile in [`evidenz/suchen.md`](../evidenz/suchen.md), **auch bei
-Nulltreffer**:
+Eine Zeile in [`evidenz/suchen.md`](../evidenz/suchen.md) für den
+**gelesen** Bereich (Punkt 6):
 
-| Datum | Band / Portal | Fenster | Gesucht | Ergebnis |
-| --- | --- | --- | --- | --- |
-| JJJJ-MM-TT | z. B. PANS02 1822–1852 | Taufen 1820–1840 | Roza Maria, Alvorge | kein Treffer / Kandidat / Blatt xy |
+| Datum | Frage | Signatur | Bilder | Lesbarkeit | Ergebnis | Lücken |
+| --- | --- | --- | --- | --- | --- | --- |
+| JJJJ-MM-TT | eine Frage | Band / Akt | Zeitraum, Bildnummern | lesbar / schwer / unleserlich / nicht zugänglich | Fund, Kandidat, oder «nicht gefunden» nur für diesen Bereich | was offen bleibt |
+
+«Nicht gefunden» nur nach gelesenem, lesbarem Bereich.
+Ungelesen, unleserlich, nicht zugänglich: keine Negativbefunde.
 
 Ohne diese Zeile sucht der nächste Agent dieselbe Lücke.
 
 ## Radius
 
-Weiler um Ansião können zur Nachbarpfarrei gehören (Torre, Lagarteira,
-Alvorge, Cumeeira, Chão de Couce, Avelar, Santiago da Guarda). Den
-Radius nicht künstlich auf ein Jahr und eine Kirche quetschen — aber
-jedes ausgeweitete Fenster protokollieren.
+Punkt 5: Geschwister, weitere Jahre, Nachbarpfarreien nur wenn sie
+die aktuelle Frage begründet weiterbringen. Fallgrenze vor
+allgemeiner Weite. Weiler um Ansião können zur Nachbarpfarrei
+gehören (Torre, Lagarteira, Alvorge, Cumeeira, Chão de Couce,
+Avelar, Santiago da Guarda) — das rechtfertigt nicht von selbst
+einen zweiten Band.
 
 ## Frühe Bände
 

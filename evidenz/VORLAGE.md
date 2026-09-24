@@ -10,13 +10,14 @@ Beispiel: [linie-duarte/G2-heirat-1907.md](linie-duarte/G2-heirat-1907.md).
 
 ## Ereignis
 
-| Feld | Wert | Gewissheit |
-| --- | --- | --- |
-| Datum |  |  |
-| Ort (Quellenform) |  |  |
-| Akt / Nummer |  |  |
-| Person |  |  |
-| Eltern / Partner |  |  |
+| Feld | Wert | Lesesicherheit | Identität |
+| --- | --- | --- | --- |
+| Datum |  |  |  |
+| Ort (Quellenform) |  |  |  |
+| Akt / Nummer |  |  |  |
+| Person |  |  |  |
+| Eltern / Partner |  |  |  |
+| Herkunft | Originalakt / Familienunterlage / mündliche Angabe / Schlussfolgerung |  |  |
 
 ## Quellen
 

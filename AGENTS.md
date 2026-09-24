@@ -8,19 +8,26 @@ aktuellen PR) liegt. Gespräche sind keine Ablage.
 
 1. [`STAND.md`](STAND.md) — wo wir stehen, was als Nächstes kommt
 2. [`ERKENNTNISSE.md`](ERKENNTNISSE.md) — zusammengeführte Fakten
-3. [`regeln/`](regeln/README.md) — Methode, die wir anpassen können
-4. [`evidenz/suchen.md`](evidenz/suchen.md) — schon durchsuchte Fenster
+3. [`regeln/06-forschung.md`](regeln/06-forschung.md) — eine Frage, Herkunft, begrenzter Bereich
+4. die betroffene Personenakte
+5. [`evidenz/suchen.md`](evidenz/suchen.md) — schon durchsuchte Fenster
 
-Nicht von vorn anfangen. Bekannte Fakten nicht neu suchen.
+Nicht von vorn anfangen. Vorhandenes Wissen übernehmen, Herkunft nennen.
+
+«Bekannte Fakten nicht neu suchen» (#21) heißt: keine Suchschleife
+über dasselbe Fenster. Es heißt **nicht**: nicht mehr gegen die
+Primärquelle prüfen. Gegenlese bei unsicherer Zuordnung, benannter
+Lesefrage, neuer Evidenz oder Prüfauftrag — Anlass festhalten.
+Kette: Quelle → Aussage → Person/Ort → Gewissheit.
 
 ## Pflicht am Ende jeder Arbeit
 
 Im **selben** PR / Commit:
 
 - [`STAND.md`](STAND.md) aktualisieren (Datum, was erledigt, nächster Schritt)
-- bei einer Suche: Zeile in [`evidenz/suchen.md`](evidenz/suchen.md)
+- bei einer Suche: Zeile in [`evidenz/suchen.md`](evidenz/suchen.md) (Frage, Signatur, Bilder, Lesbarkeit, Ergebnis, Lücken) und den nächsten begründeten Schritt
 - bei einer Regeländerung: Eintrag in [`regeln/AENDERUNGEN.md`](regeln/AENDERUNGEN.md)
-- neuer Fakt nur mit Scan, Signatur, Transkript, Gewissheit
+- neuer Akt: Scan, Signatur, Transkript, Lesesicherheit und Identität getrennt; Herkunft jedes übernommenen Wissens
 
 Ohne diesen Rückweg ist der Fund für den nächsten Agenten verloren.
 
@@ -49,4 +56,6 @@ neuesten `master` aufbauen soll.
 ## Sprache und Umfang
 
 Antworten auf Deutsch. Lebende und avós nicht anfassen.
+Themen in [`evidenz/auftraggeber-fest.md`](evidenz/auftraggeber-fest.md)
+nicht suchen und nicht anzweifeln.
 Privatdokumente nicht hochladen — [`regeln/04-privat.md`](regeln/04-privat.md).

@@ -13,8 +13,9 @@ auf `master` committed sind.
 | [01-quellen.md](01-quellen.md) | Gewissheit, Lesungen, kein Merge ohne Beleg |
 | [02-evidenz.md](02-evidenz.md) | Was auf ein Blatt gehört |
 | [03-ablage.md](03-ablage.md) | Wohin Dateien kommen |
-| [04-privat.md](04-privat.md) | Was nie nach GitHub / Geni / MyHeritage |
-| [05-suche.md](05-suche.md) | Suchen protokollieren, nicht doppelt |
+| [04-privat.md](04-privat.md) | Lebende-Formel; was nie nach GitHub / Geni / MyHeritage |
+| [05-suche.md](05-suche.md) | Suchprotokoll und frühe Bände |
+| [06-forschung.md](06-forschung.md) | Forschungsauftrag: eine Frage, Herkunft, kein Blind-Wiederholen |
 | [AENDERUNGEN.md](AENDERUNGEN.md) | Jede Regeländerung, älteste unten |
 
 ## Eine Regel anpassen

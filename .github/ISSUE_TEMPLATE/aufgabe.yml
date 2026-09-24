@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Der Agent startet über `AGENTS.md` und `STAND.md`.
-        Kurz reicht. Ziel und «nicht tun» müssen klar sein.
+        Der Agent startet über `AGENTS.md`, `STAND.md` und `regeln/06-forschung.md`.
+        Eine Frage, ein begrenzter Bereich. Herkunft vorhandenen Wissens nennen.
   - type: textarea
     id: ziel
     attributes:
@@ -32,10 +32,25 @@ body:
     id: nicht
     attributes:
       label: Nicht tun
-      description: Was schon festliegt oder nicht noch einmal gesucht werden soll.
+      description: Was nicht blind wiederholt werden soll. Gegenlese gegen die Primärquelle bleibt erlaubt, wenn du den Anlass nennst.
       placeholder: z. B. nicht in Cumeeira nach der Heirat 1922 suchen
+  - type: input
+    id: frage
+    attributes:
+      label: Eine Frage
+      placeholder: z. B. Taufe Roza Maria, Alvorge, Eltern der Heirat 1851
   - type: input
     id: band
     attributes:
-      label: Band oder Portal
-      placeholder: z. B. PT/AUC/RCV/PNL Casamentos 1922
+      label: Signatur und Bilder
+      placeholder: z. B. PANS02 Batismos 1822–1852, m0001–m0040
+  - type: dropdown
+    id: herkunft
+    attributes:
+      label: Herkunft des vorhandenen Wissens
+      options:
+        - Originalakt
+        - Familienunterlage
+        - mündliche Angabe
+        - Schlussfolgerung
+        - noch offen
