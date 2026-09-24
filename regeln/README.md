@@ -26,7 +26,8 @@ nächste Agent nicht.
 1. GitHub-Issue mit Vorlage **Regel** (oder kurz: Datei + neuer Wortlaut).
 2. Datei ändern oder `06-….md` anlegen, wenn es ein neues Thema ist.
 3. Zeile in `AENDERUNGEN.md` (Datum, Datei, was sich ändert).
-4. PR. Nach dem Merge gilt die neue Fassung für Chat und Cloud.
+4. PR. Nach dem Merge **durch den Auftraggeber** gilt die neue
+   Fassung. Ein Agent mergt `master` nicht. Fremde PRs nicht mergen.
 
 Alte Regel nicht löschen, wenn sie schon Funde geprägt hat. Stattdessen
 oben in der Datei: `Ersetzt durch 0N-….md am JJJJ-MM-TT` und den alten
