@@ -64,6 +64,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Joaquina Maria / Silvéria / Ignácia (ältere Frau) | nicht zu einer Person zusammenführen |
 | Lesung mütterlicher Großvater Therezas | Manoel Dias / Freire / Silva – offen |
 | Carrasqueiras | 1885/1907 Bräutigam `desta freguesia` (Cumeeira) ≠ Zeuge 1907 `freguesia e concelho de Ansião` ≠ Paten João 1879 `Chão de Couce`. Nicht glätten. Draft-PR #14 nicht gemergt |
+| Freire Bicho | Cluster nach Akt: Joaquina 1886 António×Maria Ignácia; Thereza 1886 **Manoel**×Maria Diogo (`e digo`); Zeuge Manuel 1907 ledig; Joaquim 1897; José nur Rand 1922. Drei Manuel nicht glätten |
 
 ---
 

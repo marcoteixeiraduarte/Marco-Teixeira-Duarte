@@ -487,7 +487,8 @@
 2 CONT 1907 Zeuge Manuel Freire Bicho, ledig, Cabeça Redonda — nicht dieser
 2 CONT José. Digitale PNL01-Bände 1857–1907 und Index 1854–1911 existieren am
 2 CONT AUC; vollständige Durchsicht der Jahresbände hier nicht lesbar (Viewer
-2 CONT JS-Schale).
+2 CONT JS-Schale). Andere Freire-Bicho-Cluster 1886/1897/1907: siehe
+2 CONT evidenz/linie-duarte/freire-bicho-cluster.md. Nicht verdoppeln.
 1 FAMS @F5@
 0 @I43@ INDI
 1 NAME Margarida
@@ -688,8 +689,8 @@
 3 CONT kirchenbuchsicher; Jahr und eigene Taufe offen. Taufen schreiben
 3 CONT Figueira Podra. Ein Ort mit Figueiras de S. João.
 2 SOUR @S2@
-1 NOTE NICHT still mit Joaquim Freire Bicho oder mit José Freire Bicho
-2 CONT gleichgesetzt.
+1 NOTE NICHT still mit Joaquim Freire Bicho, José Freire Bicho oder Manoel
+2 CONT Freire Bicho (Vater Thereza 1886 Nr. 10) gleichgesetzt.
 1 FAMS @F20@
 1 FAMC @F35@
 0 @I73@ INDI
@@ -1372,4 +1373,87 @@
 1 CHIL @I37@
 1 NOTE Eltern der Joaquina Reis laut Geburt Palmira 1912 (08.jpg): José Reis
 2 CONT × Angelica Ramalho. Nicht F18.
+0 @I148@ INDI
+1 NAME Thereza
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1886
+2 PLAC Figueira Podra, São Sebastião da Cumeeira, Penela
+2 NOTE Taufe Nr. 10, 20.02.1886, 4 Uhr. Taufname Thereza. Nicht Thereza Freire
+3 CONT (I71, Mutter Manuel 1885). PT/AUC/PAR/PNL01/002/0031, dieselbe Seite
+3 CONT wie Joaquina Nr. 9.
+2 SOUR @S2@
+1 CHR
+2 DATE 20 FEB 1886
+2 PLAC São Sebastião da Cumeeira, Penela, Coimbra
+2 SOUR @S2@
+1 DEAT
+2 DATE 1971
+2 PLAC Torre de Vale de Todos, Ansião
+2 NOTE Averbamento N.3 an der Taufe: Tag 24, Eintrag 29.07.1971. Monat am Rand
+3 CONT nicht eindeutig. Zivilakt nicht geprüft.
+1 FAMS @F49@
+1 FAMC @F48@
+0 @I149@ INDI
+1 NAME Manoel /Freire Bicho/
+1 SEX M
+1 NOTE Vater Thereza 1886 Nr. 10. Der Priester schreibt zuerst Antonio Freire
+2 CONT Bicho, korrigiert mit e digo auf Manoel Freire Bicho. Caseiro, natural
+2 CONT und morador Figueira Podra, verheiratet mit Maria Diogo. NICHT der Zeuge
+2 CONT 1907 (I153, solteiro) und NICHT der Ehemann Therezas 1914 (I154).
+1 FAMS @F48@
+1 FAMC @F50@
+0 @I150@ INDI
+1 NAME Maria /Diogo/
+1 SEX F
+1 NOTE Mutter Thereza 1886 Nr. 10, Figueira Podra. Eltern im Akt José Diogo ×
+2 CONT Anna de Jesus. Nicht mit anderen Maria zusammengeführt.
+1 FAMS @F48@
+0 @I151@ INDI
+1 NAME António /Freire Bicho/
+1 SEX M
+1 NOTE Avô paterno Thereza 1886 Nr. 10, Figueiras Podres, mit Maria de Christo.
+2 CONT Namensgleich I114 und I116; Identität nicht zusammengeführt.
+1 FAMS @F50@
+0 @I152@ INDI
+1 NAME Maria de /Christo/
+1 SEX F
+1 NOTE Avó paterna Thereza 1886 Nr. 10. Namensgleich I115; nicht zusammengeführt.
+1 FAMS @F50@
+0 @I153@ INDI
+1 NAME Manuel /Freire Bicho/
+1 SEX M
+1 NOTE Zeuge Heirat Manuel Duarte × Joaquina Ignácia, Cumeeira 13.11.1907 Nr. 9:
+2 CONT solteiro, da Cabeça Redonda desta freguezia. Keine Eltern, keine FAMC.
+2 CONT Identität mit I154 (Ehemann Thereza 1914) nur Kandidat, nicht gesetzt.
+2 CONT Nicht I149 (Vater Thereza, 1886 bereits verheiratet).
+1 SOUR @S2@
+0 @I154@ INDI
+1 NAME Manuel /Freire Bicho/
+1 SEX M
+1 DEAT
+2 DATE 13 JAN
+2 NOTE Averbamento N.2 an Thereza 1886: Tod 13. Januar; Eintrag 15.05.1971.
+3 CONT Jahr am Zivilakt nicht gelesen. Nicht I149.
+1 FAMS @F49@
+1 NOTE Ehemann Thereza laut Averbamento Conservatória Ansião 31.01.1914.
+2 CONT Identität mit Zeuge I153 (solteiro 1907) Kandidat, nicht gesetzt.
+0 @F48@ FAM
+1 HUSB @I149@
+1 WIFE @I150@
+1 CHIL @I148@
+1 NOTE Eltern Thereza 1886 Nr. 10. Vater im Akt e digo Manoel Freire Bicho.
+0 @F49@ FAM
+1 HUSB @I154@
+1 WIFE @I148@
+1 MARR
+2 DATE 31 JAN 1914
+2 PLAC Ansião
+2 NOTE Averbamento N.1 an der Taufe Thereza: Conservatória do Registo Civil de
+3 CONT Ansião, 31.01.1914. Heiratsakt selbst nicht gelesen. HUSB nicht I149.
+0 @F50@ FAM
+1 HUSB @I151@
+1 WIFE @I152@
+1 CHIL @I149@
+1 NOTE Avós paternos Thereza 1886 Nr. 10. Namensgleich F35/F36, nicht gemergt.
 0 TRLR

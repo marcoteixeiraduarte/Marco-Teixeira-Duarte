@@ -50,6 +50,29 @@ Quelle:
   `PT-AUC-PAR-PNL01-002-0031_m0009.jpg`, Eintrag Nr. 9;
   [AUC](https://pesquisa.auc.uc.pt/details?id=48506)
 
+## Thereza, Taufe 20. Februar 1886, Nr. 10 (dieselbe Seite)
+
+Nicht Thereza Freire, Mutter Manuels 1885.
+
+- geboren **13. Februar 1886**, 4 Uhr, **Figueira Podra**
+- Taufname **Thereza**; erste dieses Namens
+- Vater: **Manoel Freire Bicho** — der Priester schreibt zuerst
+  Antonio Freire Bicho, korrigiert mit `e digo` auf Manoel
+- Mutter: **Maria Diogo**; beide caseiros, natural e moradores
+  Figueira Podra, dort getraut
+- väterliche Großeltern: **António Freire Bicho** × **Maria de Christo**
+- mütterliche Großeltern: **José Diogo** × **Anna de Jesus**
+- Paten: die avós paternos
+- Averbamento: Heirat **31.01.1914** Conservatória Ansião mit
+  **Manuel Freire Bicho** (nicht der Vater); dessen Tod 13. Januar
+  (Eintrag 1971); Thereza † Torre de Vale de Todos (Eintrag 29.07.1971,
+  Tag 24, Monat unsicher)
+
+Vater Manoel (1886 verheiratet) ≠ Zeuge Manuel 1907 (ledig) ≠ Ehemann
+1914. Avós namensgleich Cluster Joaquina 1886, nicht gemergt.
+
+Siehe [freire-bicho-cluster](../evidenz/linie-duarte/freire-bicho-cluster.md).
+
 ## Heirat Manuel Duarte × Joaquina Ignácia
 
 - **13. November 1907** in Cumeeira, Eintrag Nr. 9

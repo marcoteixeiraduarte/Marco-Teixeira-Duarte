@@ -212,6 +212,10 @@ des Opa. Eltern dürfen nicht still mit Margaridas Eltern gleichgesetzt
 werden. `~1894` ist nur Hypothese im Fenster **1857–1907** (15–65 Jahre
 1922). Ohne gelesenen Akt weder Jahr noch Eltern setzen.
 
+Weitere Freire-Bicho-Träger nach Akt: [freire-bicho-cluster](../evidenz/linie-duarte/freire-bicho-cluster.md).
+Thereza 1886 Nr. 10 (Vater **Manoel**, `e digo`) und Zeuge Manuel 1907
+nicht mit diesem José zusammenziehen.
+
 #### Margarida de Jesus
 
 Blatt: `* 24.07.1897 · Santa Eufémia · † ~1979`.

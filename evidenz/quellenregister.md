@@ -9,6 +9,7 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 |---|---|---|
 | CUM-BAP-1885-40 | Taufe Manoel Duarte | `duarte-freire-records/cumeeira/1885/PNL01-002-0030_m0017.jpg` |
 | CUM-BAP-1886-09 | Taufe Joaquina | `duarte-freire-records/cumeeira/1886/PT-AUC-PAR-PNL01-002-0031_m0009.jpg` |
+| CUM-BAP-1886-10 | Taufe Thereza, Manoel Freire Bicho × Maria Diogo, dieselbe Datei | dasselbe |
 | CUM-CAS-1907-09a | Heirat, Beginn | `duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0015.jpg` |
 | CUM-CAS-1907-09b | Heirat, Schluss | `duarte-freire-records/cumeeira/casamentos-1907/PT-AUC-PAR-PNL01-003-0051_m0016.jpg` |
 | CUM-BAP-1897-21 | Taufe Margarida, andere Freire-Bicho-Linie | `duarte-freire-records/cumeeira/1897/PT-AUC-PAR-PNL01-002-0042_m0019.jpg` |

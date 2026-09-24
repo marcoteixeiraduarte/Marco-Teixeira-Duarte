@@ -71,7 +71,8 @@ In diesen Dateien **keine Taufe** José Freire Bicho (Kind dieses Namens):
 | --- | --- |
 | João Teixeira 1879 | Familie Custodio Teixeira × Joana de Jesus |
 | Manuel Duarte 1885 | Familie António Duarte × Thereza Freire |
-| Joaquina 1886 | Kind Joaquina, Eltern António Freire Bicho × Maria Ignácia |
+| Joaquina 1886 Nr. 9 | Kind Joaquina, Eltern António Freire Bicho × Maria Ignácia |
+| Thereza 1886 Nr. 10 (dieselbe Seite) | Kind Thereza, Vater **Manoel** Freire Bicho (`e digo`) × Maria Diogo — nicht José |
 | Margarida 1897 | Kind Margarida, Eltern Joaquim Freire Bicho × Genoveva; **Rand** Heirat 28.10.1922 mit José Freire Bicho, Akt 94 |
 | Heirat Duarte 1907 | Zeuge **Manuel Freire Bicho**, ledig, Cabeça Redonda — nicht José |
 
