@@ -42,6 +42,36 @@ Kette jeder Aussage:
 Nicht von der Person zur Quelle rückwärts erfinden. Konkurrierende
 Lesungen erhalten. Keine stillen Personen-Merges.
 
+## Bestandsbaum und Kantenprüfung
+
+Der vorhandene Stammbaum ist **Forschungsbestand und Landkarte**, nicht selbst
+Beweisquelle. Er wird weder pauschal als gesichert übernommen noch verworfen
+und von vorn recherchiert.
+
+Die Prüfung erfolgt von den bereits belastbaren Anschlüssen generationenweise
+nach außen. Geprüft wird zuerst die **tragende Kante**: Welche Quelle belegt
+diese Elternschaft, Ehe oder Personenidentität? Was steht tatsächlich in der
+Quelle? Wie sicher ist die Lesung, wie sicher die Identität, welche weiteren
+Quellen stützen oder widersprechen der Verbindung?
+
+Arbeitskette:
+
+**Originalquelle → Information → Evidenz → Korrelation → Schlussfolgerung → Gewissheit → Verwandtschaftskante → Ast → Stammbaum.**
+
+Dabei gilt:
+
+- Der Stammbaum zeigt den bisherigen Zusammenhang; er beweist ihn nicht.
+- Bereits gefundene Personen, Akten und ganze Äste bleiben erhalten.
+- Eine schwache oder widerlegte Kante löscht nicht automatisch den darüberliegenden Ast.
+  Der Ast bleibt als erforschter, aber noch nicht sicher angeschlossener **Kandidatenast** bestehen.
+- Ein belegter Mensch kann richtig erforscht sein, obwohl sein Anschluss an unseren Stamm noch offen ist.
+- Nur die betroffene Kante wird abgestuft; keine Kettenreaktion stiller Löschungen oder Hochstufungen.
+- Erst wenn eine Kante unklar ist, beginnt gezielte neue Recherche. Sichere Bereiche werden nicht voraussetzungslos neu durchsucht.
+- Bei komplexen Anschlüssen ist ein kurzer Beweisgang festzuhalten: Quellen dafür, Gegenbelege/Widersprüche, Korrelation, Schlussfolgerung, verbleibende Lücke und Gewissheitsgrad.
+
+So bleibt die gewachsene Forschung erhalten, während jeder tragende Anschluss
+nachprüfbar wird.
+
 ---
 
 1. Vor jeder Recherche den aktuellen Branch, die Grundlagen,
