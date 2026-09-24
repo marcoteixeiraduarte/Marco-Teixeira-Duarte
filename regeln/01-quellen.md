@@ -8,11 +8,11 @@ Rangfolge, wie ein Agent sie behandelt.
 1. **Kirchenbuch oder Zivilakt**, am Scan gelesen, mit Signatur
 2. **Randvermerk / Averbamento** am selben Akt (Richtung; eigener Akt bleibt offen)
 3. **Blatt** (Stammbaumkarte) — nur halten, wo es zur Quelle passt
-4. **Mündliche Überlieferung / Grundstück** — beim Auftraggeber; nicht ins Blatt, bis ein Akt da ist
+4. **Familienunterlage / mündliche Angabe** — Herkunft nennen; fehlender Scan widerlegt sie nicht. Nicht ins Blatt als `sicher`, bis ein Akt da ist. Siehe [`06-forschung.md`](06-forschung.md)
 5. **Index, Geneanet, FamilySearch-Trefferliste** — nur Suchhinweis, kein Beweis
 
 Kein späterer Rang überschreibt einen früheren, ohne dass der Widerspruch
-im Evidenzblatt steht.
+im Evidenzblatt steht. Schlussfolgerung bleibt Schlussfolgerung.
 
 ## Gewissheit
 
@@ -24,6 +24,10 @@ im Evidenzblatt steht.
 | offen | gesucht, nicht gefunden oder widersprüchlich | Feld leer lassen |
 
 Unsichere Wörter im Transkript: `[so gelesen?]`.
+
+Lesesicherheit und Personenidentität getrennt: eine klar gelesene
+Zeile kann trotzdem die falsche Person sein. Jede Änderung der
+Stufe begründen ([`06-forschung.md`](06-forschung.md) Punkt 7).
 
 ## Konkurrierende Lesungen
 

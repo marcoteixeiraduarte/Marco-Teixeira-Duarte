@@ -42,6 +42,7 @@ In der Torre-Linie: **paterno** = Eltern des José Pedro dos Reis;
 - [`gegenlese-offene-prs.md`](gegenlese-offene-prs.md) — erster Durchgang zu #9–#18, kein Merge
 
 Methode: [`regeln/02-evidenz.md`](../regeln/02-evidenz.md).
+Suchablauf: [`regeln/06-forschung.md`](../regeln/06-forschung.md).
 Was nie hierher kommt: [`regeln/04-privat.md`](../regeln/04-privat.md).
 
 ## Regel für neue Funde

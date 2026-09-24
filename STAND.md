@@ -1,6 +1,6 @@
 # Stand — Handoff Chat ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (Lebende-Formel; Gegenlese #9–#18).
+Letzte Aktualisierung: 2026-09-24 (Forschungsauftrag 06; Lebende-Formel).
 Basis: `master` bei `ba743b7` (#21 gemergt).
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
@@ -53,6 +53,7 @@ gegenlesen hast. Einziger späterer Einzelkandidat: #13.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-24 | Forschungsauftrag als `regeln/06-forschung.md`: Herkunft, eine Frage, begrenzter Bereich, kein Blind-Wiederholen. | dieser Branch |
 | 2026-09-24 | Lebende-Formel; Barreira/avós/Lebende in `auftraggeber-fest.md`. Offene PRs #9–#18: nicht mergen, erster Durchgang in `gegenlese-offene-prs.md`. | dieser Branch |
 | 2026-09-24 | Ablage übernommen: PR #21 nicht mehr Draft, mergebar. Issues #19/#20 schließen sich mit dem Merge. | #21 |
 | 2026-09-24 | Gemeinsame Ablage: `AGENTS.md`, `STAND.md`, `regeln/`, Issue-/PR-Vorlagen, Suchprotokoll | dieser Branch |

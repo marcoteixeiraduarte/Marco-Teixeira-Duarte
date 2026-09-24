@@ -19,11 +19,15 @@ Keine Dokumentnummer, kein NIF, NISS, Utente, keine Ausweis-Fotos.
 Vorlage: [`evidenz/VORLAGE.md`](../evidenz/VORLAGE.md).
 Beispiel: [`evidenz/linie-duarte/G2-heirat-1907.md`](../evidenz/linie-duarte/G2-heirat-1907.md).
 
-1. Scan-Pfad und Archivsignatur (DigitArq / AUC / Conservatória)
-2. Kurzes Transkript der Namens- und Datumszeilen (Quellenform)
-3. Gewissheit je Feld (`sicher` / `wahrscheinlich` / `Kandidat` / `offen`)
-4. Erst danach Personenanschluss oder Blattkorrektur
-5. Widersprüche stehen lassen
+1. Herkunft des Wissens (Originalakt, Familienunterlage, mündliche Angabe, Schlussfolgerung)
+2. Scan-Pfad und Archivsignatur, wenn ein Akt da ist
+3. Kurzes Transkript der Namens- und Datumszeilen (Quellenform)
+4. Lesesicherheit und Personenidentität getrennt
+5. Erst danach Personenanschluss oder Blattkorrektur
+6. Widersprüche und abweichende Lesungen stehen lassen
+
+Familienwissen ohne Scan bleibt mit Herkunft stehen. Es wird nicht
+durch «kein Scan» widerlegt. Aufs Blatt als `sicher` erst mit Akt.
 
 Ohne Schritt 1–3 kein Eintrag in `ERKENNTNISSE.md` und keine
 Blattänderung.

@@ -1,7 +1,8 @@
 # Beim Auftraggeber fest
 
-Kein Scan in diesem Repo. Agenten nicht suchen und nicht
-anzweifeln. Formel:
+Kein Scan in diesem Repo. Herkunft: **Familienunterlage**.
+Fehlender Scan widerlegt das nicht. Agenten nicht suchen und
+nicht anzweifeln, außer bei benanntem Prüfauftrag. Formel:
 
 > [Thema]: beim Auftraggeber fest, Akt nicht in diesem Repo.
 
