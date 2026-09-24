@@ -46,3 +46,4 @@ Gegenlesen, unter sprechendem Namen nach [`archiv/`](../archiv/README.md).
 - ein Index-Treffer ohne gelesene Seite
 - eine mündliche Zuordnung ohne Akt
 - OCR über die Conservatória-Fotos
+- alles Lebende — nur der Satz in [`auftraggeber-fest.md`](../evidenz/auftraggeber-fest.md)

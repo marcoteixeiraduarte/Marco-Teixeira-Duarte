@@ -16,15 +16,30 @@ Der Ordner ist in `.gitignore`. Nicht «ausnahmsweise» committen.
 
 ## In Git / GEDCOM / Online-Stammbaum
 
-Nur genealogische Fakten: Name, Datum, Filiação, Naturalidade.
-Quellenform der maßgeblichen Urkunde.
+Nur genealogische Fakten **Verstorbener, bisavós und älter**:
+Name, Datum, Filiação, Naturalidade. Quellenform der maßgeblichen
+Urkunde.
 
-## Lebende und avós
+Keine `INDI` für noch Lebende, auch nicht mit `RESN privacy` oder
+NOTE «Lebende Person». Avós nicht in der versionierten GEDCOM.
+Liste der festgehaltenen Themen ohne Akt:
+[`evidenz/auftraggeber-fest.md`](../evidenz/auftraggeber-fest.md).
 
-Bleiben beim Auftraggeber. In diesem Repo: **bisavós und älter**,
-plus die schon liegenden Torre-Scans. Conservatória-Fotos der
-Geburten 1912–1915: gegenlesen ja, erst nach festgelesener Zeile
-ins Blatt — ohne Dokumentnummern.
+## Lebende — Formel
+
+Für **jede noch lebende Person** gilt derselbe Satz, ohne Namen
+und ohne Akt in diesem Repo:
+
+> Lebende: beim Auftraggeber fest, Akt nicht in diesem Repo.
+
+Agenten: nicht suchen, nicht anzweifeln, nicht aufs Blatt, nicht
+in die GEDCOM, nicht «zur Vollständigkeit» anlegen.
+
+Avós bleiben ebenfalls beim Auftraggeber, auch wenn sie nicht mehr
+leben. In diesem Repo: **bisavós und älter**, plus die schon
+liegenden Torre-Scans. Conservatória-Fotos der Geburten 1912–1915:
+gegenlesen ja, erst nach festgelesener Zeile ins Blatt — ohne
+Dokumentnummern, ohne Lebende daneben.
 
 ## Schweiz
 

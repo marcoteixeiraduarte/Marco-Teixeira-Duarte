@@ -49,4 +49,6 @@ neuesten `master` aufbauen soll.
 ## Sprache und Umfang
 
 Antworten auf Deutsch. Lebende und avós nicht anfassen.
+Themen in [`evidenz/auftraggeber-fest.md`](evidenz/auftraggeber-fest.md)
+nicht suchen und nicht anzweifeln.
 Privatdokumente nicht hochladen — [`regeln/04-privat.md`](regeln/04-privat.md).
