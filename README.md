@@ -3,6 +3,14 @@
 **Zusammengeführte Erkenntnisse** (Archiv + Git + Evidenz):
 [`ERKENNTNISSE.md`](ERKENNTNISSE.md).
 
+## Chat und Cloud
+
+Jeder Agent (Cursor Chat und Cloud) startet über
+[`AGENTS.md`](AGENTS.md). Aktueller Handoff:
+[`STAND.md`](STAND.md). Regeln, die wir erweitern:
+[`regeln/`](regeln/README.md). Neue Aufgabe als GitHub-Issue
+(Vorlagen unter `.github/ISSUE_TEMPLATE/`).
+
 Personen- und Ortsnamen werden in der Schreibweise der jeweils
 maßgeblichen Primärquelle übernommen. Historische Schreibweisen werden
 nicht modernisiert oder normalisiert.

@@ -1,0 +1,7 @@
+---
+description: Quellenform, Gewissheit und Evidenzblatt wenn Kirchenbücher, Scans oder Stammbaumkarten bearbeitet werden
+globs: evidenz/**,archiv/**,stammbaum/**,*-records/**,ERKENNTNISSE.md,README.md
+alwaysApply: false
+---
+
+Quellenhierarchie und Merge-Verbot: `regeln/01-quellen.md`. Blattaufbau: `regeln/02-evidenz.md` und Vorlage `evidenz/VORLAGE.md`. Schreibweise der maßgeblichen Primärquelle, historische Ortsform am Ereignis. Konkurrierende Lesungen nebeneinander lassen. Beispielblatt: `evidenz/linie-duarte/G2-heirat-1907.md`.

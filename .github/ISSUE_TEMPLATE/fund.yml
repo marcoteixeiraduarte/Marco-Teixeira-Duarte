@@ -1,0 +1,47 @@
+name: Fund
+description: Gelesener Akt, der noch kein Evidenzblatt hat.
+title: "[Fund] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ohne Scan-Pfad kein Blatt. Vorlage `evidenz/VORLAGE.md`.
+        Privatdokumente und Lebende nicht hierher.
+  - type: input
+    id: ereignis
+    attributes:
+      label: Ereignis
+      placeholder: Taufe / Heirat / Tod, Name, Datum
+    validations:
+      required: true
+  - type: input
+    id: signatur
+    attributes:
+      label: Archivsignatur
+      placeholder: PT/ADLRA/PRQ/PANS08/…
+    validations:
+      required: true
+  - type: input
+    id: scan
+    attributes:
+      label: Scan-Pfad oder DigitArq/AUC-Link
+    validations:
+      required: true
+  - type: textarea
+    id: transkript
+    attributes:
+      label: Transkript (Namens- und Datumszeilen)
+    validations:
+      required: true
+  - type: dropdown
+    id: gewissheit
+    attributes:
+      label: Gewissheit vorläufig
+      options:
+        - sicher
+        - wahrscheinlich
+        - Kandidat
+        - offen
+    validations:
+      required: true

@@ -1,0 +1,40 @@
+name: Regel
+description: Eine Arbeitsregel ändern oder ergänzen. Gilt nach dem Merge für Chat und Cloud.
+title: "[Regel] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Nicht nur im Chat sagen. Datei in `regeln/` ändern und
+        `regeln/AENDERUNGEN.md` ergänzen. Anleitung: `regeln/README.md`.
+  - type: dropdown
+    id: art
+    attributes:
+      label: Art
+      options:
+        - neue Regel (06-….md oder höher)
+        - bestehende anpassen
+        - ersetzen (alte Datei behalten, Verweis setzen)
+    validations:
+      required: true
+  - type: input
+    id: datei
+    attributes:
+      label: Datei
+      placeholder: regeln/01-quellen.md
+    validations:
+      required: true
+  - type: textarea
+    id: wortlaut
+    attributes:
+      label: Vorgeschlagener Wortlaut
+    validations:
+      required: true
+  - type: textarea
+    id: grund
+    attributes:
+      label: Warum
+      description: Welcher Fehler oder welche Lücke macht die Änderung nötig?
+    validations:
+      required: true
