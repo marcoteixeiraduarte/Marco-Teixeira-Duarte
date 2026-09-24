@@ -11,6 +11,9 @@ Jeder Agent (Cursor Chat und Cloud) startet über
 [`regeln/`](regeln/README.md). Neue Aufgabe als GitHub-Issue
 (Vorlagen unter `.github/ISSUE_TEMPLATE/`).
 
+«Bekannte Fakten nicht neu suchen» heißt keine Suchschleife, nicht
+«nicht mehr prüfen». Gegenlese: [`regeln/06-forschung.md`](regeln/06-forschung.md).
+
 Personen- und Ortsnamen werden in der Schreibweise der jeweils
 maßgeblichen Primärquelle übernommen. Historische Schreibweisen werden
 nicht modernisiert oder normalisiert.
