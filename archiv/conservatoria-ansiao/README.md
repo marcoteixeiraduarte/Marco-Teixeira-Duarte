@@ -6,10 +6,13 @@ Reihenfolge wie geliefert. Jede Datei ist das Kamerabild
 
 Diese Akte ist zum **händischen Gegenlesen**. Automatische Lesungen
 derselben Pixel widersprechen sich (Jahr, Namen, Großeltern). OCR
-liefert hier nichts Brauchbares. Deshalb steht in diesem Ordner
-**keine** Namens- oder Datumsliste aus der Handschrift. Was auf dem
-Blatt zu den bisavós nach 1911 steht, bleibt erst gegen diese
-Fotokopien zu halten, wenn du sie gelesen hast.
+liefert hier nichts Brauchbares.
+
+Erste händische Lesung von `06.jpg`–`10.jpg` (nur Geschriebenes,
+Unsicheres markiert, kein Stammbaum):
+[lesung-06-10.md](lesung-06-10.md).
+`01.jpg`–`05.jpg` bleiben ohne Namensliste. Was festgelesen ist,
+steht nicht automatisch im Stammbaum.
 
 Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 `Página 1/2` (Deckblatt einer Fotocópia não certificada).

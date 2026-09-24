@@ -96,9 +96,9 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 Zehn Kamerabilder **5712×4284** in
 [conservatoria-ansiao/](conservatoria-ansiao/README.md).
-Noch **nicht** festgelesen: automatische Lesungen widersprechen sich,
-OCR versagt. Namen und Daten aus diesen Fotos stehen deshalb nicht
-im Stammbaum.
+`06.jpg`–`10.jpg` haben eine erste händische Lesung
+([lesung-06-10.md](conservatoria-ansiao/lesung-06-10.md)); Unsicheres
+bleibt markiert. Namen daraus stehen nicht im Stammbaum.
 
 ## Nicht in diesem Archiv
 
