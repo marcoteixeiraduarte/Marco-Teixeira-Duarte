@@ -3,6 +3,10 @@
 Damit Handy und Rechner dieselbe Mappe sehen. Kein Geräte-Pairing.
 Dieselbe Cursor-Anmeldung, dieses GitHub-Repo.
 
+**Standard: Desktop.** Neue Arbeit läuft auf dem Rechner.
+Cloud nur, wenn der Mac aus ist oder der Auftraggeber Cloud
+ausdrücklich will. Eine Cloud-Sitzung nicht still fortsetzen.
+
 Offizielle Schritte: [Cursor for iOS](https://cursor.com/docs/cloud-agent/mobile),
 [My Machines](https://cursor.com/docs/cloud-agent/self-hosted/my-machines).
 
@@ -17,14 +21,14 @@ Offizielle Schritte: [Cursor for iOS](https://cursor.com/docs/cloud-agent/mobile
 `~/.cursor/rules` auf dem Laptop gilt in der Cloud **nicht**.
 Gemeinsame Regeln nur hier und in `.cursor/rules/`.
 
-## App startet Cloud, solange kein Rechner gewählt ist
+## App: Rechner wählen, nicht Cloud
 
 Eine schon laufende Cloud-Sitzung hängt **nicht** nachträglich
 an den Mac. Nächsten Agenten neu starten.
 
 In der App beim Start **My Machines** wählen — nur den Worker,
 dessen Git-Remote **dieses** Repo ist. Ein Worker in einem
-anderen Ordner (ohne dieses Remote) zählt nicht.
+anderen Ordner (ohne dieses Remote) zählt nicht. Nicht Cloud.
 
 ## Rechner von der App steuern
 

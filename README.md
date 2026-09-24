@@ -5,8 +5,8 @@
 
 ## Desktop, App und Cloud
 
-Jeder Agent (Cursor Desktop, App, Cloud) startet über
-[`AGENTS.md`](AGENTS.md). Aktueller Handoff:
+Neue Arbeit auf dem Desktop, nicht in der Cloud. Jeder Agent
+startet über [`AGENTS.md`](AGENTS.md). Aktueller Handoff:
 [`STAND.md`](STAND.md). Regeln, die wir erweitern:
 [`regeln/`](regeln/README.md). Rechner und Handy:
 [`regeln/06-geraete.md`](regeln/06-geraete.md). Neue Aufgabe

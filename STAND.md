@@ -1,11 +1,11 @@
 # Stand — Handoff Desktop ↔ App ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (Desktop und App: Regel 06).
-Basis: `master` bei `ba743b7` (PR #21 gemergt). Dieselbe
-Cursor-Anmeldung, dieses Repo. Eine Cloud-Sitzung von der App
-hängt nicht nachträglich an den Mac. Nächster Agent: **My
-Machines** (Worker mit Remote dieses Repos) oder am Desktop
-Remote Control (`/remote-control`). Schritte:
+Letzte Aktualisierung: 2026-09-24 (ab jetzt Desktop).
+Basis: `master` bei `ba743b7` (PR #21 gemergt). **Neue Arbeit
+auf dem Rechner, nicht in der Cloud.** Nächster Agent: App →
+**My Machines** (Worker mit Remote dieses Repos) oder Desktop
+Agents Window. Cloud nur wenn der Mac aus ist. Diese
+Cloud-Sitzung nicht fortsetzen. Schritte:
 [`regeln/06-geraete.md`](regeln/06-geraete.md).
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
@@ -47,7 +47,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | PR | Thema |
 | --- | --- |
-| [#26](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/26) | Desktop/App-Regel 06; nicht mergen, bis Gegenlese |
+| [#26](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/26) | Desktop-Standard + Geräte-Regel 06; nicht mergen, bis Gegenlese |
 | [#18](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/18) | Integrationsstand |
 | [#17](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/17) | Torre-Kinder / Leal |
 | [#16](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/16) | GEDCOM-Abgleich |
@@ -58,6 +58,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-24 | Auftrag: in Zukunft auf dem Desktop. Cloud nicht mehr der Standard. Nächster Agent auf My Machines / Desktop. | #26 |
 | 2026-09-24 | Desktop und App: kein Pairing. Cloud sieht nur Git. Mac nur Remote Control oder My Machines im Checkout dieses Repos. Laufende Cloud-Sitzung nicht umhängen. | #26 |
 | 2026-09-24 | Ablage auf `master` (PR #21). Issues #19/#20 in GitHub noch offen. | #21 |
 | 2026-09-24 | Gemeinsame Ablage: `AGENTS.md`, `STAND.md`, `regeln/`, Issue-/PR-Vorlagen, Suchprotokoll | dieser Branch |

@@ -41,15 +41,15 @@ Ohne diesen Rückweg ist der Fund für den nächsten Agenten verloren.
 
 ## Desktop und App
 
-Kein Geräte-Pairing. Dieselbe Cursor-Anmeldung, dieses Repo.
+**Standard: Desktop.** Neue Arbeit auf dem Rechner, nicht in der
+Cloud. Kein Geräte-Pairing. Dieselbe Cursor-Anmeldung, dieses Repo.
 
-- **Cloud / App ohne Mac:** nur Git. `~/.cursor/rules` und
-  `00_Arbeitsordner/` sind unsichtbar.
-- **Mac steuern:** am Desktop Remote Control an, dann
-  `/remote-control`; oder Worker im Checkout dieses Repos, in
-  der App **My Machines**.
+- **App:** beim Start **My Machines**, Worker mit Remote dieses Repos.
+- **Desktop:** Agents Window, dieses Repo offen; Remote Control an,
+  dann `/remote-control`, wenn das Handy steuern soll.
+- **Cloud nur** wenn der Mac aus ist oder ausdrücklich verlangt.
 - Eine schon laufende Cloud-Sitzung hängt nicht nachträglich
-  an den Rechner. Nächsten Agenten neu starten und den Mac wählen.
+  an den Rechner. Nicht in der Cloud weitermachen.
 
 Schritte: [`regeln/06-geraete.md`](regeln/06-geraete.md).
 
