@@ -27,9 +27,11 @@ Die JPEGs liegen mit EXIF-Orientation 6; zum Lesen erst drehen
    - Noiva: `Palmira Reis`.
      In der Averbamentos-Spalte: `Palmira` / `Reis`.
 4. **Datum und Ort — wortgetreu soweit lesbar:**
-   - `A's onze horas e trinta minutos do dia …`
-   - Tageswort nach `do dia` lang, Endung nicht fest
-     (`dezasseis` / `dezanove` / `dezassete`).
+   - `A's onze horas e trinta minutos do dia dezasseis`
+     (Tageswort nach `do dia`: `dezasseis`; Zug dünn, Anfang `deza…`
+     und Länge zu `dezasseis`. `dezassete` schwächer; `dezanove` ohne
+     sichtbares `v`. Derselbe Tag als Ziffer `16` im Averbamento `Nº 1`
+     von Assento `Nº 69` auf `08.jpg` / `09.jpg`.)
    - `do mês de Abril do ano de mil novecentos e trinta e sete`
      (Endzahlwort `sete` mit Schlusszug; `seis` bleibt eine schwächere
      Alternative).
@@ -53,6 +55,7 @@ Die JPEGs liegen mit EXIF-Orientation 6; zum Lesen erst drehen
    - `filha legitima de Manuel` + `Matta` / `da Matta`
      (Zwischenpartikel `da`/`d'` unsicher), `casado`.
    - `e de Joaquina Reis`, `casada`, `doméstica`.
+     Kein `Ramalho` / `Ramalha` hinter dem Mutternamen.
    - Eltern der Noiva `residentes` `no lugar da Pragosa`.
 6. **Großeltern:** nicht auf diesem Formular.
 7. **Averbamentos mit Zahlen:**
@@ -61,10 +64,11 @@ Die JPEGs liegen mit EXIF-Orientation 6; zum Lesen erst drehen
      (eine Zeile mit verschriebener Monatsform `Noveymbro`/`Novembro`).
    - `Nº 2` — `Averbado sob o nº 2 aos assentos de nascimento nº 320 de 1914 e 69 de 1912.`
    - Bleistift rechts neben der Spalte: Zug wie `12` / `R2`, nicht fest.
-8. **Unleserliches:** Livro-Zahl; genauer Heiratstag; Beruf des
-   Schwiegervaters und des Vaters des Noivo; voller Name des
-   Standesbeamten (`César Augusto Mendes Almeida` Richtung, nicht fest);
+8. **Unleserliches:** Livro-Zahl; Beruf des Schwiegervaters und des
+   Vaters des Noivo; voller Name des Standesbeamten
+   (`César Augusto Mendes Almeida` Richtung, nicht fest);
    Zeugen (Formular bricht vor den Zeilennamen ab).
+   Heiratstag: auf diesem Blatt das Wort `dezasseis`; siehe oben.
 
 ---
 
@@ -137,8 +141,10 @@ handschriftliches Geburtenbuch, zwei Assentos auf einer Seite.
      `sendo Palmira o nome próprio e Reis o nome de família`.
    - Rand: `Reis` `(Palmira)`.
 4. **Datum und Ort — wortgetreu:**
-   - Registrierung: `Às doze horas do dia vinte e oito de abril de mil novecentos e …`
-     (Jahresendwort auf der Folgezeile nicht isoliert).
+   - Registrierung: `Às Doze horas do dia vinte e oito de abril de mil novecentos`
+     / nächste Zeile `e Doze, nesta Conservatória …`
+     (`Doze` ausgeschrieben, großes `D` am Zeilenanfang; Jahr = 1912.
+     `Às Doze horas` ist die Uhrzeit derselben Formel, nicht das Jahr).
    - `nesta Conservatória do Registo Civil do Concelho de Ansião`
    - Geburt (Erklärung): `às vinte e duas horas do dia vinte e quatro do corrente mez e ano` `em sua casa`.
    - Declarant `natural do lugar de São Jorge, freguesia da Torre de Valle de Todos, deste concelho`
@@ -151,35 +157,39 @@ handschriftliches Geburtenbuch, zwei Assentos auf einer Seite.
      `quarenta` Jahre, `trabalhador`.
    - Mutter: `Joaquina Reis`, `trinta e nove` Jahre, `doméstica`,
      `natural` `do lugar da Pragoza`.
+     Nur diese zwei Wörter; kein `Ramalho` / `Ramalha` hinter `Reis`.
    - `filha legitima delle declarante e de sua mulher`.
    - `sexo feminino`.
 6. **Großeltern — wortgetreu soweit lesbar:**
    - väterlich: `Anna de Jesus Matta`, `natural da referida freguesia da Torre de Valle de Todos, já falecida`;
      `avô incógnito`.
    - mütterlich: `José Reis` `falecido` `do dito lugar da Pragoza`;
-     `e de Maria Ramalho` (Endung `-lho`/`-lha` nicht ganz fest),
-     `natural e actualmente domiciliada no mesmo lugar`.
+     `e de Maria Ramalho` (Endung `-lho`, Schlussoval wie finales `o`
+     dieser Hand, dann Komma; nicht `Ramalha`),
+     `também natural e actualmente domiciliada no mesmo lugar`.
+   - Auf Assento `Nº 69` stehen weder `Angelica` / `Angélica` noch
+     `Manuel Dias` noch das Wort `Dias`.
 7. **Averbamentos mit Zahlen (linker Rand):**
    - `Nenhum documento` (Kopfzeile).
    - `Nº 1` — `Casou com José Mendes Ascensão`,
      `Conservatória do Registo Civil de Ansião`,
-     `Abril de 1937`. `Assento` `11`, `de` derselben data.
+     `no dia 16 de Abril de 1937`. `Assento` `11`, `de` derselben data.
      Daneben / darunter Verweis `Assento` `nascimento` `nº 320`
      (Jahr `1914` am Rand).
    - `Nº 2` — Casamento `averbado sob o nº 1` `foi dissolvido`
      `por óbito do marido`, `em 15 de` `Novembro` `de 1996`.
      `Averbamento` am `assento de casamento` `1937`.
      `Em 15 de Novembro`.
-   - `Nº 3` — `Faleceu em 16 de D… de 1999`,
-     `na freguesia de Torre de Todos, concelho de Ansião`.
-     Assento `nº 165 de 1999`. `Em 16 de` … `de 1999`.
-     Monatsanfang `D` sichtbar → `Dezembro` die Richtung, Wort nicht ganz.
-8. **Unleserliches:** Jahresendwort der Registrierzeile von Nr. 69;
-   genauer Wortlaut der avô-paterno-Klausel außer `avô incógnito`;
-   Zeugen- und Gebührenzeilen in der unteren Hälfte
-   (`Luiz Mendes` / ein zweiter Zeuge Richtung `Benjamin` …, nicht fest);
+   - `Nº 3` — `Faleceu em 16 de Dezembro de 1999`,
+     `na freguesia de Torre de Vale de Todos, concelho de Ansião`.
+     Assento `nº 165 de 1999`. `Em 16 de Dezembro` (Wort `Dezembro`
+     zweimal, nicht ein anderer Monat).
+8. **Unleserliches:** genauer Wortlaut der avô-paterno-Klausel außer
+   `avô incógnito`; Zeugen- und Gebührenzeilen in der unteren Hälfte
+   (`Luiz Mendes` / zweiter Zeuge `Benjamin Gomes` Richtung, nicht fest);
    Standesbeamtin oben `Maria Leite Ribeiro` (gut), Zeile
    `Arthur dos Santos` darüber unsicher.
+   Jahresendwort `e Doze` und Sterbemonat `Dezembro` sind fest.
 
 ### Assento `Nº 70` (unterer Anschnitt, andere Person)
 
@@ -231,3 +241,29 @@ Kein Registerblatt. Deckblatt der Fotokopie.
 7. **Averbamentos:** keine.
 8. **Unleserliches:** handschriftliches Kürzel oben rechts
    (`H2` / `12`), nicht fest.
+
+---
+
+## Nachlesen `08.jpg` / `09.jpg` (`Nº 69`) und `06.jpg`
+
+Nur die fünf Stellen, wortgetreu, kein Stammbaum.
+
+1. **Registrierjahr.** Ja. Nach `de mil novecentos` steht in der
+   nächsten Zeile `e Doze,` (großes `D` am Zeilenanfang). Formel:
+   `Às Doze horas do dia vinte e oito de abril de mil novecentos e Doze`.
+   `Às Doze horas` = Uhrzeit; `e Doze` = Jahr 1912.
+2. **Mutter der Noiva / des Kindes.** Nur `Joaquina Reis`.
+   Geburt `Nº 69`: `de sua mulher Joaquina Reis, de trinta e nove annos`.
+   Heirat `06.jpg`: `e de Joaquina Reis`, `casada`, `doméstica`.
+   Weder `Ramalho` noch `Ramalha` hinter diesem Namen.
+3. **Mütterliche Großeltern auf `Nº 69`.** `José Reis` `falecido`
+   `do dito lugar da Pragoza` und `Maria Ramalho` (Endung `-lho`,
+   nicht `Ramalha`), `também natural e actualmente domiciliada no mesmo lugar`.
+   `Angelica` / `Angélica`: nein. `Manuel Dias`: nein. Wort `Dias`: nein.
+4. **Sterbemonat Palmira `Nº 3`.** `Dezembro`, zweimal:
+   `Faleceu em 16 de Dezembro de 1999` und `Em 16 de Dezembro`.
+   Kein anderer Monat.
+5. **Heirat `06.jpg`, Tageswort nach `do dia`.** `dezasseis`
+   (Zug dünn; Anfang `deza…`, Länge und Endung zu `dezasseis`).
+   `dezassete` schwächer; `dezanove` ohne sichtbares `v`.
+   Averbamento `Nº 1` auf `Nº 69`: `no dia 16 de Abril de 1937`.
