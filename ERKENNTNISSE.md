@@ -57,7 +57,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 
 | Thema | Stand |
 | --- | --- |
-| José Freire Bicho, „Mesmos pais (irmãos)“ | **streichen**. Heirat 28.10.1922 (Akt Nr. 94) ist die Ehe, nicht Opas Geburt. Suchfenster Bräutigam **1857–1907**; Blatt-`~1894` nur Hypothese. Eltern und Geburt ohne Akt offen |
+| José Freire Bicho, „Mesmos pais (irmãos)“ | **streichen**. Heirat 28.10.1922 (Akt Nr. 94) ist die Ehe, nicht Opas Geburt. Mündliche Überlieferung „sollte stimmen“ = Suchhinweis, kein FAMC/DATE. Vorhandene Scans 1879/85/86/97/1907: keine Taufe. Akt 94 bestellt, nicht erfunden |
 | Margarida Blatt `* 24.07.1897 · Santa Eufémia` | ersetzen durch `* 27.06.1897 · Cabeça Redonda` |
 | Manuel † | Blatt und Averbamento **30.09.1962 · Ansião** — frühere Lesung 1964 war Regression |
 | Figueiras Podres | **ein** Ort (mit **-s**); heute Figueiras de S. João; Taufen auch `Figueira Podra` |
@@ -197,6 +197,18 @@ Kurz: dem Faden vom Licht zurück in die Tiefe folgen, nicht im Nebel
 bekannte Namen suchen.
 
 ---
+
+## Conservatória Ansião (24.09.2026)
+
+Wortlaut: [conservatoria-ansiao-bisavos.md](evidenz/linie-torre/conservatoria-ansiao-bisavos.md).
+Joaquinas Eltern 1912: **José Reis × Angelica Ramalho**, nicht Blatt-Ramalho/Leal.
+
+## Draft-PRs #9–#15
+
+Nicht gemergt. Nur übernommen, was bereits in `evidenz/` bzw. den
+Fotokopien selbst steht. Nicht übernommen: PR #11 Francisco-José als
+sicheren Vornamen; PR #12 Lindos als Taufname Delfinas; Pässe #15;
+Taufsuchen #9/#10 ohne Scan in evidenz/.
 
 ## Git-Herkunft dieser Zusammenführung
 

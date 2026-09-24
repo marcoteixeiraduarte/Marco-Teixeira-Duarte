@@ -62,3 +62,26 @@ zu einem Datum glätten. José Duarte nicht mit José Freire Bicho
 
 Digital vorliegende Cumeeira-Scans: Taufen Manuel 1885, Joaquina 1886,
 Margarida 1897; Heirat Duarte 1907; Taufe João Teixeira 1879.
+
+## Negativsuche 24.09.2026 — vorhandene Scans
+
+In diesen Dateien **keine Taufe** José Freire Bicho (Kind dieses Namens):
+
+| Scan | Was steht stattdessen |
+| --- | --- |
+| João Teixeira 1879 | Familie Custodio Teixeira × Joana de Jesus |
+| Manuel Duarte 1885 | Familie António Duarte × Thereza Freire |
+| Joaquina 1886 | Kind Joaquina, Eltern António Freire Bicho × Maria Ignácia |
+| Margarida 1897 | Kind Margarida, Eltern Joaquim Freire Bicho × Genoveva; **Rand** Heirat 28.10.1922 mit José Freire Bicho, Akt 94 |
+| Heirat Duarte 1907 | Zeuge **Manuel Freire Bicho**, ledig, Cabeça Redonda — nicht José |
+
+Das ist **kein** Ausschluss für 1857–1907. Es sind fünf Akten, nicht die Jahresbände.
+
+## Digital offen, hier nicht durchblättert
+
+- tombo.pt `PNL01`: Batismos **jährlich 1854–1911** am AUC; **Índices 1854–1911**.
+- Viewer `pesquisa.auc.uc.pt` liefert in dieser Sitzung nur die JS-Schale, keine Indexbilder.
+- Casamentos Penela **1922** ist katalogisiert (Akt 94 **bestellt**, keine Rückmeldung — nicht erfinden).
+- Penela **Nascimentos 1922** stehen in tombo.pt **nicht** in der öffentlichen Liste (Bände bis 1921, dann Transkriptionen 1923). AUC `PT/AUC/RCV/PNL` Nascimentos **1878–1921**. Opa-Suche um 1922 daher auch Conservatória **Ansião** (Blattort), nicht nur Penela.
+
+Mündliche Überlieferung „sollte stimmen“: Suchhinweis zur Heirat 1922, **kein** FAMC/DATE.

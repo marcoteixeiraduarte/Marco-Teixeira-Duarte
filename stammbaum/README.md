@@ -30,10 +30,10 @@ suchen, nicht im Kirchenbuch:
 
 | Blatt | Status |
 | --- | --- |
-| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | Zivilstand nach 1911; Fotokopien Conservatória Ansião in [archiv/conservatoria-ansiao/](../archiv/conservatoria-ansiao/README.md), noch nicht festgelesen |
-| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | Zivilstand nach 1911; dieselben Fotokopien, noch nicht festgelesen |
-| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos, nicht fremder Sterbeort. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
-| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | Zivilstand nach 1911; Ortsform erst nach dem Akt. `São Jorge` = Kapelle/lugar in Vale de Todos. Fotokopien Conservatória Ansião vorhanden, noch nicht festgelesen |
+| Manuel Teixeira · * 10.09.1913 · Ribeira · † 05.06.1973 · Angónia | **Zivilakt** 01.jpg: * Ribeira de Vide; Eltern João Teixeira × Maria José dos Santos; † 05.06.1973 Angónia (Averbamento); Heirat 30.08.1935 |
+| Maria Emília Guiomar · * 21.08.1915 · Vale de Todos · † 22.04.1973 · Coimbra | **Zivilakt** 04.jpg: Maria Emília, Eltern João Dias Guiomar × Maria Helena; gp Luiz Dias Guiomar × Delfina Maria und Joaquim Rodrigues Feio × Maria Helena |
+| José Mendes d'Ascensão · * 1914 · Pragosa · † 15.11.1996 · São Jorge | Heirat **16.04.1937** (06.jpg); † 15.11.1996 Averbamento; Geburtsassento n.º 320/1914 ohne Kalendertag — `ABT 1914`. Ortsform **Pragoza** |
+| Palmira Reis · * 24.04.1912 · Pragosa · † 16.12.1999 · São Jorge | **n.º 69** (08.jpg): Eintragung 28.04.1912, 22 Uhr, Pragoza; Eltern Manuel Matta × Joaquina Reis; † 16.12.1999 Torre de Vale de Todos. Blatt-24.04 und Akt-Vortag (27.04.) **nicht geglättet** |
 
 ### 3.º avós
 
@@ -58,7 +58,10 @@ Elternort nicht.
 
 #### Maria José dos Santos · ~1884 · Ansião
 
-Offen. Eltern: `Pais de Maria José por confirmar`.
+Im Geburtsakt Manuel 1913 als Mutter genannt, natural Ansião, Ribeira
+de Vide. Großeltern mütterlich: dos Santos × Maria Thereza; Vorname
+des Großvaters am Scan nicht eindeutig — **keine FAMC**. Blatt:
+`Pais de Maria José por confirmar`.
 
 #### João Dias Guiomar · * 1874 · Vale de Todos · † 08.01.1958 · Vale de Todos
 
@@ -141,8 +144,10 @@ nennt den **15.** und ist 1946 in Ansião nachgetragen; Blatt
 
 #### Joaquina Ramalha dos Reis
 
-Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
-**Angelica Maria Leal**.
+Zivilakt Palmira 1912: Mutter **Joaquina Reis**, Eltern **José Reis** ×
+**Angelica Ramalho**. Blatt-Eltern **Manuel Dias Ramalho** ×
+**Angelica Maria Leal** nicht mergen. Heirat mit Manuel im Akt 1912
+genannt **26.04.1896** (Heiratsakt selbst nicht gelesen).
 
 ### 4.º avós (ramo materno)
 
@@ -157,7 +162,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | José Pedro dos Reis | **passt** als Vater der Maria da Piedade (Taufe 1878; Heirat 8.5.1878). Sterbeakt 1903: Kaufmann, * und wohnhaft `Pragoza` |
 | Narcisa Rodrigues Gato | **ersetzen:** Taufe **Narciza**, Heirat **Narcisa da Conceição**. `Rodrigues Gato` ist der Name ihres Vaters. Eltern dort: **João Gato** / **João Rodrigues Gato** × **Caetana Maria** |
 | Pai Incógnito × Anna de Jesus Matta | **passen** (Taufe Manuel 1872). Mutter dort **Anna de Jesus Matta**. Deren Eltern: **Antonio Rodrigues Avelheiro** × **Thereza de Jesus** |
-| Manuel Dias Ramalho × Angelica Maria Leal | offen |
+| Manuel Dias Ramalho × Angelica Maria Leal | **Blatt**; 1912-Akt nennt **José Reis × Angelica Ramalho** — nicht mergen |
 
 Großeltern José Pedros in der Taufe 1878: **Manoel dos Reis** ×
 **Rosa Maria**. Das entspricht dem Sterbeakt 1903 (`Manuel Pedro dos
@@ -169,11 +174,13 @@ nebeneinander (siehe Narciza-Akten).
 Die avós José Duarte und Maria Freire de Jesus liegen beim
 Auftraggeber. Hier nur bisavós und älter.
 
-Kanon Auftraggeber: der **Opa** ist **um 1922** geboren. Blatt-José
+Kanon Auftraggeber: der **Opa** ist **um 1922** geboren
+(mündliche Überlieferung, Suchhinweis, kein DATE). Blatt-José
 Duarte `~21.12.1926` ist eine andere, ungeprüfte Form — nicht glätten,
 kein Zivilakt. **Penela Casamentos 1922 Nr. 94** ist die Heirat
 José Freire Bicho × Margarida, nicht diese Geburt. Opa nicht in
-Geburten 1857–1907 suchen.
+Geburten 1857–1907 suchen. Penela-Nascimentos 1922 digital nicht in
+der öffentlichen tombo-Liste (bis 1921 / Transkriptionen 1923).
 
 ### bisavós
 

@@ -96,9 +96,9 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 Zehn Kamerabilder **5712×4284** in
 [conservatoria-ansiao/](conservatoria-ansiao/README.md).
-Noch **nicht** festgelesen: automatische Lesungen widersprechen sich,
-OCR versagt. Namen und Daten aus diesen Fotos stehen deshalb nicht
-im Stammbaum.
+Wortlaut 24.09.2026:
+[evidenz/linie-torre/conservatoria-ansiao-bisavos.md](../evidenz/linie-torre/conservatoria-ansiao-bisavos.md).
+BI-Nummern und Deckblatt-Kontakt nicht transkribiert.
 
 ## Nicht in diesem Archiv
 

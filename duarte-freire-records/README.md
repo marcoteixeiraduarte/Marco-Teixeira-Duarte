@@ -142,9 +142,11 @@ ist nur eine Hypothese in diesem Fenster.
 
 Die bisherige Durchsicht nur **1893–1895** Cumeeira und **1894**
 Lagarteira folgt jener Hypothese und ist kein Ausschluss für 1857–1907.
-Kein José als Sohn von António Freire Bicho × Maria Ignácia ist dort
-dokumentiert belegt (keine Band-Signaturen, Bildbereiche oder Lücken
-im Repository). Der Lagarteira-José * 28.01.1894, Sohn der Maria de
+Kein José als Sohn von António Freire Bicho × Maria Ignácia ist in den
+**vorhandenen** Cumeeira-Scans (1879, 1885, 1886, 1897, 1907) belegt.
+1907 Zeuge: Manuel Freire Bicho, ledig, Cabeça Redonda. Das Fenster
+1857–1907 der Jahresbände PNL01 ist digital katalogisiert, hier nicht
+durchgeblättert. Der Lagarteira-José * 28.01.1894, Sohn der Maria de
 Jesus, bleibt unbestätigter Arbeitshinweis.
 
 `~1894` und die vermuteten Eltern dürfen nicht als Fakt in den Stammbaum.

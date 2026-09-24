@@ -4,12 +4,10 @@ Fotokopien vom Auftraggeber, **nicht** aus DigitArq oder AUC.
 Reihenfolge wie geliefert. Jede Datei ist das Kamerabild
 **5712×4284**, unverändert.
 
-Diese Akte ist zum **händischen Gegenlesen**. Automatische Lesungen
-derselben Pixel widersprechen sich (Jahr, Namen, Großeltern). OCR
-liefert hier nichts Brauchbares. Deshalb steht in diesem Ordner
-**keine** Namens- oder Datumsliste aus der Handschrift. Was auf dem
-Blatt zu den bisavós nach 1911 steht, bleibt erst gegen diese
-Fotokopien zu halten, wenn du sie gelesen hast.
+Wortlaut 24.09.2026 in
+[`evidenz/linie-torre/conservatoria-ansiao-bisavos.md`](../../evidenz/linie-torre/conservatoria-ansiao-bisavos.md).
+`02.jpg`/`05.jpg` (BI-Nummern) und `10.jpg` (Deckblatt/Kontakt) **nicht**
+transkribiert.
 
 Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 `Página 1/2` (Deckblatt einer Fotocópia não certificada).
@@ -27,13 +25,16 @@ Gedruckt auf Datei `10.jpg` erkennbar: Fußzeile `20-08-2026`,
 | [09.jpg](09.jpg) | 6,8 MB | Foto 9 |
 | [10.jpg](10.jpg) | 3,7 MB | Foto 10 (Deckblatt der Fotokopie) |
 
-Lebende und avós gehören nicht in diese Prüfung. Offene Blattkarten
-dieser Generation, sobald ein Akt festgelesen ist:
+Lebende und avós gehören nicht in diese Prüfung.
 
-- Manuel Teixeira · * 10.09.1913 · Ribeira
-- Maria Emília Guiomar · * 21.08.1915 · Vale de Todos
-- José Mendes d'Ascensão · * 1914
-- Palmira Reis · * 24.04.1912
+Festgelesen (Wortlaut, siehe Evidenzblatt):
 
-und die noch offenen 3.º avós Joaquina Ramalha dos Reis und
-Maria José dos Santos.
+- Manuel Teixeira · * 10.09.1913 · Ribeira de Vide · † 05.06.1973 Angónia
+- Maria Emília Guiomar · Eltern João Dias Guiomar × Maria Helena
+- José Mendes Ascenção × Palmira Reis · Heirat 16.04.1937; er † 15.11.1996
+- Palmira Reis · n.º 69 / 1912 · Pragoza; Eltern Manuel Matta × Joaquina Reis
+- Joaquina Reis: Eltern im Akt 1912 **José Reis × Angelica Ramalho** (nicht Blatt-Ramalho/Leal)
+- João Dias Guiomar · † 08.01.1958 Zivilakt n.º 7
+
+Offen: Vorname des Großvaters Maria José; Kalendertag Palmira 24. vs. 27.04.;
+Kalendertag José Mendes 1914.

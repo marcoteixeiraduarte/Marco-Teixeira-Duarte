@@ -3,7 +3,7 @@
 2 NAME GitHub marcoteixeiraduarte/Marco-Teixeira-Duarte
 2 VERS origin/master ff8ce939
 1 DEST ANY
-1 DATE 18 SEP 2026
+1 DATE 24 SEP 2026
 1 FILE teixeira-duarte.ged
 1 GEDC
 2 VERS 5.5.1
@@ -41,6 +41,17 @@
 2 CONT Quellenbasis, genaue Identifikation, Verzicht auf Spekulation bei
 2 CONT Lücken; sichere und unsichere Abfolgen kennzeichnen. Der Artikel enthält
 2 CONT keine Personen dieser Familie.
+0 @S4@ SOUR
+1 TITL Mündliche Überlieferung Auftraggeber
+1 DATE 24 SEP 2026
+1 NOTE Suchhinweis, keine Zivil- oder Kirchenbuchquelle. Nie als DATE, FAMC
+2 CONT oder Geburt ohne Akt setzen. Betrifft: Opa um 1922; zu José Freire
+2 CONT Bicho die Aussage, die Heirat Penela 1922 Nr. 94 „sollte stimmen“.
+0 @S5@ SOUR
+1 TITL Conservatória do Registo Civil de Ansião, Fotokopien
+1 NOTE archiv/conservatoria-ansiao/01.jpg–09.jpg (Wortlaut). 02.jpg und 05.jpg
+2 CONT enthalten Ausweisnummern — nicht transkribiert. 10.jpg Deckblatt mit
+2 CONT Kontakt — nicht transkribiert. Keine BI/NIF/Adressen in dieser GEDCOM.
 0 @I1@ INDI
 1 NAME Marco Sérgio /Teixeira Duarte/
 1 SEX M
@@ -103,11 +114,16 @@
 2 PLAC Ansião
 2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
 3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Tilde auf dem Blatt. Auftraggeber:
-3 CONT Opa um 1922 geboren — nicht mit Blatt-~21.12.1926 zu einem Datum glätten
-3 CONT und nicht mit Penela Casamentos 1922 Nr. 94 (Heirat José Freire Bicho
-3 CONT × Margarida) verwechseln. Suchfenster: Geburten um 1922, nicht 1857–1907.
+3 CONT Zivilakt dieses Ereignisses geprüft. Tilde auf dem Blatt.
 2 SOUR @S1@
+1 NOTE Mündliche Überlieferung: Opa um 1922 geboren. Nur Suchhinweis, kein
+2 CONT DATE und keine FAMC-Änderung. Nicht mit Blatt-~21.12.1926 zu einem
+2 CONT Datum glätten. Nicht Penela Casamentos 1922 Nr. 94 (Heirat José Freire
+2 CONT Bicho × Margarida). Suchfenster: Geburten um 1922 (Penela/Ansião
+2 CONT zivil), nicht 1857–1907. Penela-Nascimentos 1922 stehen in tombo.pt
+2 CONT nicht in der öffentlichen Liste (Bände bis 1921, dann Transkriptionen
+2 CONT 1923); AUC RCV/PNL Nascimentos 1878–1921. Blattort Ansião.
+2 SOUR @S4@
 1 DEAT
 2 DATE 16 APR 2005
 2 PLAC Cumeeira
@@ -172,18 +188,19 @@
 1 SEX M
 1 BIRT
 2 DATE 10 SEP 1913
-2 PLAC Ribeira
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Zivilstand nach 1911;
-3 CONT Conservatória-Ansião-Fotos vorhanden, noch nicht festgelesen.
-2 SOUR @S1@
+2 PLAC Ribeira de Vide, Ansião
+2 NOTE Conservatória Ansião, Registo de nascimento (01.jpg). Wortlaut:
+3 CONT nasceu no lugar da Ribeira de Vide; nome completo Manuel; filho de
+3 CONT João Teixeira × Maria José dos Santos. Blattort „Ribeira“ ist derselbe
+3 CONT Weiler ohne „de Vide“.
+2 SOUR @S5@
 1 DEAT
 2 DATE 5 JUN 1973
 2 PLAC Angónia
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft.
+2 NOTE Averbamento am Geburtsakt (01.jpg): Tod in Angónia, 5. Juni 1973,
+3 CONT Conservatória dos Registos Centrais. Blattdatum passt. Zivilakt selbst
+3 CONT am Sterbeort nicht gelesen.
+2 SOUR @S5@
 1 FAMS @F6@
 1 FAMC @F8@
 0 @I21@ INDI
@@ -191,37 +208,40 @@
 1 SEX F
 1 BIRT
 2 DATE 21 AUG 1915
-2 PLAC Vale de Todos
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Zivilstand nach 1911;
-3 CONT Conservatória-Fotos noch nicht festgelesen.
-2 SOUR @S1@
+2 PLAC Vale de Todos, Torre de Vale de Todos, Ansião
+2 NOTE Conservatória Ansião (04.jpg). Wortlaut: nome completo Maria Emília;
+3 CONT filha legitima de João Dias Guiomar (im Akt etwa 41 Jahre) × Maria
+3 CONT Helena (im Akt etwa 33 Jahre); nasceu numa casa da freguesia da Torre
+3 CONT de Vale de Todos. Tagesdatum 21. August bleibt die Blattform; der Akt
+3 CONT nennt August und den Weiler. Neta paterna Luiz Dias Guiomar × Delfina
+3 CONT Maria; neta materna Joaquim Rodrigues Feio × Maria Helena.
+2 SOUR @S5@
 1 DEAT
 2 DATE 22 APR 1973
 2 PLAC Coimbra
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft.
+2 NOTE Averbamento am Geburtsakt (04.jpg) und Blatt. Zivilakt am Sterbeort
+3 CONT nicht gelesen.
+2 SOUR @S5@
 1 FAMS @F6@
 1 FAMC @F9@
 0 @I22@ INDI
 1 NAME José Mendes /d'Ascensão/
 1 SEX M
+1 NAME José Mendes /Ascenção/
 1 BIRT
 2 DATE ABT 1914
-2 PLAC Pragosa
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Ortsform erst nach dem Zivilakt.
-3 CONT São Jorge am Tod = Kapelle/lugar in Vale de Todos, nicht fremder Ort.
-2 SOUR @S1@
+2 PLAC Pragoza
+2 NOTE Conservatória Ansião, Heirat 16.04.1937 (06.jpg) averbado an die
+3 CONT Geburtsassentos n.º 320 de 1914 und n.º 69 de 1912. Kalendertag 1914
+3 CONT im Heiratsakt nicht ausgeschrieben — deshalb ABT 1914, nicht erfunden.
+3 CONT Quellenform Pragoza. São Jorge am Tod = Kapelle/lugar in Vale de Todos.
+2 SOUR @S5@
 1 DEAT
 2 DATE 15 NOV 1996
-2 PLAC São Jorge
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft.
+2 PLAC São Jorge, Torre de Vale de Todos, Ansião
+2 NOTE Averbamento an der Heirat 1937 (06.jpg) und an Palmiras Geburt
+3 CONT (08.jpg): óbito do marido 15.11.1996. Blatt-São Jorge ist der Weiler.
+2 SOUR @S5@
 1 FAMS @F7@
 1 FAMC @F10@
 0 @I23@ INDI
@@ -229,18 +249,21 @@
 1 SEX F
 1 BIRT
 2 DATE 24 APR 1912
-2 PLAC Pragosa
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Ortsform erst nach dem Zivilakt.
-2 SOUR @S1@
+2 PLAC Pragoza, Torre de Vale de Todos, Ansião
+2 NOTE Conservatória Ansião, assento n.º 69 (08.jpg). Eintragung 28.04.1912.
+3 CONT Geburt 22 Uhr im lugar da Pragoza; filha legitima de Manuel Matta ×
+3 CONT Joaquina Reis. Neta paterna de Anna de Jesus Matta, já falecida; neta
+3 CONT materna de José Reis × Angelica Ramalho. DATE 24.04.1912 bleibt die
+3 CONT Blattform: der Akt nennt die Eintragung am 28. und 22 Uhr am Vortag
+3 CONT (27.04.) — nicht mit Blatt-24.04 zu einem Tag glätten.
+2 SOUR @S5@
 1 DEAT
 2 DATE 16 DEC 1999
-2 PLAC São Jorge
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. São Jorge = Kapelle/lugar in Vale
-3 CONT de Todos.
+2 PLAC Torre de Vale de Todos, Ansião
+2 NOTE Averbamento n.º 3 am Geburtsakt (08.jpg): faleceu em 16.12.1999 na
+3 CONT freguesia de Torre de Vale de Todos, concelho de Ansião. Blatt-São
+3 CONT Jorge = Kapelle/lugar in derselben Freguesia.
+2 SOUR @S5@
 1 FAMS @F7@
 1 FAMC @F11@
 0 @I30@ INDI
@@ -264,11 +287,12 @@
 1 BIRT
 2 DATE ABT 1884
 2 PLAC Ansião
-2 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-3 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-3 CONT Zivilakt dieses Ereignisses geprüft. Eltern auf dem Blatt: Pais de Maria
-3 CONT José por confirmar. Keine FAMC angelegt.
-2 SOUR @S1@
+2 NOTE Blatt ~1884. Im Geburtsakt Manuel 1913 (01.jpg) als Mutter genannt,
+3 CONT natural desta freguesia e concelho de Ansião, wohnhaft Ribeira de Vide.
+3 CONT Eltern im Akt: Nachname dos Santos und Maria Thereza. Vorname des
+3 CONT Großvaters (Francisco José / andere Lesung) am Scan nicht eindeutig —
+3 CONT deshalb keine FAMC. Draft-PR #11 (Francisco José) nicht übernommen.
+2 SOUR @S5@
 1 FAMS @F8@
 0 @I32@ INDI
 1 NAME João /Guiomar/
@@ -287,8 +311,13 @@
 2 SOUR @S2@
 1 DEAT
 2 DATE 8 JAN 1958
-2 PLAC Torre de Vale de Todos
-2 NOTE Randvermerk an der Taufe. Zivilakt nicht geprüft.
+2 PLAC Vale de Todos, Torre de Vale de Todos, Ansião
+2 NOTE Conservatória Ansião, óbito n.º 7 (07.jpg): 8. Januar 1958, lugar
+3 CONT Vale de Todos. João Dias Guiomar, trabalhador, natural da freguesia da
+3 CONT Torre; Witwer-Status: casado com Maria Helena. Eltern Luiz Dias
+3 CONT Guiomar und Delfina Maria, beide falecidos. Wortlaut „Lindos“ am
+3 CONT Sterbeakt nicht als Taufname von 1874 übernommen (Draft-PR #12).
+2 SOUR @S5@
 1 FAMS @F9@
 1 FAMC @F13@
 0 @I33@ INDI
@@ -376,17 +405,19 @@
 1 FAMS @F11@
 1 FAMC @F17@
 0 @I37@ INDI
-1 NAME Joaquina /Ramalho/
+1 NAME Joaquina /Reis/
 1 SEX F
+1 NAME Joaquina /Ramalho/
 1 NAME Joaquina Ramalha /dos Reis/
-1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-2 CONT Zivilakt dieses Ereignisses geprüft. Eltern auf dem Blatt Manuel Dias
-2 CONT Ramalho × Angelica Maria Leal — nicht gegen Kirchenbuch geprüft. Heirat
-2 CONT mit Manuel nur als Randvermerk (Lesungen 1904 und 1926); kein einziges
-2 CONT Datum übernommen.
+1 NOTE Conservatória Ansião, Geburt Palmira n.º 69 / 1912 (08.jpg): Mutter
+2 CONT Joaquina Reis, 26 Jahre, doméstica, natural do lugar da Pragoza,
+2 CONT freguesia da Torre de Valle de Todos. Eltern dort José Reis × Angelica
+2 CONT Ramalho (neta materna). Blattform Joaquina Ramalha dos Reis und Blatt-
+2 CONT Eltern Manuel Dias Ramalho × Angelica Maria Leal nicht mit diesem Akt
+2 CONT zusammengeführt.
+2 SOUR @S5@
 1 FAMS @F11@
-1 FAMC @F18@
+1 FAMC @F47@
 0 @I40@ INDI
 1 NAME Manoel /Duarte/
 1 SEX M
@@ -432,13 +463,20 @@
 0 @I42@ INDI
 1 NAME José /Freire Bicho/
 1 SEX M
-1 NOTE Blatt ~1894 Cabeça Redonda NICHT als Tatsache übernommen. Heirat
-2 CONT 28.10.1922 mit Margarida = Zivilakt Nr. 94 Cumeeira/Penela: das ist die
-2 CONT Ehe, nicht die Geburt des Opa. Bräutigam 1922: Suchfenster Geburten
-2 CONT 1857–1907 (15–65 Jahre). ~1894 nur Hypothese in diesem Fenster. Eltern
-2 CONT NICHT an António Freire Bicho × Maria Ignácia gehängt. Scan des Akts
-2 CONT 94 liegt nicht im Repository.
-1 NOTE Keine FAMC. Geburt und Abstammung offen.
+1 NOTE Blatt ~1894 Cabeça Redonda NICHT als DATE. Heirat 28.10.1922 mit
+2 CONT Margarida = Zivilakt Nr. 94 Cumeeira/Penela: die Ehe, nicht Opas
+2 CONT Geburt. Bräutigam 1922: Suchfenster Geburten 1857–1907. ~1894 nur
+2 CONT Hypothese. Eltern NICHT an António Freire Bicho × Maria Ignácia.
+2 CONT Mündliche Überlieferung „sollte stimmen“: nur Suchhinweis, kein FAMC,
+2 CONT kein DATE, keine Geburt ohne Akt. Akt 94 bestellt (AUC), noch keine
+2 CONT Rückmeldung — nicht erfunden.
+2 SOUR @S4@
+1 NOTE Keine FAMC. Geburt und Abstammung offen. In den vorhandenen Scans
+2 CONT (Cumeeira 1879, 1885, 1886, 1897, 1907) keine Taufe José Freire Bicho.
+2 CONT 1907 Zeuge Manuel Freire Bicho, ledig, Cabeça Redonda — nicht dieser
+2 CONT José. Digitale PNL01-Bände 1857–1907 und Index 1854–1911 existieren am
+2 CONT AUC; vollständige Durchsicht der Jahresbände hier nicht lesbar (Viewer
+2 CONT JS-Schale).
 1 FAMS @F5@
 0 @I43@ INDI
 1 NAME Margarida
@@ -588,18 +626,17 @@
 0 @I61@ INDI
 1 NAME Manuel Dias /Ramalho/
 1 SEX M
-1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-2 CONT Zivilakt dieses Ereignisses geprüft. Als Vater der Joaquina Ramalho auf
-2 CONT dem Blatt; nicht gegen Kirchenbuch geprüft.
+1 NOTE Blatt TEIXEIRA DUARTE: als Vater der Joaquina genannt. Der Zivilakt
+2 CONT Palmira 1912 nennt statt dessen José Reis. Nicht zusammengeführt. Kein
+2 CONT CHIL mehr in F18.
+2 SOUR @S1@
 1 FAMS @F18@
 0 @I62@ INDI
 1 NAME Angelica Maria /Leal/
 1 SEX F
-1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-2 CONT Zivilakt dieses Ereignisses geprüft. Als Mutter der Joaquina Ramalho auf
-2 CONT dem Blatt; nicht gegen Kirchenbuch geprüft.
+1 NOTE Blatt TEIXEIRA DUARTE: als Mutter der Joaquina genannt. Der Zivilakt
+2 CONT Palmira 1912 nennt Angelica Ramalho. Nicht mit I147 zusammengeführt.
+2 SOUR @S1@
 1 FAMS @F18@
 0 @I63@ INDI
 1 NAME José
@@ -1001,6 +1038,21 @@
 1 SEX F
 1 NOTE Väterliche Großmutter der Caetana, Torre.
 1 FAMS @F46@
+0 @I146@ INDI
+1 NAME José /Reis/
+1 SEX M
+1 NOTE Conservatória Ansião, Geburt Palmira 1912 (08.jpg): mütterlicher
+2 CONT Großvater, mit Angelica Ramalho. Eigene Taufe hier nicht belegt. Nicht
+2 CONT mit José Pedro dos Reis (I58) zusammengeführt.
+2 SOUR @S5@
+1 FAMS @F47@
+0 @I147@ INDI
+1 NAME Angelica /Ramalho/
+1 SEX F
+1 NOTE Conservatória Ansião, Geburt Palmira 1912 (08.jpg): mütterliche
+2 CONT Großmutter. Nicht mit Angelica Maria Leal (I62, Blatt) zusammengeführt.
+2 SOUR @S5@
+1 FAMS @F47@
 0 @F1@ FAM
 1 HUSB @I3@
 1 WIFE @I4@
@@ -1055,33 +1107,45 @@
 1 HUSB @I20@
 1 WIFE @I21@
 1 CHIL @I7@
-1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-2 CONT Zivilakt dieses Ereignisses geprüft. Kindschaft Fernando nur
-2 CONT Blatt/Zivilstand.
+1 MARR
+2 DATE 30 AUG 1935
+2 PLAC Ansião
+2 NOTE Conservatória Ansião: Averbamento am Geburtsakt Manuel (01.jpg) und
+3 CONT Heiratsakt (03.jpg). Wortlaut 30. August 1935, Maria Emília Guiomar,
+3 CONT Torre de Vale de Todos. Ausweisnummern auf 02.jpg/05.jpg nicht
+3 CONT transkribiert.
+2 SOUR @S5@
+1 NOTE Kindschaft Fernando nur Blatt/Zivilstand.
 0 @F7@ FAM
 1 HUSB @I22@
 1 WIFE @I23@
 1 CHIL @I8@
-1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-2 CONT Zivilakt dieses Ereignisses geprüft. Kindschaft Iolinda nur
-2 CONT Blatt/Zivilstand.
+1 MARR
+2 DATE 16 APR 1937
+2 PLAC Ansião
+2 NOTE Conservatória Ansião, Registo de casamento n.º 11 (06.jpg). Wortlaut:
+3 CONT 16. April 1937, José Mendes Ascenção × Palmira Reis, lugar da Pragoza.
+3 CONT Jahr „trinta e sete“. Averbamento: Ehe durch Tod des Mannes 15.11.1996
+3 CONT aufgelöst.
+2 SOUR @S5@
+1 NOTE Kindschaft Iolinda nur Blatt/Zivilstand.
 0 @F8@ FAM
 1 HUSB @I30@
 1 WIFE @I31@
 1 CHIL @I20@
-1 NOTE João Teixeira kirchenbuchsicher; Ehe mit Maria José dos Santos und Kind
-2 CONT Manuel *1913 nur Blatt. Maria José ohne FAMC.
+1 NOTE João Teixeira kirchenbuchsicher. Kind Manuel *10.09.1913 Ribeira de
+2 CONT Vide und Mutter Maria José dos Santos: Conservatória Ansião (01.jpg).
+2 CONT Maria José ohne FAMC (Großvater-Vorname am Scan nicht eindeutig).
 0 @F9@ FAM
 1 HUSB @I32@
 1 WIFE @I33@
 1 CHIL @I21@
 1 MARR
-2 NOTE Randvermerke: Heirat João mit Maria Helena aus Lagarteira bzw. Maria mit
-3 CONT João Dias Guiomar aus Torre. Tagesdatum nicht als einzige Form (Lesungen
-3 CONT 1907 und 1909) — deshalb kein MARR-Datum.
-1 NOTE Beide Personen kirchenbuchsicher. Kind Maria Emília *1915 nur Blatt.
+2 NOTE Randvermerke Taufe: Heirat João mit Maria Helena aus Lagarteira. Tagesdatum
+3 CONT dort nicht als einzige Form (Lesungen 1907 und 1909) — kein MARR-Datum
+3 CONT aus dem Randvermerk.
+1 NOTE Beide Personen kirchenbuchsicher. Kind Maria Emília *1915: Conservatória
+2 CONT Ansião (04.jpg). João † 08.01.1958: Zivilakt n.º 7 (07.jpg).
 0 @F10@ FAM
 1 HUSB @I34@
 1 WIFE @I35@
@@ -1095,9 +1159,13 @@
 1 WIFE @I37@
 1 CHIL @I23@
 1 MARR
-2 NOTE Randvermerk an Manuel 1872: Heirat mit Joaquina Ramalho. Lesungen 1904
-3 CONT und 1926 — kein Datum übernommen.
-1 NOTE Kind Palmira *1912 nur Blatt.
+2 DATE 26 APR 1896
+2 NOTE Im Geburtsakt Palmira 1912 (08.jpg) genannt: casados … 26. April 1896.
+3 CONT Heiratsakt selbst nicht gelesen. Randvermerk an Manuel 1872 (Lesungen
+3 CONT 1904 und 1926) nicht als Datum übernommen.
+2 SOUR @S5@
+1 NOTE Kind Palmira n.º 69 / 1912: Conservatória Ansião (08.jpg). n.º 70 auf
+2 CONT derselben Seite ist eine andere Familie — nicht übernommen.
 0 @F12@ FAM
 1 HUSB @I50@
 1 WIFE @I51@
@@ -1136,10 +1204,9 @@
 0 @F18@ FAM
 1 HUSB @I61@
 1 WIFE @I62@
-1 CHIL @I37@
-1 NOTE Blatt TEIXEIRA DUARTE, Zürich 08.09.2026
-2 CONT (stammbaum/blatt-teixeira-duarte.jpg). Nicht gegen Kirchenbuch oder
-2 CONT Zivilakt dieses Ereignisses geprüft.
+1 NOTE Blattpaar Manuel Dias Ramalho × Angelica Maria Leal. Joaquina ist hier
+2 CONT NICHT Kind: der Zivilakt 1912 nennt José Reis × Angelica Ramalho
+2 CONT (F47). Paare nicht mergen.
 0 @F19@ FAM
 1 HUSB @I70@
 1 WIFE @I71@
@@ -1283,4 +1350,10 @@
 1 WIFE @I145@
 1 CHIL @I136@
 1 NOTE Großeltern väterlich Caetana 1815.
+0 @F47@ FAM
+1 HUSB @I146@
+1 WIFE @I147@
+1 CHIL @I37@
+1 NOTE Eltern der Joaquina Reis laut Geburt Palmira 1912 (08.jpg): José Reis
+2 CONT × Angelica Ramalho. Nicht F18.
 0 TRLR
