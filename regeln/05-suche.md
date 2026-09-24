@@ -12,8 +12,9 @@ Punkt 1 und 4 aus 06. Lesen:
 3. die betroffene Personenakte
 4. [`evidenz/suchen.md`](../evidenz/suchen.md) (Suchabdeckung)
 
-Vorhandene Dateien und Lesungen zuerst. Keine Wiederholung ohne
-dokumentierten Anlass (Punkt 3 und 8).
+Vorhandene Dateien und Lesungen zuerst. Keine Suchschleife ohne
+Anlass. Gezielte Gegenlese: Punkt 3 und Abschnitt «Schleife und
+Gegenlese» in 06.
 
 ## Nach der Suche
 

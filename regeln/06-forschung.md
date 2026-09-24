@@ -21,6 +21,27 @@ Lebende bleiben trotzdem ohne Akt und ohne INDI in Git —
 Lesesicherheit (was steht in der Zeile?) und Sicherheit der
 Personenidentität (ist es dieselbe Person?) getrennt führen.
 
+## Schleife und Gegenlese
+
+Die Formulierung aus #21 «Bekannte Fakten nicht neu suchen» heißt
+nur: keine voraussetzungslose **Suchschleife** über dasselbe Fenster.
+Sie heißt **nicht**: bekannte Fakten nicht mehr prüfen.
+
+| | Verboten | Gewollt |
+| --- | --- | --- |
+| Suchschleife | derselbe Band, dieselbe Frage, kein neuer Anlass | — |
+| Gegenlese | — | Primärquelle erneut lesen, wenn die Zuordnung unsicher ist, eine Lesefrage benannt ist, neue Evidenz da ist oder ein Prüfauftrag vorliegt |
+
+Anlass in [`evidenz/suchen.md`](../evidenz/suchen.md) festhalten.
+Ohne Anlass nicht denselben Band noch einmal.
+
+Kette jeder Aussage:
+
+**Quelle → Aussage → Person/Ort → Gewissheit.**
+
+Nicht von der Person zur Quelle rückwärts erfinden. Konkurrierende
+Lesungen erhalten. Keine stillen Personen-Merges.
+
 ---
 
 1. Vor jeder Recherche den aktuellen Branch, die Grundlagen,

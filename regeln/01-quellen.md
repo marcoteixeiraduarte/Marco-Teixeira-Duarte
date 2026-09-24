@@ -3,6 +3,14 @@
 Festgeschrieben aus Issue #20. Fakten nicht hier lagern — nur die
 Rangfolge, wie ein Agent sie behandelt.
 
+Kette jeder Aussage:
+
+**Quelle → Aussage → Person/Ort → Gewissheit.**
+
+Nicht von der Person zur Quelle rückwärts erfinden. Konkurrierende
+Lesungen erhalten. Keine stillen Personen-Merges. Nulltreffer und
+Suchfenster: [`evidenz/suchen.md`](../evidenz/suchen.md).
+
 ## Rang der Belege
 
 1. **Kirchenbuch oder Zivilakt**, am Scan gelesen, mit Signatur

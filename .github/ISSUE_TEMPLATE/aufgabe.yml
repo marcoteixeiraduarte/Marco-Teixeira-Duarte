@@ -32,7 +32,7 @@ body:
     id: nicht
     attributes:
       label: Nicht tun
-      description: Was schon festliegt oder nicht noch einmal gesucht werden soll.
+      description: Was nicht blind wiederholt werden soll. Gegenlese gegen die Primärquelle bleibt erlaubt, wenn du den Anlass nennst.
       placeholder: z. B. nicht in Cumeeira nach der Heirat 1922 suchen
   - type: input
     id: frage

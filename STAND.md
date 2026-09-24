@@ -1,6 +1,6 @@
 # Stand — Handoff Chat ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (Forschungsauftrag 06; Lebende-Formel).
+Letzte Aktualisierung: 2026-09-24 (#21-Korrektur: Gegenlese ≠ Suchschleife).
 Basis: `master` bei `ba743b7` (#21 gemergt).
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
@@ -19,7 +19,11 @@ derselben Arbeit fort. Ältere Zeilen nicht löschen, oben ergänzen.
 Offene Liste ausführlich: [`ERKENNTNISSE.md`](ERKENNTNISSE.md) Abschnitt
 «Noch offen». Durchsuchte Fenster: [`evidenz/suchen.md`](evidenz/suchen.md).
 
-## Fest, nicht erneut suchen
+## Fest — nicht blind neu suchen
+
+Gegenlese gegen die Primärquelle bleibt erlaubt, wenn die Zuordnung
+unsicher ist oder neue Evidenz da ist. Anlass festhalten. Ohne Anlass
+nicht dasselbe Fenster noch einmal.
 
 - Duarte-G2: Manuel × Joaquina Ignácia, Heirat 13.11.1907 Cumeeira
 - Manuel † 30.09.1962 Ansião (Blatt/Averbamento; 1964 war Regression)
@@ -53,6 +57,7 @@ gegenlesen hast. Einziger späterer Einzelkandidat: #13.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-24 | #21-Korrektur: «nicht neu suchen» = keine Schleife, nicht «nicht mehr prüfen». Kette Quelle → Aussage → Person/Ort → Gewissheit. | dieser Branch |
 | 2026-09-24 | Forschungsauftrag als `regeln/06-forschung.md`: Herkunft, eine Frage, begrenzter Bereich, kein Blind-Wiederholen. | dieser Branch |
 | 2026-09-24 | Lebende-Formel; Barreira/avós/Lebende in `auftraggeber-fest.md`. Offene PRs #9–#18: nicht mergen, erster Durchgang in `gegenlese-offene-prs.md`. | dieser Branch |
 | 2026-09-24 | Ablage übernommen: PR #21 nicht mehr Draft, mergebar. Issues #19/#20 schließen sich mit dem Merge. | #21 |

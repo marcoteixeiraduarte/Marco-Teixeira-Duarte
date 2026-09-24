@@ -13,7 +13,12 @@ aktuellen PR) liegt. Gespräche sind keine Ablage.
 5. [`evidenz/suchen.md`](evidenz/suchen.md) — schon durchsuchte Fenster
 
 Nicht von vorn anfangen. Vorhandenes Wissen übernehmen, Herkunft nennen.
-Keine Wiederholung ohne dokumentierten Anlass.
+
+«Bekannte Fakten nicht neu suchen» (#21) heißt: keine Suchschleife
+über dasselbe Fenster. Es heißt **nicht**: nicht mehr gegen die
+Primärquelle prüfen. Gegenlese bei unsicherer Zuordnung, benannter
+Lesefrage, neuer Evidenz oder Prüfauftrag — Anlass festhalten.
+Kette: Quelle → Aussage → Person/Ort → Gewissheit.
 
 ## Pflicht am Ende jeder Arbeit
 
