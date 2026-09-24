@@ -1,4 +1,4 @@
-Neues Blatt nach [`VORLAGE.md`](VORLAGE.md). Scan und Signatur zuerst.
-Suchfenster nach [`suchen.md`](suchen.md), auch ohne Treffer.
-Regeln: [`../regeln/02-evidenz.md`](../regeln/02-evidenz.md),
-[`../regeln/01-quellen.md`](../regeln/01-quellen.md).
+Neues Blatt nach [`VORLAGE.md`](VORLAGE.md). Herkunft nennen.
+Suchfenster nach [`suchen.md`](suchen.md) — Frage, Signatur, Bilder,
+Lesbarkeit, Ergebnis, Lücken. «Nicht gefunden» nur für den gelesenen
+Bereich. Ablauf: [`../regeln/06-forschung.md`](../regeln/06-forschung.md).
