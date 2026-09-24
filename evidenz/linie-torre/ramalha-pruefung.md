@@ -170,5 +170,33 @@ Manoel Thomaz × Angelica, avós Leal Castello? Erster José,
 
 ---
 
+## 9 — Taufe Angelica, 06.04.1815, Castello
+
+Linke Seite unten. Rand: `Castello` / `Angelica`.
+
+**Frage:** Filha de **Manoel Leal** × **Thereza Maria**? Datum
+**Aos seis de Abril** 1815, neun Tage nach der Geburt? Avós
+Manoel José × Roza Maria (Vale de Todos) und José [João?]
+Casimiro × Anna Maria (Castello)?
+
+![1815 Ausschnitt](../../akten/matta/angelica-maria/1815-taufe-ausschnitt.jpg)
+
+<details><summary>Ganze Doppelseite, markiert</summary>
+
+![1815 markiert](../../akten/matta/angelica-maria/1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015-markiert.jpg)
+
+</details>
+
+<details><summary>Ganze Doppelseite ohne Farbe</summary>
+
+![1815 roh](../../akten/matta/angelica-maria/1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015.jpg)
+
+</details>
+
+DigitArq: [PANS08/001/0003](https://digitarq.arquivos.pt/documentDetails/6aa3bacfa07046a4b8d3fd47d1198480)
+`m0015`.
+
+---
+
 Lesung und Gewissheit daneben:
 [ramalha-ateanha-1873](ramalha-ateanha-1873.md).

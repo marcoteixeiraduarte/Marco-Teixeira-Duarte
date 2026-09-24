@@ -102,7 +102,7 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Joze Maria da Ascenção | * 25.4.1880 Valle de Todos (nicht Pragoza); Vater Joze Mendes Ferreira. Pass 1902, 22, wohnhaft Pragosa, Eltern Ferreiro / Ana da Piedade — **wahrscheinlich** dieselbe Person | sicher Taufe; Pass wahrscheinlich | jose-maria · [passe-1901](evidenz/linie-torre/passe-antonio-guiomar-1901.md) |
 | Anna | * 15.6.1845 Valle de todos; `da Piedade` erst 1880 beim Sohn | sicher | jose-maria |
 | Manuel (Matta) | * 26.7.1872 São Jorge (Kapelle in Vale de Todos); filho natural der Anna de Jesus Matta; 1912 wohnhaft Pragoza × Joaquina Reis | sicher | [matta](akten/matta/README.md) |
-| Joaquina Reis | * **15.06.1873** Pragosa (**Blatt**); Heirat **21.08.1896** × Manuel Matta; Eltern dort José dos Reis × Maria Ramalha (**Akttext**; Identität Blatt/1912 Gegenlese). Avós Ramalho × Angelica; Leal-Eltern **Castello 1829**. Maria Thereza Leal × Freire **Alvorge 1846**. Ateanha Herkunft **Kandidat** | Geburt Blatt; 1896/1871 sicher als Akt; 1838 Kandidat | [Erkenntnisse Ramalha](evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md) · [joaquina-reis-leal](evidenz/linie-torre/joaquina-reis-leal.md) |
+| Joaquina Reis | * **15.06.1873** Pragosa (**Blatt**); Heirat **21.08.1896** × Manuel Matta; Eltern dort José dos Reis × Maria Ramalha (**Akttext**; Identität Blatt/1912 Gegenlese). Avós Ramalho × Angelica; Angelica * **~28.03.1815 / ~ 06.04.1815** Castello (Leal). Leal-Eltern **Castello 1815/1829**. Maria Thereza Leal × Freire **Alvorge 1846**. Ateanha Herkunft **Kandidat** | Geburt Blatt; 1896/1871 sicher als Akt; Taufe Angelica sicher; 1838 Kandidat | [Erkenntnisse Ramalha](evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md) · [joaquina-reis-leal](evidenz/linie-torre/joaquina-reis-leal.md) |
 | Palmira Reis | * 24.4.1912 Pragoza; Heirat 19.4.1937 × José Mendes — **viel später** als die erste **Palmyra * 8.6.1897** (primeira filha, Pragoza) | sicher beide Akte; 1897-Tod Kandidat | joaquina-reis-leal / [matta](akten/matta/README.md) |
 
 ### Ramalha / Reis / Ateanha
@@ -189,7 +189,7 @@ Elternheiraten **António Duarte × Thereza Freire** und
 | --- | --- |
 | 1 | **AUC Coimbra – RCV Penela:** Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) |
 | 2 | Conservatória Ansião: `01` `03` `04` `06` `07` `08` gelesen; Geburt José Mendes N.º 320/1914 hier kein Foto |
-| 2a | Ramalha/Reis: [Erkenntnisse](evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md). Joaquina * **15.06.1873** Blatt — **haben wir**. Eltern-Heirat **16.11.1863**. Geschwister haben wir. Palmira jetzt nicht. Ältere Ramalho Lagarteira/Carraçal **offen** |
+| 2a | Ramalha/Reis: [Erkenntnisse](evidenz/linie-torre/erkenntnisse-ramalha-reis-ateanha.md). Joaquina * **15.06.1873** Blatt — **haben wir**. Eltern-Heirat **16.11.1863**. Geschwister haben wir. Palmira jetzt nicht. Angelica ~ **06.04.1815** Castello. Ältere Ramalho Lagarteira/Carraçal **offen** |
 | 2b | Heirat João Teixeira (Forte) × Maria José **1895–1913**; Taufe Maria José **1876–1894** — [suche-erweitert](evidenz/suche-erweitert.md) |
 | 2c | **Geburt Melchior * 15.05.1775** Val de Todos. Avós 1824 = **Antonia Maria**. DigitArq `002/0001`=`003/0001`, `002/0002`=`001/0002`=`003/0002` — keine Online-Casamentos 1609–1811. Heirat Melchior × Rozaria **vor ~1810**; Kinder avô Feio `001/0001` **1720–1767** plus `001/0002` ab 19.06.1767. [antonio-feio-carvalhinho](evidenz/linie-guiomar/antonio-feio-carvalhinho.md) |
 | 3 | Taufe Manoel Joaquim Sol in Avelar; Elternzeilen m0013 ohne Namensvorgabe |

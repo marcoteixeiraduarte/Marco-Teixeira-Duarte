@@ -6,14 +6,32 @@
 | --- | --- |
 | Quellenname | Angelica Maria (1871 viúva; Blatt Angelica Maria Leal) |
 | Rolle | avó materna Sebastião 1871; Patin 1871 |
-| * | offen |
+| * | **~ 28.03.1815** Castello (9 Tage vor der Taufe) |
+| ~ | **06.04.1815** Torre, Castello |
 | † | offen (1871 bereits Witwe) |
-| Gewissheit | sicher genannt 1871; **Leal** 1838 als Vater **Manoel Leal** |
+| Gewissheit | Taufe **sicher** als Kind Manoel Leal × Thereza Maria, Castello. Identität 1838-Braut **wahrscheinlich**. Identität avó 1863/1871 weiter die Kette (Kandidat / wahrscheinlich) |
+
+Taufe **06.04.1815** Torre (`PANS08/001/0003` m0015), Rand Castello /
+Angelica. * etwa **28.03.1815** (`aos nove dias depois de nacido`).
+Filha legitima de **Manoel Leal** × **Thereza Maria**, Castello.
+
+Avós in diesem Akt (neu, Gegenlese der Namensform):
+
+- paterno **Manoel José** × **Roza Maria**, Vale de Todos
+- materno **José [João?] Casimiro** × **Anna Maria**, Castello
+
+Paten: João Dias, Vale de Todos; Angelica Maria, Lugar in der
+Pfarrei Alvorge (N.S. da Conceição). Lugar-Lesung **offen** — nicht
+nach Ateanha ziehen.
+
+Lindoso **26.04.1816** (m0021): andere Angelica, Mutter Joaquina
+solteira, pai incognito — **anderes Haus**.
 
 Heirat Feb. **1838** Torre (Lesungen 21. oder 22., Gegenlese):
 Angelica M., filha de **Manoel Leal** × Thereza M., moradora Castello.
-**Kandidat** dieselbe Frau wie avó 1863/1871. Dias steht 1838 nicht.
-Ateanha steht nicht.
+**Wahrscheinlich** dieselbe wie die Taufe 1815 (Eltern + Castello,
+dann 22–23). **Kandidat** dieselbe Frau wie avó 1863/1871. Dias
+steht 1838 nicht. Ateanha steht nicht.
 
 Sohn **José * 15.08.1841** (primeiro) und **José * 02.06.1843**
 (Kandidat segundo). Avós immer Leal.
@@ -28,6 +46,18 @@ Markierung wie bei FamilySearch: **farbige Flächen = Fundstellen** (nicht die g
 🟨 Name · 🟧 Datum · 🟦 Ort · 🟩 Eltern · 🟪 Avós · 🟥 Randvermerk · 🩵 Paten (nicht Elternort)
 
 Zum späteren Gegenlesen. Nicht neu datieren, nur die Handschrift halten.
+
+![Taufe 06.04.1815 Castello — Fundstellen](1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015-markiert.jpg)
+
+<details><summary>Scan ohne Markierung — Taufe 06.04.1815</summary>
+
+![Taufe 06.04.1815](1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015.jpg)
+
+</details>
+
+Ausschnitt (Kontrast):
+
+![Taufe 06.04.1815 Ausschnitt](1815-taufe-ausschnitt.jpg)
 
 ![Schwester Joaquina 1829 — Fundstellen](1829-casamento-schwester-joaquina-PT-ADLRA-PRQ-PANS08-002-0003_m0033-markiert.jpg)
 

@@ -56,10 +56,19 @@ Namens, nicht Erstgeburt. Ältere Geschwister widersprechen dem nicht.
   suchen. Wenn Herkunft leer bleibt: **Paten** aus denselben Akten
   (José Ramalho 1864/1875, Joaquim Ramalho 1871).
 
-Leal-Eltern als Paar, nicht ihre eigene Heirat: **1829** Castello schon
-verheiratet (Tochter Joaquina × Jose Dias); **1846** Tochter Maria
-Thereza × Antonio Levante Freire (er aus Alvorge). Sicher als genannte
-Eltern in diesen Akten.
+Leal-Eltern als Paar, nicht ihre eigene Heirat: **1815** schon Eltern
+(Taufe Angelica); **1829** Castello (Tochter Joaquina × Jose Dias);
+**1846** Tochter Maria Thereza × Antonio Levante Freire (er aus
+Alvorge). Sicher als genannte Eltern in diesen Akten.
+
+**Taufe Angelica 06.04.1815** Torre Castello
+([1815-taufe](../../akten/matta/angelica-maria/1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015.jpg)):
+filha legitima **Manoel Leal** × **Thereza Maria**. * etwa
+**28.03.1815**. Avós paterno **Manoel José** × **Roza Maria**
+(Vale de Todos); materno **José [João?] Casimiro** × **Anna Maria**
+(Castello) — Namensform Gegenlese. Identität mit der Braut 1838
+**wahrscheinlich** (Eltern + Castello, dann 22–23). Lindoso
+26.04.1816 = anderes Haus (Joaquina solteira).
 
 ## Wahrscheinlich / Kandidat (Gegenlese offen)
 
@@ -74,6 +83,8 @@ Eltern in diesen Akten.
 - Ihr Vater **Manoel Leal** — trifft Blatt-Leal (**sicher** in diesem Akt).
 - Orte Pregoza / Castello (**sicher**); er aus Lagarteira-Richtung
   (**wahrscheinlich**).
+- Identität mit der Taufe 06.04.1815: **wahrscheinlich** (Eltern +
+  Castello, Alter 22–23).
 - Identität mit den avós 1863/1871: **Kandidat / wahrscheinlich**
   (Vornamen + Leal + Castello).
 - **Dias steht nicht.** Zweitname über der Zeile: **Gomes** möglich —
@@ -114,6 +125,14 @@ Herkunft der Sippe (Ateanha).
 - Kirchenakt Joaquina um den 15.06.1873 (nicht das Geburtsdatum).
 - Joaquim Ramalho eigene Taufe/Heirat.
 - Ältere Ramalho (Carraçal / Lagarteira) — avós des Mannes 1838.
+  Lagarteira Casamentos 1778–1829 (`PANS05/002/0002`, 67 Bilder):
+  Eröffnungen und Zweitheiraten 1778–1816 (Carraçal und andere)
+  gelesen, **kein** isoliertes Paar Manoel Thomaz Ramalho ×
+  Angelina Thereza. Band nicht zeilenweise zu Ende. Nächstes:
+  Rest 1817–1829, älteres Buch 1735–1777, oder Taufe des
+  Bräutigams 1838 in Lagarteira.
+- Eigene Heirat Leal × Thereza: weiter nicht online (vor 1812;
+  physische Torre-Casamentos 1719–1813 nicht digital).
 - Palmira jetzt nicht.
 
 ## Was sich nicht vermengt

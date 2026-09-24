@@ -29,7 +29,7 @@ nicht in dieser Prüfung.
 | [Antonio Rodrigues Avelheiro](antonio-rodrigues-avelheiro/README.md) | 5.º avô; avô Manuel Matta 1872 | genannt im Akt | offen |
 | [Thereza de Jesus](thereza-de-jesus-matta/README.md) | 5.º avó; avó Manuel Matta 1872 | genannt im Akt | offen |
 | [Manuel Ramalho](manuel-ramalho/README.md) | avô materno Sebastião 1871; Heirat Feb. 1838 (21. oder 22., Gegenlese); 1843 José Kandidat | eigene Heirat (Kandidat) | offen |
-| [Angelica Maria](angelica-maria/README.md) | avó materna Sebastião 1871; 1838 filha de Manoel Leal | eigene Heirat (Kandidat) | offen |
+| [Angelica Maria](angelica-maria/README.md) | avó materna Sebastião 1871; Taufe 06.04.1815 Castello; 1838 filha de Manoel Leal | eigene Taufe + Heirat (Kandidat) | offen |
 | [Manoel Leal × Thereza](manoel-leal/README.md) | Eltern Angelicas; Castello 1829 | genannt in Kinder-Heiraten | offen |
 
 ---

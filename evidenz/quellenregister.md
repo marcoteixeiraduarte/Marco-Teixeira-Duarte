@@ -54,6 +54,7 @@ Nur Dateien, die im Git liegen. Weitere lokale Scans stehen in
 | TVT-BAP-1897-PAL | Taufe Palmyra, erste Tochter, 23.06.1897 Pragoza | `akten/matta/palmyra-1897/1897-baptismo-PT-ADLRA-PRQ-PANS08-001-0042_m0005.jpg` |
 | TVT-BAP-1898-23 | Taufe Casimiro, * 06.12.1898 / ~ 26.12.1898 Pragoza | `akten/matta/casimiro-1898/1898-baptismo-PT-ADLRA-PRQ-PANS08-001-0043_m0019.jpg` |
 | ALV-BAP-1841-PATE | Manoel Ramalho Pate 10.06.1841 Atianha (Kind Mendes) | `akten/matta/manuel-ramalho/1841-pate-ateanha-PT-ADLRA-PRQ-PANS01-001-0004_m0146.jpg` |
+| TVT-BAP-1815-ANG | Taufe Angelica ~ 06.04.1815 Castello, Manoel Leal × Thereza Maria | `akten/matta/angelica-maria/1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015.jpg` |
 | TVT-CAS-1829-LEAL | Consent/Heirat Joaquina Maria (Leal) × Jose Dias, Jan 1829 Castello | `akten/matta/manoel-leal/1829-consentimento-filha-joaquina-PT-ADLRA-PRQ-PANS08-002-0003_m0033.jpg` |
 | TVT-CAS-1838-RAM | Heirat Manoel Ramalho × Angelica M., Feb. 1838 (Lesungen 21. oder 22.); Vater der Braut Manoel Leal | `akten/matta/manuel-ramalho/1838-casamento-PT-ADLRA-PRQ-PANS08-002-0003_m0054.jpg` |
 | TVT-BAP-1841-JOSE-RAM | Taufe José primeiro * 15.08.1841, Manoel Thomaz × Angelica, Rua da Alom | `akten/matta/manuel-ramalho/1841-taufe-sohn-jose-primeiro-PANS08-001-0003_m0138.jpg` |

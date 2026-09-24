@@ -25,6 +25,7 @@ bleibt Blatt, auch wenn die Kirche ihn weglässt.
 | 3 | Pate **10.06.1841** Atianha | `akten/matta/manuel-ramalho/1841-pate-ateanha-…_m0146.jpg` | **Manoel Ramalho** Pate, Kind = Mendes | Derselbe Mann? |
 | 4 | Alvorge **m0159** (blass) | `akten/matta/maria-ramalha/gegenlese-kandidat-blass-PANS01-001-0004_m0159.jpg` (+ Kontrast) | zu blass, **kein** Fund | Siehst du Maria / Ramalho / Angelica? |
 | 5 | Alvorge **Juni 1873** | `akten/matta/joaquina-ramalha/1873-alvorge-juni-kein-eintrag-…_m0170`–`m0173.jpg` | kein Joaquina-Akt am 15.06. | Fenster 12.–21.06. wirklich leer? |
+| 6 | Taufe **Angelica ~ 06.04.1815** | `akten/matta/angelica-maria/1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015.jpg` plus Ausschnitt | Castello; Manoel Leal × Thereza Maria; * ~28.03.; avós Manoel José × Roza Maria / José [João?] Casimiro × Anna Maria | Namen, Datum, Avós. Lindoso 1816 ist **nicht** sie |
 
 DigitArq Heirat: `PT/ADLRA/PRQ/PANS08/002/0003`
 ([6230184fe7b24cf380e3231f32271ea9](https://digitarq.arquivos.pt/documentDetails/6230184fe7b24cf380e3231f32271ea9)).
@@ -124,17 +125,23 @@ Alvorge Taufen 1839–Anfang 1843 (Ateanha-Band) **ohne** Maria von
 Manoel Ramalho × Angelica. Torre `001/0003` bis **5.09.1842**
 ebenfalls ohne sie. Dafür die **Eltern Leal** selbst:
 
+- **06.04.1815** Castello: Taufe **Angelica**, filha de Manoel
+  Leal × Thereza Maria. Scan:
+  `akten/matta/angelica-maria/1815-taufe-PT-ADLRA-PRQ-PANS08-001-0003_m0015.jpg`.
 - 1829 Castello: Manoel Leal × Thereza schon verheiratet; Tochter
   Joaquina × Jose Dias.
 - 1838: Tochter Angelica × Manoel Ramalho (liegt).
 - 1846: Tochter Maria Thereza × Antonio Levante Freire **Alvorge**.
-- Eigene Heirat Leal × Thereza **nicht** 1812–1825. Nächstes Buch:
-  gemischt 1719–1813 `PANS08/002/0002`.
+- Eigene Heirat Leal × Thereza **nicht** 1812–1825. Online
+  `PANS08/002/0002` = Taufen, nicht die physischen Casamentos
+  1719–1813.
 
 José * **15.08.1841** Rua da Alom (Manoel Thomaz × Angelica, avós
 Leal) — erster José; * 02.06.1843 wahrscheinlich der zweite.
 
-Ältere Ramalho (Carraçal / Lagarteira) noch offen.
+Ältere Ramalho (Carraçal / Lagarteira) noch offen: Lagarteira
+Casamentos 1778–1816 ohne isoliertes Paar Thomaz Ramalho ×
+Angelina Thereza (Eröffnungen, nicht jede Zeile).
 Palmira jetzt nicht. Joaquinas Geschwister nicht neu suchen.
 
 ## Was bewusst nicht passiert

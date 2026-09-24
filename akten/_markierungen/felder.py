@@ -357,6 +357,19 @@ FELDER = {
         {"kind": "place", "label": "Alvorge / Vale de Todos", "box": [0.14, 0.30, 0.34, 0.08]},
         {"kind": "hinweis", "label": "Eintrag darunter = anderes Paar", "box": [0.02, 0.48, 0.46, 0.30]},
     ],
+    # Angelica * ~28.03.1815 / ~ 06.04.1815 Castello — links unten
+    "PANS08-001-0003_m0015": [
+        {"kind": "entry", "label": "Taufe Angelica ~ 06.04.1815", "box": [0.035, 0.535, 0.455, 0.445]},
+        {"kind": "place", "label": "Castello", "box": [0.035, 0.54, 0.09, 0.05]},
+        {"kind": "name", "label": "Angelica", "box": [0.035, 0.575, 0.10, 0.05]},
+        {"kind": "date", "label": "* ~28.03.1815  ~ 06.04.1815", "box": [0.14, 0.54, 0.34, 0.08]},
+        {"kind": "parents", "label": "Manoel Leal × Thereza Maria", "box": [0.14, 0.635, 0.34, 0.07]},
+        {"kind": "avos", "label": "Manoel José × Roza Maria, Vale de Todos", "box": [0.14, 0.70, 0.34, 0.055]},
+        {"kind": "avos", "label": "José [João?] Casimiro × Anna Maria, Castello", "box": [0.14, 0.755, 0.34, 0.055]},
+        {"kind": "paten", "label": "João Dias; Angelica Maria (Alvorge)", "box": [0.14, 0.81, 0.34, 0.07]},
+        {"kind": "hinweis", "label": "Eintrag darüber = Antonio, anderes Haus", "box": [0.035, 0.10, 0.45, 0.40]},
+        {"kind": "hinweis", "label": "rechte Seite = andere Taufen", "box": [0.52, 0.06, 0.46, 0.40]},
+    ],
     # José primeiro * 15.08.1841 / ~ 01.09.1841 — links unten, weiter rechts oben
     "PANS08-001-0003_m0138": [
         {"kind": "entry", "label": "José * 15.08.1841 beginnt", "box": [0.02, 0.68, 0.46, 0.30]},
