@@ -2,7 +2,10 @@
 
 Damit Desktop, App und Cloud dieselbe Mappe sehen.
 Standard ist der Rechner. Cloud nur als Ausnahme.
+Dieses Repo ist **öffentlich**. Was hier liegt, liegt im Netz.
+Der Server nicht — außer jemand pusht lokale Dateien.
 Rechner-Verbindung: [`06-geraete.md`](06-geraete.md).
+Privat: [`04-privat.md`](04-privat.md).
 
 ## Git ist die Mappe
 

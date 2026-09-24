@@ -1,11 +1,11 @@
 # Stand — Handoff Desktop ↔ App ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (ab jetzt Desktop).
-Basis: `master` bei `ba743b7` (PR #21 gemergt). **Neue Arbeit
-auf dem Rechner, nicht in der Cloud.** Nächster Agent: App →
-**My Machines** (Worker mit Remote dieses Repos) oder Desktop
-Agents Window. Cloud nur wenn der Mac aus ist. Diese
-Cloud-Sitzung nicht fortsetzen. Schritte:
+Letzte Aktualisierung: 2026-09-24 (Repo öffentlich, Server privat).
+Basis: `master` bei `ba743b7`. **Neue Arbeit auf dem Rechner.**
+GitHub ist öffentlich — Commit/Issue/PR sieht jeder. Der
+Server nicht, solange lokale Ordner nicht gepusht werden.
+Nächster Agent: App → **My Machines** oder Desktop. Cloud-Sitzung
+nicht fortsetzen. [`regeln/04-privat.md`](regeln/04-privat.md),
 [`regeln/06-geraete.md`](regeln/06-geraete.md).
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
@@ -58,6 +58,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-24 | Öffentliches Repo ändert nicht den Server. Lokal bleibt lokal bis zum Push. Keine Rechnerpfade ins Git. | #26 |
 | 2026-09-24 | Auftrag: in Zukunft auf dem Desktop. Cloud nicht mehr der Standard. Nächster Agent auf My Machines / Desktop. | #26 |
 | 2026-09-24 | Desktop und App: kein Pairing. Cloud sieht nur Git. Mac nur Remote Control oder My Machines im Checkout dieses Repos. Laufende Cloud-Sitzung nicht umhängen. | #26 |
 | 2026-09-24 | Ablage auf `master` (PR #21). Issues #19/#20 in GitHub noch offen. | #21 |

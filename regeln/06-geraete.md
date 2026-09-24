@@ -57,6 +57,16 @@ wählen, nicht Cloud.
 `00_Arbeitsordner/` bleibt lokal. Wer ihn braucht, muss den
 Rechner wählen — nicht Cloud.
 
+## Öffentliches Repo, privater Rechner
+
+GitHub ist öffentlich. Der Server wird dadurch nicht öffentlich.
+Cloud sieht nur den Clone. Desktop sieht den Checkout **und**
+benachbarte lokale Dateien.
+
+Push macht Dateien weltweit sichtbar. Lokal lesen ≠ veröffentlichen.
+Pfade und Rechnernamen nicht ins Repo schreiben.
+[`04-privat.md`](04-privat.md).
+
 ## Move to Cloud
 
 Nimmt die Unterhaltung, nicht uncommittete Dateien. Zuerst
