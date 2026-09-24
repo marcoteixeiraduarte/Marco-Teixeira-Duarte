@@ -1,5 +1,9 @@
 # 06 — Forschungsauftrag
 
+> **Wir bewahren das Gefundene und prüfen das Verbindende.**
+>
+> Forschung ergänzt den Bestand; sie ersetzt ihn nicht. Neues Wissen wird hinzugefügt, ohne vorhandene Personen, Scans, Lesungen, Gegenlesungen oder Kandidaten still zu verlieren. Oft wird der Wert eines Fundes erst durch eine spätere Verbindung sichtbar.
+
 Prüfauftrag vom Auftraggeber, 24.09.2026. Gilt für jeden
 Suchschritt in Chat und Cloud. Ergänzt [`05-suche.md`](05-suche.md);
 bei Widerspruch gilt diese Datei für den Ablauf, 05 für das
