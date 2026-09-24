@@ -11,7 +11,14 @@ aktuellen PR) liegt. Gespräche sind keine Ablage.
 3. [`regeln/`](regeln/README.md) — Methode, die wir anpassen können
 4. [`evidenz/suchen.md`](evidenz/suchen.md) — schon durchsuchte Fenster
 
-Nicht von vorn anfangen. Bekannte Fakten nicht neu suchen.
+Nicht von vorn anfangen. Bekannte Fakten nicht unnötig neu suchen.
+
+**Nicht neu suchen heißt nicht: nicht mehr prüfen.** Bereits bekannte Fakten und
+Zuordnungen dürfen und sollen gezielt gegen Primärquellen gegengeprüft werden,
+wenn eine Aussage noch unsicher ist, eine konkurrierende Lesung besteht, neue
+Evidenz auftaucht oder ein Widerspruch sichtbar wird. Eine Gegenprüfung ist als
+solche zu dokumentieren; sie darf weder eine bestehende Unsicherheit still
+beseitigen noch eine Person ohne zusätzlichen Beleg zusammenführen.
 
 ## Pflicht am Ende jeder Arbeit
 
