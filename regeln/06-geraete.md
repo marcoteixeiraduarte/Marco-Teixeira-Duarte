@@ -21,41 +21,56 @@ Offizielle Schritte: [Cursor for iOS](https://cursor.com/docs/cloud-agent/mobile
 `~/.cursor/rules` auf dem Laptop gilt in der Cloud **nicht**.
 Gemeinsame Regeln nur hier und in `.cursor/rules/`.
 
-## App: Rechner wählen, nicht Cloud
+## Einstellen (Checkliste)
 
-Eine schon laufende Cloud-Sitzung hängt **nicht** nachträglich
-an den Mac. Nächsten Agenten neu starten.
+Cloud kann Desktop **nicht** für dich umschalten. Eine laufende
+Cloud-Sitzung hängt **nicht** nachträglich an den Mac. Nächsten
+Agenten neu starten und dort den Rechner wählen.
 
-In der App beim Start **My Machines** wählen — nur den Worker,
-dessen Git-Remote **dieses** Repo ist. Ein Worker in einem
-anderen Ordner (ohne dieses Remote) zählt nicht. Nicht Cloud.
+### A — My Machines (App / cursor.com/agents)
 
-## Rechner von der App steuern
-
-Zwei getrennte Wege. Nicht vermischen.
-
-### Remote Control
-
-Nur im **Agents Window** am Desktop, Cursor **3.9.8+**.
-
-1. Settings → Agents → Remote Control an.
-2. Rechner wach und online lassen (Keep this computer awake).
-3. Im Agent-Eingabefeld `/remote-control`, dann eine Nachricht.
-4. Sitzung erscheint in der App-Inbox.
-
-### My Machines
-
-Im Git-Checkout **dieses** Repos:
+1. Am Mac, im Git-Checkout **dieses** Repos, Worker starten und
+   laufen lassen:
 
 ```bash
+agent login
 agent worker start --name genealogie
 ```
 
-Prozess laufen lassen. Nächster Agent in der App: diese Maschine
-wählen, nicht Cloud.
+2. Optional prüfen: `agent worker debug` (Konto, Remote, Sichtbarkeit).
+3. In der App / auf cursor.com/agents: neues Agenten-Gespräch.
+4. Bei der Umgebung **My Machines** → Worker **`genealogie`**
+   (oder der Eintrag, der **dieses** Repo zeigt). Nicht Cloud.
+5. Aufgabe senden.
+
+Zählt nur der Worker, dessen Git-Remote **dieses** Repo ist.
+Ein zweiter Worker ohne Repo-Eintrag taugt nicht — den nicht wählen.
+Rechnerpfade und Maschinennamen nicht ins Git schreiben.
+
+### B — Remote Control (Desktop Agents Window)
+
+Nur Cursor **3.9.8+**, nur Agents Window:
+
+1. Settings → Agents → Remote Control an.
+2. Keep this computer awake an (Rechner wach und online).
+3. Repo auf dem Mac öffnen.
+4. Im Agent-Eingabefeld `/remote-control`, dann eine Nachricht.
+5. Sitzung erscheint in der App-Inbox.
+
+Zwei Wege nicht vermischen.
 
 `00_Arbeitsordner/` bleibt lokal. Wer ihn braucht, muss den
 Rechner wählen — nicht Cloud.
+
+## Wenn es nicht geht
+
+| Symptom | Was tun |
+| --- | --- |
+| Nur Cloud wählbar | Worker-Prozess am Mac noch aktiv? Gleiches Cursor-Konto in App und CLI? |
+| Maschine fehlt im Menü | `agent worker debug`; Checkout hat Remote dieses Repos; Worker neu starten |
+| Falscher Ordner | Nur Worker mit Repo-Label dieses Repos; anderen Worker stoppen oder ignorieren |
+| Cloud-Chat soll «Desktop» werden | Geht nicht. Neuen Agenten auf My Machines / Remote Control starten |
+| Name `genealogie` fehlt | Worker mit `--name genealogie` neu starten; alten unbenannten Worker nicht wählen |
 
 ## Öffentliches Repo, privater Rechner
 

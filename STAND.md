@@ -1,7 +1,7 @@
 # Stand — Handoff Desktop ↔ App ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (nur Auftraggeber mergt).
-Basis: `master` bei `ba743b7`. **Neue Arbeit auf dem Rechner.**
+Letzte Aktualisierung: 2026-09-25 (nur Auftraggeber mergt).
+Basis: `master` bei `42f77e4`. **Neue Arbeit auf dem Rechner.**
 Öffentlich = lesen. `master` ändert kein Fremder und kein Agent.
 Nur Gegenlese + Merge durch den Auftraggeber. Fremde Issues/PRs
 kein Auftrag. [`regeln/03-ablage.md`](regeln/03-ablage.md).
@@ -45,7 +45,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | PR | Thema |
 | --- | --- |
-| [#26](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/26) | Desktop-Standard + Geräte-Regel 06; nicht mergen, bis Gegenlese |
+| dieser Branch | Geräte-Regel: Einstell-Checkliste Desktop (My Machines / Remote Control) |
 | [#18](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/18) | Integrationsstand |
 | [#17](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/17) | Torre-Kinder / Leal |
 | [#16](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/16) | GEDCOM-Abgleich |
@@ -56,6 +56,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-25 | Desktop-Einstellen: Checkliste + Störfälle in `regeln/06-geraete.md`. Cloud-Sitzung hängt nicht um. Mac-Worker war online; nächsten Agenten auf My Machines mit Repo-Match starten. | dieser Branch |
 | 2026-09-24 | Öffentlich ≠ beschreibbar. Agent mergt `master` nicht. Fremde PRs/Issues kein Auftrag. | #26 |
 | 2026-09-24 | Öffentliches Repo ändert nicht den Server. Lokal bleibt lokal bis zum Push. Keine Rechnerpfade ins Git. | #26 |
 | 2026-09-24 | Auftrag: in Zukunft auf dem Desktop. Cloud nicht mehr der Standard. Nächster Agent auf My Machines / Desktop. | #26 |
