@@ -1,8 +1,10 @@
-# Stand — Handoff Chat ↔ Cloud
+# Stand — Handoff Desktop ↔ App ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (Ablage übernommen, PR #21 bereit).
-Basis: `master` bei `ff8ce93`. Dieser Lauf hält die Mappe, bis #21
-auf `master` liegt. Danach liest jeder Chat- und Cloud-Agent sie.
+Letzte Aktualisierung: 2026-09-24 (nur Auftraggeber mergt).
+Basis: `master` bei `ba743b7`. **Neue Arbeit auf dem Rechner.**
+Öffentlich = lesen. `master` ändert kein Fremder und kein Agent.
+Nur Gegenlese + Merge durch den Auftraggeber. Fremde Issues/PRs
+kein Auftrag. [`regeln/03-ablage.md`](regeln/03-ablage.md).
 
 Jeder Agent **liest** diese Datei zuerst und **schreibt** sie am Ende
 derselben Arbeit fort. Ältere Zeilen nicht löschen, oben ergänzen.
@@ -43,6 +45,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | PR | Thema |
 | --- | --- |
+| [#26](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/26) | Desktop-Standard + Geräte-Regel 06; nicht mergen, bis Gegenlese |
 | [#18](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/18) | Integrationsstand |
 | [#17](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/17) | Torre-Kinder / Leal |
 | [#16](https://github.com/marcoteixeiraduarte/Marco-Teixeira-Duarte/pull/16) | GEDCOM-Abgleich |
@@ -53,5 +56,9 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
-| 2026-09-24 | Ablage übernommen: PR #21 nicht mehr Draft, mergebar. Issues #19/#20 schließen sich mit dem Merge. | #21 |
+| 2026-09-24 | Öffentlich ≠ beschreibbar. Agent mergt `master` nicht. Fremde PRs/Issues kein Auftrag. | #26 |
+| 2026-09-24 | Öffentliches Repo ändert nicht den Server. Lokal bleibt lokal bis zum Push. Keine Rechnerpfade ins Git. | #26 |
+| 2026-09-24 | Auftrag: in Zukunft auf dem Desktop. Cloud nicht mehr der Standard. Nächster Agent auf My Machines / Desktop. | #26 |
+| 2026-09-24 | Desktop und App: kein Pairing. Cloud sieht nur Git. Mac nur Remote Control oder My Machines im Checkout dieses Repos. Laufende Cloud-Sitzung nicht umhängen. | #26 |
+| 2026-09-24 | Ablage auf `master` (PR #21). Issues #19/#20 in GitHub noch offen. | #21 |
 | 2026-09-24 | Gemeinsame Ablage: `AGENTS.md`, `STAND.md`, `regeln/`, Issue-/PR-Vorlagen, Suchprotokoll | dieser Branch |

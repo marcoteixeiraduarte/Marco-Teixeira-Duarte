@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         Der Agent startet über `AGENTS.md` und `STAND.md`.
+        Neue Arbeit auf dem Desktop (My Machines), nicht in der Cloud.
         Kurz reicht. Ziel und «nicht tun» müssen klar sein.
   - type: textarea
     id: ziel
