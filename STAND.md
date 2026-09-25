@@ -1,6 +1,6 @@
 # Stand — Handoff Desktop ↔ App ↔ Cloud
 
-Letzte Aktualisierung: 2026-09-24 (nur Auftraggeber mergt).
+Letzte Aktualisierung: 2026-09-25 (nur Auftraggeber mergt).
 Basis: `master` bei `ba743b7`. **Neue Arbeit auf dem Rechner.**
 Öffentlich = lesen. `master` ändert kein Fremder und kein Agent.
 Nur Gegenlese + Merge durch den Auftraggeber. Fremde Issues/PRs
@@ -13,7 +13,7 @@ derselben Arbeit fort. Ältere Zeilen nicht löschen, oben ergänzen.
 
 | Prio | Aufgabe | Nicht tun |
 | --- | --- | --- |
-| 1 | AUC Coimbra, RCV Penela: Casamentos 1922 Nr. 94 (+ Processos Cx. 7/8) | nicht in den Pfarreibüchern Cumeeira nach dieser Heirat suchen |
+| 1 | AUC RCV Penela: Casamento 1922 Nr. 94 noch selbst lesen. Geburt José ist n.º 148 / 1914 | Taufbände 1893–1895 nicht noch einmal nach ihm durchsuchen |
 | 2 | Conservatória Ansião: zehn Fotos in `archiv/conservatoria-ansiao/` händisch lesen | keine OCR-Namen ins Blatt übernehmen |
 | 3 | Taufe Manoel Joaquim Sol, Avelar; Elternzeilen m0013 ohne Namensvorgabe | Antonio Simões × Maria Joaquina 1774 nicht als unsere Maria Joaquina |
 | 4 | AUC `PNL01` Casamentos: António Duarte × Thereza Freire; António Freire Bicho × Maria Ignácia | nicht an Torre/Narciza hängen |
@@ -26,7 +26,7 @@ Offene Liste ausführlich: [`ERKENNTNISSE.md`](ERKENNTNISSE.md) Abschnitt
 
 - Duarte-G2: Manuel × Joaquina Ignácia, Heirat 13.11.1907 Cumeeira
 - Manuel † 30.09.1962 Ansião (Blatt/Averbamento; 1964 war Regression)
-- José Freire Bicho: `Mesmos pais (irmãos)` gestrichen; Eltern über Heirat 1922 separat
+- José Freire Bicho: * 28.02.1894 Cabeça Redonda, Assento 01.07.1914 n.º 148. Eltern António Freire Bicho × Maria Inácia. Nicht noch einmal im Jahr 1894 suchen
 - José Pedro dos Reis * 24.11.1854; Eltern Manoel Pedro dos Reis × Roza Maria
 - Narciza Taufe 6.11.1856; Heirat 8.5.1878 als Narcisa da Conceição
 - Joze Maria da Ascenção * 25.04.1880 Valle de Todos (nicht Pragoza)
@@ -56,6 +56,7 @@ gemergt. Gegenlesen bleibt beim Auftraggeber.
 
 | Datum | Was | Wo |
 | --- | --- | --- |
+| 2026-09-25 | José Freire Bicho *28.02.1894, Assento 01.07.1914 n.º 148. Nicht im Taufjahr 1894. | dieser Branch |
 | 2026-09-24 | Öffentlich ≠ beschreibbar. Agent mergt `master` nicht. Fremde PRs/Issues kein Auftrag. | #26 |
 | 2026-09-24 | Öffentliches Repo ändert nicht den Server. Lokal bleibt lokal bis zum Push. Keine Rechnerpfade ins Git. | #26 |
 | 2026-09-24 | Auftrag: in Zukunft auf dem Desktop. Cloud nicht mehr der Standard. Nächster Agent auf My Machines / Desktop. | #26 |
