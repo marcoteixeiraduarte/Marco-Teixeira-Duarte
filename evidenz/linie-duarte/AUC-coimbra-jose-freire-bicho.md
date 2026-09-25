@@ -29,7 +29,9 @@ Quellen zum Bestand:
 3. Wohnort / natürliche Herkunft vor der Heirat  
 4. ggf. Verweis auf Tauf- oder Geburtsbuch → gezielte Zweitlese in `PNL01` oder Nachbarpfarrei  
 
-Ohne diesen Akt bleiben ~1894 und die Elternzuordnung **offen**.
+Die Geburt ist gelesen: Nascimentos 1914 n.º 148, *28.02.1894.
+Siehe [`nascimento-jose-freire-bicho-1894.md`](nascimento-jose-freire-bicho-1894.md).
+Der Casamento Nr. 94 bleibt als eigene Lesung offen.
 
 ## Schon erledigt am AUC (Pfarrei)
 

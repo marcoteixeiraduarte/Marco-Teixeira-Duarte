@@ -185,14 +185,13 @@ zulässig.
 
 #### José Freire Bicho
 
-Blatt: `~1894 · Cabeça Redonda`, Eltern **António Freire Bicho** ×
-**Maria Ignácia** (`Mesmos pais (irmãos)`).
+Blatt jetzt: `* 28.02.1894 · Cabeça Redonda`.
 
-`Mesmos pais (irmãos)` **streichen**. Die Eltern sind über die Heirat
-mit Margarida am **28.10.1922** separat belegt und dürfen nicht still
-mit Margaridas Eltern gleichgesetzt werden. Geburt und Ort `~1894`
-bleiben offen, bis der Zivilakt (AUC RCV Penela Nr. 94) bzw. die Taufe
-geprüft ist.
+Zivilakt Nascimentos Penela **1914** n.º **148** (Anzeige 01.07.1914):
+ehelicher Sohn von **António Freire Bicho** × **Maria Inácia**.
+Rand: Heirat mit Margarida de Jesus. `Mesmos pais (irmãos)` bleibt
+gestrichen — das sind nicht Margaridas Eltern. Taufe in den
+Pfarreibüchern weiter ohne Treffer in den Jahrgängen 1893–1895.
 
 #### Margarida de Jesus
 
@@ -217,7 +216,7 @@ frühere Jahr 1972 war die Verwechslung mit dem Eheauflösungs-Vermerk).
 | António Duarte × Thereza Freire | **passt** als Eltern Manuels (Taufe 1885, Heirat 1907) |
 | António Freire Bicho · ~1851 · Figueiras Podres | Name **passt** als Vater Joaquinas. `Figueiras Podres` bleibt am Ereignis; heute `Figueiras de S. João` (ein Ort). Die Taufen schreiben `Figueira Podra`. Jahr ~1851 offen |
 | Maria Ignácia | **passt** als Mutter Joaquinas (Taufe 1886, Heirat 1907) |
-| dieselben erneut als Eltern von José Freire Bicho | **nicht gesichert** (siehe oben) |
+| dieselben Namensformen als Eltern von José Freire Bicho | Assento 1914 n.º 148 nennt António Freire Bicho × Maria Inácia. Geschwisterschaft mit Joaquina ist damit nicht neu bewiesen |
 | Joaquim Freire Bicho × Genoveva de Jesus | **passt** als Eltern Margaridas (Taufe 1897) |
 
 ### 4.º avós (ramo paterno)

@@ -57,12 +57,12 @@ Ausgangspunkt: **Manuel Duarte × Joaquina Ignácia**, Heirat
 | Großeltern (genannt) | Manoel Duarte × Joaquina de Jesus; Manoel [Silva?] × Maria Freire; António Freire Bicho × Maria de Christo; Manuel Francisco Dias × Joaquina Maria | sicher genannt, eigene Akten offen | [G3](evidenz/linie-duarte/G3-eltern.md) |
 | Margarida | * 27.6.1897 Cabeça Redonda; † 29.11.1979 (Rand); Heirat 28.10.1922 mit José Freire Bicho | sicher (Geburt/Eltern); Randvermerke für Heirat/Tod | dasselbe |
 | Manuel † | **30.9.1962**, Ansião (Blatt und Averbamento); Sterbeakt ungeprüft | sicher im Datum laut Blatt/Averbamento | Heirat 1907 / Stammbaumblatt |
+| José Freire Bicho | * **28.02.1894** Cabeça Redonda; Eintrag **01.07.1914** n.º 148. Eltern António Freire Bicho × Maria Inácia. Nicht Margaridas Eltern | sicher im Assento | [Nascimento](evidenz/linie-duarte/nascimento-jose-freire-bicho-1894.md) |
 
 ### Ramo paterno – offen / korrigieren
 
 | Thema | Stand |
 | --- | --- |
-| José Freire Bicho ~1894, „Mesmos pais (irmãos)“ | **streichen**. Eltern über Heirat 1922 separat belegt; nicht mit Margaridas Eltern gleichsetzen. Geburt weiter offen |
 | Margarida Blatt `* 24.07.1897 · Santa Eufémia` | ersetzen durch `* 27.06.1897 · Cabeça Redonda` |
 | Manuel † | Blatt und Averbamento **30.09.1962 · Ansião** — frühere Lesung 1964 war Regression |
 | Figueiras Podres | **ein** Ort (mit **-s**); heute Figueiras de S. João; Taufen auch `Figueira Podra` |
@@ -119,7 +119,7 @@ Aus [`stammbaum/README.md`](stammbaum/README.md), verkürzt:
 4. Maria da Piedade † `16.01.1952`: Tages-/Monatszuordnung weiterhin nicht sicher
 5. Manuel Duarte † **30.09.1962 · Ansião** (Blatt = Averbamento; 1964 war Fehlregression)
 6. Margarida: `* 27.06.1897`, Cabeça Redonda; nicht `24.07.1897 · Santa Eufémia`
-7. José Freire Bicho: `Mesmos pais (irmãos)` streichen; Eltern über Heirat 1922 separat
+7. José Freire Bicho: Blatt `* 28.02.1894 · Cabeça Redonda`. `Mesmos pais (irmãos)` bleibt gestrichen (nicht Margaridas Eltern). Akte: Nascimentos 1914 n.º 148
 8. João Teixeira: Weiler **Cabeça Redonda** (nicht nur Cumeeira); Vater `Custodio`
 9. João Guiomar: `* 22.04.1874 · Rua d'Além`; Vater `Luiz Guiomar`
 10. Maria 1882: Taufname **Maria**, Ort **Valle do Pião** (LAR)
@@ -134,13 +134,20 @@ Kirchenbücher **Cumeeira** (São Sebastião, Penela) liegen schon im
 (`PT/AUC/PAR/PNL01`); Taufen/Heiraten bis 1911. Überblick:
 [tombo.pt/f/pnl01](https://tombo.pt/f/pnl01).
 
-Für **José Freire Bicho × Margarida** (Zivilakt Nr. 94 / 1922) nicht
-weiter in den Pfarreibüchern suchen, sondern im **Zivilfonds Penela**
-derselben Uni:
+**José Freire Bicho** ist gefunden: Nascimentos **1914** n.º **148**,
+Geburt **28.02.1894** Cabeça Redonda, Anzeige erst am **01.07.1914**.
+Blatt: [`nascimento-jose-freire-bicho-1894.md`](evidenz/linie-duarte/nascimento-jose-freire-bicho-1894.md).
+Die Taufbände 1893–1895 enthalten ihn nicht, weil der Zivilakt im
+Band des Eintragsjahres steht.
+
+Offen bleibt der Casamento **1922** n.º **94** als eigene Lesung
+(Alter, Wohnort) und eine Pfarreitaufe, falls sie außerhalb
+1893–1895 liegt.
 
 | Band / Einheit | Bestand | Hinweis |
 | --- | --- | --- |
-| Casamentos 1922 | `PT/AUC/RCV/PNL` | Eintrag Nr. 94 – Eltern und Geburt Josés |
+| Nascimentos 1914 n.º 148 | `PT/AUC/RCV/PNL/002/0004` | **gelesen** 2026-09-25 |
+| Casamentos 1922 | `PT/AUC/RCV/PNL` | Eintrag Nr. 94 – eigene Lesung noch offen |
 | Processos de casamento Cx. 7 | 1921–1922 | Begleitakte möglich |
 | Processos de casamento Cx. 8 | 1922–1923 | Begleitakte möglich |
 

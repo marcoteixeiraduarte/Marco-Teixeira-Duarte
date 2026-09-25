@@ -128,33 +128,22 @@ Francisco Dias zunächst **Joaquina Maria** als Großmutter und anschließend
 ältere Frau unter verschiedenen Namensformen oder mehrere Personen bezeichnen,
 bleibt ungeklärt; sie werden nicht zu einer Person zusammengeführt.
 
-## José Freire Bicho – Ehe belegt, Geburt und Abstammung ungeklärt
+## José Freire Bicho – Geburt im Zivilbuch 1914
 
 Margaridas Tauf-Randvermerk belegt ihre Heirat am **28. Oktober 1922** mit
-einem **José Freire Bicho**, Zivilstandsakt Nr. 94 in Cumeeira. Er enthält
-weder Josés Geburtsdatum noch Angaben zu seinen Eltern.
+einem **José Freire Bicho**, Zivilstandsakt Nr. 94 in Cumeeira.
 
-Bei der bisherigen Durchsicht der Taufjahrgänge **1893, 1894 und 1895** von
-Cumeeira sowie des Jahrgangs **1894** von São Domingos da Lagarteira wurde
-kein José als Sohn von António Freire Bicho und Maria Ignácia gefunden. Da
-für diese Negativsuche noch keine Band-Signaturen, geprüften Bildbereiche,
-Angaben zu möglichen Bestandslücken oder Einzelnachweise im Repository
-dokumentiert sind, ist dies ein vorläufiger Forschungsbefund und kein
-Ausschlussbeweis.
+Die Geburt steht nicht im Taufjahr. Assento de nascimento **n.º 148** im
+Band **1914** (`PT/AUC/RCV/PNL/002/0004`): geboren **28.02.1894** in
+Cabeça Redonda, angezeigt am **01.07.1914**. Eltern **António Freire
+Bicho** × **Maria Inácia**. Blatt:
+[`nascimento-jose-freire-bicho-1894.md`](../evidenz/linie-duarte/nascimento-jose-freire-bicho-1894.md).
 
-Den bisherigen, noch nicht mit einer Einzelquelle belegten Suchnotizen
-zufolge wurde 1894 in Lagarteira ein José gefunden, der am 28. Januar in
-Lagarteira de Baixo als unehelicher Sohn der Maria de Jesus geboren wurde;
-ein Randvermerk soll einen Tod um 1957 nennen. Bis Signatur und Scan ergänzt
-sind, bleibt dies ein unbestätigter Arbeitshinweis. Die abweichende Mutter und
-das mutmaßliche Todesjahr sprechen gegen diesen José als Margaridas Ehemann.
+Die Taufjahrgänge **1893–1895** Cumeeira und **1894** Lagarteira bleiben
+ohne diesen Sohn. Das ist kein Ausschluss einer Taufe in einem anderen
+Jahr. Es erklärt, warum die Suche am Geburtsjahr ihn nicht fand: der
+Akt liegt im Buch des Eintragsjahres.
 
-Das bisherige Geburtsjahr **1894** und die vermuteten Eltern dürfen daher
-nicht als gesichert in den Stammbaum übernommen werden. Vorrangig zu prüfen
-ist der zivile Heiratseintrag Nr. 94 von 1922 im **Arquivo da Universidade
-de Coimbra**, Fonds Conservatória do Registo Civil de Penela
-(`PT/AUC/RCV/PNL`): Band Casamentos **1922**, ergänzend Processos de
-casamento **Cx. 7** (1921–1922) und **Cx. 8** (1922–1923). Inventar:
-[tombo.pt/m/pnl](https://tombo.pt/m/pnl). Danach ggf. Nachbarpfarreien.
-Für jede Negativsuche Band, Bildbereich, mögliche Lücken, Prüfdatum und
-Ergebnis protokollieren.
+Ein José, 28. Januar, Lagarteira de Baixo, unehelicher Sohn der Maria
+de Jesus, ist ein anderer Mann. Offen bleibt die eigene Lesung des
+Casamento 1922 n.º 94 und der Processos Cx. 7/8.
