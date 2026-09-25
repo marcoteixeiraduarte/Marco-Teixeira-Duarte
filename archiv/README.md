@@ -96,13 +96,17 @@ Leer lassen, bis du sie selbst gelesen hast.
 
 Zehn Kamerabilder **5712×4284** in
 [conservatoria-ansiao/](conservatoria-ansiao/README.md).
-Noch **nicht** festgelesen: automatische Lesungen widersprechen sich,
-OCR versagt. Namen und Daten aus diesen Fotos stehen deshalb nicht
-im Stammbaum.
+Foto `01.jpg` ist händisch gelesen (Manuel Teixeira, 10.09.1913,
+Eltern und Großeltern; unsichere Lesungen markiert). Fotos `02`–`09`
+noch nicht festgelesen. Foto `10` ist das Deckblatt. Automatische
+Lesungen widersprechen sich, OCR versagt — deshalb keine Namen aus
+den ungelesenen Fotos in den Stammbaum.
 
 ## Nicht in diesem Archiv
 
 Lebende und die avós (Großeltern) bleiben beim Auftraggeber. Offene
-Suchen ohne Scan (Joaquina Ramalha, Maria José ~1884, José Freire
+Suchen ohne Scan (Joaquina Ramalha, José Freire
 Bicho, Anna † 1922) kommen erst in die Aktenordner, wenn ein Treffer
-festliegt. Die Conservatória-Fotokopien oben sind die Vorlage dafür.
+festliegt. Maria José dos Santos: Zivilakt des Sohnes 1913 ist Foto
+`01.jpg` (händisch gelesen: Manuel, Eltern, Großeltern). Die
+Conservatória-Fotokopien oben sind die Vorlage dafür.
