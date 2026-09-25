@@ -67,10 +67,16 @@ João
 
 Eltern **Luiz Guiomar** × **Delfina Maria** – **passen** (Blattform
 des Vaters `Luiz Dias Guiomar`; `Dias` steht 1874 beim Großvater
-**Antonio Dias Guiomar**). Blattort `Vale de Todos` ist die Pfarrei;
-der Weiler ist **Rua d'Além**. Tod: Randvermerk **8. Januar 1958**
-in Torre – **passt**. Heirat mit **Maria Helena** aus Lagarteira
-(Randvermerk; Tagesdatum nicht als einzige Form).
+**Antonio Dias Guiomar**). Luiz natürlich **Bemposta**, Alvorge;
+Delfina natürlich **lugar dos Lindos** dieser Pfarrei Torre
+(1874 und Heirat 1859; Ladeia gibt es, gehört zu Alvorge);
+`aqui recebidos` in Torre am **10.11.1859** (`Luiz Dias` ×
+`Delfina Maria`). Blattort `Vale de Todos` ist der Lugar;
+1874 Straße des Kindes **Rua d'Além**. Spätestens als Vater von
+**Maria Emília** (* 21.08.1915) **Barreira** (Grundstücksakten). Tod: Randvermerk
+**8. Januar 1958** in Torre – **passt**; Zivilakt Foto `07.jpg`
+**lugar da Vale de Todos**. Heirat mit **Maria Helena** aus
+Lagarteira (Randvermerk; Tagesdatum nicht als einzige Form).
 
 #### Maria Helena Guiomar · * 25.02.1882 · Pião
 
@@ -146,7 +152,7 @@ Offen. Eltern auf dem Blatt **Manuel Dias Ramalho** ×
 | --- | --- |
 | Custódio Teixeira × Joana de Jesus | **passen** als Eltern Joãos (Taufe 1879). Quellenform `Custodio`. Deren Eltern dort: **Jozé Simão Teixeira** × **Maria Forte** (Figueira Podra); **Joaquim de Carvalho** × **Maria de Jesus** (Cabeça Redonda) |
 | Pais de Maria José por confirmar | offen |
-| Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria** |
+| Luiz Dias Guiomar × Delfina Maria | **passen** als Eltern João (Taufe 1874). Quellenform `Luiz Guiomar`. Deren Eltern dort: **Antonio Dias Guiomar** × **Joaquina Maria**; **José Gregorio** × **Nazareth Maria**. Geni 2026: Delfina * 1902 ist unmöglich (Mutter eines Kindes von 1874); Antonio ist **Vater** Luizes, nicht Sohn; Manuel Dias Guiomar als Kind Luizes unbelegt |
 | Joaquim Rodrigues Feio × Maria Helena Contente | **passen** als Eltern Marias (Taufe 1882). Mutter dort nur **Maria Helena**. Deren Eltern: **Nicolau Rodrigues Feio** × **Maria de Jesus**; **Jozé Contente** × **Helena Maria** |
 | Pais de José Maria por confirmar | **ersetzen:** Taufe 1880 nennt **Joze Mendes Ferreira**. Dessen Eltern dort: **João Mendes Ferreira** × **Maria Ramos** |
 | Anna da Piedade · * 15.06.1845 · † 1922 | Taufe 14.7.1845: **Anna**, `* 15.06.1845 · Valle de todos`. `da Piedade` steht erst 1880 beim Sohn. Eltern **Manoel Dias Barbeiro** × **Joaquina Maria**. `† 1922` nicht in jener Taufe |

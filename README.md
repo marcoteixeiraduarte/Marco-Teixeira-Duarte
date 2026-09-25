@@ -49,6 +49,7 @@ Torre de Vale de Todos.
 | `Torre` / `Torre de Vale de Todos` | bereits geprüfte Narciza-/Caetana-Einträge; heutige Form daneben |
 | `São Jorge` / `S. Jorge` | Taufe Manuel, 1.8.1872, Rand und Fließtext `logar de São Jorge` dieser Pfarrei; Heirat João Roiz Gato, 16.11.1837 |
 | `Rua d'Além` | Taufe João, 10.5.1874, Torre; Paten Manuel 1872 |
+| `Rua da Barreira` / `R BARREIRA` | João und Maria Emília (Grundstücksakten); Lugar Vale de Todos, CartTop 017164 wie `R ALEM`. Nicht Pousaflores-Barreira (017100) |
 
 `São Jorge` ist **kein** eigener ferner Weiler und keine fremde Pfarrei.
 Lokal ist es die kleine Kapelle im Weiler Vale de Todos (Auftraggeber).
@@ -167,7 +168,8 @@ Custodio × Joana bleibt Cabeça Redonda / Figueira Podra / Cumeeira.
 | --- | --- |
 | `Atanha`, Pfarrei `Alvorge` | Herkunft Joze Mendes Ferreiras, Taufe 1880 |
 | `Alvorge` | Sterbevermerk Joze Maria da Ascenção, 1948, an der Taufe der Ehefrau |
-| `Bemposta`, Pfarrei `Alvorge` | Herkunft Luiz Guiomars, Taufe João 1874 |
+| `Bemposta`, Pfarrei `Alvorge` | Herkunft Luiz Guiomars, Taufe João 1874; Suchkern Dias Guiomar |
+| `lugar dos Lindos`, Pfarrei Torre | Weiler in Torre de Vale de Todos. Herkunft Delfina Maria 1859/1874; CartTop `R LINDOS`. Nicht Stadt Leiria, nicht Lindoso (Norden). |
 
 ### VALLE DO PIÃO / Pião / LAGARTEIRA (LAR)
 
