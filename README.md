@@ -116,26 +116,33 @@ Quellenform der **Paten** an der Taufe João, 22.10.1879, Cumeeira:
 | Joana de Jesus (Mutter) | natürlich und wohnhaft Cabeça Redonda |
 | João da Cruz × Tochter Maria da Conceição (Paten) | `Sarrazina`, Pfarrei São Cosme |
 
-**Sarzedela** liegt geografisch in derselben heutigen Freguesia
-Ansião wie Figueiras de São João und Torre de Vale de Todos (OSM
-39.928/−8.444, PLZ 3240-207; 1527 als `Cervedela`, lugar der aldeia
-de Ansião). Das macht den Verdacht plausibel. Die Gleichsetzung
-hängt aber an der Handschrift.
+**Sarzedela** (Kartenform; mündlich auch `Sarzdela`) **gibt es**:
+Weiler der Pfarrei **Ansião**, CartTop-Locality **017053**, OSM
+39.928 N, 8.444 W, PLZ 3240-207. 1527 als `Cervedela`. Rund **3,5 km**
+westlich von Cabeça Redonda / Figueiras de São João. Kapelle vor Ort:
+**São João Baptista** (älter Espírito Santo / São Silvestre) — nicht
+São Cosme.
 
-Auf dem vorliegenden Scan (`PNL01-002-0024_m0016`, 1402×1000,
-höchste öffentliche AUC-Ableitung; siehe [archiv/](archiv/README.md)) bleibt
-die sicherere Lesung `Sarrazina` … `São Cosme`. `Sarzedela` bräuchte
-ein klares `d` und `l`; die Pfarrei von Sarzedela 1879 ist **Ansião**
-(PANS02, Orago Nossa Senhora da Conceição), nicht São Cosme. Beides
-ist hier nicht gesichert. Deshalb wird Sarzedela **nicht** als
-gelesen gesetzt.
+Das macht den Verdacht geografisch plausibel. **Gleichsetzen mit der
+Aktform `Sarrazina` tun wir nicht.** Am Scan `m0016` bricht das Wort
+in der Patenzeile als `Sarra-` / `zina`. Das Endstück **-zina** ist
+Sarrazina/Serrazina, nicht Sarzedela (**-dela**). `Sarzedela` bräuchte
+ein klares `d` und `l`. Die Pfarrei von Sarzedela 1879 ist **Ansião**
+(PANS02, Orago Nossa Senhora da Conceição), nicht São Cosme.
+
+Nicht tauschen mit **Sarzeda** (Pousaflores, CartTop **017121**,
+~6–7 km südlich) — anderer Weiler, andere Pfarrei.
+
+Gewissheit: Sarzedela als Patenort **Kandidat** (Lage); als gelesene
+Form **nicht**. Quellenform bleibt `Sarrazina`, Pfarrei São Cosme.
 
 In der Nähe von Cumeeira / Ansião gibt es **keine** Pfarrei São Cosme
 (nicht in Penela, Ansião, Condeixa, Miranda do Corvo, Soure, LAR).
 
 | Kandidat | ungefähre Lage | Passt zum Patenort? |
 | --- | --- | --- |
-| **Sarzedela**, Freguesia Ansião | 5–8 km, Nachbar von Figueiras de S. João | Lage ja; Pfarrei 1879 ist Ansião (N.S. da Conceição), nicht São Cosme |
+| **Sarzedela**, Pfarrei Ansião | ~3,5 km westlich Cabeça Redonda; CartTop 017053 | Lage ja; Akt bricht `Sarra-`/`zina`; Pfarrei Ansião, Kapelle São João, nicht São Cosme |
+| **Sarzeda**, Pfarrei Pousaflores | ~6–7 km; CartTop 017121 | anderer Weiler, nicht Sarzedela |
 | **Serrazina**, Pfarrei Ega (Condeixa) | ~20 km westlich | Ortsname nah an `Sarrazina`; Orago N.S. da Graça, nicht São Cosme |
 | **Póvoa de São Cosme**, Ervedal (Oliveira do Hospital) | ~70 km nordöstlich | einziger São-Cosme-Ort im Distrikt Coimbra; Pfarrei ist Ervedal, kein `Sarrazina` dort |
 | Nabais / Aldeias (São Cosme), Gouveia | ~90 km | echte Pfarreien São Cosme, aber außerhalb des üblichen Radius und ohne Sarzedela |
